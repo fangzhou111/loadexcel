@@ -1,0 +1,301 @@
+{
+  "TavernEquipmentLoop": [
+    {
+      "time": 1,
+      "type": 2,
+      "item_type1": 2,
+      "item_id1": 11,
+      "item_num1": 1,
+      "item_type2": 0,
+      "item_id2": 0,
+      "item_num2": 0,
+      "unlock": 0
+    },
+    {
+      "time": 2,
+      "type": 2,
+      "item_type1": 2,
+      "item_id1": 11,
+      "item_num1": 1,
+      "item_type2": 0,
+      "item_id2": 0,
+      "item_num2": 0,
+      "unlock": 0
+    },
+    {
+      "time": 3,
+      "type": 2,
+      "item_type1": 2,
+      "item_id1": 13,
+      "item_num1": 1,
+      "item_type2": 0,
+      "item_id2": 0,
+      "item_num2": 0,
+      "unlock": 0
+    },
+    {
+      "time": 4,
+      "type": 2,
+      "item_type1": 2,
+      "item_id1": 11,
+      "item_num1": 1,
+      "item_type2": 0,
+      "item_id2": 0,
+      "item_num2": 0,
+      "unlock": 0
+    },
+    {
+      "time": 5,
+      "type": 2,
+      "item_type1": 2,
+      "item_id1": 11,
+      "item_num1": 1,
+      "item_type2": 0,
+      "item_id2": 0,
+      "item_num2": 0,
+      "unlock": 0
+    },
+    {
+      "time": 6,
+      "type": 2,
+      "item_type1": 2,
+      "item_id1": 12,
+      "item_num1": 1,
+      "item_type2": 0,
+      "item_id2": 0,
+      "item_num2": 0,
+      "unlock": 0
+    },
+    {
+      "time": 7,
+      "type": 2,
+      "item_type1": 2,
+      "item_id1": 11,
+      "item_num1": 1,
+      "item_type2": 0,
+      "item_id2": 0,
+      "item_num2": 0,
+      "unlock": 0
+    },
+    {
+      "time": 8,
+      "type": 2,
+      "item_type1": 2,
+      "item_id1": 14,
+      "item_num1": 1,
+      "item_type2": 0,
+      "item_id2": 0,
+      "item_num2": 0,
+      "unlock": 0
+    },
+    {
+      "time": 9,
+      "type": 2,
+      "item_type1": 2,
+      "item_id1": 11,
+      "item_num1": 1,
+      "item_type2": 0,
+      "item_id2": 0,
+      "item_num2": 0,
+      "unlock": 0
+    },
+    {
+      "time": 10,
+      "type": 2,
+      "item_type1": 2,
+      "item_id1": 11,
+      "item_num1": 1,
+      "item_type2": 0,
+      "item_id2": 0,
+      "item_num2": 0,
+      "unlock": 0
+    },
+    {
+      "time": 11,
+      "type": 2,
+      "item_type1": 2,
+      "item_id1": 12,
+      "item_num1": 1,
+      "item_type2": 0,
+      "item_id2": 0,
+      "item_num2": 0,
+      "unlock": 0
+    },
+    {
+      "time": 12,
+      "type": 2,
+      "item_type1": 2,
+      "item_id1": 11,
+      "item_num1": 1,
+      "item_type2": 0,
+      "item_id2": 0,
+      "item_num2": 0,
+      "unlock": 0
+    },
+    {
+      "time": 13,
+      "type": 2,
+      "item_type1": 2,
+      "item_id1": 13,
+      "item_num1": 1,
+      "item_type2": 0,
+      "item_id2": 0,
+      "item_num2": 0,
+      "unlock": 0
+    },
+    {
+      "time": 14,
+      "type": 2,
+      "item_type1": 2,
+      "item_id1": 11,
+      "item_num1": 1,
+      "item_type2": 0,
+      "item_id2": 0,
+      "item_num2": 0,
+      "unlock": 0
+    },
+    {
+      "time": 15,
+      "type": 2,
+      "item_type1": 2,
+      "item_id1": 11,
+      "item_num1": 1,
+      "item_type2": 0,
+      "item_id2": 0,
+      "item_num2": 0,
+      "unlock": 0
+    },
+    {
+      "time": 16,
+      "type": 2,
+      "item_type1": 2,
+      "item_id1": 12,
+      "item_num1": 1,
+      "item_type2": 0,
+      "item_id2": 0,
+      "item_num2": 0,
+      "unlock": 0
+    },
+    {
+      "time": 17,
+      "type": 2,
+      "item_type1": 2,
+      "item_id1": 11,
+      "item_num1": 1,
+      "item_type2": 0,
+      "item_id2": 0,
+      "item_num2": 0,
+      "unlock": 0
+    },
+    {
+      "time": 18,
+      "type": 2,
+      "item_type1": 2,
+      "item_id1": 13,
+      "item_num1": 1,
+      "item_type2": 0,
+      "item_id2": 0,
+      "item_num2": 0,
+      "unlock": 0
+    },
+    {
+      "time": 19,
+      "type": 2,
+      "item_type1": 2,
+      "item_id1": 11,
+      "item_num1": 1,
+      "item_type2": 0,
+      "item_id2": 0,
+      "item_num2": 0,
+      "unlock": 0
+    },
+    {
+      "time": 20,
+      "type": 2,
+      "item_type1": 2,
+      "item_id1": 11,
+      "item_num1": 1,
+      "item_type2": 0,
+      "item_id2": 0,
+      "item_num2": 0,
+      "unlock": 0
+    },
+    {
+      "time": 21,
+      "type": 2,
+      "item_type1": 2,
+      "item_id1": 12,
+      "item_num1": 1,
+      "item_type2": 0,
+      "item_id2": 0,
+      "item_num2": 0,
+      "unlock": 0
+    },
+    {
+      "time": 22,
+      "type": 2,
+      "item_type1": 2,
+      "item_id1": 11,
+      "item_num1": 1,
+      "item_type2": 0,
+      "item_id2": 0,
+      "item_num2": 0,
+      "unlock": 0
+    },
+    {
+      "time": 23,
+      "type": 2,
+      "item_type1": 2,
+      "item_id1": 14,
+      "item_num1": 1,
+      "item_type2": 0,
+      "item_id2": 0,
+      "item_num2": 0,
+      "unlock": 0
+    },
+    {
+      "time": 24,
+      "type": 2,
+      "item_type1": 2,
+      "item_id1": 11,
+      "item_num1": 1,
+      "item_type2": 0,
+      "item_id2": 0,
+      "item_num2": 0,
+      "unlock": 0
+    },
+    {
+      "time": 25,
+      "type": 2,
+      "item_type1": 2,
+      "item_id1": 11,
+      "item_num1": 1,
+      "item_type2": 0,
+      "item_id2": 0,
+      "item_num2": 0,
+      "unlock": 0
+    },
+    {
+      "time": 26,
+      "type": 2,
+      "item_type1": 2,
+      "item_id1": 12,
+      "item_num1": 1,
+      "item_type2": 0,
+      "item_id2": 0,
+      "item_num2": 0,
+      "unlock": 0
+    },
+    {
+      "time": 27,
+      "type": 2,
+      "item_type1": 2,
+      "item_id1": 11,
+      "item_num1": 1,
+      "item_type2": 0,
+      "item_id2": 0,
+      "item_num2": 0,
+      "unlock": 0
+    }
+  ]
+}

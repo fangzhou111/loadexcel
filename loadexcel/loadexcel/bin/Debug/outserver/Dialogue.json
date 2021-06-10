@@ -1,0 +1,3588 @@
+{
+  "Dialogue": [
+    {
+      "ID": 100000,
+      "index": 1,
+      "Model": "emodan",
+      "Name": "一粒蛋",
+      "Side": 2,
+      "Dialogue": "看吧！这强大的恶魔之力，你绝对无法抵挡！"
+    },
+    {
+      "ID": 100000,
+      "index": 2,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "过度使用毁灭的力量最终只能毁灭自己，我并不怕你。"
+    },
+    {
+      "ID": 100000,
+      "index": 3,
+      "Model": "emodan",
+      "Name": "一粒蛋",
+      "Side": 2,
+      "Dialogue": "你这是！！自！……寻！……死！……路！"
+    },
+    {
+      "ID": 100001,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "咳咳……好厉害。恶魔之力让他变得如此强大。我无法击败他。"
+    },
+    {
+      "ID": 100001,
+      "index": 2,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "难道，我真的只能止步于此，无法阻止魔王降临了吗？"
+    },
+    {
+      "ID": 100001,
+      "index": 3,
+      "Model": "niutouren",
+      "Name": "血蹄",
+      "Side": 2,
+      "Dialogue": "不要害怕，我们来帮你对抗堕落者。"
+    },
+    {
+      "ID": 100001,
+      "index": 4,
+      "Model": "fuding",
+      "Name": "老弗丁",
+      "Side": 2,
+      "Dialogue": "以圣光的名义，滚回你们的老巢去，恶魔！"
+    },
+    {
+      "ID": 100002,
+      "index": 1,
+      "Model": "emodan",
+      "Name": "一粒蛋",
+      "Side": 2,
+      "Dialogue": "这不可能！我……居然会输给你们？"
+    },
+    {
+      "ID": 100002,
+      "index": 2,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "投降吧！正义的力量你是无法阻挡的。"
+    },
+    {
+      "ID": 100002,
+      "index": 3,
+      "Model": "emodan",
+      "Name": "一粒蛋",
+      "Side": 2,
+      "Dialogue": "哈哈哈，你们这些蠢货。咳……咳咳……我，不过是个守护者，而这末日的仪式已经快要完成了。"
+    },
+    {
+      "ID": 100002,
+      "index": 4,
+      "Model": "emodan",
+      "Name": "一粒蛋",
+      "Side": 2,
+      "Dialogue": "主人！接受我的献祭，降临到大地上吧！"
+    },
+    {
+      "ID": 100003,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "不好，魔王的召唤仪式已经进行到了尾声，我要阻止这一切！"
+    },
+    {
+      "ID": 100003,
+      "index": 2,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "快让开！魔王绝对不能降临到这个世界！"
+    },
+    {
+      "ID": 100003,
+      "index": 3,
+      "Model": "yilidan",
+      "Name": "少年一粒蛋",
+      "Side": 2,
+      "Dialogue": "休想！主人的伟大降世绝对不会被人干扰，任何与主人为敌的人都要死！"
+    },
+    {
+      "ID": 100004,
+      "index": 1,
+      "Model": "jierjiadan_duibai",
+      "Name": "鸡蛋魔王",
+      "Side": 2,
+      "Dialogue": "哈哈哈哈！我，世界的征服者，毁灭者！终于降临这个世界了！"
+    },
+    {
+      "ID": 100004,
+      "index": 2,
+      "Model": "jierjiadan_duibai",
+      "Name": "鸡蛋魔王",
+      "Side": 2,
+      "Dialogue": "承受永恒的折磨，毁灭的命运吧！！你们这些渺小的蛆虫！"
+    },
+    {
+      "ID": 100005,
+      "index": 1,
+      "Model": "yilidan",
+      "Name": "少年一粒蛋",
+      "Side": 2,
+      "Dialogue": "咳咳……好强大的力量。但是，这是打不倒我的！"
+    },
+    {
+      "ID": 100005,
+      "index": 2,
+      "Model": "yilidan",
+      "Name": "少年一粒蛋",
+      "Side": 2,
+      "Dialogue": "军团的毁灭之力你们无法想象，来吧，感受下我体内的恶魔之力！"
+    },
+    {
+      "ID": 200000,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "大巫妖？没想到暗影密会里有这种法力强大的怪物。"
+    },
+    {
+      "ID": 200000,
+      "index": 2,
+      "Model": "keersujiade",
+      "Name": "大巫妖",
+      "Side": 2,
+      "Dialogue": "孱弱的凡人，凭你也想和暗影密会为敌吗？"
+    },
+    {
+      "ID": 200000,
+      "index": 3,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "不管你有什么阴谋，我都要阻止你。"
+    },
+    {
+      "ID": 200000,
+      "index": 4,
+      "Model": "keersujiade",
+      "Name": "大巫妖",
+      "Side": 2,
+      "Dialogue": "愚蠢的生者，你以为你能阻止死亡的降临？现在就让你见识下寒冷的死亡。"
+    },
+    {
+      "ID": 200001,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "不好，我的伙伴已经倒下了！"
+    },
+    {
+      "ID": 200001,
+      "index": 2,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "只凭我，完全不是它的对手。怎么办？"
+    },
+    {
+      "ID": 200001,
+      "index": 3,
+      "Model": "keersujiade",
+      "Name": "大巫妖",
+      "Side": 2,
+      "Dialogue": "现在后悔已经来不及了，凡人。有了泰坦圣物，我的力量无穷无尽。"
+    },
+    {
+      "ID": 200001,
+      "index": 4,
+      "Model": "keersujiade",
+      "Name": "大巫妖",
+      "Side": 2,
+      "Dialogue": "现在，在永恒的冰冻里死亡吧。哈哈哈哈"
+    },
+    {
+      "ID": 200002,
+      "index": 1,
+      "Model": "gounan",
+      "Name": "狗男",
+      "Side": 2,
+      "Dialogue": "别怕，我来帮你！"
+    },
+    {
+      "ID": 200002,
+      "index": 2,
+      "Model": "gounv",
+      "Name": "狗女",
+      "Side": 2,
+      "Dialogue": "你的阴谋今天是无法得逞的，巫妖。"
+    },
+    {
+      "ID": 200003,
+      "index": 1,
+      "Model": "guerdan",
+      "Name": "古二蛋",
+      "Side": 2,
+      "Dialogue": "挺厉害的嘛，小朋友，居然能伤到我。"
+    },
+    {
+      "ID": 200003,
+      "index": 2,
+      "Model": "guerdan",
+      "Name": "古二蛋",
+      "Side": 2,
+      "Dialogue": "但是，就这个程度，是无法抓到我的！军团强大的仆从会让你知道，什么叫真正的力量。"
+    },
+    {
+      "ID": 200003,
+      "index": 3,
+      "Model": "guerdan",
+      "Name": "古二蛋",
+      "Side": 2,
+      "Dialogue": "出来吧，强大的魔能地狱火！消灭我的敌人！"
+    },
+    {
+      "ID": 200004,
+      "index": 1,
+      "Model": "niutouren",
+      "Name": "血蹄",
+      "Side": 2,
+      "Dialogue": "我们牛头人不会允许你们破坏这个世界的，邪兽人。"
+    },
+    {
+      "ID": 200004,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "见证元素的愤怒吧，军团的走狗。"
+    },
+    {
+      "ID": 200005,
+      "index": 1,
+      "Model": "bowaer",
+      "Name": "伯爷",
+      "Side": 2,
+      "Dialogue": "恶魔，我是不会让你逃走的！把泰坦圣物交出来！"
+    },
+    {
+      "ID": 200005,
+      "index": 2,
+      "Model": "lingzhu",
+      "Name": "肥玛瑟",
+      "Side": 2,
+      "Dialogue": "哈哈哈哈，愚蠢的凡人。想要圣物？就自己来拿。"
+    },
+    {
+      "ID": 200005,
+      "index": 3,
+      "Model": "lingzhu",
+      "Name": "肥玛瑟",
+      "Side": 2,
+      "Dialogue": "但是，在这之前，你们两都要死。"
+    },
+    {
+      "ID": 200006,
+      "index": 1,
+      "Model": "bowaer",
+      "Name": "伯爷",
+      "Side": 2,
+      "Dialogue": "好厉害的恶魔，军团的高阶督军果然很难对付。"
+    },
+    {
+      "ID": 200006,
+      "index": 2,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "不要怕，我会用我的寒冰法术牵制住它！"
+    },
+    {
+      "ID": 200006,
+      "index": 3,
+      "Model": "lingzhu",
+      "Name": "肥玛瑟",
+      "Side": 2,
+      "Dialogue": "哈！就凭你的三脚猫法术？那就来试试吧！"
+    },
+    {
+      "ID": 200007,
+      "index": 1,
+      "Model": "gounan",
+      "Name": "狗男",
+      "Side": 2,
+      "Dialogue": "！！这里为什么有这么大的乌龟？？"
+    },
+    {
+      "ID": 200007,
+      "index": 2,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "这个洞窟里充满了邪恶的黑暗力量，让这些乌龟变得巨大，充满了攻击性。"
+    },
+    {
+      "ID": 200007,
+      "index": 3,
+      "Model": "gounan",
+      "Name": "狗男",
+      "Side": 2,
+      "Dialogue": "当心！它们注意到了我们，冲过来了！"
+    },
+    {
+      "ID": 200008,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "这不是崇尚和平的德鲁伊教徒吗？怎么会出现在这里？"
+    },
+    {
+      "ID": 200008,
+      "index": 2,
+      "Model": "hamiuer",
+      "Name": "符文图腾",
+      "Side": 2,
+      "Dialogue": "邪教徒，你们不配进入这里！闯入这里的都要死！"
+    },
+    {
+      "ID": 200008,
+      "index": 3,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "不好，他已经被泰坦碎片力量控制，敌我不分了。我们必须制服他。"
+    },
+    {
+      "ID": 200009,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "死亡使者！你这个暗影密会的走狗，是你在这里散播腐蚀吗？"
+    },
+    {
+      "ID": 200009,
+      "index": 2,
+      "Model": "salufaer",
+      "Name": "死亡使者",
+      "Side": 2,
+      "Dialogue": "哦呵呵呵，你们这些不自量力的家伙。邪能给了我不死的身躯，你们是打不倒我的。"
+    },
+    {
+      "ID": 200009,
+      "index": 3,
+      "Model": "luokehan",
+      "Name": "巨魔汗",
+      "Side": 2,
+      "Dialogue": "是吗！那我想看看，你的身躯能不能抵挡我的利箭。"
+    },
+    {
+      "ID": 200009,
+      "index": 4,
+      "Model": "leikesa",
+      "Name": "雷萨",
+      "Side": 2,
+      "Dialogue": "再加上我的斧子！"
+    },
+    {
+      "ID": 200010,
+      "index": 1,
+      "Model": "kongjumowang",
+      "Name": "玛萨斯",
+      "Side": 2,
+      "Dialogue": "你们居然敢追到这里来，凡人们，你们对力量一无所知。"
+    },
+    {
+      "ID": 200010,
+      "index": 2,
+      "Model": "fuding",
+      "Name": "老弗丁",
+      "Side": 2,
+      "Dialogue": "休想借着泰坦圣物的力量作恶，恶魔，圣光会惩罚你的。"
+    },
+    {
+      "ID": 200010,
+      "index": 3,
+      "Model": "kongjumowang",
+      "Name": "玛萨斯",
+      "Side": 2,
+      "Dialogue": "那就让你们看看，强大的魔能是不可阻挡的。"
+    },
+    {
+      "ID": 200010,
+      "index": 4,
+      "Model": "airenzs",
+      "Name": "铜须",
+      "Side": 2,
+      "Dialogue": "我会让你领教下我的锤子！"
+    },
+    {
+      "ID": 90001,
+      "index": 1,
+      "Model": "2",
+      "Name": "竞技之王",
+      "Side": 2,
+      "Dialogue": "午餐时间到！加个荷包蛋，增加60点体力。"
+    },
+    {
+      "ID": 90002,
+      "index": 1,
+      "Model": "2",
+      "Name": "竞技之王",
+      "Side": 2,
+      "Dialogue": "晚餐时间到！给你加个鸡腿，增加60点体力。"
+    },
+    {
+      "ID": 90003,
+      "index": 1,
+      "Model": "3",
+      "Name": "第一会长",
+      "Side": 2,
+      "Dialogue": "夜宵时间到！给你来份牛排，增加60点体力。"
+    },
+    {
+      "ID": 10000,
+      "index": 1,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "太好了！你终于清醒过来啦。"
+    },
+    {
+      "ID": 10000,
+      "index": 2,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "头好晕，我在哪儿？"
+    },
+    {
+      "ID": 10000,
+      "index": 3,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "你现在在一个安全的地方，快来找我吧。我们有事情要干了。"
+    },
+    {
+      "ID": 20000,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "唔，刚做了一个奇怪的梦，现在头还晕晕的。"
+    },
+    {
+      "ID": 20000,
+      "index": 2,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "哎呀，你最近灭团灭的那么多，有点头晕很正常的啦。"
+    },
+    {
+      "ID": 20000,
+      "index": 3,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "……你这样子聊天很容易把天聊死的知道吗？"
+    },
+    {
+      "ID": 20000,
+      "index": 4,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "呵呵呵呵~~好啦，不和你开玩笑了。"
+    },
+    {
+      "ID": 20000,
+      "index": 5,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "希女王正在等着你，她正在找你。"
+    },
+    {
+      "ID": 20001,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "找我有什么事？大王？"
+    },
+    {
+      "ID": 20001,
+      "index": 2,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "不要叫我大王！叫我女王大人！"
+    },
+    {
+      "ID": 10002,
+      "index": 1,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "咱们还是说正事儿吧。暗影密会的人拿着泰坦留下的圣物碎片，正在秘密进行活动。"
+    },
+    {
+      "ID": 10002,
+      "index": 2,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "追上他们，去查探下他们到底想干什么。"
+    },
+    {
+      "ID": 20002,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "我追到暗影密会的的那些家伙们。但是被他们溜掉了。"
+    },
+    {
+      "ID": 20002,
+      "index": 2,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "哼，果然不能单纯的指望你呢。"
+    },
+    {
+      "ID": 10003,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "喂~被吐槽完了赶紧过来。我在这儿等着你呢。"
+    },
+    {
+      "ID": 20003,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "这位大叔，你找我什么事？"
+    },
+    {
+      "ID": 20003,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "大……大叔？我只是最近换了个形象，头发长出来了而已！"
+    },
+    {
+      "ID": 10004,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "咳咳，自从你上次找到暗影密会的首领们以后，他们小心了许多。"
+    },
+    {
+      "ID": 10004,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "但是，他们贼心不死，还在继续着活动。这次，我们必须要抓住他们。"
+    },
+    {
+      "ID": 20004,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "可恶，这些暗影密会的，跑的真快！我没抓住他们。"
+    },
+    {
+      "ID": 20004,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "暗影密会潜伏多年，想抓住他们并不那么容易。希女王的手下正在持续追踪他们，和她谈谈吧。"
+    },
+    {
+      "ID": 20005,
+      "index": 1,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "你来的正好。"
+    },
+    {
+      "ID": 10006,
+      "index": 1,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "时间紧迫，我的手下追踪到暗影密会的另外一个头目。你去追踪他们的下落。"
+    },
+    {
+      "ID": 10006,
+      "index": 2,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "你的手下很有效率嘛。你们自己搞定不就好了嘛。"
+    },
+    {
+      "ID": 10006,
+      "index": 3,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "主角戏份很沉重的，我才不要咧。"
+    },
+    {
+      "ID": 10006,
+      "index": 4,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "……"
+    },
+    {
+      "ID": 20006,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "你看我拿到一个秘密文件，是不是有对我们有帮助？"
+    },
+    {
+      "ID": 20006,
+      "index": 2,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "这个信封有魔力封印，我无法破解，看起来是十分机密的东西。我们得知道写了什么。"
+    },
+    {
+      "ID": 20006,
+      "index": 3,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "雪女作为大魔法师，应该可以读取里面的内容，去找她看看。"
+    },
+    {
+      "ID": 20007,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "我们搜寻到了一封魔法密信，可惜没法知道里面写了什么，你可以破解它吗？"
+    },
+    {
+      "ID": 20007,
+      "index": 2,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "我看看，唔，这封信上的魔法封印极其强大，里面应该写了了不得的秘密。我试试看。"
+    },
+    {
+      "ID": 20007,
+      "index": 3,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "成功了！！不过信息不完整。“收集……泰坦碎片……腐蚀……转化”。"
+    },
+    {
+      "ID": 20007,
+      "index": 4,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "这些信息不完整，其他暗影密会首领身上应该也有类似的东西。去找来给我。也许会有更多线索。"
+    },
+    {
+      "ID": 20008,
+      "index": 1,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "这封信上写着“收集散落在世界上的泰坦圣物，并腐蚀转化它们”。天哪，太可怕了。"
+    },
+    {
+      "ID": 20008,
+      "index": 2,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "快把这个消息告知瓦王。"
+    },
+    {
+      "ID": 20009,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "（将雪女破译的密信消息告诉瓦王）"
+    },
+    {
+      "ID": 20009,
+      "index": 2,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "什么！这还了得！我绝对不会允许他们这么干。你先去追那些密会首领，我待会就派人过去！"
+    },
+    {
+      "ID": 20010,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "国王陛下，我抢回了第一个泰坦圣物！不过只是碎片……."
+    },
+    {
+      "ID": 20010,
+      "index": 2,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "这么强大的东西，只是碎片就有如此巨大的力量。绝对不能让心怀不轨的人获得。"
+    },
+    {
+      "ID": 20010,
+      "index": 3,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "我听说，世界萨那个光头已经发现了下一个疑似泰坦碎片的地址。你去找他吧。"
+    },
+    {
+      "ID": 20011,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "瓦王说，你已经发现下一个碎片的所在地了？"
+    },
+    {
+      "ID": 20011,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "消息挺灵通啊。不过那是太危险的地方。到处都是溢出的腐蚀能量。"
+    },
+    {
+      "ID": 20011,
+      "index": 3,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "作为主角，这种事情就交给我吧。"
+    },
+    {
+      "ID": 20012,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "我回来了！腐蚀洞穴里果然有很强的力量。而且，似乎很邪恶。"
+    },
+    {
+      "ID": 20012,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "唔，我们要找的东西藏在梦魇深处。小白是月亮大祭司，会有破解梦魇的办法。去找她帮你吧。"
+    },
+    {
+      "ID": 20013,
+      "index": 1,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "你又碰到麻烦事儿了？"
+    },
+    {
+      "ID": 20013,
+      "index": 2,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "梦魇洞窟里的腐化力量十分强大，梦魇弥漫洞窟。找不到通向深处的办法。你有破解的办法吗？"
+    },
+    {
+      "ID": 20013,
+      "index": 3,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "我会用月之光引导你进入洞窟。去吧，小猪脚，有我的力量保护你，你必不会在洞窟中迷失。"
+    },
+    {
+      "ID": 20014,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "我在洞窟里面找到了这块的奇怪的石头，似乎洞窟内的梦魇迷雾是这些石头散布出来的。"
+    },
+    {
+      "ID": 20014,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "这…….这似乎是被腐化的地核之石？"
+    },
+    {
+      "ID": 10015,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "地核之石是土元素的结晶，出现在洞窟里并不意外。但是它为什么会腐化？"
+    },
+    {
+      "ID": 10015,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "拿着它，去找小白吧，希望她能帮助你。"
+    },
+    {
+      "ID": 20015,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "（交出地核之石）喏，我在洞窟里发现了这个。"
+    },
+    {
+      "ID": 20015,
+      "index": 2,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "地核之石被腐化了，只能被洞窟里的翡翠之息净化，有了它，你才能进入洞穴深处。"
+    },
+    {
+      "ID": 20016,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "这些石头上的气息好熟悉，和之前拿到的泰坦圣物上面的气息十分相近。"
+    },
+    {
+      "ID": 20016,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "我净化了这些石头，将它拿去给小白吧。她会告诉你下一步应该怎么做。"
+    },
+    {
+      "ID": 20017,
+      "index": 1,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "有了这些石头，再加上我的祝福，我们可以打造一个护符，让你能进入洞窟的核心。"
+    },
+    {
+      "ID": 20017,
+      "index": 2,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "但在这个之前，你还需要去洞窟里取得另外一样东西—翡翠之息，它的自然力量，能更好的保护你。"
+    },
+    {
+      "ID": 20018,
+      "index": 1,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "很好，有了地核之石，还有翡翠之息，我就能融合他们的力量。但它还需要一个承载容器。"
+    },
+    {
+      "ID": 20018,
+      "index": 2,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "现在，护符的核心都已经取得，但它还需要一个承载容器。"
+    },
+    {
+      "ID": 20019,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "我们需要你高超的矮人技艺，铸造一个能进入梦魇深处的护符。"
+    },
+    {
+      "ID": 20019,
+      "index": 2,
+      "Model": "airenzs",
+      "Name": "铸造大师",
+      "Side": 2,
+      "Dialogue": "以秘银的名义！嗝儿~稍等我一会！完工！哈哈哈，矮人的手艺，无可挑剔！"
+    },
+    {
+      "ID": 20019,
+      "index": 3,
+      "Model": "airenzs",
+      "Name": "铸造大师",
+      "Side": 2,
+      "Dialogue": "现在你可以进入梦魇的深处，消灭腐蚀之源啦！"
+    },
+    {
+      "ID": 10020,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "护符的能力会在你进入梦魇深处的时候保护你。"
+    },
+    {
+      "ID": 10020,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "以防万一，你需要去梦魇中试试它的效果。"
+    },
+    {
+      "ID": 20020,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "看来护符的效果十分显著，不过却并不完美。月神眼泪可以进一步加强它的保护力量。"
+    },
+    {
+      "ID": 20020,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "小白手上应该就有月神之泪。"
+    },
+    {
+      "ID": 20021,
+      "index": 1,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "把你的护符给我，我会用月神的力量祝福它。"
+    },
+    {
+      "ID": 20021,
+      "index": 2,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "（小白开始轻声祷告，并将月神之泪滴在护符上）有了这个护符，梦魇将不能再伤害你分毫。"
+    },
+    {
+      "ID": 20022,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "梦魇洞窟已经被净化了。我们夺回了第二枚泰坦圣物碎片。"
+    },
+    {
+      "ID": 20022,
+      "index": 2,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "赞美月神，梦魇洞窟现在又恢复它和平时的样子了。"
+    },
+    {
+      "ID": 10023,
+      "index": 1,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "世界萨正在找你，去和他谈谈。"
+    },
+    {
+      "ID": 20023,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "你来的正好。"
+    },
+    {
+      "ID": 10024,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "那些愚蠢的猪人又在乱吃乱喝乱丢垃圾了。臭气熏天的，弄的我连吃烤肉的胃口都没有，忍不了啦！"
+    },
+    {
+      "ID": 10024,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "你，现在去他们的巢穴，帮我教训教训他们。记得下手重点！如果能把他们彻底赶走，就更好了！"
+    },
+    {
+      "ID": 20024,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "我帮你教训完他们了！"
+    },
+    {
+      "ID": 20024,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "好哥们！多谢你帮我出了这口恶气！"
+    },
+    {
+      "ID": 10025,
+      "index": 1,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "我发现了一个新的情报，和那些猪人有关，快过来找我吧。"
+    },
+    {
+      "ID": 20025,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "我来了，大王！"
+    },
+    {
+      "ID": 20025,
+      "index": 2,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "说了多少次了，别叫我大王，叫我女王大人！"
+    },
+    {
+      "ID": 10026,
+      "index": 1,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "我手下的精英游侠，发现暗影密会早已经潜入了荆棘洞窟。那些猪人的反常，我一点也不意外。"
+    },
+    {
+      "ID": 10026,
+      "index": 2,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "去荆棘洞窟，找到暗影密会，阻止他们。"
+    },
+    {
+      "ID": 20026,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "我已经阻止了暗影密会腐蚀猪人的阴谋！大王情报果然准确！"
+    },
+    {
+      "ID": 20026,
+      "index": 2,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "……来人啊，把这个人给我拖走！还有，叫我女王大人！"
+    },
+    {
+      "ID": 10027,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "小猪脚，关于那些猪人，我刚得到了一个新的情报。"
+    },
+    {
+      "ID": 10027,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "过来和我谈谈。"
+    },
+    {
+      "ID": 20027,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "我之前冤枉那些猪人了，想想也是，一群猪头三平时都被驯的服服帖帖的。"
+    },
+    {
+      "ID": 20027,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "现在这么嚣张一定有问题。"
+    },
+    {
+      "ID": 20027,
+      "index": 3,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "再去一次荆棘高地，去查查到底发生了什么情况。"
+    },
+    {
+      "ID": 20028,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "哦？荆棘高地里不光有猪人作乱，还有个强大的力量再操纵亡灵腐蚀猪人？"
+    },
+    {
+      "ID": 20028,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "看起来很像是暗影密会的作风。"
+    },
+    {
+      "ID": 20028,
+      "index": 3,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "去和希女王谈谈，关于对付亡灵，她可是专业的（迷之微笑）。"
+    },
+    {
+      "ID": 20029,
+      "index": 1,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "哼！那些亡灵，倒是不足为患。我担心的是，暗影密会手上的泰坦圣物碎片。"
+    },
+    {
+      "ID": 20029,
+      "index": 2,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "这些创世圣物的力量，可以做到一些难以想象的事情。"
+    },
+    {
+      "ID": 20029,
+      "index": 3,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "我们必须把它夺回来。"
+    },
+    {
+      "ID": 20030,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "大王！暗影密会被我击退，我们已经夺回了泰坦碎片！"
+    },
+    {
+      "ID": 20030,
+      "index": 2,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "叫我女王大人！"
+    },
+    {
+      "ID": 10031,
+      "index": 1,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "哎哟，哎哟，哎哟，我受伤了！疼死我了！"
+    },
+    {
+      "ID": 10031,
+      "index": 2,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "小猪脚，赶紧过来帮我！"
+    },
+    {
+      "ID": 20031,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "您这是怎么了？"
+    },
+    {
+      "ID": 20031,
+      "index": 2,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "我出门遛个弯，不知道那个混账东西在台阶上丢了个香蕉皮。害的我从台阶上滚了下来！"
+    },
+    {
+      "ID": 20031,
+      "index": 3,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "这一定是个阴谋，有人想要害朕！快去查查到底是谁干的。"
+    },
+    {
+      "ID": 20032,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "我去查探了一下，果然有一帮人在王国里，建立了一个秘密基地。"
+    },
+    {
+      "ID": 10033,
+      "index": 1,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "说清楚点，到底是什么人想要害朕？"
+    },
+    {
+      "ID": 10033,
+      "index": 2,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "据说是您以前发工资不及时，他们怀恨在心，于是….."
+    },
+    {
+      "ID": 10033,
+      "index": 3,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "朕怎么可能做这种事情….咳咳，这群反贼的话不能相信，不管如何，帮朕灭了他们！"
+    },
+    {
+      "ID": 20033,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "那些反贼装备精良，大块喝酒，大块吃肉，居然还有82年的雪碧可以喝，真有钱啊。"
+    },
+    {
+      "ID": 20033,
+      "index": 2,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "真是太过分了，身为反贼，日子居然过的这么奢侈！"
+    },
+    {
+      "ID": 10034,
+      "index": 1,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "叛军这么有钱，一定有问题，这个城里最有钱的就是那个大奸商了。"
+    },
+    {
+      "ID": 10034,
+      "index": 2,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "去找他问问，到底是怎么回事。"
+    },
+    {
+      "ID": 20034,
+      "index": 1,
+      "Model": "gebulin",
+      "Name": "大奸商",
+      "Side": 2,
+      "Dialogue": "时间就是金钱，朋友，你找我什么事情？耽误我时间的代价很大的。"
+    },
+    {
+      "ID": 20034,
+      "index": 2,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "我们怀疑你和叛军有关联。"
+    },
+    {
+      "ID": 20034,
+      "index": 3,
+      "Model": "gebulin",
+      "Name": "大奸商",
+      "Side": 2,
+      "Dialogue": "饭可以乱吃话不可以乱讲喔，不过我还真的知道一些事情。"
+    },
+    {
+      "ID": 10035,
+      "index": 1,
+      "Model": "gebulin",
+      "Name": "大奸商",
+      "Side": 2,
+      "Dialogue": "我知道有些人在秘密支持这些叛军，但是一直没有办法直接证实。"
+    },
+    {
+      "ID": 10035,
+      "index": 2,
+      "Model": "gebulin",
+      "Name": "大奸商",
+      "Side": 2,
+      "Dialogue": "去他们的基地里，找出证据给我看看。"
+    },
+    {
+      "ID": 20035,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "你看这个是吗？（把装满信件的书袋交给大奸商）"
+    },
+    {
+      "ID": 20035,
+      "index": 2,
+      "Model": "gebulin",
+      "Name": "大奸商",
+      "Side": 2,
+      "Dialogue": "恩，没错，就是这些。"
+    },
+    {
+      "ID": 10036,
+      "index": 1,
+      "Model": "gebulin",
+      "Name": "大奸商",
+      "Side": 2,
+      "Dialogue": "把这些东西交给瓦王吧，它知道怎么处理"
+    },
+    {
+      "ID": 20036,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "我找到叛军的后台的线索了。"
+    },
+    {
+      "ID": 20036,
+      "index": 2,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "（低头看信件）可恶，王国内部居然有这些蛀虫。再去一趟密窟，彻底剿灭叛军吧。"
+    },
+    {
+      "ID": 20037,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "我回来了，但是这次碰到的对手，似乎不是之前那些散兵游勇。好像是王国正规军。"
+    },
+    {
+      "ID": 20037,
+      "index": 2,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "什么？这不可能，你再去一次叛军基地，仔细确认一下。"
+    },
+    {
+      "ID": 20038,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "国王陛下，王国内部肯定有高层参与了反叛。那些叛军，根本就是正规军。"
+    },
+    {
+      "ID": 20038,
+      "index": 2,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "我知道了，王国内有人给他们下了迷药，控制了他们，去找大奸商。它有解决的办法。"
+    },
+    {
+      "ID": 20039,
+      "index": 1,
+      "Model": "gebulin",
+      "Name": "大奸商",
+      "Side": 2,
+      "Dialogue": "王国里的那些人，被人下了用泰坦神器的力量控制了，并下了迷药控制他们的神智。"
+    },
+    {
+      "ID": 20039,
+      "index": 2,
+      "Model": "gebulin",
+      "Name": "大奸商",
+      "Side": 2,
+      "Dialogue": "我这里有一瓶炼金药剂，可以让他们恢复神智。但是要注意，对清醒状态下的人无效。"
+    },
+    {
+      "ID": 20039,
+      "index": 3,
+      "Model": "gebulin",
+      "Name": "大奸商",
+      "Side": 2,
+      "Dialogue": "至于要怎么让他们清醒，你懂的。"
+    },
+    {
+      "ID": 20040,
+      "index": 1,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "你救回来的那些人，神智都清醒了。"
+    },
+    {
+      "ID": 20040,
+      "index": 2,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "王国的叛乱结束了，我要感谢你，小猪脚。"
+    },
+    {
+      "ID": 20040,
+      "index": 3,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "这是一点小小的感激，收下吧。"
+    },
+    {
+      "ID": 10041,
+      "index": 1,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "我有事情委托你，小猪脚。"
+    },
+    {
+      "ID": 20041,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "发生什么事情了？"
+    },
+    {
+      "ID": 20041,
+      "index": 2,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "我在城外，遇到了一些野狼，他们变得嗜血，还会变成狼人攻击其他人！"
+    },
+    {
+      "ID": 20041,
+      "index": 3,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "只有法力高深的法师才能转化野狼为狼人。我需要你去查探一下，到底是谁在背后操纵这些狼人。"
+    },
+    {
+      "ID": 10042,
+      "index": 1,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "先去消灭一些狼人吧。削减他们的数量。"
+    },
+    {
+      "ID": 20042,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "我已经扫清了外围的狼人。"
+    },
+    {
+      "ID": 20042,
+      "index": 2,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "干的不错。"
+    },
+    {
+      "ID": 10043,
+      "index": 1,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "狼人已经和亡灵勾结起来，试图进攻我们，去瓦解他们的攻势。"
+    },
+    {
+      "ID": 20043,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "狼人和亡灵已经被我消灭了。但他们的数量似乎源源不绝。有人在不断在召唤它们。"
+    },
+    {
+      "ID": 20043,
+      "index": 2,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "我们需要立即向瓦王报告这个消息。"
+    },
+    {
+      "ID": 20044,
+      "index": 1,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "有人在召唤亡灵和狼人？对方必然是个高明的法师。"
+    },
+    {
+      "ID": 20044,
+      "index": 2,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "在这个世界上，有这种能力的，必然是暗影密会的一员。"
+    },
+    {
+      "ID": 20044,
+      "index": 3,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "唯今之计，先要荡平他们的巢穴。防止他们召唤更多的狼人和亡灵。"
+    },
+    {
+      "ID": 20045,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "召唤的狼人和亡灵已经被我剿灭了"
+    },
+    {
+      "ID": 20045,
+      "index": 2,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "干的好！接下来就要对付那个召唤狼人和亡灵的人了。"
+    },
+    {
+      "ID": 20045,
+      "index": 3,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "去找雪女吧，她会给你下一步的指示。"
+    },
+    {
+      "ID": 20046,
+      "index": 1,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "我们只有彻底击败暗影密会召唤师，才能真正阻止他召唤狼人和亡灵攻击我们。"
+    },
+    {
+      "ID": 20046,
+      "index": 2,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "拿着这颗奥术宝珠，使用宝珠时，能一切正在进行中的干扰通灵术和召唤术。"
+    },
+    {
+      "ID": 20046,
+      "index": 3,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "有了它，你就能对付暗影密会。去吧，我等你的好消息。"
+    },
+    {
+      "ID": 20047,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "我已经击败了暗影密会的召唤师，而且得到了被腐蚀的泰坦碎片。"
+    },
+    {
+      "ID": 20047,
+      "index": 2,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "很好，王国西部现在暂时安定了。"
+    },
+    {
+      "ID": 10048,
+      "index": 1,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "驻守在东部的猩红军团，最近向希女王的领地发起了进攻，她现在需要你的帮助。"
+    },
+    {
+      "ID": 20048,
+      "index": 1,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "猩红军团视我们为死敌，他们最近趁着暗影密会对我们发动袭击的关头，向我的领地发动了一次进攻。"
+    },
+    {
+      "ID": 20048,
+      "index": 2,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "但是，这样一来，他们的大本营必定空虚。因此，我准备了一个计划。"
+    },
+    {
+      "ID": 20048,
+      "index": 3,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "我们需要你立即向猩红军团的大本营发动一次进攻。"
+    },
+    {
+      "ID": 20049,
+      "index": 1,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "你攻破了猩红军团的大本营，做的很好。现在可以开始下一步行动。"
+    },
+    {
+      "ID": 10050,
+      "index": 1,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "我和瓦王达成了了一项战略协议，他会帮助我们消灭猩红军团。"
+    },
+    {
+      "ID": 10050,
+      "index": 2,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "去和他谈谈下一步的行动。"
+    },
+    {
+      "ID": 20050,
+      "index": 1,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "你来的很及时，小猪脚。"
+    },
+    {
+      "ID": 10051,
+      "index": 1,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "我已经派出了部队，配合希女王的行动，包围了猩红军团的要塞。"
+    },
+    {
+      "ID": 10051,
+      "index": 2,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "但他们依靠堡垒负隅顽抗，一时半会，我们的进攻很难奏效。"
+    },
+    {
+      "ID": 10051,
+      "index": 3,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "我们需要你潜入猩红要塞，将他们的首脑一网打尽。"
+    },
+    {
+      "ID": 20051,
+      "index": 1,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "猩红军团的首领被你消灭了？这样猩红军团的威胁也暂时解除了。"
+    },
+    {
+      "ID": 20051,
+      "index": 2,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "唉。如果他们不是如此狂热，本该是守护王国的一面屏障。"
+    },
+    {
+      "ID": 10052,
+      "index": 1,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "猩红军团被消灭后，北方的亡灵军团随时会南下。"
+    },
+    {
+      "ID": 10052,
+      "index": 2,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "希女王希望在他们没有站稳脚跟，先发动一次攻击，巩固我们的针线。"
+    },
+    {
+      "ID": 10052,
+      "index": 3,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "向希女王报道吧。"
+    },
+    {
+      "ID": 20052,
+      "index": 1,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "你来的正好。"
+    },
+    {
+      "ID": 20052,
+      "index": 2,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "我们准备正面进攻天灾废墟里的亡灵。但是在这之前，我们需要先削弱他们和天灾指挥官之间的联系。"
+    },
+    {
+      "ID": 20052,
+      "index": 3,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "杀掉他们的指挥官，为我们进攻创造机会。"
+    },
+    {
+      "ID": 20053,
+      "index": 1,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "很好，失去了指挥官，天灾军团就不再是威胁了。"
+    },
+    {
+      "ID": 10054,
+      "index": 1,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "我们的军团已经对天灾废墟的亡灵发动进攻了。也不能忽视它们的后方支援力量。"
+    },
+    {
+      "ID": 10054,
+      "index": 2,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "瓦王也在另外一条战线制订了作战计划。向他报道吧。"
+    },
+    {
+      "ID": 20054,
+      "index": 1,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "我们找到了天灾的一个大型后方训练基地，如果我们不处理掉它，那么天灾废墟的亡灵永远不会被消灭。"
+    },
+    {
+      "ID": 20054,
+      "index": 2,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "去吧，进入他们的训练基地，杀掉那些天灾精英教官。"
+    },
+    {
+      "ID": 20055,
+      "index": 1,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "干的很好，除掉这些精英教官之后，就只剩下天灾学院的院长了。"
+    },
+    {
+      "ID": 10056,
+      "index": 1,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "天灾学院里，还有个强大的亡灵院长，它才是整个天灾学院的支柱。"
+    },
+    {
+      "ID": 10056,
+      "index": 2,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "天灾院长精通暗影法术，通灵术。法力强大，除掉了它，天灾学院就不足为患。"
+    },
+    {
+      "ID": 10056,
+      "index": 3,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "去吧，消灭他，我等你的好消息。"
+    },
+    {
+      "ID": 20056,
+      "index": 1,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "失去了院长的法术支援，死亡学院毫不足惧。"
+    },
+    {
+      "ID": 20056,
+      "index": 2,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "开始进攻！！"
+    },
+    {
+      "ID": 10057,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "大地母亲在召唤着你，小猪脚。"
+    },
+    {
+      "ID": 10057,
+      "index": 2,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "大叔，这次你找我又有什么事？"
+    },
+    {
+      "ID": 20057,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "喔！你来了！！咱们家后院着火啦！"
+    },
+    {
+      "ID": 20057,
+      "index": 2,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "谁这么大胆居然敢光天化日下干这种事儿？"
+    },
+    {
+      "ID": 20057,
+      "index": 3,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "还不都是那群不开眼的食人部族？平时偷偷摸摸的也就算了，我收他们当小弟的时候。嘱咐他们要低调。"
+    },
+    {
+      "ID": 20057,
+      "index": 4,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "这下好了，居然趁着弟兄们都去打僵尸，跑回来又抢又偷的。"
+    },
+    {
+      "ID": 20057,
+      "index": 5,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "在事儿还没完全闹大之前，先帮我收拾收拾他们几个带头的！"
+    },
+    {
+      "ID": 20058,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "干的漂亮！这几个带头的被你打趴下后，剩下的事儿就好说了。"
+    },
+    {
+      "ID": 10059,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "食人部族的首领都消灭之后，如果能完全消灭他们的高阶祭司，那么食人部族的领导核心就会瓦解。"
+    },
+    {
+      "ID": 10059,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "我已经召集守城部队反击食人部族。"
+    },
+    {
+      "ID": 10059,
+      "index": 3,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "你要趁着我们行动的时候，杀死他们的高阶祭司。"
+    },
+    {
+      "ID": 20059,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "干的很不错啊，小猪脚。不愧是被大地母亲忽悠的孩子。"
+    },
+    {
+      "ID": 20059,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "愿大地母亲继续忽悠着你。"
+    },
+    {
+      "ID": 10060,
+      "index": 1,
+      "Model": "guerdan",
+      "Name": "古二蛋",
+      "Side": 2,
+      "Dialogue": "小猪脚，快过来，我有件事儿拜托你。"
+    },
+    {
+      "ID": 10060,
+      "index": 2,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "你不是那个恶名昭著的古二蛋吗！你欺负邻家小孩，还偷看小姑娘！找我肯定没好事！"
+    },
+    {
+      "ID": 10060,
+      "index": 3,
+      "Model": "guerdan",
+      "Name": "古二蛋",
+      "Side": 2,
+      "Dialogue": "谁……谁说的！我们军团的人，也是有原则的！"
+    },
+    {
+      "ID": 10060,
+      "index": 4,
+      "Model": "guerdan",
+      "Name": "古二蛋",
+      "Side": 2,
+      "Dialogue": "干这事儿对你也有好处，快过来我们聊点儿细的。"
+    },
+    {
+      "ID": 20060,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "说说，找我什么事儿？"
+    },
+    {
+      "ID": 20060,
+      "index": 2,
+      "Model": "guerdan",
+      "Name": "古二蛋",
+      "Side": 2,
+      "Dialogue": "俺们军团有个部落，之前一直帮我们收收保护费什么的。"
+    },
+    {
+      "ID": 20060,
+      "index": 3,
+      "Model": "guerdan",
+      "Name": "古二蛋",
+      "Side": 2,
+      "Dialogue": "最近做大了，不光抢你们的，连我们军团的保护费也收，简直无法无天。"
+    },
+    {
+      "ID": 20060,
+      "index": 4,
+      "Model": "guerdan",
+      "Name": "古二蛋",
+      "Side": 2,
+      "Dialogue": "去收拾他们，对你们也有好处哦吼吼吼~~"
+    },
+    {
+      "ID": 20060,
+      "index": 5,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "老子信了你的邪。"
+    },
+    {
+      "ID": 20061,
+      "index": 1,
+      "Model": "guerdan",
+      "Name": "古二蛋",
+      "Side": 2,
+      "Dialogue": "你已经给了他们一个教训，告诉他们军团不是好惹的。"
+    },
+    {
+      "ID": 20061,
+      "index": 2,
+      "Model": "guerdan",
+      "Name": "古二蛋",
+      "Side": 2,
+      "Dialogue": "这是给你的奖励。"
+    },
+    {
+      "ID": 10062,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "小猪脚，你过来。"
+    },
+    {
+      "ID": 10062,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "我们不能完全相信古二蛋的话，军团的人都不可相信。"
+    },
+    {
+      "ID": 10062,
+      "index": 3,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "军团的反叛部族是个威胁。但从现在开始，我们要自己去处理黑石高塔的敌人。"
+    },
+    {
+      "ID": 10062,
+      "index": 4,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "去吧，再去一次黑石塔。"
+    },
+    {
+      "ID": 20062,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "你干的很不赖，小猪脚，不愧是被大地母亲忽悠的人。"
+    },
+    {
+      "ID": 20062,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "现在，军团部族最后的首领在黑石高塔里做最后的抵抗，去消灭他们。"
+    },
+    {
+      "ID": 20063,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "黑石高塔的军团部族都被消灭了。可是这些家伙，居然在最后时刻召唤了远古元素的力量。"
+    },
+    {
+      "ID": 20063,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "呼，锻造大师对于这些元素，有一些自己“独特”的想法，去和他谈谈。"
+    },
+    {
+      "ID": 20064,
+      "index": 1,
+      "Model": "airenzs",
+      "Name": "铸造大师",
+      "Side": 2,
+      "Dialogue": "啊哈~你来了~嗝儿~"
+    },
+    {
+      "ID": 20064,
+      "index": 2,
+      "Model": "airenzs",
+      "Name": "铸造大师",
+      "Side": 2,
+      "Dialogue": "听我说！那些兽人召唤的原始元素，虽然会造成巨大的破坏，但是利用得当，却会增强我们的力量。"
+    },
+    {
+      "ID": 20064,
+      "index": 3,
+      "Model": "airenzs",
+      "Name": "铸造大师",
+      "Side": 2,
+      "Dialogue": "我准备制造一件强大的武器，需要用到这些元素身上的力量。请去熔岩领地中，先夺取元素精华。"
+    },
+    {
+      "ID": 20065,
+      "index": 1,
+      "Model": "airenzs",
+      "Name": "铸造大师",
+      "Side": 2,
+      "Dialogue": "没错！这些纯净的元素精华，就是我所需要的！"
+    },
+    {
+      "ID": 10066,
+      "index": 1,
+      "Model": "airenzs",
+      "Name": "铸造大师",
+      "Side": 2,
+      "Dialogue": "这些元素精华还充满着原始的野性，狂躁而不安。不驯服它们，反而会对我们自身造成伤害。"
+    },
+    {
+      "ID": 10066,
+      "index": 2,
+      "Model": "airenzs",
+      "Name": "铸造大师",
+      "Side": 2,
+      "Dialogue": "世界萨知道如何处理这些元素。让他消除元素精华的野性力量。"
+    },
+    {
+      "ID": 20066,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "纯净而野性的元素精华，充满着远古元素的力量。"
+    },
+    {
+      "ID": 20066,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "现在，我要驯服这股野性的力量。小猪脚。站远些！"
+    },
+    {
+      "ID": 20066,
+      "index": 3,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "好了！这些元素精华的力量已经可以为我们所用。拿去吧。"
+    },
+    {
+      "ID": 10067,
+      "index": 1,
+      "Model": "airenzs",
+      "Name": "铸造大师",
+      "Side": 2,
+      "Dialogue": "现在有了元素精华，强大武器有了力量之源。但我们还需要从元素界获取一样承载物。否则，无法束缚如此强大的元素力量。"
+    },
+    {
+      "ID": 10067,
+      "index": 2,
+      "Model": "airenzs",
+      "Name": "铸造大师",
+      "Side": 2,
+      "Dialogue": "再去一次元素界吧，把元素之柱带来给我。"
+    },
+    {
+      "ID": 20067,
+      "index": 1,
+      "Model": "airenzs",
+      "Name": "铸造大师",
+      "Side": 2,
+      "Dialogue": "对！就是这个，有了它，我们就能约束元素的力量了。"
+    },
+    {
+      "ID": 10068,
+      "index": 1,
+      "Model": "airenzs",
+      "Name": "铸造大师",
+      "Side": 2,
+      "Dialogue": "现在，把元素精华和元素之柱交给世界萨。把元素精华的力量束缚在元素之柱中。"
+    },
+    {
+      "ID": 20068,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "元素精华，还有元素之柱，没想到有生之年。我居然能接触到这么强大的元素之力。"
+    },
+    {
+      "ID": 20068,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "将它的力量为我们所用，必将所向披靡。"
+    },
+    {
+      "ID": 20068,
+      "index": 3,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "让开一些，小猪脚。我需要举行一个仪式，正式降服这股强大的力量。"
+    },
+    {
+      "ID": 20068,
+      "index": 4,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "（一段时间后）成功了。元素力量已经被灌入元素之柱。"
+    },
+    {
+      "ID": 10069,
+      "index": 1,
+      "Model": "airenzs",
+      "Name": "铸造大师",
+      "Side": 2,
+      "Dialogue": "元素之力已经受我们的束缚，现在我们需要一件能完全发挥其威力的。。。东西了。"
+    },
+    {
+      "ID": 10069,
+      "index": 2,
+      "Model": "airenzs",
+      "Name": "铸造大师",
+      "Side": 2,
+      "Dialogue": "在元素界的核心，有一件叫元素之眼的神器，我们需要它，来完全释放武器的力量。"
+    },
+    {
+      "ID": 10069,
+      "index": 3,
+      "Model": "airenzs",
+      "Name": "铸造大师",
+      "Side": 2,
+      "Dialogue": "去吧，去元素界的核心，把元素之眼带来给我！"
+    },
+    {
+      "ID": 20069,
+      "index": 1,
+      "Model": "airenzs",
+      "Name": "铸造大师",
+      "Side": 2,
+      "Dialogue": "哈哈哈，很好，有了这些。我就能打造出一把，举世无双的神器！！"
+    },
+    {
+      "ID": 20069,
+      "index": 2,
+      "Model": "airenzs",
+      "Name": "铸造大师",
+      "Side": 2,
+      "Dialogue": "干的不错。小猪脚，很快，我们就能利用它，击败我们的敌人了。"
+    },
+    {
+      "ID": 10070,
+      "index": 1,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "我听到了梦境的异动，梦境里发生了一些不好的事情。"
+    },
+    {
+      "ID": 10070,
+      "index": 2,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "我担心这回影响到我们每一个人。过来吧，我们谈谈梦境。"
+    },
+    {
+      "ID": 20070,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "我昨晚上睡的很好没有发现梦境里有什么不好的事情哎？"
+    },
+    {
+      "ID": 20070,
+      "index": 2,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "那分明是你睡的太死了吧！"
+    },
+    {
+      "ID": 10071,
+      "index": 1,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "咳咳，月神在上，梦境世界映射着真实世界，如果梦境有危险，那么真实世界也会发生变化。"
+    },
+    {
+      "ID": 10071,
+      "index": 2,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "所以，去梦境吧，把发生的一切告诉我。"
+    },
+    {
+      "ID": 20071,
+      "index": 1,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "梦境发生了腐蚀？情况严重，我需要找到腐蚀之源。"
+    },
+    {
+      "ID": 20071,
+      "index": 2,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "世界萨对世界的感应，应该有助于我们找到腐蚀的根源。"
+    },
+    {
+      "ID": 20072,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "是的，我也感受到了来自梦境的腐蚀力量，大地和空气元素，都在愤怒的呼号。"
+    },
+    {
+      "ID": 20072,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "我已经感应到了他们的位置。"
+    },
+    {
+      "ID": 20072,
+      "index": 3,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "现在，去腐蚀的深处，净化那些腐蚀吧！"
+    },
+    {
+      "ID": 20073,
+      "index": 1,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "很好，你已经成功的弱化了梦境里那些被腐化的生物。我们现在需要对付腐蚀的暗影密会恶魔。"
+    },
+    {
+      "ID": 10074,
+      "index": 1,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "我们现在可以直面腐蚀梦境的恐怖存在了。"
+    },
+    {
+      "ID": 10074,
+      "index": 2,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "暗影密会的恶魔，靠着泰坦圣物的力量，腐化了梦境，获得了强大的力量。"
+    },
+    {
+      "ID": 10074,
+      "index": 3,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "在梦境中，他们的力量成倍增长。"
+    },
+    {
+      "ID": 10074,
+      "index": 4,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "去吧，击败他们，解放梦境。"
+    },
+    {
+      "ID": 20074,
+      "index": 1,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "梦境被净化了。我们现在可以暂时安心了。"
+    },
+    {
+      "ID": 20074,
+      "index": 2,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "但是，我们依然要警惕，暗影密会随时会再次发动阴谋。"
+    },
+    {
+      "ID": 10075,
+      "index": 1,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "快来帮我，小猪脚！帮我把这些咸猪手的兽人揍一顿！"
+    },
+    {
+      "ID": 10075,
+      "index": 2,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "发生什么事情了？怎么乱成一锅粥啦？"
+    },
+    {
+      "ID": 10075,
+      "index": 3,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "我也不知道，这些兽人突然发了疯一样就在城里乱来。"
+    },
+    {
+      "ID": 10075,
+      "index": 4,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "快去阻止他们！"
+    },
+    {
+      "ID": 20075,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "你看，这些兽人发疯都是因为这个。（交出被腐蚀的圣物碎片）"
+    },
+    {
+      "ID": 20075,
+      "index": 2,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "这是暗影密会的阴谋，希望挑起我们的内乱。"
+    },
+    {
+      "ID": 20075,
+      "index": 3,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "我很庆幸你阻止了他们。"
+    },
+    {
+      "ID": 10076,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "小猪脚，我要谢谢你的所作所为。阻止了暗影密会用泰坦圣物控制我的族人。挑起内乱。"
+    },
+    {
+      "ID": 10076,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "如果不是你，我挑进黄河也洗不清了。"
+    },
+    {
+      "ID": 10076,
+      "index": 3,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "但是我敢肯定，这件事情不光只发生在部落。"
+    },
+    {
+      "ID": 10076,
+      "index": 4,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "暗影密会，一定会在联盟内部做这件事情。快去阻止他们。"
+    },
+    {
+      "ID": 20076,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "很好，你做的太好了。"
+    },
+    {
+      "ID": 20076,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "这样部落和联盟又可以团结起来。"
+    },
+    {
+      "ID": 10077,
+      "index": 1,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "还记得被攻破的黑石高塔吗？"
+    },
+    {
+      "ID": 10077,
+      "index": 2,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "现在这座高塔被一群不知道哪儿来的暗黑龙族占领了。"
+    },
+    {
+      "ID": 10077,
+      "index": 3,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "他们把哪里当做巢穴，繁殖幼龙，并奴役兽人。"
+    },
+    {
+      "ID": 10077,
+      "index": 4,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "我们要先清理掉下层的龙族，削弱他们的力量。"
+    },
+    {
+      "ID": 20077,
+      "index": 1,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "很好，下层的龙族被清理掉之后，他们的数量就得到了控制。"
+    },
+    {
+      "ID": 20077,
+      "index": 2,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "我们现在可以准备进入上层高塔了。"
+    },
+    {
+      "ID": 10078,
+      "index": 1,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "上层的龙人领袖一日不消失，这些暗黑龙族的威胁就一日不解除。"
+    },
+    {
+      "ID": 10078,
+      "index": 2,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "现在，去上层，杀掉那些龙人领袖们。"
+    },
+    {
+      "ID": 20078,
+      "index": 1,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "干的好！失去了领袖，暗黑龙族的就无法兴风作浪。"
+    },
+    {
+      "ID": 20078,
+      "index": 2,
+      "Model": "tailande",
+      "Name": "小白",
+      "Side": 2,
+      "Dialogue": "月神赞美你，小猪脚。"
+    },
+    {
+      "ID": 10079,
+      "index": 1,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "又发生大事儿了，小猪脚。来我这里一趟。"
+    },
+    {
+      "ID": 20079,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "什么事儿？麻烦的国王陛下。"
+    },
+    {
+      "ID": 20079,
+      "index": 2,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "我跟你说，那些森林里的食人巨魔又在搞事情了。"
+    },
+    {
+      "ID": 20079,
+      "index": 3,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "上次被我们暴打一顿以后，为了报仇居然想召唤血神降临。"
+    },
+    {
+      "ID": 20079,
+      "index": 4,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "难道他们就不知道什么叫生态危机吗？"
+    },
+    {
+      "ID": 20079,
+      "index": 5,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "他们在森林深处修建了祭坛，正在召唤血神。快去阻止他们。"
+    },
+    {
+      "ID": 20080,
+      "index": 1,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "干的不错嘛，那些召唤的祭司被除掉以后，召唤血神就会变得极其困难。"
+    },
+    {
+      "ID": 20080,
+      "index": 2,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "但是我们要彻底斩断邪恶巨魔的计划。去除掉他们的头领吧。"
+    },
+    {
+      "ID": 20081,
+      "index": 1,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "失去了巨魔首领的巨魔部族，再也不能兴风作浪。"
+    },
+    {
+      "ID": 20081,
+      "index": 2,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "王国的北境重于重归安宁，谢谢你，小猪脚。"
+    },
+    {
+      "ID": 10082,
+      "index": 1,
+      "Model": "guerdan",
+      "Name": "古二蛋",
+      "Side": 2,
+      "Dialogue": "善良的小猪脚，我有件大事需要你。"
+    },
+    {
+      "ID": 10082,
+      "index": 2,
+      "Model": "guerdan",
+      "Name": "古二蛋",
+      "Side": 2,
+      "Dialogue": "快过来，我们谈谈天灾堡垒的事情。嘿嘿嘿。"
+    },
+    {
+      "ID": 20082,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "哼，这次又有什么麻烦事情想忽悠我？"
+    },
+    {
+      "ID": 20082,
+      "index": 2,
+      "Model": "guerdan",
+      "Name": "古二蛋",
+      "Side": 2,
+      "Dialogue": "你看像我这种实诚的老人家，怎么会是忽悠你呢？"
+    },
+    {
+      "ID": 20082,
+      "index": 3,
+      "Model": "guerdan",
+      "Name": "古二蛋",
+      "Side": 2,
+      "Dialogue": "我今天找你，是因为亡灵堡垒的事儿。"
+    },
+    {
+      "ID": 20082,
+      "index": 4,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "军团怎么也会对亡灵有兴趣？"
+    },
+    {
+      "ID": 20082,
+      "index": 5,
+      "Model": "guerdan",
+      "Name": "古二蛋",
+      "Side": 2,
+      "Dialogue": "亡灵一旦失控，对我们也是个麻烦。去天灾堡垒，消灭那些亡灵吧。"
+    },
+    {
+      "ID": 20083,
+      "index": 1,
+      "Model": "guerdan",
+      "Name": "古二蛋",
+      "Side": 2,
+      "Dialogue": "那个强大的血肉傀儡是一个难以突破的屏障，你消灭了它，对我们十分有利。"
+    },
+    {
+      "ID": 20083,
+      "index": 2,
+      "Model": "guerdan",
+      "Name": "古二蛋",
+      "Side": 2,
+      "Dialogue": "失去了城门看守，我们就可以深入堡垒内部消灭那些天灾领袖了。"
+    },
+    {
+      "ID": 20083,
+      "index": 3,
+      "Model": "guerdan",
+      "Name": "古二蛋",
+      "Side": 2,
+      "Dialogue": "接下来，进入堡垒内部，消灭天灾的瘟疫之源。"
+    },
+    {
+      "ID": 20084,
+      "index": 1,
+      "Model": "guerdan",
+      "Name": "古二蛋",
+      "Side": 2,
+      "Dialogue": "失去了瘟疫之源，天灾扩张的速度会大大的降低。他们的数量会逐渐削减。"
+    },
+    {
+      "ID": 20084,
+      "index": 2,
+      "Model": "guerdan",
+      "Name": "古二蛋",
+      "Side": 2,
+      "Dialogue": "现在，需要去除掉堡垒的领导者-大巫妖了。"
+    },
+    {
+      "ID": 20084,
+      "index": 3,
+      "Model": "guerdan",
+      "Name": "古二蛋",
+      "Side": 2,
+      "Dialogue": "大巫妖法力强大，嘿嘿嘿，虽然我很想说让你当心点儿。但是……"
+    },
+    {
+      "ID": 20085,
+      "index": 1,
+      "Model": "guerdan",
+      "Name": "古二蛋",
+      "Side": 2,
+      "Dialogue": "哈哈哈哈，多谢你，善良的小猪脚。"
+    },
+    {
+      "ID": 20085,
+      "index": 2,
+      "Model": "guerdan",
+      "Name": "古二蛋",
+      "Side": 2,
+      "Dialogue": "现在，我们军团的心腹大患被消灭了。我可以再计划着点儿什么。"
+    },
+    {
+      "ID": 10086,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "小猪脚，被忽悠完了快过来，我有大事儿找你商量。"
+    },
+    {
+      "ID": 20086,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "消灭了天灾堡垒的亡灵后，军团已经蠢蠢欲动，想对我们发起攻势了。"
+    },
+    {
+      "ID": 20086,
+      "index": 2,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "我就知道古二蛋肯定没安啥好心。"
+    },
+    {
+      "ID": 20086,
+      "index": 3,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "安啦，亡灵对于我们也是一个威胁，早晚必除。你也不用内疚。"
+    },
+    {
+      "ID": 20086,
+      "index": 4,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "但是现在，军团建立了一个兽人堡垒，在里面训练军队。相信是大举入侵的前奏。"
+    },
+    {
+      "ID": 20086,
+      "index": 5,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "你要先他们一步，去阻止他们。"
+    },
+    {
+      "ID": 20087,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "兽人堡垒居然有恶魔看守着城墙？军团的行动比我想象的还要快。"
+    },
+    {
+      "ID": 20087,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "已经提前将恶魔混入了兽人军队中。"
+    },
+    {
+      "ID": 20087,
+      "index": 3,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "我们必须更快的进行下一步行动。突破他们的熔炉大厅，破坏他们的军械生产计划。"
+    },
+    {
+      "ID": 20088,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "干的不错！失去了军械，兽人就像没了牙的狼。"
+    },
+    {
+      "ID": 20088,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "这样一来，我们可以直接突入堡垒的内部，消灭那些投靠军团的家伙。"
+    },
+    {
+      "ID": 20089,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "哼，那些投靠军团的兽人现在应该老实了。"
+    },
+    {
+      "ID": 20089,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "古二蛋那个家伙，以为驱狼吞虎，可以收渔翁之利。"
+    },
+    {
+      "ID": 20089,
+      "index": 3,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "这次我们狠狠的打了他的脸，我感觉好爽。哈哈哈哈。"
+    },
+    {
+      "ID": 20089,
+      "index": 4,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "我要谢谢你，小猪脚。"
+    },
+    {
+      "ID": 10090,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "我刚才看到雪女急急忙忙的跑过去，好像发生了什么急事。"
+    },
+    {
+      "ID": 10090,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "你去找他，问问她需要帮助吗？"
+    },
+    {
+      "ID": 20090,
+      "index": 1,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "喔！是你啊，你来的刚好！"
+    },
+    {
+      "ID": 20090,
+      "index": 2,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "我刚得到了一个不好的消息，之前我们一直没有注意到的鱼人，居然想弄个大新闻！"
+    },
+    {
+      "ID": 20090,
+      "index": 3,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "他们在潮汐洞窟里破坏环境，还想和军团结盟过来入侵我们。"
+    },
+    {
+      "ID": 20090,
+      "index": 4,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "这绝对不可以！快去阻止他们！"
+    },
+    {
+      "ID": 20091,
+      "index": 1,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "迷雾洞窟的鱼人已经被扫荡啦？干的漂亮！"
+    },
+    {
+      "ID": 20091,
+      "index": 2,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "喔！！忘记了和你说了，你现在要去潮水围栏。"
+    },
+    {
+      "ID": 20091,
+      "index": 3,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "哪里关着很多被鱼人奴役的奴隶，解放他们，会很大的削弱鱼人的力量。"
+    },
+    {
+      "ID": 20092,
+      "index": 1,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "太好了，潮水围栏被解放了。那些奴隶会感谢你的。"
+    },
+    {
+      "ID": 10093,
+      "index": 1,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "对啦，希女王让我通知你，潮汐洞窟的事情告一段落后。立即去找她。"
+    },
+    {
+      "ID": 10093,
+      "index": 2,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "她有很要紧的事情和你说。你赶紧去和她谈谈。"
+    },
+    {
+      "ID": 20093,
+      "index": 1,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "暗影密会使用泰坦碎片，腐化了一个远古遗迹。"
+    },
+    {
+      "ID": 20093,
+      "index": 2,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "那个遗迹十分巨大，里面栖息着各种危险的生物。如果等暗影密会的计划完成，我们会有大麻烦。"
+    },
+    {
+      "ID": 20093,
+      "index": 3,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "你要提前一步，进入遗迹，把里面的泰坦碎片收回来。"
+    },
+    {
+      "ID": 20093,
+      "index": 4,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "先去鸟人大厅吧，取回里面的泰坦碎片！。"
+    },
+    {
+      "ID": 20094,
+      "index": 1,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "很好，鸟人大厅的碎片取回以后，我们可以进入下一个目标了。"
+    },
+    {
+      "ID": 20094,
+      "index": 2,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "下一个目标是外星地窟，要当心，地窟里的灵魂力量非常强大。"
+    },
+    {
+      "ID": 20095,
+      "index": 1,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "恩，这下地窟的碎片也安全了。"
+    },
+    {
+      "ID": 20095,
+      "index": 2,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "奥术墓穴是你的下一个目标。地窟里生活着强大的奥术生物。"
+    },
+    {
+      "ID": 20095,
+      "index": 3,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "里面还有个神奇的物种，绷带人。他们十分的危险，在圣物力量的影响下尤其狂躁。"
+    },
+    {
+      "ID": 20095,
+      "index": 4,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "你要当心。"
+    },
+    {
+      "ID": 20096,
+      "index": 1,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "奥术墓穴的碎片被取回了，哪里应该会平静许多。"
+    },
+    {
+      "ID": 20096,
+      "index": 2,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "我会让我的精英游侠继续监视巢墓穴，当务之急，你需要去下一个目标。取回最后一个碎片。"
+    },
+    {
+      "ID": 20096,
+      "index": 3,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "最后一个目标在灵魂迷宫，里面据说有一个强大的元素圣物寄宿在里面。"
+    },
+    {
+      "ID": 20096,
+      "index": 4,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "具体什么情况我们也不清楚，进去过的人没有一个能从里面出来。"
+    },
+    {
+      "ID": 20096,
+      "index": 5,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "去吧，小猪脚，我们会默默的注视着你的。"
+    },
+    {
+      "ID": 20097,
+      "index": 1,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "太好了，最后一片碎片也已经从遗迹中取出，暗影密会的阴谋又一次失败了。"
+    },
+    {
+      "ID": 20097,
+      "index": 2,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "虽然如此，这个遗迹还需要长期监视。毕竟碎片的力量已经对这里造成了影响。"
+    },
+    {
+      "ID": 20097,
+      "index": 3,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "去做其他的事情吧，小猪脚。"
+    },
+    {
+      "ID": 10098,
+      "index": 1,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "世界萨正在愁眉苦脸的，去和他谈谈。"
+    },
+    {
+      "ID": 20098,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "喔，原来是你啊。"
+    },
+    {
+      "ID": 20098,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "最近有个地方发生了时光的震荡，里面露出了时间裂口。"
+    },
+    {
+      "ID": 20098,
+      "index": 3,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "人可以进入其中，去干预过去的事情，从而影响现在的世界。"
+    },
+    {
+      "ID": 20098,
+      "index": 4,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "很不巧，其中一件事情，就是我的过去……"
+    },
+    {
+      "ID": 20098,
+      "index": 5,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "虽然我不能允许我的过去被人干预，但是我……没有勇气进入其中。"
+    },
+    {
+      "ID": 20098,
+      "index": 6,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "你去哪儿吧，帮助我，不要让过去的我误入歧途。"
+    },
+    {
+      "ID": 20099,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "感谢你，小猪脚，你让我的过去又回到了正轨。"
+    },
+    {
+      "ID": 20099,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "虽然那并不是一段值得回首的往事。"
+    },
+    {
+      "ID": 20099,
+      "index": 3,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "现在，我们要去防止下一个时光事件被干预。迷失沼泽是其中最重要的一个。"
+    },
+    {
+      "ID": 20099,
+      "index": 4,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "去迷失沼泽吧，必须要阻止迷失沼泽发生的一切走向另外一个方向。"
+    },
+    {
+      "ID": 20100,
+      "index": 1,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "虽然我们不知道其他的时间线有没有受到影响。"
+    },
+    {
+      "ID": 20100,
+      "index": 2,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "但是你的所作所为，已经帮助了我们太多。"
+    },
+    {
+      "ID": 20100,
+      "index": 3,
+      "Model": "saer",
+      "Name": "世界萨",
+      "Side": 2,
+      "Dialogue": "这是你应得的奖励。"
+    },
+    {
+      "ID": 10101,
+      "index": 1,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "hi~小猪脚，快来我这里！我看到一艘好大的飞船嗖的一下飞过去啦！"
+    },
+    {
+      "ID": 20101,
+      "index": 1,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "你快看天上，对不对？是不是一艘大飞船？"
+    },
+    {
+      "ID": 20101,
+      "index": 2,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "咦？我怎么看这艘船这么眼熟？"
+    },
+    {
+      "ID": 20101,
+      "index": 3,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "这好像是前几天被人偷走的飞船嘛！！可不能让他们跑了，我把你传送到船上。去把船夺回来！"
+    },
+    {
+      "ID": 20102,
+      "index": 1,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "唔，刚刚传送进去的是温室吗？那没什么用。不消灭夺船的人，没有办法取得船的主动权。"
+    },
+    {
+      "ID": 20102,
+      "index": 2,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "这次我把你传送到飞船的另外一个舱室，去吧！小猪脚！"
+    },
+    {
+      "ID": 20103,
+      "index": 1,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "咦？这次又没有传对地方，把你送到货仓去啦？"
+    },
+    {
+      "ID": 20103,
+      "index": 2,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "不过好歹也消灭掉了一群夺船的家伙，也算不错啦。"
+    },
+    {
+      "ID": 20103,
+      "index": 3,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "这次我打开了个精准的传送门，肯定把你送到指定的地方去。"
+    },
+    {
+      "ID": 20104,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "我回来了！那些越狱夺船的家伙，已经被我打倒啦！"
+    },
+    {
+      "ID": 20104,
+      "index": 2,
+      "Model": "jianna",
+      "Name": "雪女",
+      "Side": 2,
+      "Dialogue": "干的漂亮！"
+    },
+    {
+      "ID": 10105,
+      "index": 1,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "王国内闹鬼啦，小猪脚。有空过来和我谈谈。"
+    },
+    {
+      "ID": 20105,
+      "index": 1,
+      "Model": "1",
+      "Name": "我",
+      "Side": 1,
+      "Dialogue": "哪儿闹鬼啦？"
+    },
+    {
+      "ID": 20105,
+      "index": 2,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "你还记得那座荒废的预言之塔吗？最近传言，哪里闹鬼了。发生了很多难以解释的事情。"
+    },
+    {
+      "ID": 20105,
+      "index": 3,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "我怀疑，是有什么人进入了塔内，引起了这些现象。"
+    },
+    {
+      "ID": 20105,
+      "index": 4,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "你要去那座高塔，看看到底发生了什么事情。"
+    },
+    {
+      "ID": 20106,
+      "index": 1,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "哦？那座高塔被人闯入，塔的防御机制被触发才引起了这些异动吗？"
+    },
+    {
+      "ID": 20106,
+      "index": 2,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "奇怪了，那座高塔以前是用来研究恶魔防御地方，难道是有恶魔企图入侵吗？"
+    },
+    {
+      "ID": 20106,
+      "index": 3,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "如果是这样的话，你要再去一次塔内，将那些入侵的人全部赶走！"
+    },
+    {
+      "ID": 20107,
+      "index": 1,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "恶魔的阴谋被挫败了，你立了大功。"
+    },
+    {
+      "ID": 20107,
+      "index": 2,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "这是给你的奖励。"
+    },
+    {
+      "ID": 10108,
+      "index": 1,
+      "Model": "walian",
+      "Name": "瓦王",
+      "Side": 2,
+      "Dialogue": "希女王刚给我发了一封紧急军情，你快去找她谈谈。"
+    },
+    {
+      "ID": 20108,
+      "index": 1,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "我们监视敌情的游侠刚给我发了一封秘密的情报。"
+    },
+    {
+      "ID": 20108,
+      "index": 2,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "在已经被剿灭的兽人城堡下，埋藏着兽人堡垒的秘密。"
+    },
+    {
+      "ID": 20108,
+      "index": 3,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "残余的兽人聚集在堡垒下的密窟中，吸食恶魔的血液，获得强大的力量。"
+    },
+    {
+      "ID": 20108,
+      "index": 4,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "一旦让他们花时间转化成恶魔兽人，他们将很难抵挡。"
+    },
+    {
+      "ID": 20108,
+      "index": 5,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "我们要先下手为强，消灭他们，并且消灭他们的力量之源。"
+    },
+    {
+      "ID": 20108,
+      "index": 6,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "现在，你先去除掉残余兽人的督军，让他们群龙无首。"
+    },
+    {
+      "ID": 20109,
+      "index": 1,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "兽人督军已死，阻止我们进入堡垒密窟的力量消失了。"
+    },
+    {
+      "ID": 20109,
+      "index": 2,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "我们现在要去消灭堡垒密窟下的那只恶魔巨兽。你准备好了吗？"
+    },
+    {
+      "ID": 20110,
+      "index": 1,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "那只巨兽被消灭了，兽人在这片地界再也无力兴风作浪。"
+    },
+    {
+      "ID": 20110,
+      "index": 2,
+      "Model": "xiaohei",
+      "Name": "希女王",
+      "Side": 2,
+      "Dialogue": "你做的很好，小猪脚。"
+    }
+  ]
+}

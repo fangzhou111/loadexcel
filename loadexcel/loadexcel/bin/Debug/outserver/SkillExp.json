@@ -1,0 +1,704 @@
+{
+  "SkillExp": [
+    {
+      "Level": 1,
+      "NeedExp": 0,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 0
+    },
+    {
+      "Level": 2,
+      "NeedExp": 45,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 0
+    },
+    {
+      "Level": 3,
+      "NeedExp": 60,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 0
+    },
+    {
+      "Level": 4,
+      "NeedExp": 75,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 0
+    },
+    {
+      "Level": 5,
+      "NeedExp": 90,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 0
+    },
+    {
+      "Level": 6,
+      "NeedExp": 105,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 0
+    },
+    {
+      "Level": 7,
+      "NeedExp": 120,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 0
+    },
+    {
+      "Level": 8,
+      "NeedExp": 135,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 0
+    },
+    {
+      "Level": 9,
+      "NeedExp": 150,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 0
+    },
+    {
+      "Level": 10,
+      "NeedExp": 165,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 5
+    },
+    {
+      "Level": 11,
+      "NeedExp": 180,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 5
+    },
+    {
+      "Level": 12,
+      "NeedExp": 195,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 5
+    },
+    {
+      "Level": 13,
+      "NeedExp": 210,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 5
+    },
+    {
+      "Level": 14,
+      "NeedExp": 230,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 5
+    },
+    {
+      "Level": 15,
+      "NeedExp": 290,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 5
+    },
+    {
+      "Level": 16,
+      "NeedExp": 355,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 5
+    },
+    {
+      "Level": 17,
+      "NeedExp": 400,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 5
+    },
+    {
+      "Level": 18,
+      "NeedExp": 470,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 5
+    },
+    {
+      "Level": 19,
+      "NeedExp": 535,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 5
+    },
+    {
+      "Level": 20,
+      "NeedExp": 605,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 10
+    },
+    {
+      "Level": 21,
+      "NeedExp": 775,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 10
+    },
+    {
+      "Level": 22,
+      "NeedExp": 1030,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 10
+    },
+    {
+      "Level": 23,
+      "NeedExp": 1360,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 10
+    },
+    {
+      "Level": 24,
+      "NeedExp": 1760,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 10
+    },
+    {
+      "Level": 25,
+      "NeedExp": 2150,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 10
+    },
+    {
+      "Level": 26,
+      "NeedExp": 2370,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 10
+    },
+    {
+      "Level": 27,
+      "NeedExp": 2600,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 10
+    },
+    {
+      "Level": 28,
+      "NeedExp": 2835,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 10
+    },
+    {
+      "Level": 29,
+      "NeedExp": 3080,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 10
+    },
+    {
+      "Level": 30,
+      "NeedExp": 3335,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 15
+    },
+    {
+      "Level": 31,
+      "NeedExp": 3345,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 15
+    },
+    {
+      "Level": 32,
+      "NeedExp": 3595,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 15
+    },
+    {
+      "Level": 33,
+      "NeedExp": 3855,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 15
+    },
+    {
+      "Level": 34,
+      "NeedExp": 4125,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 15
+    },
+    {
+      "Level": 35,
+      "NeedExp": 4400,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 15
+    },
+    {
+      "Level": 36,
+      "NeedExp": 4750,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 15
+    },
+    {
+      "Level": 37,
+      "NeedExp": 5115,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 15
+    },
+    {
+      "Level": 38,
+      "NeedExp": 5490,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 15
+    },
+    {
+      "Level": 39,
+      "NeedExp": 5880,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 15
+    },
+    {
+      "Level": 40,
+      "NeedExp": 6425,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 20
+    },
+    {
+      "Level": 41,
+      "NeedExp": 6945,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 20
+    },
+    {
+      "Level": 42,
+      "NeedExp": 7605,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 20
+    },
+    {
+      "Level": 43,
+      "NeedExp": 8665,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 20
+    },
+    {
+      "Level": 44,
+      "NeedExp": 9680,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 20
+    },
+    {
+      "Level": 45,
+      "NeedExp": 10655,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 20
+    },
+    {
+      "Level": 46,
+      "NeedExp": 11660,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 20
+    },
+    {
+      "Level": 47,
+      "NeedExp": 12785,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 20
+    },
+    {
+      "Level": 48,
+      "NeedExp": 13860,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 20
+    },
+    {
+      "Level": 49,
+      "NeedExp": 14970,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 20
+    },
+    {
+      "Level": 50,
+      "NeedExp": 16205,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 25
+    },
+    {
+      "Level": 51,
+      "NeedExp": 18255,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 25
+    },
+    {
+      "Level": 52,
+      "NeedExp": 20385,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 25
+    },
+    {
+      "Level": 53,
+      "NeedExp": 22685,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 25
+    },
+    {
+      "Level": 54,
+      "NeedExp": 25060,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 25
+    },
+    {
+      "Level": 55,
+      "NeedExp": 27515,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 25
+    },
+    {
+      "Level": 56,
+      "NeedExp": 30050,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 25
+    },
+    {
+      "Level": 57,
+      "NeedExp": 33165,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 25
+    },
+    {
+      "Level": 58,
+      "NeedExp": 36380,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 25
+    },
+    {
+      "Level": 59,
+      "NeedExp": 39810,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 25
+    },
+    {
+      "Level": 60,
+      "NeedExp": 43245,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 30
+    },
+    {
+      "Level": 61,
+      "NeedExp": 46400,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 30
+    },
+    {
+      "Level": 62,
+      "NeedExp": 50685,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 30
+    },
+    {
+      "Level": 63,
+      "NeedExp": 55110,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 30
+    },
+    {
+      "Level": 64,
+      "NeedExp": 59685,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 30
+    },
+    {
+      "Level": 65,
+      "NeedExp": 64295,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 30
+    },
+    {
+      "Level": 66,
+      "NeedExp": 69170,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 30
+    },
+    {
+      "Level": 67,
+      "NeedExp": 75025,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 30
+    },
+    {
+      "Level": 68,
+      "NeedExp": 81435,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 30
+    },
+    {
+      "Level": 69,
+      "NeedExp": 88175,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 30
+    },
+    {
+      "Level": 70,
+      "NeedExp": 95135,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 35
+    },
+    {
+      "Level": 71,
+      "NeedExp": 101565,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 35
+    },
+    {
+      "Level": 72,
+      "NeedExp": 108935,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 35
+    },
+    {
+      "Level": 73,
+      "NeedExp": 117975,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 35
+    },
+    {
+      "Level": 74,
+      "NeedExp": 127315,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 35
+    },
+    {
+      "Level": 75,
+      "NeedExp": 136825,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 35
+    },
+    {
+      "Level": 76,
+      "NeedExp": 146775,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 35
+    },
+    {
+      "Level": 77,
+      "NeedExp": 157050,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 35
+    },
+    {
+      "Level": 78,
+      "NeedExp": 167795,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 35
+    },
+    {
+      "Level": 79,
+      "NeedExp": 178740,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 35
+    },
+    {
+      "Level": 80,
+      "NeedExp": 190030,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 40
+    },
+    {
+      "Level": 81,
+      "NeedExp": 200585,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 40
+    },
+    {
+      "Level": 82,
+      "NeedExp": 212525,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 40
+    },
+    {
+      "Level": 83,
+      "NeedExp": 224995,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 40
+    },
+    {
+      "Level": 84,
+      "NeedExp": 237850,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 40
+    },
+    {
+      "Level": 85,
+      "NeedExp": 259645,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 40
+    },
+    {
+      "Level": 86,
+      "NeedExp": 282325,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 40
+    },
+    {
+      "Level": 87,
+      "NeedExp": 305755,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 40
+    },
+    {
+      "Level": 88,
+      "NeedExp": 329955,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 40
+    },
+    {
+      "Level": 89,
+      "NeedExp": 354945,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 40
+    },
+    {
+      "Level": 90,
+      "NeedExp": 380745,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 45
+    },
+    {
+      "Level": 91,
+      "NeedExp": 405065,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 45
+    },
+    {
+      "Level": 92,
+      "NeedExp": 432565,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 45
+    },
+    {
+      "Level": 93,
+      "NeedExp": 460945,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 45
+    },
+    {
+      "Level": 94,
+      "NeedExp": 490410,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 45
+    },
+    {
+      "Level": 95,
+      "NeedExp": 520615,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 45
+    },
+    {
+      "Level": 96,
+      "NeedExp": 551965,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 45
+    },
+    {
+      "Level": 97,
+      "NeedExp": 584490,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 45
+    },
+    {
+      "Level": 98,
+      "NeedExp": 617825,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 45
+    },
+    {
+      "Level": 99,
+      "NeedExp": 652400,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 45
+    },
+    {
+      "Level": 100,
+      "NeedExp": 688040,
+      "NeedGold": 0,
+      "NeedSkillPoint": 1,
+      "SkillRatio": 50
+    }
+  ]
+}

@@ -1,0 +1,604 @@
+{
+  "GlyphsExp": [
+    {
+      "Level": 1,
+      "Star": 2,
+      "NeedExp": 0
+    },
+    {
+      "Level": 2,
+      "Star": 2,
+      "NeedExp": 105
+    },
+    {
+      "Level": 3,
+      "Star": 2,
+      "NeedExp": 210
+    },
+    {
+      "Level": 4,
+      "Star": 2,
+      "NeedExp": 325
+    },
+    {
+      "Level": 5,
+      "Star": 2,
+      "NeedExp": 440
+    },
+    {
+      "Level": 6,
+      "Star": 2,
+      "NeedExp": 565
+    },
+    {
+      "Level": 7,
+      "Star": 2,
+      "NeedExp": 690
+    },
+    {
+      "Level": 8,
+      "Star": 2,
+      "NeedExp": 825
+    },
+    {
+      "Level": 9,
+      "Star": 2,
+      "NeedExp": 960
+    },
+    {
+      "Level": 10,
+      "Star": 2,
+      "NeedExp": 1105
+    },
+    {
+      "Level": 11,
+      "Star": 2,
+      "NeedExp": 1250
+    },
+    {
+      "Level": 12,
+      "Star": 2,
+      "NeedExp": 1405
+    },
+    {
+      "Level": 13,
+      "Star": 2,
+      "NeedExp": 1560
+    },
+    {
+      "Level": 14,
+      "Star": 2,
+      "NeedExp": 1725
+    },
+    {
+      "Level": 15,
+      "Star": 2,
+      "NeedExp": 1890
+    },
+    {
+      "Level": 16,
+      "Star": 2,
+      "NeedExp": 2065
+    },
+    {
+      "Level": 17,
+      "Star": 2,
+      "NeedExp": 2240
+    },
+    {
+      "Level": 18,
+      "Star": 2,
+      "NeedExp": 2425
+    },
+    {
+      "Level": 19,
+      "Star": 2,
+      "NeedExp": 2610
+    },
+    {
+      "Level": 20,
+      "Star": 2,
+      "NeedExp": 2805
+    },
+    {
+      "Level": 21,
+      "Star": 2,
+      "NeedExp": 3000
+    },
+    {
+      "Level": 22,
+      "Star": 2,
+      "NeedExp": 3205
+    },
+    {
+      "Level": 23,
+      "Star": 2,
+      "NeedExp": 3410
+    },
+    {
+      "Level": 24,
+      "Star": 2,
+      "NeedExp": 3625
+    },
+    {
+      "Level": 25,
+      "Star": 2,
+      "NeedExp": 3840
+    },
+    {
+      "Level": 26,
+      "Star": 2,
+      "NeedExp": 4065
+    },
+    {
+      "Level": 27,
+      "Star": 2,
+      "NeedExp": 4290
+    },
+    {
+      "Level": 28,
+      "Star": 2,
+      "NeedExp": 4525
+    },
+    {
+      "Level": 29,
+      "Star": 2,
+      "NeedExp": 4760
+    },
+    {
+      "Level": 30,
+      "Star": 2,
+      "NeedExp": 5005
+    },
+    {
+      "Level": 1,
+      "Star": 3,
+      "NeedExp": 0
+    },
+    {
+      "Level": 2,
+      "Star": 3,
+      "NeedExp": 150
+    },
+    {
+      "Level": 3,
+      "Star": 3,
+      "NeedExp": 310
+    },
+    {
+      "Level": 4,
+      "Star": 3,
+      "NeedExp": 475
+    },
+    {
+      "Level": 5,
+      "Star": 3,
+      "NeedExp": 640
+    },
+    {
+      "Level": 6,
+      "Star": 3,
+      "NeedExp": 825
+    },
+    {
+      "Level": 7,
+      "Star": 3,
+      "NeedExp": 1005
+    },
+    {
+      "Level": 8,
+      "Star": 3,
+      "NeedExp": 1205
+    },
+    {
+      "Level": 9,
+      "Star": 3,
+      "NeedExp": 1405
+    },
+    {
+      "Level": 10,
+      "Star": 3,
+      "NeedExp": 1615
+    },
+    {
+      "Level": 11,
+      "Star": 3,
+      "NeedExp": 1825
+    },
+    {
+      "Level": 12,
+      "Star": 3,
+      "NeedExp": 2055
+    },
+    {
+      "Level": 13,
+      "Star": 3,
+      "NeedExp": 2280
+    },
+    {
+      "Level": 14,
+      "Star": 3,
+      "NeedExp": 2520
+    },
+    {
+      "Level": 15,
+      "Star": 3,
+      "NeedExp": 2760
+    },
+    {
+      "Level": 16,
+      "Star": 3,
+      "NeedExp": 2720
+    },
+    {
+      "Level": 17,
+      "Star": 3,
+      "NeedExp": 2970
+    },
+    {
+      "Level": 18,
+      "Star": 3,
+      "NeedExp": 3230
+    },
+    {
+      "Level": 19,
+      "Star": 3,
+      "NeedExp": 3490
+    },
+    {
+      "Level": 20,
+      "Star": 3,
+      "NeedExp": 3765
+    },
+    {
+      "Level": 21,
+      "Star": 3,
+      "NeedExp": 4025
+    },
+    {
+      "Level": 22,
+      "Star": 3,
+      "NeedExp": 4300
+    },
+    {
+      "Level": 23,
+      "Star": 3,
+      "NeedExp": 4575
+    },
+    {
+      "Level": 24,
+      "Star": 3,
+      "NeedExp": 4865
+    },
+    {
+      "Level": 25,
+      "Star": 3,
+      "NeedExp": 5155
+    },
+    {
+      "Level": 26,
+      "Star": 3,
+      "NeedExp": 5455
+    },
+    {
+      "Level": 27,
+      "Star": 3,
+      "NeedExp": 5760
+    },
+    {
+      "Level": 28,
+      "Star": 3,
+      "NeedExp": 6075
+    },
+    {
+      "Level": 29,
+      "Star": 3,
+      "NeedExp": 6390
+    },
+    {
+      "Level": 30,
+      "Star": 3,
+      "NeedExp": 6720
+    },
+    {
+      "Level": 1,
+      "Star": 4,
+      "NeedExp": 0
+    },
+    {
+      "Level": 2,
+      "Star": 4,
+      "NeedExp": 190
+    },
+    {
+      "Level": 3,
+      "Star": 4,
+      "NeedExp": 390
+    },
+    {
+      "Level": 4,
+      "Star": 4,
+      "NeedExp": 600
+    },
+    {
+      "Level": 5,
+      "Star": 4,
+      "NeedExp": 810
+    },
+    {
+      "Level": 6,
+      "Star": 4,
+      "NeedExp": 1045
+    },
+    {
+      "Level": 7,
+      "Star": 4,
+      "NeedExp": 1275
+    },
+    {
+      "Level": 8,
+      "Star": 4,
+      "NeedExp": 1525
+    },
+    {
+      "Level": 9,
+      "Star": 4,
+      "NeedExp": 1780
+    },
+    {
+      "Level": 10,
+      "Star": 4,
+      "NeedExp": 2045
+    },
+    {
+      "Level": 11,
+      "Star": 4,
+      "NeedExp": 2310
+    },
+    {
+      "Level": 12,
+      "Star": 4,
+      "NeedExp": 2605
+    },
+    {
+      "Level": 13,
+      "Star": 4,
+      "NeedExp": 2885
+    },
+    {
+      "Level": 14,
+      "Star": 4,
+      "NeedExp": 3190
+    },
+    {
+      "Level": 15,
+      "Star": 4,
+      "NeedExp": 3495
+    },
+    {
+      "Level": 16,
+      "Star": 4,
+      "NeedExp": 3105
+    },
+    {
+      "Level": 17,
+      "Star": 4,
+      "NeedExp": 3410
+    },
+    {
+      "Level": 18,
+      "Star": 4,
+      "NeedExp": 3725
+    },
+    {
+      "Level": 19,
+      "Star": 4,
+      "NeedExp": 4045
+    },
+    {
+      "Level": 20,
+      "Star": 4,
+      "NeedExp": 4380
+    },
+    {
+      "Level": 21,
+      "Star": 4,
+      "NeedExp": 4680
+    },
+    {
+      "Level": 22,
+      "Star": 4,
+      "NeedExp": 5000
+    },
+    {
+      "Level": 23,
+      "Star": 4,
+      "NeedExp": 5320
+    },
+    {
+      "Level": 24,
+      "Star": 4,
+      "NeedExp": 5660
+    },
+    {
+      "Level": 25,
+      "Star": 4,
+      "NeedExp": 5995
+    },
+    {
+      "Level": 26,
+      "Star": 4,
+      "NeedExp": 6345
+    },
+    {
+      "Level": 27,
+      "Star": 4,
+      "NeedExp": 6700
+    },
+    {
+      "Level": 28,
+      "Star": 4,
+      "NeedExp": 7065
+    },
+    {
+      "Level": 29,
+      "Star": 4,
+      "NeedExp": 7435
+    },
+    {
+      "Level": 30,
+      "Star": 4,
+      "NeedExp": 7820
+    },
+    {
+      "Level": 1,
+      "Star": 5,
+      "NeedExp": 0
+    },
+    {
+      "Level": 2,
+      "Star": 5,
+      "NeedExp": 215
+    },
+    {
+      "Level": 3,
+      "Star": 5,
+      "NeedExp": 435
+    },
+    {
+      "Level": 4,
+      "Star": 5,
+      "NeedExp": 670
+    },
+    {
+      "Level": 5,
+      "Star": 5,
+      "NeedExp": 910
+    },
+    {
+      "Level": 6,
+      "Star": 5,
+      "NeedExp": 1170
+    },
+    {
+      "Level": 7,
+      "Star": 5,
+      "NeedExp": 1410
+    },
+    {
+      "Level": 8,
+      "Star": 5,
+      "NeedExp": 1700
+    },
+    {
+      "Level": 9,
+      "Star": 5,
+      "NeedExp": 1985
+    },
+    {
+      "Level": 10,
+      "Star": 5,
+      "NeedExp": 2290
+    },
+    {
+      "Level": 11,
+      "Star": 5,
+      "NeedExp": 2580
+    },
+    {
+      "Level": 12,
+      "Star": 5,
+      "NeedExp": 2915
+    },
+    {
+      "Level": 13,
+      "Star": 5,
+      "NeedExp": 3220
+    },
+    {
+      "Level": 14,
+      "Star": 5,
+      "NeedExp": 3565
+    },
+    {
+      "Level": 15,
+      "Star": 5,
+      "NeedExp": 3910
+    },
+    {
+      "Level": 16,
+      "Star": 5,
+      "NeedExp": 3130
+    },
+    {
+      "Level": 17,
+      "Star": 5,
+      "NeedExp": 3455
+    },
+    {
+      "Level": 18,
+      "Star": 5,
+      "NeedExp": 3790
+    },
+    {
+      "Level": 19,
+      "Star": 5,
+      "NeedExp": 4135
+    },
+    {
+      "Level": 20,
+      "Star": 5,
+      "NeedExp": 4495
+    },
+    {
+      "Level": 21,
+      "Star": 5,
+      "NeedExp": 4805
+    },
+    {
+      "Level": 22,
+      "Star": 5,
+      "NeedExp": 5130
+    },
+    {
+      "Level": 23,
+      "Star": 5,
+      "NeedExp": 5460
+    },
+    {
+      "Level": 24,
+      "Star": 5,
+      "NeedExp": 5810
+    },
+    {
+      "Level": 25,
+      "Star": 5,
+      "NeedExp": 6155
+    },
+    {
+      "Level": 26,
+      "Star": 5,
+      "NeedExp": 6515
+    },
+    {
+      "Level": 27,
+      "Star": 5,
+      "NeedExp": 6875
+    },
+    {
+      "Level": 28,
+      "Star": 5,
+      "NeedExp": 7250
+    },
+    {
+      "Level": 29,
+      "Star": 5,
+      "NeedExp": 7630
+    },
+    {
+      "Level": 30,
+      "Star": 5,
+      "NeedExp": 8025
+    }
+  ]
+}

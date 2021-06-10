@@ -1,0 +1,4004 @@
+{
+  "BossChallengeReward": [
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 25,
+      "CampaignBossLevel": 25,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 26,
+      "CampaignBossLevel": 26,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 27,
+      "CampaignBossLevel": 27,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 28,
+      "CampaignBossLevel": 28,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 29,
+      "CampaignBossLevel": 29,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 30,
+      "CampaignBossLevel": 30,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 31,
+      "CampaignBossLevel": 31,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 32,
+      "CampaignBossLevel": 32,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 33,
+      "CampaignBossLevel": 33,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 34,
+      "CampaignBossLevel": 34,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 35,
+      "CampaignBossLevel": 35,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 36,
+      "CampaignBossLevel": 36,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 37,
+      "CampaignBossLevel": 37,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 38,
+      "CampaignBossLevel": 38,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 39,
+      "CampaignBossLevel": 39,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 40,
+      "CampaignBossLevel": 40,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 41,
+      "CampaignBossLevel": 41,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 42,
+      "CampaignBossLevel": 42,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 43,
+      "CampaignBossLevel": 43,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 44,
+      "CampaignBossLevel": 44,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 45,
+      "CampaignBossLevel": 45,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 46,
+      "CampaignBossLevel": 46,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 47,
+      "CampaignBossLevel": 47,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 48,
+      "CampaignBossLevel": 48,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 49,
+      "CampaignBossLevel": 49,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 50,
+      "CampaignBossLevel": 50,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 51,
+      "CampaignBossLevel": 51,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 52,
+      "CampaignBossLevel": 52,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 53,
+      "CampaignBossLevel": 53,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 54,
+      "CampaignBossLevel": 54,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 55,
+      "CampaignBossLevel": 55,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 56,
+      "CampaignBossLevel": 56,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 57,
+      "CampaignBossLevel": 57,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 58,
+      "CampaignBossLevel": 58,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 59,
+      "CampaignBossLevel": 59,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 60,
+      "CampaignBossLevel": 60,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 61,
+      "CampaignBossLevel": 61,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 62,
+      "CampaignBossLevel": 62,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 63,
+      "CampaignBossLevel": 63,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 64,
+      "CampaignBossLevel": 64,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 65,
+      "CampaignBossLevel": 65,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 66,
+      "CampaignBossLevel": 66,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 67,
+      "CampaignBossLevel": 67,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 68,
+      "CampaignBossLevel": 68,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 69,
+      "CampaignBossLevel": 69,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 70,
+      "CampaignBossLevel": 70,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 71,
+      "CampaignBossLevel": 71,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 72,
+      "CampaignBossLevel": 72,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 73,
+      "CampaignBossLevel": 73,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 74,
+      "CampaignBossLevel": 74,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 75,
+      "CampaignBossLevel": 75,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 76,
+      "CampaignBossLevel": 76,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 77,
+      "CampaignBossLevel": 77,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 78,
+      "CampaignBossLevel": 78,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 79,
+      "CampaignBossLevel": 79,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 80,
+      "CampaignBossLevel": 80,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 81,
+      "CampaignBossLevel": 81,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 82,
+      "CampaignBossLevel": 82,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 83,
+      "CampaignBossLevel": 83,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 84,
+      "CampaignBossLevel": 84,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 85,
+      "CampaignBossLevel": 85,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 86,
+      "CampaignBossLevel": 86,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 87,
+      "CampaignBossLevel": 87,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 88,
+      "CampaignBossLevel": 88,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 89,
+      "CampaignBossLevel": 89,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 90,
+      "CampaignBossLevel": 90,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 91,
+      "CampaignBossLevel": 91,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 92,
+      "CampaignBossLevel": 92,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 93,
+      "CampaignBossLevel": 93,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 94,
+      "CampaignBossLevel": 94,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 95,
+      "CampaignBossLevel": 95,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 96,
+      "CampaignBossLevel": 96,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 97,
+      "CampaignBossLevel": 97,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 98,
+      "CampaignBossLevel": 98,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 99,
+      "CampaignBossLevel": 99,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 100,
+      "CampaignBossLevel": 100,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 101,
+      "CampaignBossLevel": 101,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 102,
+      "CampaignBossLevel": 102,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 103,
+      "CampaignBossLevel": 103,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "BossChallengeMonsterlv": 104,
+      "CampaignBossLevel": 104,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 25,
+      "CampaignBossLevel": 25,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 26,
+      "CampaignBossLevel": 26,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 27,
+      "CampaignBossLevel": 27,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 28,
+      "CampaignBossLevel": 28,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 29,
+      "CampaignBossLevel": 29,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 30,
+      "CampaignBossLevel": 30,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 31,
+      "CampaignBossLevel": 31,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 32,
+      "CampaignBossLevel": 32,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 33,
+      "CampaignBossLevel": 33,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 34,
+      "CampaignBossLevel": 34,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 35,
+      "CampaignBossLevel": 35,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 36,
+      "CampaignBossLevel": 36,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 37,
+      "CampaignBossLevel": 37,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 38,
+      "CampaignBossLevel": 38,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 39,
+      "CampaignBossLevel": 39,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 40,
+      "CampaignBossLevel": 40,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 41,
+      "CampaignBossLevel": 41,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 42,
+      "CampaignBossLevel": 42,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 43,
+      "CampaignBossLevel": 43,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 44,
+      "CampaignBossLevel": 44,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 45,
+      "CampaignBossLevel": 45,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 46,
+      "CampaignBossLevel": 46,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 47,
+      "CampaignBossLevel": 47,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 48,
+      "CampaignBossLevel": 48,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 49,
+      "CampaignBossLevel": 49,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 50,
+      "CampaignBossLevel": 50,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 51,
+      "CampaignBossLevel": 51,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 52,
+      "CampaignBossLevel": 52,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 53,
+      "CampaignBossLevel": 53,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 54,
+      "CampaignBossLevel": 54,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 55,
+      "CampaignBossLevel": 55,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 56,
+      "CampaignBossLevel": 56,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 57,
+      "CampaignBossLevel": 57,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 58,
+      "CampaignBossLevel": 58,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 59,
+      "CampaignBossLevel": 59,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 60,
+      "CampaignBossLevel": 60,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 61,
+      "CampaignBossLevel": 61,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 62,
+      "CampaignBossLevel": 62,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 63,
+      "CampaignBossLevel": 63,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 64,
+      "CampaignBossLevel": 64,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 65,
+      "CampaignBossLevel": 65,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 66,
+      "CampaignBossLevel": 66,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 67,
+      "CampaignBossLevel": 67,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 68,
+      "CampaignBossLevel": 68,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 69,
+      "CampaignBossLevel": 69,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 70,
+      "CampaignBossLevel": 70,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 71,
+      "CampaignBossLevel": 71,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 72,
+      "CampaignBossLevel": 72,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 73,
+      "CampaignBossLevel": 73,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 74,
+      "CampaignBossLevel": 74,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 75,
+      "CampaignBossLevel": 75,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 76,
+      "CampaignBossLevel": 76,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 77,
+      "CampaignBossLevel": 77,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 78,
+      "CampaignBossLevel": 78,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 79,
+      "CampaignBossLevel": 79,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 80,
+      "CampaignBossLevel": 80,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 81,
+      "CampaignBossLevel": 81,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 82,
+      "CampaignBossLevel": 82,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 83,
+      "CampaignBossLevel": 83,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 84,
+      "CampaignBossLevel": 84,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 85,
+      "CampaignBossLevel": 85,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 86,
+      "CampaignBossLevel": 86,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 87,
+      "CampaignBossLevel": 87,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 88,
+      "CampaignBossLevel": 88,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 89,
+      "CampaignBossLevel": 89,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 90,
+      "CampaignBossLevel": 90,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 91,
+      "CampaignBossLevel": 91,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 92,
+      "CampaignBossLevel": 92,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 93,
+      "CampaignBossLevel": 93,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 94,
+      "CampaignBossLevel": 94,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 95,
+      "CampaignBossLevel": 95,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 96,
+      "CampaignBossLevel": 96,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 97,
+      "CampaignBossLevel": 97,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 98,
+      "CampaignBossLevel": 98,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 99,
+      "CampaignBossLevel": 99,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 100,
+      "CampaignBossLevel": 100,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 101,
+      "CampaignBossLevel": 101,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 102,
+      "CampaignBossLevel": 102,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 103,
+      "CampaignBossLevel": 103,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "BossChallengeMonsterlv": 104,
+      "CampaignBossLevel": 104,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 25,
+      "CampaignBossLevel": 25,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 26,
+      "CampaignBossLevel": 26,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 27,
+      "CampaignBossLevel": 27,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 28,
+      "CampaignBossLevel": 28,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 29,
+      "CampaignBossLevel": 29,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 30,
+      "CampaignBossLevel": 30,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 31,
+      "CampaignBossLevel": 31,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 32,
+      "CampaignBossLevel": 32,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 33,
+      "CampaignBossLevel": 33,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 34,
+      "CampaignBossLevel": 34,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 35,
+      "CampaignBossLevel": 35,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 36,
+      "CampaignBossLevel": 36,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 37,
+      "CampaignBossLevel": 37,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 38,
+      "CampaignBossLevel": 38,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 39,
+      "CampaignBossLevel": 39,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 40,
+      "CampaignBossLevel": 40,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 41,
+      "CampaignBossLevel": 41,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 42,
+      "CampaignBossLevel": 42,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 43,
+      "CampaignBossLevel": 43,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 44,
+      "CampaignBossLevel": 44,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 45,
+      "CampaignBossLevel": 45,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 46,
+      "CampaignBossLevel": 46,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 47,
+      "CampaignBossLevel": 47,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 48,
+      "CampaignBossLevel": 48,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 49,
+      "CampaignBossLevel": 49,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 50,
+      "CampaignBossLevel": 50,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 51,
+      "CampaignBossLevel": 51,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 52,
+      "CampaignBossLevel": 52,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 53,
+      "CampaignBossLevel": 53,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 54,
+      "CampaignBossLevel": 54,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 55,
+      "CampaignBossLevel": 55,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 56,
+      "CampaignBossLevel": 56,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 57,
+      "CampaignBossLevel": 57,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 58,
+      "CampaignBossLevel": 58,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 59,
+      "CampaignBossLevel": 59,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 60,
+      "CampaignBossLevel": 60,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 61,
+      "CampaignBossLevel": 61,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 62,
+      "CampaignBossLevel": 62,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 63,
+      "CampaignBossLevel": 63,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 64,
+      "CampaignBossLevel": 64,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 65,
+      "CampaignBossLevel": 65,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 66,
+      "CampaignBossLevel": 66,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 67,
+      "CampaignBossLevel": 67,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 68,
+      "CampaignBossLevel": 68,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 69,
+      "CampaignBossLevel": 69,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 70,
+      "CampaignBossLevel": 70,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 71,
+      "CampaignBossLevel": 71,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 72,
+      "CampaignBossLevel": 72,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 73,
+      "CampaignBossLevel": 73,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 74,
+      "CampaignBossLevel": 74,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 75,
+      "CampaignBossLevel": 75,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 76,
+      "CampaignBossLevel": 76,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 77,
+      "CampaignBossLevel": 77,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 78,
+      "CampaignBossLevel": 78,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 79,
+      "CampaignBossLevel": 79,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 80,
+      "CampaignBossLevel": 80,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 81,
+      "CampaignBossLevel": 81,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 82,
+      "CampaignBossLevel": 82,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 83,
+      "CampaignBossLevel": 83,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 84,
+      "CampaignBossLevel": 84,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 85,
+      "CampaignBossLevel": 85,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 86,
+      "CampaignBossLevel": 86,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 87,
+      "CampaignBossLevel": 87,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 88,
+      "CampaignBossLevel": 88,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 89,
+      "CampaignBossLevel": 89,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 90,
+      "CampaignBossLevel": 90,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 91,
+      "CampaignBossLevel": 91,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 92,
+      "CampaignBossLevel": 92,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 93,
+      "CampaignBossLevel": 93,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 94,
+      "CampaignBossLevel": 94,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 95,
+      "CampaignBossLevel": 95,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 96,
+      "CampaignBossLevel": 96,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 97,
+      "CampaignBossLevel": 97,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 98,
+      "CampaignBossLevel": 98,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 99,
+      "CampaignBossLevel": 99,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 100,
+      "CampaignBossLevel": 100,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 101,
+      "CampaignBossLevel": 101,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 102,
+      "CampaignBossLevel": 102,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 103,
+      "CampaignBossLevel": 103,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "BossChallengeMonsterlv": 104,
+      "CampaignBossLevel": 104,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 25,
+      "CampaignBossLevel": 25,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 26,
+      "CampaignBossLevel": 26,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 27,
+      "CampaignBossLevel": 27,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 28,
+      "CampaignBossLevel": 28,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 29,
+      "CampaignBossLevel": 29,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 30,
+      "CampaignBossLevel": 30,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 31,
+      "CampaignBossLevel": 31,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 32,
+      "CampaignBossLevel": 32,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 33,
+      "CampaignBossLevel": 33,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 34,
+      "CampaignBossLevel": 34,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 35,
+      "CampaignBossLevel": 35,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 36,
+      "CampaignBossLevel": 36,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 37,
+      "CampaignBossLevel": 37,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 38,
+      "CampaignBossLevel": 38,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 39,
+      "CampaignBossLevel": 39,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 40,
+      "CampaignBossLevel": 40,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 41,
+      "CampaignBossLevel": 41,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 42,
+      "CampaignBossLevel": 42,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 43,
+      "CampaignBossLevel": 43,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 44,
+      "CampaignBossLevel": 44,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 45,
+      "CampaignBossLevel": 45,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 46,
+      "CampaignBossLevel": 46,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 47,
+      "CampaignBossLevel": 47,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 48,
+      "CampaignBossLevel": 48,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 49,
+      "CampaignBossLevel": 49,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 50,
+      "CampaignBossLevel": 50,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 51,
+      "CampaignBossLevel": 51,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 52,
+      "CampaignBossLevel": 52,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 53,
+      "CampaignBossLevel": 53,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 54,
+      "CampaignBossLevel": 54,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 55,
+      "CampaignBossLevel": 55,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 56,
+      "CampaignBossLevel": 56,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 57,
+      "CampaignBossLevel": 57,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 58,
+      "CampaignBossLevel": 58,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 59,
+      "CampaignBossLevel": 59,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 60,
+      "CampaignBossLevel": 60,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 61,
+      "CampaignBossLevel": 61,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 62,
+      "CampaignBossLevel": 62,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 63,
+      "CampaignBossLevel": 63,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 64,
+      "CampaignBossLevel": 64,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 65,
+      "CampaignBossLevel": 65,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 66,
+      "CampaignBossLevel": 66,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 67,
+      "CampaignBossLevel": 67,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 68,
+      "CampaignBossLevel": 68,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 69,
+      "CampaignBossLevel": 69,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 70,
+      "CampaignBossLevel": 70,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 71,
+      "CampaignBossLevel": 71,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 72,
+      "CampaignBossLevel": 72,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 73,
+      "CampaignBossLevel": 73,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 74,
+      "CampaignBossLevel": 74,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 75,
+      "CampaignBossLevel": 75,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 76,
+      "CampaignBossLevel": 76,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 77,
+      "CampaignBossLevel": 77,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 78,
+      "CampaignBossLevel": 78,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 79,
+      "CampaignBossLevel": 79,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 80,
+      "CampaignBossLevel": 80,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 81,
+      "CampaignBossLevel": 81,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 82,
+      "CampaignBossLevel": 82,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 83,
+      "CampaignBossLevel": 83,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 84,
+      "CampaignBossLevel": 84,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 85,
+      "CampaignBossLevel": 85,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 86,
+      "CampaignBossLevel": 86,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 87,
+      "CampaignBossLevel": 87,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 88,
+      "CampaignBossLevel": 88,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 89,
+      "CampaignBossLevel": 89,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 90,
+      "CampaignBossLevel": 90,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 91,
+      "CampaignBossLevel": 91,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 92,
+      "CampaignBossLevel": 92,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 93,
+      "CampaignBossLevel": 93,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 94,
+      "CampaignBossLevel": 94,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 95,
+      "CampaignBossLevel": 95,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 96,
+      "CampaignBossLevel": 96,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 97,
+      "CampaignBossLevel": 97,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 98,
+      "CampaignBossLevel": 98,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 99,
+      "CampaignBossLevel": 99,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 100,
+      "CampaignBossLevel": 100,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 101,
+      "CampaignBossLevel": 101,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 102,
+      "CampaignBossLevel": 102,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 103,
+      "CampaignBossLevel": 103,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "BossChallengeMonsterlv": 104,
+      "CampaignBossLevel": 104,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 25,
+      "CampaignBossLevel": 25,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 26,
+      "CampaignBossLevel": 26,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 27,
+      "CampaignBossLevel": 27,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 28,
+      "CampaignBossLevel": 28,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 29,
+      "CampaignBossLevel": 29,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 30,
+      "CampaignBossLevel": 30,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 31,
+      "CampaignBossLevel": 31,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 32,
+      "CampaignBossLevel": 32,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 33,
+      "CampaignBossLevel": 33,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 34,
+      "CampaignBossLevel": 34,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 35,
+      "CampaignBossLevel": 35,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 36,
+      "CampaignBossLevel": 36,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 37,
+      "CampaignBossLevel": 37,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 38,
+      "CampaignBossLevel": 38,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 39,
+      "CampaignBossLevel": 39,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 40,
+      "CampaignBossLevel": 40,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 41,
+      "CampaignBossLevel": 41,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 42,
+      "CampaignBossLevel": 42,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 43,
+      "CampaignBossLevel": 43,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 44,
+      "CampaignBossLevel": 44,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 45,
+      "CampaignBossLevel": 45,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 46,
+      "CampaignBossLevel": 46,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 47,
+      "CampaignBossLevel": 47,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 48,
+      "CampaignBossLevel": 48,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 49,
+      "CampaignBossLevel": 49,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 50,
+      "CampaignBossLevel": 50,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 51,
+      "CampaignBossLevel": 51,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 52,
+      "CampaignBossLevel": 52,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 53,
+      "CampaignBossLevel": 53,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 54,
+      "CampaignBossLevel": 54,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 55,
+      "CampaignBossLevel": 55,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 56,
+      "CampaignBossLevel": 56,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 57,
+      "CampaignBossLevel": 57,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 58,
+      "CampaignBossLevel": 58,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 59,
+      "CampaignBossLevel": 59,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 60,
+      "CampaignBossLevel": 60,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 61,
+      "CampaignBossLevel": 61,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 62,
+      "CampaignBossLevel": 62,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 63,
+      "CampaignBossLevel": 63,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 64,
+      "CampaignBossLevel": 64,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 65,
+      "CampaignBossLevel": 65,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 66,
+      "CampaignBossLevel": 66,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 67,
+      "CampaignBossLevel": 67,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 68,
+      "CampaignBossLevel": 68,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 69,
+      "CampaignBossLevel": 69,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 70,
+      "CampaignBossLevel": 70,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 71,
+      "CampaignBossLevel": 71,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 72,
+      "CampaignBossLevel": 72,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 73,
+      "CampaignBossLevel": 73,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 74,
+      "CampaignBossLevel": 74,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 75,
+      "CampaignBossLevel": 75,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 76,
+      "CampaignBossLevel": 76,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 77,
+      "CampaignBossLevel": 77,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 78,
+      "CampaignBossLevel": 78,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 79,
+      "CampaignBossLevel": 79,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 80,
+      "CampaignBossLevel": 80,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 81,
+      "CampaignBossLevel": 81,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 82,
+      "CampaignBossLevel": 82,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 83,
+      "CampaignBossLevel": 83,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 84,
+      "CampaignBossLevel": 84,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 85,
+      "CampaignBossLevel": 85,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 86,
+      "CampaignBossLevel": 86,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 87,
+      "CampaignBossLevel": 87,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 88,
+      "CampaignBossLevel": 88,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 89,
+      "CampaignBossLevel": 89,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 90,
+      "CampaignBossLevel": 90,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 91,
+      "CampaignBossLevel": 91,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 92,
+      "CampaignBossLevel": 92,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 93,
+      "CampaignBossLevel": 93,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 94,
+      "CampaignBossLevel": 94,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 95,
+      "CampaignBossLevel": 95,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 96,
+      "CampaignBossLevel": 96,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 97,
+      "CampaignBossLevel": 97,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 98,
+      "CampaignBossLevel": 98,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 99,
+      "CampaignBossLevel": 99,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 100,
+      "CampaignBossLevel": 100,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 101,
+      "CampaignBossLevel": 101,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 102,
+      "CampaignBossLevel": 102,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 103,
+      "CampaignBossLevel": 103,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "BossChallengeMonsterlv": 104,
+      "CampaignBossLevel": 104,
+      "BattleExp": "0",
+      "FindReward": 2,
+      "KillReward": 3,
+      "OnceReward": 1,
+      "ShareReward": 4
+    }
+  ]
+}

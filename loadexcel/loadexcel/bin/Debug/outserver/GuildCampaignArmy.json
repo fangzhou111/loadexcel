@@ -1,0 +1,279 @@
+{
+  "GuildCampaignArmy": [
+    {
+      "CampaignID": 3001001,
+      "Index": 5,
+      "MonsterBaseID": 9021014,
+      "Level": 30,
+      "Type": 300,
+      "ID": 4,
+      "MonsterSize": 150,
+      "BossShow": 0,
+      "MonsterType": 3
+    },
+    {
+      "CampaignID": 3001002,
+      "Index": 5,
+      "MonsterBaseID": 9021013,
+      "Level": 31,
+      "Type": 300,
+      "ID": 4,
+      "MonsterSize": 150,
+      "BossShow": 0,
+      "MonsterType": 3
+    },
+    {
+      "CampaignID": 3001003,
+      "Index": 5,
+      "MonsterBaseID": 9021012,
+      "Level": 32,
+      "Type": 300,
+      "ID": 4,
+      "MonsterSize": 150,
+      "BossShow": 0,
+      "MonsterType": 3
+    },
+    {
+      "CampaignID": 3001004,
+      "Index": 5,
+      "MonsterBaseID": 9021011,
+      "Level": 33,
+      "Type": 300,
+      "ID": 4,
+      "MonsterSize": 150,
+      "BossShow": 0,
+      "MonsterType": 3
+    },
+    {
+      "CampaignID": 3001005,
+      "Index": 5,
+      "MonsterBaseID": 9021010,
+      "Level": 34,
+      "Type": 300,
+      "ID": 4,
+      "MonsterSize": 150,
+      "BossShow": 0,
+      "MonsterType": 3
+    },
+    {
+      "CampaignID": 3002001,
+      "Index": 5,
+      "MonsterBaseID": 9021009,
+      "Level": 40,
+      "Type": 300,
+      "ID": 4,
+      "MonsterSize": 150,
+      "BossShow": 0,
+      "MonsterType": 3
+    },
+    {
+      "CampaignID": 3002002,
+      "Index": 5,
+      "MonsterBaseID": 9021014,
+      "Level": 41,
+      "Type": 300,
+      "ID": 4,
+      "MonsterSize": 150,
+      "BossShow": 0,
+      "MonsterType": 3
+    },
+    {
+      "CampaignID": 3002003,
+      "Index": 5,
+      "MonsterBaseID": 9021206,
+      "Level": 42,
+      "Type": 300,
+      "ID": 4,
+      "MonsterSize": 150,
+      "BossShow": 0,
+      "MonsterType": 3
+    },
+    {
+      "CampaignID": 3002004,
+      "Index": 5,
+      "MonsterBaseID": 9021205,
+      "Level": 43,
+      "Type": 300,
+      "ID": 4,
+      "MonsterSize": 150,
+      "BossShow": 0,
+      "MonsterType": 3
+    },
+    {
+      "CampaignID": 3002005,
+      "Index": 5,
+      "MonsterBaseID": 9021204,
+      "Level": 44,
+      "Type": 300,
+      "ID": 4,
+      "MonsterSize": 150,
+      "BossShow": 0,
+      "MonsterType": 3
+    },
+    {
+      "CampaignID": 3003001,
+      "Index": 5,
+      "MonsterBaseID": 9011014,
+      "Level": 50,
+      "Type": 300,
+      "ID": 4,
+      "MonsterSize": 150,
+      "BossShow": 0,
+      "MonsterType": 3
+    },
+    {
+      "CampaignID": 3003002,
+      "Index": 5,
+      "MonsterBaseID": 9011013,
+      "Level": 51,
+      "Type": 300,
+      "ID": 4,
+      "MonsterSize": 150,
+      "BossShow": 0,
+      "MonsterType": 3
+    },
+    {
+      "CampaignID": 3003003,
+      "Index": 5,
+      "MonsterBaseID": 9011012,
+      "Level": 52,
+      "Type": 300,
+      "ID": 4,
+      "MonsterSize": 150,
+      "BossShow": 0,
+      "MonsterType": 3
+    },
+    {
+      "CampaignID": 3003004,
+      "Index": 5,
+      "MonsterBaseID": 9011011,
+      "Level": 53,
+      "Type": 300,
+      "ID": 4,
+      "MonsterSize": 150,
+      "BossShow": 0,
+      "MonsterType": 3
+    },
+    {
+      "CampaignID": 3003005,
+      "Index": 5,
+      "MonsterBaseID": 9011010,
+      "Level": 54,
+      "Type": 300,
+      "ID": 4,
+      "MonsterSize": 150,
+      "BossShow": 0,
+      "MonsterType": 3
+    },
+    {
+      "CampaignID": 3004001,
+      "Index": 5,
+      "MonsterBaseID": 9031014,
+      "Level": 60,
+      "Type": 300,
+      "ID": 4,
+      "MonsterSize": 150,
+      "BossShow": 0,
+      "MonsterType": 3
+    },
+    {
+      "CampaignID": 3004002,
+      "Index": 5,
+      "MonsterBaseID": 9031013,
+      "Level": 61,
+      "Type": 300,
+      "ID": 4,
+      "MonsterSize": 150,
+      "BossShow": 0,
+      "MonsterType": 3
+    },
+    {
+      "CampaignID": 3004003,
+      "Index": 5,
+      "MonsterBaseID": 9031012,
+      "Level": 62,
+      "Type": 300,
+      "ID": 4,
+      "MonsterSize": 150,
+      "BossShow": 0,
+      "MonsterType": 3
+    },
+    {
+      "CampaignID": 3004004,
+      "Index": 5,
+      "MonsterBaseID": 9031011,
+      "Level": 63,
+      "Type": 300,
+      "ID": 4,
+      "MonsterSize": 150,
+      "BossShow": 0,
+      "MonsterType": 3
+    },
+    {
+      "CampaignID": 3004005,
+      "Index": 5,
+      "MonsterBaseID": 9031010,
+      "Level": 64,
+      "Type": 300,
+      "ID": 4,
+      "MonsterSize": 150,
+      "BossShow": 0,
+      "MonsterType": 3
+    },
+    {
+      "CampaignID": 3005001,
+      "Index": 5,
+      "MonsterBaseID": 9011009,
+      "Level": 70,
+      "Type": 300,
+      "ID": 4,
+      "MonsterSize": 150,
+      "BossShow": 0,
+      "MonsterType": 3
+    },
+    {
+      "CampaignID": 3005002,
+      "Index": 5,
+      "MonsterBaseID": 9011008,
+      "Level": 71,
+      "Type": 300,
+      "ID": 4,
+      "MonsterSize": 150,
+      "BossShow": 0,
+      "MonsterType": 3
+    },
+    {
+      "CampaignID": 3005003,
+      "Index": 5,
+      "MonsterBaseID": 9011206,
+      "Level": 72,
+      "Type": 300,
+      "ID": 4,
+      "MonsterSize": 150,
+      "BossShow": 0,
+      "MonsterType": 3
+    },
+    {
+      "CampaignID": 3005004,
+      "Index": 5,
+      "MonsterBaseID": 9011205,
+      "Level": 73,
+      "Type": 300,
+      "ID": 4,
+      "MonsterSize": 150,
+      "BossShow": 0,
+      "MonsterType": 3
+    },
+    {
+      "CampaignID": 3005005,
+      "Index": 5,
+      "MonsterBaseID": 9011204,
+      "Level": 74,
+      "Type": 300,
+      "ID": 4,
+      "MonsterSize": 150,
+      "BossShow": 0,
+      "MonsterType": 3
+    }
+  ]
+}

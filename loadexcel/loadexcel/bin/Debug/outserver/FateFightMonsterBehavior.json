@@ -1,0 +1,1684 @@
+{
+  "FateFightMonsterBehavior": [
+    {
+      "MonsterBehaviorID": 216050000,
+      "AIs": "顺劈斩Mst",
+      "SkillIDs": "93131010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 216050060,
+      "AIs": "顺劈斩Mst",
+      "SkillIDs": "93131010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201010000,
+      "AIs": "盾牌格挡Mst",
+      "SkillIDs": "91111010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201010001,
+      "AIs": "盾牌格挡Mst",
+      "SkillIDs": "91111010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201010060,
+      "AIs": "盾牌格挡Mst",
+      "SkillIDs": "91111010@91111040",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 207010000,
+      "AIs": "盾牌格挡Mst",
+      "SkillIDs": "91111010@91111040",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 207010060,
+      "AIs": "盾牌格挡Mst",
+      "SkillIDs": "91111010@91111040",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201020000,
+      "AIs": "群体治疗术Mst",
+      "SkillIDs": "92331010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201020001,
+      "AIs": "群体治疗术Mst@圣光箭雨Mst",
+      "SkillIDs": "92331010@92331040",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201020060,
+      "AIs": "群体治疗术Mst@圣光箭雨Mst",
+      "SkillIDs": "92331010@92331040",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201020061,
+      "AIs": "炎爆术Mst@冲击波Mst@龙息术Mst",
+      "SkillIDs": "94211010@94211060@94211020",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201040000,
+      "AIs": "顺劈斩Mst",
+      "SkillIDs": "93131010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201040001,
+      "AIs": "顺劈斩Mst",
+      "SkillIDs": "93131010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201040060,
+      "AIs": "顺劈斩Mst",
+      "SkillIDs": "93131010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201050000,
+      "AIs": "狂怒Mst",
+      "SkillIDs": "93121010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201050001,
+      "AIs": "狂怒Mst",
+      "SkillIDs": "93121010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201050060,
+      "AIs": "狂怒Mst",
+      "SkillIDs": "93121010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201060000,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201060001,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201060060,
+      "AIs": "险恶攻击Mst@刀扇Mst@暗影乱舞Mst",
+      "SkillIDs": "93901010@93901020@93901050@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201060061,
+      "AIs": "险恶攻击Mst@刀扇Mst@险恶Mst",
+      "SkillIDs": "93901010@93901020@93901030",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201070000,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201070060,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201080000,
+      "AIs": "审判Mst",
+      "SkillIDs": "93021010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201080060,
+      "AIs": "审判Mst",
+      "SkillIDs": "93021010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 223010000,
+      "AIs": "狂怒Mst",
+      "SkillIDs": "93121010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 223010060,
+      "AIs": "狂怒Mst@破城攻击-单体Mst@狂暴Mst@旋风斩Mst",
+      "SkillIDs": "93121010@93121023@93121030@93122010@93131040@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 206010000,
+      "AIs": "裂伤Mst",
+      "SkillIDs": "91411010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 206010001,
+      "AIs": "裂伤Mst",
+      "SkillIDs": "91411010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 206010060,
+      "AIs": "盾牌格挡Mst@破甲Mst@震荡波-单体Mst",
+      "SkillIDs": "91111010@91111020@91111032@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 207020000,
+      "AIs": "",
+      "SkillIDs": "",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 207020060,
+      "AIs": "",
+      "SkillIDs": "",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 207030060,
+      "AIs": "白骨护盾Mst",
+      "SkillIDs": "91811010@91111040",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 207030061,
+      "AIs": "白骨护盾Mst@死亡凋零Mst@灵界打击Mst",
+      "SkillIDs": "91811010@91811020@91811030@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 210010000,
+      "AIs": "冰锥术Mst",
+      "SkillIDs": "94221010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 210010060,
+      "AIs": "冰锥术Mst",
+      "SkillIDs": "94221010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 215010000,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 215010060,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 215020000,
+      "AIs": "奥术射击Mst",
+      "SkillIDs": "93701010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 215020060,
+      "AIs": "奥术射击Mst",
+      "SkillIDs": "93701010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201100000,
+      "AIs": "狂怒Mst",
+      "SkillIDs": "93121010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201100060,
+      "AIs": "盾牌格挡Mst@破甲Mst@震荡波Mst@激怒Mst",
+      "SkillIDs": "91111010@91111020@91111030@91111040@91111050",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201120000,
+      "AIs": "盾牌格挡Mst",
+      "SkillIDs": "91111010@91111040",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201120060,
+      "AIs": "盾牌格挡Mst@破甲Mst@震荡波Mst",
+      "SkillIDs": "91111010@91111020@91111030@91111040",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201130000,
+      "AIs": "白骨护盾Mst",
+      "SkillIDs": "91811010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201130060,
+      "AIs": "白骨护盾Mst@死亡凋零Mst@灵界打击-单体Mst",
+      "SkillIDs": "91811010@91811020@91811032@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 214010000,
+      "AIs": "顺劈斩Mst",
+      "SkillIDs": "93131010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 214010060,
+      "AIs": "顺劈斩Mst@致死打击Mst",
+      "SkillIDs": "93131010@93131020",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 214010062,
+      "AIs": "顺劈斩Mst@致死打击Mst@破城攻击Mst",
+      "SkillIDs": "93131010@93131020@93121020@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 214010061,
+      "AIs": "盾牌格挡Mst@破甲Mst@震荡波Mst@激怒Mst",
+      "SkillIDs": "91111010@91111020@91111030@91111040@91111050@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 210020060,
+      "AIs": "冰锥术Mst@群体寒冰箭Mst@暴风雪Mst",
+      "SkillIDs": "94221010@94221020@94221030@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 210020061,
+      "AIs": "冰锥术Mst@群体寒冰箭Mst@暴风雪Mst",
+      "SkillIDs": "94221010@94221020@94221030",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 210020062,
+      "AIs": "冰锥术Mst@群体寒冰箭Mst@暴风雪Mst",
+      "SkillIDs": "94221010@94221020@94221030@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 210030060,
+      "AIs": "冰锥术Mst@群体寒冰箭Mst@暴风雪Mst",
+      "SkillIDs": "94221010@94221020@94221030@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 207050000,
+      "AIs": "",
+      "SkillIDs": "",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 207050060,
+      "AIs": "",
+      "SkillIDs": "",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 207100060,
+      "AIs": "暗影箭雨Mst@混乱箭Mst@暗影之怒Mst",
+      "SkillIDs": "94521010@94521020@94521040@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 219010060,
+      "AIs": "奥术射击Mst",
+      "SkillIDs": "93701010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 226010060,
+      "AIs": "白骨护盾Mst",
+      "SkillIDs": "91811010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 225010060,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 240010000,
+      "AIs": "顺劈斩Mst",
+      "SkillIDs": "93131010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 240010001,
+      "AIs": "顺劈斩Mst",
+      "SkillIDs": "93131010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 240020060,
+      "AIs": "顺劈斩Mst@致死打击Mst@破城攻击Mst",
+      "SkillIDs": "93131010@93131020@93121020",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 215040000,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 215050060,
+      "AIs": "狂怒Mst@嗜血Mst@横扫Mst",
+      "SkillIDs": "93121010@93631020@91411020@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 217010000,
+      "AIs": "闪电链Mst",
+      "SkillIDs": "94601010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 217010001,
+      "AIs": "闪电链Mst",
+      "SkillIDs": "94601010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 217010060,
+      "AIs": "顺劈斩Mst@致死打击Mst@鱼人-召唤Mst",
+      "SkillIDs": "93131010@93131020@93131030",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 243010000,
+      "AIs": "盾牌格挡Mst",
+      "SkillIDs": "91111010@91111040",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 243010060,
+      "AIs": "盾牌格挡Mst",
+      "SkillIDs": "91111010@91111040",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 222010000,
+      "AIs": "闪电链Mst",
+      "SkillIDs": "94601010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 222010001,
+      "AIs": "闪电链Mst",
+      "SkillIDs": "94601010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 222010060,
+      "AIs": "狂怒Mst@嗜血Mst@闪电链Mst",
+      "SkillIDs": "93121010@93631020@94601010@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 222010061,
+      "AIs": "狂怒Mst@嗜血Mst@闪电链Mst",
+      "SkillIDs": "93121010@93631020@94601010@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 222010062,
+      "AIs": "狂怒Mst@嗜血Mst@闪电链Mst",
+      "SkillIDs": "93121010@93631020@94601010@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 237010060,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 208010060,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 208020060,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 232010000,
+      "AIs": "奥术射击Mst",
+      "SkillIDs": "93701010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 232010001,
+      "AIs": "奥术射击Mst",
+      "SkillIDs": "93701010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 232010060,
+      "AIs": "奥术射击Mst",
+      "SkillIDs": "93701010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 229010060,
+      "AIs": "白骨护盾Mst",
+      "SkillIDs": "91811010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 10001,
+      "AIs": "",
+      "SkillIDs": "",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 245010000,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 245010060,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 245010061,
+      "AIs": "火球术Mst@龙息术Mst@冲击波Mst",
+      "SkillIDs": "94211040@94211020@94211060@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 210050000,
+      "AIs": "炎爆术Mst",
+      "SkillIDs": "94211010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 210050060,
+      "AIs": "炎爆术Mst",
+      "SkillIDs": "94211010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 210060060,
+      "AIs": "炎爆术Mst@龙息术Mst@流星Mst",
+      "SkillIDs": "94211010@94211020@94211030@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 210060061,
+      "AIs": "暗影箭雨Mst@混乱箭Mst@暗影爆裂Mst",
+      "SkillIDs": "94521010@94521020@94521050@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 210060062,
+      "AIs": "暗影箭雨Mst@混乱箭Mst@暗影爆裂Mst",
+      "SkillIDs": "94521010@94521020@94521050@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 215060000,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 244010000,
+      "AIs": "狂怒Mst",
+      "SkillIDs": "93121010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 244010060,
+      "AIs": "狂怒Mst",
+      "SkillIDs": "93121010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 244020060,
+      "AIs": "狂怒Mst@破城攻击Mst@狂暴Mst",
+      "SkillIDs": "93121010@93121020@93121030@93122010@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 244020061,
+      "AIs": "狂怒Mst@破城攻击Mst@狂暴Mst",
+      "SkillIDs": "93121010@93121020@93121030@93122010@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 244020062,
+      "AIs": "狂怒Mst@破城攻击Mst@狂暴Mst",
+      "SkillIDs": "93121010@93121020@93121030@93122010@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 218010000,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 218010001,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 218010060,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 218020000,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 218020001,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 218020060,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 215070000,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 215070001,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 215070060,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 210070060,
+      "AIs": "狂怒Mst",
+      "SkillIDs": "93121010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 210080000,
+      "AIs": "白骨护盾Mst",
+      "SkillIDs": "91811010@91111040",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 210080060,
+      "AIs": "白骨护盾Mst@死亡凋零Mst@灵界打击Mst",
+      "SkillIDs": "91811010@91811020@91811030@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201150060,
+      "AIs": "暗影箭雨Mst@混乱箭Mst@暗影之怒Mst@暗影烈焰Mst",
+      "SkillIDs": "94521010@94521020@94521030@94521040@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201160000,
+      "AIs": "冰锥术Mst",
+      "SkillIDs": "94221010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201160060,
+      "AIs": "冰锥术Mst@群体寒冰箭Mst@暴风雪Mst",
+      "SkillIDs": "94221010@94221020@94221030@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201160061,
+      "AIs": "冰锥术Mst@群体寒冰箭Mst@暴风雪Mst",
+      "SkillIDs": "94221010@94221020@94221030@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 211030000,
+      "AIs": "",
+      "SkillIDs": "",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 211030061,
+      "AIs": "",
+      "SkillIDs": "",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 211010060,
+      "AIs": "顺劈斩Mst",
+      "SkillIDs": "93131010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 211040000,
+      "AIs": "",
+      "SkillIDs": "",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 211040061,
+      "AIs": "",
+      "SkillIDs": "",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 211020060,
+      "AIs": "审判Mst",
+      "SkillIDs": "93021010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 211060060,
+      "AIs": "",
+      "SkillIDs": "",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 211070000,
+      "AIs": "冰锥术Mst",
+      "SkillIDs": "94221010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 211070001,
+      "AIs": "冰锥术Mst",
+      "SkillIDs": "94221010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 211070060,
+      "AIs": "冰锥术Mst",
+      "SkillIDs": "94221010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 211080000,
+      "AIs": "",
+      "SkillIDs": "",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 211080061,
+      "AIs": "",
+      "SkillIDs": "",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 204010000,
+      "AIs": "顺劈斩Mst",
+      "SkillIDs": "93131010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 204010001,
+      "AIs": "顺劈斩Mst",
+      "SkillIDs": "93131010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 204010060,
+      "AIs": "顺劈斩Mst",
+      "SkillIDs": "93131010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 205010060,
+      "AIs": "",
+      "SkillIDs": "",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 205020060,
+      "AIs": "暗影箭雨Mst@混乱箭Mst@暗影之怒Mst@暗影烈焰Mst",
+      "SkillIDs": "94521010@94521020@94521030@94521040@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 205030060,
+      "AIs": "冰锥术Mst",
+      "SkillIDs": "94221010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 210090000,
+      "AIs": "治疗术Mst",
+      "SkillIDs": "92311010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 210090001,
+      "AIs": "治疗术Mst",
+      "SkillIDs": "92311010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 210090060,
+      "AIs": "治疗术Mst",
+      "SkillIDs": "92311010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 210100000,
+      "AIs": "盾牌格挡Mst",
+      "SkillIDs": "91111010@91111040",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 210100001,
+      "AIs": "盾牌格挡Mst",
+      "SkillIDs": "91111010@91111040",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 210100060,
+      "AIs": "盾牌格挡Mst",
+      "SkillIDs": "91111010@91111040",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 210110000,
+      "AIs": "顺劈斩Mst",
+      "SkillIDs": "93131010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 210110001,
+      "AIs": "顺劈斩Mst",
+      "SkillIDs": "93131010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 210110060,
+      "AIs": "顺劈斩Mst",
+      "SkillIDs": "93131010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 210120000,
+      "AIs": "暗影箭雨Mst",
+      "SkillIDs": "94521010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 210120001,
+      "AIs": "暗影箭雨Mst",
+      "SkillIDs": "94521010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 210120060,
+      "AIs": "暗影箭雨Mst",
+      "SkillIDs": "94521010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 216060000,
+      "AIs": "火球术Mst@连珠火球Mst",
+      "SkillIDs": "94211040@94211070",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 216070000,
+      "AIs": "火球术Mst@连珠火球Mst",
+      "SkillIDs": "94211040@94211070",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 216070060,
+      "AIs": "火球术Mst@连珠火球Mst",
+      "SkillIDs": "94211040@94211070",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 216090060,
+      "AIs": "盾牌格挡Mst@破甲Mst@震荡波Mst",
+      "SkillIDs": "91111010@91111020@91111030@91111040",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 215080060,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 215090060,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 233010000,
+      "AIs": "",
+      "SkillIDs": "",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 233020060,
+      "AIs": "",
+      "SkillIDs": "",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 220010060,
+      "AIs": "闪电链Mst",
+      "SkillIDs": "94601010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 237020060,
+      "AIs": "白骨护盾Mst",
+      "SkillIDs": "91811010@91111040",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 221020000,
+      "AIs": "盾牌格挡Mst",
+      "SkillIDs": "91111010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 221010000,
+      "AIs": "奥术射击Mst",
+      "SkillIDs": "93701010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 221010001,
+      "AIs": "奥术射击Mst",
+      "SkillIDs": "93701010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 221010060,
+      "AIs": "奥术射击Mst@多重射击Mst@爆炸射击Mst",
+      "SkillIDs": "93701010@93701020@93701030@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 242010000,
+      "AIs": "炎爆术Mst",
+      "SkillIDs": "94211010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 242010060,
+      "AIs": "炎爆术Mst",
+      "SkillIDs": "94211010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 242010060,
+      "AIs": "火球术Mst@爆炸陷阱Mst@冲击波Mst",
+      "SkillIDs": "94211040@94211050@94211060@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 215100000,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 215100001,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 215100060,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 215110000,
+      "AIs": "盾牌格挡Mst",
+      "SkillIDs": "91111010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 215110001,
+      "AIs": "盾牌格挡Mst",
+      "SkillIDs": "91111010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 215110060,
+      "AIs": "盾牌格挡Mst@破甲Mst@震荡波Mst",
+      "SkillIDs": "91111010@91111020@91111030",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 215120060,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 215130000,
+      "AIs": "裂伤Mst",
+      "SkillIDs": "91411010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 215130060,
+      "AIs": "盾牌格挡Mst@破甲Mst@震荡波-单体Mst",
+      "SkillIDs": "91111010@91111020@91111032@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 215140000,
+      "AIs": "裂伤Mst",
+      "SkillIDs": "91411010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 234010000,
+      "AIs": "狂怒Mst",
+      "SkillIDs": "93121010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 234010060,
+      "AIs": "狂怒Mst",
+      "SkillIDs": "93121010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 234020000,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 234030000,
+      "AIs": "",
+      "SkillIDs": "",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 207060000,
+      "AIs": "暗影箭雨Mst",
+      "SkillIDs": "94521010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 207060060,
+      "AIs": "暗影箭雨Mst",
+      "SkillIDs": "94521010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 207080000,
+      "AIs": "治疗链Mst",
+      "SkillIDs": "94601030",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 207080060,
+      "AIs": "治疗链Mst",
+      "SkillIDs": "94601030",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 207090060,
+      "AIs": "顺劈斩Mst@旋风斩Mst@破城攻击Mst",
+      "SkillIDs": "93131010@93131040@93121020@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 90040020,
+      "AIs": "",
+      "SkillIDs": "",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 90040021,
+      "AIs": "",
+      "SkillIDs": "",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201180060,
+      "AIs": "暗影箭雨Mst@混乱箭Mst@暗影爆裂-阿鲁高Mst@暗影箭雨风暴Mst",
+      "SkillIDs": "94521010@94521020@94521052@94521060@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201190061,
+      "AIs": "顺劈斩Mst@旋风斩Mst@破城攻击Mst",
+      "SkillIDs": "93131010@93131040@93121020",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201200060,
+      "AIs": "审判Mst@十字军打击Mst@大十字军变身Mst",
+      "SkillIDs": "93021010@93021020@93021030@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 217020060,
+      "AIs": "闪电链Mst",
+      "SkillIDs": "94601010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201090060,
+      "AIs": "治疗术Mst@复活Mst",
+      "SkillIDs": "92311010@92311030@92311031",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 201140060,
+      "AIs": "审判Mst@十字军打击Mst",
+      "SkillIDs": "93021010@93021020",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 207040060,
+      "AIs": "",
+      "SkillIDs": "",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 211050060,
+      "AIs": "",
+      "SkillIDs": "",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 215030060,
+      "AIs": "险恶攻击Mst",
+      "SkillIDs": "93901010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 216080060,
+      "AIs": "炎爆术Mst@龙息术Mst@冲击波Mst",
+      "SkillIDs": "94211060@94211020@94211010@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 236010000,
+      "AIs": "暗影箭雨Mst",
+      "SkillIDs": "94521010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 236010060,
+      "AIs": "暗影箭雨Mst@混乱箭Mst@暗影爆裂Mst",
+      "SkillIDs": "94521010@94521020@94521050@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 239010060,
+      "AIs": "狂怒Mst@破城攻击Mst@狂暴Mst",
+      "SkillIDs": "93121010@93121020@93121030@93122010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 239010000,
+      "AIs": "狂怒Mst",
+      "SkillIDs": "93121010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 239010061,
+      "AIs": "盾牌格挡Mst@破甲Mst@震荡波Mst",
+      "SkillIDs": "91111010@91111020@91111030@91111040",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 950010020,
+      "AIs": "",
+      "SkillIDs": "",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 950010010,
+      "AIs": "",
+      "SkillIDs": "",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 940070030,
+      "AIs": "",
+      "SkillIDs": "",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 207040060,
+      "AIs": "顺劈斩Mst@旋风斩Mst@破城攻击Mst",
+      "SkillIDs": "93131010@93131040@93121020@90003010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 950070030,
+      "AIs": "",
+      "SkillIDs": "",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 940390010,
+      "AIs": "",
+      "SkillIDs": "",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 211010000,
+      "AIs": "炎术爆裂@序章凯尔萨斯第一阶段-变身",
+      "SkillIDs": "94212020@94212030@94213010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 211010001,
+      "AIs": "炎爆陨石@序章凯尔萨斯第二阶段-虚空光柱@序章凯尔萨斯第二阶段-冲击屏障",
+      "SkillIDs": "94212050@94212060@94212070@94213010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 950040040,
+      "AIs": "人形态-月火术@玛里奥人变身熊",
+      "SkillIDs": "92432010@92432020@92433010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 950040041,
+      "AIs": "熊形态-横扫@熊形态-野性咆哮@玛里奥熊变身鸟",
+      "SkillIDs": "92432020@91412010@91412020@91412030",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 950040042,
+      "AIs": "鸟形态-月火术@鸟形态-台风@鸟形态-星辰陨落@玛里奥鸟变身树",
+      "SkillIDs": "91412030@94441010@94441020@94441030@94441040",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 950040043,
+      "AIs": "树形态-月火术@树形态-宁静@树形态-召唤树@树形态-加BUFF(剧情用)",
+      "SkillIDs": "94441040@92432030@92432040@92432050@92432080",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 950040044,
+      "AIs": "小树人-裂伤@小树人-横扫",
+      "SkillIDs": "92432060@92432070",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 716080260,
+      "AIs": "",
+      "SkillIDs": "70003020",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 700000001,
+      "AIs": "",
+      "SkillIDs": "70003010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 700000002,
+      "AIs": "",
+      "SkillIDs": "70003010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 700000003,
+      "AIs": "",
+      "SkillIDs": "70003010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 710180010,
+      "AIs": "寒冰宝珠jtmst@寒冰箭@冰枪术",
+      "SkillIDs": "74221020@4222030@4222040@4223020",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 720430010,
+      "AIs": "复仇者之盾jtmst@奉献@神圣庇护",
+      "SkillIDs": "71011010@1012010@1012020@1013010@91111040",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 720450010,
+      "AIs": "流星jtmst@冲击波@火焰冲击",
+      "SkillIDs": "74211010@4212010@4212020@4213010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 730010010,
+      "AIs": "光明之泉jtmst@愈合祷言@惩击",
+      "SkillIDs": "72311020@2312010@2312020@2313010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 730010020,
+      "AIs": "复仇者之盾jtmst@奉献@神圣庇护",
+      "SkillIDs": "71011010@1012010@1012020@1013010@91111040",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 730010030,
+      "AIs": "奥术风暴jtmst@奥术飞弹@奥术爆裂@沉默",
+      "SkillIDs": "74231020@4232030@4232040@4233020",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 730070010,
+      "AIs": "破城攻击jtmst@狂怒@狂乱",
+      "SkillIDs": "73121010@3122010@3122020@3123010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 730110010,
+      "AIs": "剑刃风暴jtmst@顺劈斩@缴械",
+      "SkillIDs": "73131010@3132010@3132030@3133010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 730020010,
+      "AIs": "圣疗术jtmst@圣光闪现@审判",
+      "SkillIDs": "72031010@2032010@2032020@2033010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 740090010,
+      "AIs": "大地碎裂jtmst@雷霆一击@盾牌格挡@黑庙-随机角色加强BUFF@黑庙-随机角色加强喊话",
+      "SkillIDs": "71111030@1112010@1112020@1113010@91111040@70001010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 740370010,
+      "AIs": "冰霜之柱jtmst@湮灭@凛风冲击",
+      "SkillIDs": "3831010@3832010@3832020@3833010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 750010011,
+      "AIs": "寒冰爆裂jtmst@冰环@冰锥术",
+      "SkillIDs": "74221030@4222010@4222020@4223010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 750070011,
+      "AIs": "破地一击jtmst@狂怒@狂乱@战斗怒吼",
+      "SkillIDs": "73121020@3122010@3122020@3122030",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 730160010,
+      "AIs": "流星火雨jtmst@火球术@灼烧",
+      "SkillIDs": "74211030@4212030@4212040@4213020",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 730220010,
+      "AIs": "风之箭jtmst@多重射击@沉默射击",
+      "SkillIDs": "73711030@3712010@3712030@3713010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 750040010,
+      "AIs": "恶魔烈焰jtmst@邪恶攻击@险恶",
+      "SkillIDs": "73901020@3902010@3902020@3903010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 750040042,
+      "AIs": "兽性升腾jtmst@裂伤@横扫",
+      "SkillIDs": "71411040@1412010@1412020@1413010@91111040",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 750040051,
+      "AIs": "神光眷顾jtmst@愈合祷言@惩击",
+      "SkillIDs": "72311020@2312010@2312020@2313010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 740010040,
+      "AIs": "龙息术jtmst@火球术@灼烧",
+      "SkillIDs": "74211020@4212030@4212040@4213020",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 740040020,
+      "AIs": "狂暴防御jtmst@裂伤@横扫",
+      "SkillIDs": "71411030@1412010@1412020@1413010@91111040",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 740190010,
+      "AIs": "乱射jtmst@多重射击@沉默射击",
+      "SkillIDs": "73711010@3712010@3712030@3713010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 740390010,
+      "AIs": "军团打击jtmst@狂怒@狂乱@战斗怒吼",
+      "SkillIDs": "73121020@3122010@3122020@3122030",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 750070050,
+      "AIs": "嗜血jtmst@治疗链@大地之盾@先祖之魂",
+      "SkillIDs": "72621010@2622010@2622020@2623010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 740070020,
+      "AIs": "风暴降临jtmst@妖术@闪电链@空气图腾",
+      "SkillIDs": "74611020@4612010@4612020@4613010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 740090020,
+      "AIs": "野性狂暴jtmst@裂伤@横扫",
+      "SkillIDs": "71411020@1412010@1412020@1413010@91111040",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 740110010,
+      "AIs": "暗影突袭jtmst@邪恶攻击@险恶",
+      "SkillIDs": "73901050@3902010@3902020@3903010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 750050010,
+      "AIs": "苦修jtmst@真言术·盾@神圣新星@神圣反射",
+      "SkillIDs": "72321010@2322010@2322020@2323010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 750070040,
+      "AIs": "剧毒陷阱jtmst@爆炸陷阱@冰霜陷阱",
+      "SkillIDs": "73721020@3722010@3722030@3723010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 730010050,
+      "AIs": "灵界打击jtmst@死亡凋零@反魔法护盾@黑庙-随机角色加强BUFF@黑庙-随机角色加强喊话",
+      "SkillIDs": "71811010@1812010@1812020@1813010@91111040@70001010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 740010020,
+      "AIs": "神圣领域jtmst@十字军打击@忏悔",
+      "SkillIDs": "73021020@3022010@3022030@3023010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 740040010,
+      "AIs": "宁静jtmst@愈合@月火术@复生@复生(死亡不删除)",
+      "SkillIDs": "72431010@2432010@2432020@2433010@2433011",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 740220010,
+      "AIs": "爆炸射击jtmst@爆炸陷阱@毒蛇钉刺",
+      "SkillIDs": "73721010@3722010@3722020@3723010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 750070030,
+      "AIs": "混乱箭jtmst@烧尽@暗影之怒",
+      "SkillIDs": "74521010@4522020@4522010@4523010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 730010040,
+      "AIs": "苦修jtmst@真言术·盾@神圣新星@神圣反射",
+      "SkillIDs": "72321010@2322010@2322020@2323010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 740020010,
+      "AIs": "天神下凡jtmst@雷霆一击@盾牌格挡",
+      "SkillIDs": "71111020@1112010@1112020@1113010@91111040",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 740100010,
+      "AIs": "寒冰宝珠jtmst@寒冰箭@冰枪术",
+      "SkillIDs": "74221020@4222030@4222040@4223020",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 740360010,
+      "AIs": "破城攻击jtmst@狂怒@狂乱",
+      "SkillIDs": "73121010@3122010@3122020@3123010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 750040040,
+      "AIs": "星辰陨落jtmst@星火术@虫群",
+      "SkillIDs": "74441020@4442010@4442020@4443010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 750040011,
+      "AIs": "恶魔烈焰jtmst@邪恶攻击@险恶",
+      "SkillIDs": "73901020@3902010@3902020@3903010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 750040020,
+      "AIs": "暗影监牢jtmst@邪恶攻击@险恶",
+      "SkillIDs": "73901040@3902010@3902020@3903010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 750040050,
+      "AIs": "神圣赞美诗jtmst@愈合祷言@惩击",
+      "SkillIDs": "72311010@2312010@2312020@2313010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 750070010,
+      "AIs": "闪电超载jtmst@大地震击@闪电链@空气图腾",
+      "SkillIDs": "74611010@4612010@4612030@4613010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 750090010,
+      "AIs": "震荡波jtmst@雷霆一击@盾牌格挡@黑庙-随机角色加强BUFF@黑庙-随机角色加强喊话",
+      "SkillIDs": "71111010@1112010@1112020@1113010@91111040@70001010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 740010010,
+      "AIs": "圣疗术jtmst@圣光闪现@审判",
+      "SkillIDs": "72031010@2032010@2032020@2033010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 750010010,
+      "AIs": "暴风雪jtmst@冰环@冰锥术",
+      "SkillIDs": "74221010@4222010@4222020@4223010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 750010030,
+      "AIs": "圣光审判jtmst@奉献@神圣庇护",
+      "SkillIDs": "71011020@1012010@1012020@1013010@91111040",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 750010040,
+      "AIs": "神圣风暴jtmst@十字军打击@审判",
+      "SkillIDs": "73021010@3022010@3022020@3023010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 750110010,
+      "AIs": "流星jtmst@冲击波@火焰冲击",
+      "SkillIDs": "74211010@4212010@4212020@4213010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 740010050,
+      "AIs": "奥术爆炸jtmst@奥术冲击@变羊术@奥术飞弹",
+      "SkillIDs": "74231010@4232010@4232020@4232030",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 740010060,
+      "AIs": "天罚神判jtmst@奉献@神圣庇护",
+      "SkillIDs": "71011030@1012010@1012020@1013010@91111040",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 740070010,
+      "AIs": "先祖之力jtmst@治疗链@治疗之泉@先祖之魂",
+      "SkillIDs": "72621020@2622010@2622030@2623010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 750070060,
+      "AIs": "风暴附体jtmst@顺劈斩@致死打击",
+      "SkillIDs": "73131030@3132010@3132020@3133010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 750100010,
+      "AIs": "箭雨jtmst@多重射击@急速射击",
+      "SkillIDs": "73711020@3712010@3712020@3713010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 740010030,
+      "AIs": "旋转利刃jtmst@顺劈斩@致死打击",
+      "SkillIDs": "73131020@3132010@3132020@3133010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 740070030,
+      "AIs": "死亡领域jtmst@死亡凋零@反魔法护盾",
+      "SkillIDs": "71811020@1812010@1812020@1813010@91111040",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 750010020,
+      "AIs": "神恩术jtmst@圣光闪现@审判",
+      "SkillIDs": "72031030@2032010@2032020@2033010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 750070020,
+      "AIs": "破城攻击jtmst@狂怒@狂乱",
+      "SkillIDs": "73121010@3122010@3122020@3123020",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 750100020,
+      "AIs": "冰霜之柱jtmst@湮灭@凛风冲击",
+      "SkillIDs": "73831010@3832010@3832020@3833010",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 750040043,
+      "AIs": "熊德变身回(少年玛里奥)jtmst",
+      "SkillIDs": "71411041@1411010@91111040",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 740040021,
+      "AIs": "熊德变身回(熊皮)jtmst",
+      "SkillIDs": "71411031@1411010@91111040",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 740090021,
+      "AIs": "熊德变身回(哈缪尔)jtmst",
+      "SkillIDs": "71411021@1411010@91111040",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 750040041,
+      "AIs": "星辰陨落(变身)@星辰陨落(鸟德变身回)jtmst",
+      "SkillIDs": "4441010@74441021",
+      "BaseFindEnemyAIs": "自动索敌军团(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 630010020,
+      "AIs": "群体审判wildboss@十字军打击wildboss@奉献wildboss@圣光爆炸wildboss@圣光之怒wildboss@圣光之怒wildboss(喊话)",
+      "SkillIDs": "63021010@63021020@63021030@63021040@63021050",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 630110010,
+      "AIs": "顺劈斩wildboss@群体火球术wildboss@震荡波wildboss@剑刃风暴wildboss@太阳的光辉wildboss@太阳的光辉wildboss(喊话)",
+      "SkillIDs": "63131010@63131020@63131030@63131040@63131050@94213010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 640390010,
+      "AIs": "群体狂怒wildboss@顺劈斩wildboss@恶魔烈焰wildboss@破城攻击wildboss@恶魔之血wildboss@恶魔之血wildboss(喊话)",
+      "SkillIDs": "63121010@63131010@63121030@63121040@63121050@94213010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 650070030,
+      "AIs": "群体暗影箭wildboss@暗影狂怒wildboss@暗影烈焰wildboss@混乱箭wildboss@混乱烈焰wildboss@混乱烈焰wildboss(喊话)",
+      "SkillIDs": "64521010@64521020@64521030@64521040@64521050@94213010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    },
+    {
+      "MonsterBehaviorID": 640100010,
+      "AIs": "群体寒冰箭wildboss@冰环wildboss@冰锥术wildboss@暴风雪wildboss@巫妖之躯wildboss@巫妖之躯wildboss(喊话)",
+      "SkillIDs": "64221010@64221020@64221030@64221040@64221050@94213010",
+      "BaseFindEnemyAIs": "自动索敌(物防循环)@反击(通用)@反击(怪物)"
+    }
+  ]
+}

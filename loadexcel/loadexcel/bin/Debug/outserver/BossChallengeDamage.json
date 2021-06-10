@@ -1,0 +1,515 @@
+{
+  "BossChallengeDamage": [
+    {
+      "Level": 28,
+      "DamageBase": 91000,
+      "Reward1": 14600,
+      "Reward2": 10,
+      "Reward3": 50
+    },
+    {
+      "Level": 29,
+      "DamageBase": 133000,
+      "Reward1": 14800,
+      "Reward2": 10,
+      "Reward3": 50
+    },
+    {
+      "Level": 30,
+      "DamageBase": 133000,
+      "Reward1": 14900,
+      "Reward2": 15,
+      "Reward3": 70
+    },
+    {
+      "Level": 31,
+      "DamageBase": 133000,
+      "Reward1": 15100,
+      "Reward2": 15,
+      "Reward3": 70
+    },
+    {
+      "Level": 32,
+      "DamageBase": 186000,
+      "Reward1": 15300,
+      "Reward2": 15,
+      "Reward3": 70
+    },
+    {
+      "Level": 33,
+      "DamageBase": 186000,
+      "Reward1": 15500,
+      "Reward2": 15,
+      "Reward3": 70
+    },
+    {
+      "Level": 34,
+      "DamageBase": 186000,
+      "Reward1": 15700,
+      "Reward2": 15,
+      "Reward3": 70
+    },
+    {
+      "Level": 35,
+      "DamageBase": 253000,
+      "Reward1": 15800,
+      "Reward2": 20,
+      "Reward3": 90
+    },
+    {
+      "Level": 36,
+      "DamageBase": 253000,
+      "Reward1": 16000,
+      "Reward2": 20,
+      "Reward3": 90
+    },
+    {
+      "Level": 37,
+      "DamageBase": 253000,
+      "Reward1": 16200,
+      "Reward2": 20,
+      "Reward3": 90
+    },
+    {
+      "Level": 38,
+      "DamageBase": 335000,
+      "Reward1": 16400,
+      "Reward2": 20,
+      "Reward3": 90
+    },
+    {
+      "Level": 39,
+      "DamageBase": 335000,
+      "Reward1": 16600,
+      "Reward2": 20,
+      "Reward3": 90
+    },
+    {
+      "Level": 40,
+      "DamageBase": 335000,
+      "Reward1": 16700,
+      "Reward2": 40,
+      "Reward3": 120
+    },
+    {
+      "Level": 41,
+      "DamageBase": 434000,
+      "Reward1": 16900,
+      "Reward2": 40,
+      "Reward3": 120
+    },
+    {
+      "Level": 42,
+      "DamageBase": 434000,
+      "Reward1": 17100,
+      "Reward2": 40,
+      "Reward3": 120
+    },
+    {
+      "Level": 43,
+      "DamageBase": 434000,
+      "Reward1": 17300,
+      "Reward2": 40,
+      "Reward3": 120
+    },
+    {
+      "Level": 44,
+      "DamageBase": 552000,
+      "Reward1": 17500,
+      "Reward2": 40,
+      "Reward3": 120
+    },
+    {
+      "Level": 45,
+      "DamageBase": 552000,
+      "Reward1": 17300,
+      "Reward2": 40,
+      "Reward3": 130
+    },
+    {
+      "Level": 46,
+      "DamageBase": 552000,
+      "Reward1": 17400,
+      "Reward2": 40,
+      "Reward3": 130
+    },
+    {
+      "Level": 47,
+      "DamageBase": 692000,
+      "Reward1": 17500,
+      "Reward2": 40,
+      "Reward3": 130
+    },
+    {
+      "Level": 48,
+      "DamageBase": 692000,
+      "Reward1": 17500,
+      "Reward2": 40,
+      "Reward3": 130
+    },
+    {
+      "Level": 49,
+      "DamageBase": 692000,
+      "Reward1": 17600,
+      "Reward2": 40,
+      "Reward3": 130
+    },
+    {
+      "Level": 50,
+      "DamageBase": 855000,
+      "Reward1": 17600,
+      "Reward2": 44,
+      "Reward3": 130
+    },
+    {
+      "Level": 51,
+      "DamageBase": 855000,
+      "Reward1": 17700,
+      "Reward2": 44,
+      "Reward3": 130
+    },
+    {
+      "Level": 52,
+      "DamageBase": 855000,
+      "Reward1": 17700,
+      "Reward2": 44,
+      "Reward3": 130
+    },
+    {
+      "Level": 53,
+      "DamageBase": 1044000,
+      "Reward1": 17800,
+      "Reward2": 44,
+      "Reward3": 130
+    },
+    {
+      "Level": 54,
+      "DamageBase": 1044000,
+      "Reward1": 17800,
+      "Reward2": 44,
+      "Reward3": 130
+    },
+    {
+      "Level": 55,
+      "DamageBase": 1044000,
+      "Reward1": 17900,
+      "Reward2": 44,
+      "Reward3": 140
+    },
+    {
+      "Level": 56,
+      "DamageBase": 1223000,
+      "Reward1": 17900,
+      "Reward2": 44,
+      "Reward3": 140
+    },
+    {
+      "Level": 57,
+      "DamageBase": 1223000,
+      "Reward1": 18000,
+      "Reward2": 44,
+      "Reward3": 140
+    },
+    {
+      "Level": 58,
+      "DamageBase": 1223000,
+      "Reward1": 18000,
+      "Reward2": 44,
+      "Reward3": 140
+    },
+    {
+      "Level": 59,
+      "DamageBase": 1401000,
+      "Reward1": 18000,
+      "Reward2": 44,
+      "Reward3": 140
+    },
+    {
+      "Level": 60,
+      "DamageBase": 1401000,
+      "Reward1": 18100,
+      "Reward2": 48,
+      "Reward3": 140
+    },
+    {
+      "Level": 61,
+      "DamageBase": 1401000,
+      "Reward1": 18100,
+      "Reward2": 48,
+      "Reward3": 140
+    },
+    {
+      "Level": 62,
+      "DamageBase": 1596000,
+      "Reward1": 18100,
+      "Reward2": 48,
+      "Reward3": 140
+    },
+    {
+      "Level": 63,
+      "DamageBase": 1596000,
+      "Reward1": 18100,
+      "Reward2": 48,
+      "Reward3": 140
+    },
+    {
+      "Level": 64,
+      "DamageBase": 1596000,
+      "Reward1": 18200,
+      "Reward2": 48,
+      "Reward3": 140
+    },
+    {
+      "Level": 65,
+      "DamageBase": 1810000,
+      "Reward1": 18200,
+      "Reward2": 48,
+      "Reward3": 150
+    },
+    {
+      "Level": 66,
+      "DamageBase": 1810000,
+      "Reward1": 18200,
+      "Reward2": 48,
+      "Reward3": 150
+    },
+    {
+      "Level": 67,
+      "DamageBase": 1810000,
+      "Reward1": 18200,
+      "Reward2": 48,
+      "Reward3": 150
+    },
+    {
+      "Level": 68,
+      "DamageBase": 2043000,
+      "Reward1": 18200,
+      "Reward2": 48,
+      "Reward3": 150
+    },
+    {
+      "Level": 69,
+      "DamageBase": 2043000,
+      "Reward1": 18200,
+      "Reward2": 48,
+      "Reward3": 150
+    },
+    {
+      "Level": 70,
+      "DamageBase": 2043000,
+      "Reward1": 18400,
+      "Reward2": 52,
+      "Reward3": 160
+    },
+    {
+      "Level": 71,
+      "DamageBase": 2296000,
+      "Reward1": 18700,
+      "Reward2": 52,
+      "Reward3": 160
+    },
+    {
+      "Level": 72,
+      "DamageBase": 2296000,
+      "Reward1": 19100,
+      "Reward2": 52,
+      "Reward3": 160
+    },
+    {
+      "Level": 73,
+      "DamageBase": 2296000,
+      "Reward1": 19500,
+      "Reward2": 52,
+      "Reward3": 160
+    },
+    {
+      "Level": 74,
+      "DamageBase": 2571000,
+      "Reward1": 19700,
+      "Reward2": 52,
+      "Reward3": 160
+    },
+    {
+      "Level": 75,
+      "DamageBase": 2571000,
+      "Reward1": 20200,
+      "Reward2": 52,
+      "Reward3": 160
+    },
+    {
+      "Level": 76,
+      "DamageBase": 2571000,
+      "Reward1": 20900,
+      "Reward2": 52,
+      "Reward3": 160
+    },
+    {
+      "Level": 77,
+      "DamageBase": 2869000,
+      "Reward1": 21500,
+      "Reward2": 52,
+      "Reward3": 160
+    },
+    {
+      "Level": 78,
+      "DamageBase": 2869000,
+      "Reward1": 22400,
+      "Reward2": 52,
+      "Reward3": 160
+    },
+    {
+      "Level": 79,
+      "DamageBase": 2869000,
+      "Reward1": 23200,
+      "Reward2": 52,
+      "Reward3": 160
+    },
+    {
+      "Level": 80,
+      "DamageBase": 3191000,
+      "Reward1": 23900,
+      "Reward2": 56,
+      "Reward3": 170
+    },
+    {
+      "Level": 81,
+      "DamageBase": 3191000,
+      "Reward1": 24600,
+      "Reward2": 56,
+      "Reward3": 170
+    },
+    {
+      "Level": 82,
+      "DamageBase": 3191000,
+      "Reward1": 25600,
+      "Reward2": 56,
+      "Reward3": 170
+    },
+    {
+      "Level": 83,
+      "DamageBase": 3538000,
+      "Reward1": 26400,
+      "Reward2": 56,
+      "Reward3": 170
+    },
+    {
+      "Level": 84,
+      "DamageBase": 3538000,
+      "Reward1": 27100,
+      "Reward2": 56,
+      "Reward3": 170
+    },
+    {
+      "Level": 85,
+      "DamageBase": 3538000,
+      "Reward1": 26900,
+      "Reward2": 56,
+      "Reward3": 170
+    },
+    {
+      "Level": 86,
+      "DamageBase": 3912000,
+      "Reward1": 26700,
+      "Reward2": 56,
+      "Reward3": 170
+    },
+    {
+      "Level": 87,
+      "DamageBase": 3912000,
+      "Reward1": 27900,
+      "Reward2": 56,
+      "Reward3": 170
+    },
+    {
+      "Level": 88,
+      "DamageBase": 3912000,
+      "Reward1": 29000,
+      "Reward2": 56,
+      "Reward3": 170
+    },
+    {
+      "Level": 89,
+      "DamageBase": 4313000,
+      "Reward1": 30000,
+      "Reward2": 56,
+      "Reward3": 170
+    },
+    {
+      "Level": 90,
+      "DamageBase": 4313000,
+      "Reward1": 30800,
+      "Reward2": 60,
+      "Reward3": 180
+    },
+    {
+      "Level": 91,
+      "DamageBase": 4313000,
+      "Reward1": 31400,
+      "Reward2": 60,
+      "Reward3": 180
+    },
+    {
+      "Level": 92,
+      "DamageBase": 4743000,
+      "Reward1": 32000,
+      "Reward2": 60,
+      "Reward3": 180
+    },
+    {
+      "Level": 93,
+      "DamageBase": 4743000,
+      "Reward1": 32600,
+      "Reward2": 60,
+      "Reward3": 180
+    },
+    {
+      "Level": 94,
+      "DamageBase": 4743000,
+      "Reward1": 33500,
+      "Reward2": 60,
+      "Reward3": 180
+    },
+    {
+      "Level": 95,
+      "DamageBase": 5204000,
+      "Reward1": 34700,
+      "Reward2": 60,
+      "Reward3": 190
+    },
+    {
+      "Level": 96,
+      "DamageBase": 5204000,
+      "Reward1": 35700,
+      "Reward2": 60,
+      "Reward3": 190
+    },
+    {
+      "Level": 97,
+      "DamageBase": 5204000,
+      "Reward1": 36700,
+      "Reward2": 60,
+      "Reward3": 190
+    },
+    {
+      "Level": 98,
+      "DamageBase": 5697000,
+      "Reward1": 37500,
+      "Reward2": 60,
+      "Reward3": 190
+    },
+    {
+      "Level": 99,
+      "DamageBase": 5697000,
+      "Reward1": 38200,
+      "Reward2": 60,
+      "Reward3": 190
+    },
+    {
+      "Level": 100,
+      "DamageBase": 5697000,
+      "Reward1": 39000,
+      "Reward2": 64,
+      "Reward3": 190
+    }
+  ]
+}

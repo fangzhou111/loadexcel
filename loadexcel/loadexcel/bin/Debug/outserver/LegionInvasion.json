@@ -1,0 +1,18 @@
+{
+  "LegionInvasion": [
+    {
+      "LegionID": 1001,
+      "LegionName": "军团入侵",
+      "LegionChallengeTime": 1,
+      "MapName": "juntuanruqin",
+      "MapEditorName": "juntuanruqin"
+    },
+    {
+      "LegionID": 2001,
+      "LegionName": "精英挑战",
+      "LegionChallengeTime": 3,
+      "MapName": "",
+      "MapEditorName": ""
+    }
+  ]
+}

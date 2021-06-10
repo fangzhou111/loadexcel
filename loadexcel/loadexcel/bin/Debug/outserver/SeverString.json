@@ -1,0 +1,496 @@
+{
+  "SeverString": [
+    {
+      "Tag": "VIP_LevelUp",
+      "Text": "恭喜<color=#FFA500>~ts</color>成为尊贵的<color=#FFFF00>~ts</color>会员！"
+    },
+    {
+      "Tag": "Tavern_GetHero_5Star",
+      "Text": "<color=#FFA500>~ts</color>人品爆发，在神殿中招募到<color=#FFA500>~ts星</color>英雄<color=#FFA500>~ts</color>！"
+    },
+    {
+      "Tag": "Battlefield_Announcement_Kill",
+      "Text": "<color=#FFA500>~ts</color>战胜了<color=#FFA500>~ts</color>，完成了奥山战场<color=#FF0000>~ts</color>连杀！"
+    },
+    {
+      "Tag": "Battlefield_Announcement_EndKill",
+      "Text": "<color=#FFA500>~ts</color>战胜了<color=#FFA500>~ts</color>，终结了他的奥山战场<color=#FF0000>~ts</color>连杀！"
+    },
+    {
+      "Tag": "Arena_Announcement_BeFirst",
+      "Text": "<color=#FFA500>~ts</color>战胜了<color=#FFA500>~ts</color>，夺得了竞技场第一名！"
+    },
+    {
+      "Tag": "Battlefield_BulletScreen_Kill",
+      "Text": "<color=#FFA500>~ts</color>战胜了<color=#FFA500>~ts</color>，完成了<color=#FF0000>~ts</color>连杀。"
+    },
+    {
+      "Tag": "Battlefield_BulletScreen_EndKill",
+      "Text": "<color=#FFA500>~ts</color>战胜了<color=#FFA500>~ts</color>，终结了他的<color=#FF0000>~ts</color>连杀！"
+    },
+    {
+      "Tag": "Battlefield_BulletScreen_GradeChange",
+      "Text": "<color=#FFA500>~ts</color>完成了<color=#FF0000>~ts</color>连杀，超过<color=#FFA500>~ts</color>获得了连杀榜第~ts名！"
+    },
+    {
+      "Tag": "Battlefield_Report_Start",
+      "Text": "战报：开始进攻<color=#FFFF00>~ts</color>。"
+    },
+    {
+      "Tag": "Battlefield_Report_Line1",
+      "Text": "上路"
+    },
+    {
+      "Tag": "Battlefield_Report_Line2",
+      "Text": "中路"
+    },
+    {
+      "Tag": "Battlefield_Report_Line3",
+      "Text": "下路"
+    },
+    {
+      "Tag": "Battlefield_Report_Win1",
+      "Text": "战报：战胜了<color=#FFA500>~ts</color>，获得<color=#FFFF00>~ts</color>积分。"
+    },
+    {
+      "Tag": "Battlefield_Report_Win2",
+      "Text": "战报：战胜了<color=#FFA500>~ts</color>，完成了<color=#FF0000>~ts</color>连杀，获得了<color=#FFFF00>~ts</color>积分。"
+    },
+    {
+      "Tag": "Battlefield_Report_Win3",
+      "Text": "战报：战胜了<color=#FFA500>~ts</color>，获得<color=#FFFF00>~ts</color>积分，掠夺了<color=#FFFF00>~ts</color>积分。"
+    },
+    {
+      "Tag": "Battlefield_Report_Lost1",
+      "Text": "战报：被<color=#FFA500>~ts</color>打败了。"
+    },
+    {
+      "Tag": "Battlefield_Report_Lost2",
+      "Text": "战报：被<color=#FFA500>~ts</color>打败了，<color=#FF0000>~ts</color>连杀被终结。"
+    },
+    {
+      "Tag": "Battlefield_Report_Lost3",
+      "Text": "战报：被<color=#FFA500>~ts</color>打败了，<color=#FF0000>~ts</color>连杀被终结，被掠夺了<color=#FFFF00>~ts</color>积分。"
+    },
+    {
+      "Tag": "Battlefield_Report_AllDie1",
+      "Text": "战报：和<color=#FFA500>~ts</color>同归于尽，获得<color=#FFFF00>~ts</color>积分。"
+    },
+    {
+      "Tag": "Battlefield_Report_AllDie2",
+      "Text": "战报：和<color=#FFA500>~ts</color>同归于尽，获得<color=#FFFF00>~ts</color>积分，被掠夺了<color=#FFFF00>~ts</color>积分。"
+    },
+    {
+      "Tag": "Battlefield_Report_AllDie3",
+      "Text": "战报：和<color=#FFA500>~ts</color>同归于尽，获得<color=#FFFF00>~ts</color>积分，掠夺了<color=#FFFF00>~ts</color>积分。"
+    },
+    {
+      "Tag": "Battlefield_Report_AllDie4",
+      "Text": "战报：和<color=#FFA500>~ts</color>同归于尽，获得<color=#FFFF00>~ts</color>积分，掠夺了<color=#FFFF00>~ts</color>积分，被掠夺了<color=#FFFF00>~ts</color>积分。"
+    },
+    {
+      "Tag": "Battlefield_Report_Pass",
+      "Text": "战报：成功入侵敌方基地，获得<color=#FFFF00>~ts</color>积分，<color=#800080>~ts</color>征服点数！"
+    },
+    {
+      "Tag": "Mail_Type_System",
+      "Text": "系统"
+    },
+    {
+      "Tag": "Mail_BattkefieldReward_Title",
+      "Text": "奥山战场活动奖励"
+    },
+    {
+      "Tag": "Mail_BattkefieldReward_Context",
+      "Text": "您在今日奥山战场中英勇杀敌，获得<color=#FFFF00>~ts</color>积分，排名<color=#FFFF00>~ts</color>，特授予您以下奖励！"
+    },
+    {
+      "Tag": "Mail_ArenaGradeReward_Title",
+      "Text": "竞技场排名奖励"
+    },
+    {
+      "Tag": "Mail_ArenaGradeReward_Context",
+      "Text": "您在今日竞技场中的最终排名<color=#FFFF00>~ts</color>，特授予您以下奖励！"
+    },
+    {
+      "Tag": "Mail_ArenaHistoryGradeReward_Title",
+      "Text": "竞技场历史最高排名奖励"
+    },
+    {
+      "Tag": "Mail_ArenaHistoryGradeReward_Context",
+      "Text": "您在竞技场中的当前排名<color=#FFFF00>~ts</color>，比上次提升了<color=#FFFF00>~ts</color>名，特授予您以下奖励！"
+    },
+    {
+      "Tag": "Team_HeroLeave_SquireUnload",
+      "Text": "~ts离队，侍从已被卸下。"
+    },
+    {
+      "Tag": "Team_HeroChange_SquireUnload",
+      "Text": "~ts上阵，不满足激活条件的侍从已被自动卸下。"
+    },
+    {
+      "Tag": "Mail_Carnival_Title",
+      "Text": "开服嘉年华未领取奖励"
+    },
+    {
+      "Tag": "Mail_Carnival_Context",
+      "Text": "您在开服嘉年华未领取的奖励已经发送，请查收附件。"
+    },
+    {
+      "Tag": "Mail_BeginRank_Title",
+      "Text": "开服战力比拼未领取奖励"
+    },
+    {
+      "Tag": "Mail_BeginRank_Context",
+      "Text": "您在开服战力比拼未领取的奖励已经发送，请查收附件。"
+    },
+    {
+      "Tag": "Mail_RedPackets_Title",
+      "Text": "开服红包未领取"
+    },
+    {
+      "Tag": "Mail_RedPackets_Context",
+      "Text": "您在开服红包活动期间共消费<color=#FFFF00>~ts</color>钻石，这是您的红包奖励，请查收！"
+    },
+    {
+      "Tag": "RedPackets_Report_UseDaimond",
+      "Text": "消费了<color=#FFFF00>~ts</color>钻石，<color=#FFFF00>~ts</color>钻石已存入今日开服红包！"
+    },
+    {
+      "Tag": "Battlefield_Report_Survive",
+      "Text": "在战线上持续存活<color=#FFFF00>~ts</color>秒，获得<color=#800080>~ts</color>征服点数！"
+    },
+    {
+      "Tag": "Battlefield_Announcement_Ready",
+      "Text": "奥山战场将于<color=#FFFF00>~ts</color>开启，请各位参战勇士提前作好准备。"
+    },
+    {
+      "Tag": "Mail_LeagueMatchReward_Title",
+      "Text": "联赛军衔奖励"
+    },
+    {
+      "Tag": "Mail_LeagueMatchReward_Context",
+      "Text": "您在本届跨服联赛共获得了<color=#FFFF00>~ts</color>积分，荣获<color=#FFA500>~ts</color>军衔，特授予您以下奖励！"
+    },
+    {
+      "Tag": "Domain_Bot_Name",
+      "Text": "领地守卫"
+    },
+    {
+      "Tag": "Domain_ResourceMonster_Name",
+      "Text": "~ts的领地守卫"
+    },
+    {
+      "Tag": "Mail_ArenaRank_Title",
+      "Text": "开服竞技排行未领取奖励"
+    },
+    {
+      "Tag": "Mail_ArenaRank_Context",
+      "Text": "您在开服竞技排行活动中的奖励未及时领取，这是您的奖励，请查收！"
+    },
+    {
+      "Tag": "Mail_DomainMine_Title",
+      "Text": "领地矿洞占领奖励"
+    },
+    {
+      "Tag": "Mail_DomainMine_Context",
+      "Text": "您持续守住了一个矿洞<color=#FFFF00>~ts</color>小时，从矿洞内获得了以下奖励！"
+    },
+    {
+      "Tag": "Mail_TeachCamp_Context",
+      "Text": "恭喜您挑战教学关卡成功，这是您的奖励，请查收！"
+    },
+    {
+      "Tag": "Mail_TeachCamp_Title",
+      "Text": "教学关卡通关奖励"
+    },
+    {
+      "Tag": "Guild_Player_Join",
+      "Text": "<color=#FFFFFF>~ts</color>加入了公会。"
+    },
+    {
+      "Tag": "Guild_Player_Quit",
+      "Text": "<color=#FFFFFF>~ts</color>退出了公会。"
+    },
+    {
+      "Tag": "Guild_Player_Kick",
+      "Text": "<color=#FFFFFF>~ts</color>被<color=#FFFFFF>~ts</color>踢出了公会。"
+    },
+    {
+      "Tag": "Guild_Player_Get",
+      "Text": "<color=#FFFFFF>~ts</color>获得了~ts。"
+    },
+    {
+      "Tag": "Guild_Leader_Promote",
+      "Text": "<color=#FFFFFF>~ts</color>被<color=#FFFFFF>~ts</color>提升为长老。"
+    },
+    {
+      "Tag": "Guild_Leader_Demotion",
+      "Text": "<color=#FFFFFF>~ts</color>被<color=#FFFFFF>~ts</color>降为会员。"
+    },
+    {
+      "Tag": "Guild_Leader_Notice",
+      "Text": "<color=#FFFFFF>~ts</color>修改了公告。"
+    },
+    {
+      "Tag": "Guild_Raid_Reset",
+      "Text": "<color=#FFFFFF>~ts</color>重置了<color=#FFFFFF>~ts</color>。"
+    },
+    {
+      "Tag": "Guild_Raid_Done",
+      "Text": "<color=#FFFFFF>~ts</color>已经通关。"
+    },
+    {
+      "Tag": "Guild_Build_Up",
+      "Text": "<color=#FFFFFF>~ts</color>升级至<color=#FFFFFF>~ts</color>级。"
+    },
+    {
+      "Tag": "Guild_President_Transfer",
+      "Text": "<color=#FFFFFF>~ts</color>转移了会长权限给<color=#FFFFFF>~ts</color>。"
+    },
+    {
+      "Tag": "GuildTechnology0",
+      "Text": "公会等级"
+    },
+    {
+      "Tag": "GuildTechnology1",
+      "Text": "解救一粒蛋"
+    },
+    {
+      "Tag": "GuildTechnology2",
+      "Text": "公会副本"
+    },
+    {
+      "Tag": "GuildTechnology3",
+      "Text": "怪物消消乐"
+    },
+    {
+      "Tag": "Guild_RaidRank_Title",
+      "Text": "公会副本排行奖励"
+    },
+    {
+      "Tag": "Guild_RaidRank_Context",
+      "Text": "您今天在公会副本伤害排行上排名~ts位，这是您获得的奖励。请查收附件。"
+    },
+    {
+      "Tag": "Guild_RaidTime_Title",
+      "Text": "副本通关奖励"
+    },
+    {
+      "Tag": "Guild_RaidTime_Context",
+      "Text": "公会副本<color=#ff7700>~ts</color>已经在限制时间内通关！你额外获得了更多的奖励！请查收附件。"
+    },
+    {
+      "Tag": "Message_Sys_ChapterPassFirst",
+      "Text": "<color=#ff7700>~ts</color>成功通关了战役<color=#00ff00>~ts</color>，迈出了英雄路上的第一步。"
+    },
+    {
+      "Tag": "Message_Sys_ChapterPass",
+      "Text": "<color=#ff7700>~ts</color>通关了战役<color=#00ff00>~ts</color>，在英雄的道路上又迈进了一步。"
+    },
+    {
+      "Tag": "Message_Sys_EliteChapterPass",
+      "Text": "<color=#ff7700>~ts</color>通关了精英战役<color=#00ff00>~ts</color>，在英雄的道路上又迈进了一步。"
+    },
+    {
+      "Tag": "Message_Sys_WorldBossAppear",
+      "Text": "<color=#ff7700>~ts</color>在冒险中遭遇了野外首领<color=#ff0000>~ts</color>，大家帮忙一起打败他吧！<color=#ff0000>【点击发送请求】</color>"
+    },
+    {
+      "Tag": "Message_Sys_WrestlingPass",
+      "Text": "<color=#ff7700>~ts</color>英勇无敌、势不可挡，成功通过了今日勇气试炼！"
+    },
+    {
+      "Tag": "Tavern_GetEquip_5Star",
+      "Text": "<color=#ff7700>~ts</color>在欢乐制造机中成功获得<color=#ff7700>~ts</color>，真是让人羡慕啊！"
+    },
+    {
+      "Tag": "Message_Sys_HeroAwake",
+      "Text": "<color=#ff7700>~ts</color>成功将英雄~ts升到<color=#FFFF00>~ts星</color>，队伍更加强大了！"
+    },
+    {
+      "Tag": "Message_Sys_PlayerAwake",
+      "Text": "<color=#ff7700>~ts</color>成功升到<color=#FFFF00>~ts星</color>，队伍更加强大了！"
+    },
+    {
+      "Tag": "Message_Sys_EquipAwake",
+      "Text": "<color=#ff7700>~ts</color>成功将装备~ts精炼到<color=#FFFF00>~ts级</color>，战力又得到了一次飞升！"
+    },
+    {
+      "Tag": "Mail_ConsumptionRank_Title",
+      "Text": "钻石消费排行奖励"
+    },
+    {
+      "Tag": "Mail_ConsumptionRank_Context",
+      "Text": "这是您在消费排行活动中获得的奖励。请查收附件。"
+    },
+    {
+      "Tag": "BossChallengeRank_Title",
+      "Text": "累积伤害排行奖励"
+    },
+    {
+      "Tag": "BossChallengeRank_Context",
+      "Text": "您在野外首领的战斗中累积造成了~ts点伤害，排名~ts位，这是您获得的奖励。请查收附件。"
+    },
+    {
+      "Tag": "BossChallengeOnceRank_Title",
+      "Text": "单次伤害排行奖励"
+    },
+    {
+      "Tag": "BossChallengeOnceRank_Context",
+      "Text": "您对野外首领最高造成了~ts点伤害，排名~ts位，这是您获得的奖励。请查收附件。"
+    },
+    {
+      "Tag": "Mail_RaidReward_Title",
+      "Text": "公会副本战利品"
+    },
+    {
+      "Tag": "Mail_RaidReward_Context",
+      "Text": "这是您在公会副本中申请的战利品，请查收附件。"
+    },
+    {
+      "Tag": "RaidLastReward_Title",
+      "Text": "公会副本通关奖励"
+    },
+    {
+      "Tag": "RaidLastReward_Context",
+      "Text": "公会副本<color=#ff7700>~ts</color>已经通关。这是您的通关副本奖励，请查收附件。"
+    },
+    {
+      "Tag": "Mail_CupSupportRewardSever_Title",
+      "Text": "领主争霸赛支持奖励（本服赛）"
+    },
+    {
+      "Tag": "Mail_CupSupportRewardSever_Context",
+      "Text": "您支持的选手<color=#ff7700>~ts</color>在本服~ts中获得了胜利，以下是您的支持奖励！"
+    },
+    {
+      "Tag": "Mail_CupSupportRewardGroup_Title",
+      "Text": "领主争霸赛支持奖励（跨服赛）"
+    },
+    {
+      "Tag": "Mail_CupSupportRewardGroup_Context",
+      "Text": "您支持的选手<color=#ff7700>~ts</color>在跨服~ts中获得了胜利，以下是您的支持奖励！"
+    },
+    {
+      "Tag": "Mail_CupRankRewardServer_Title",
+      "Text": "领主争霸赛排名奖励（本服赛）"
+    },
+    {
+      "Tag": "Mail_CupRankRewardServer_Context",
+      "Text": "恭喜您夺得本服领主争霸赛第<color=#FFFF00>~ts</color>名，特授予您以下奖励！"
+    },
+    {
+      "Tag": "Mail_CupRankRewardGroup_Title",
+      "Text": "领主争霸赛排名奖励（跨服赛）"
+    },
+    {
+      "Tag": "Mail_CupRankRewardGroup_Context",
+      "Text": "恭喜您夺得跨服领主争霸赛第<color=#FFFF00>~ts</color>名，特授予您以下奖励！"
+    },
+    {
+      "Tag": "Mail_CupSupportFailSever_Title",
+      "Text": "领主争霸赛支持失败（本服赛）"
+    },
+    {
+      "Tag": "Mail_CupSupportFailSever_Context",
+      "Text": "您支持的选手<color=#ff7700>~ts</color>在本服~ts中战败了，您没能获得支持奖励！"
+    },
+    {
+      "Tag": "Mail_CupSupportFailGroup_Title",
+      "Text": "领主争霸赛支持失败（跨服赛）"
+    },
+    {
+      "Tag": "Mail_CupSupportFailGroup_Context",
+      "Text": "您支持的选手<color=#ff7700>~ts</color>在跨服~ts中战败了，您没能获得支持奖励！"
+    },
+    {
+      "Tag": "Mail_CupCelebrateGift_Title",
+      "Text": "领主争霸赛霸主同庆礼包"
+    },
+    {
+      "Tag": "Mail_CupCelebrateGift_Context",
+      "Text": "本服领主<color=#ff7700>~ts</color>夺得了本届跨服争霸赛的霸主，所有要求等级的领主均可获得一份同庆礼包！"
+    },
+    {
+      "Tag": "Cup_Announcement_OverlordOnline",
+      "Text": "天下第一的霸主<color=#ff7700>~ts</color>上线了!"
+    },
+    {
+      "Tag": "Mail_ClientChange_Title",
+      "Text": "客户端更新"
+    },
+    {
+      "Tag": "Mail_ClientChange_Context",
+      "Text": "客户端更新通知"
+    },
+    {
+      "Tag": "WorldBossOnceRank_Title",
+      "Text": "世界boss单次伤害排名"
+    },
+    {
+      "Tag": "WorldBossOnceRank_Context",
+      "Text": "您在世界boss单次伤害排行榜上获得了第<color=#FFFF00>~ts</color>名，特授予您以下奖励！"
+    },
+    {
+      "Tag": "WorldBossCurveRank_Title",
+      "Text": "世界boss累计伤害排名"
+    },
+    {
+      "Tag": "WorldBossCurveRank_Context",
+      "Text": "您在世界boss累积伤害排行榜上获得了第<color=#FFFF00>~ts</color>名，特授予您以下奖励！"
+    },
+    {
+      "Tag": "WorldBossKill_Title",
+      "Text": "世界BOSS击杀奖励"
+    },
+    {
+      "Tag": "WorldBossKill_Context",
+      "Text": "世界BOSS已经被击杀！这是您获得的奖励，请查收。"
+    },
+    {
+      "Tag": "Mail_ConvoyHelp_Title",
+      "Text": "助战护送完成"
+    },
+    {
+      "Tag": "Mail_ConvoyHelp_Context",
+      "Text": "您援助<color=#ff7700>~ts</color>的<color=#ff7700>~ts星</color>护送任务，一帆风顺，平安到达，获得以下奖励！"
+    },
+    {
+      "Tag": "Mail_ConvoyHelp_Context2",
+      "Text": "您援助<color=#ff7700>~ts</color>的<color=#ff7700>~ts星</color>护送任务，被<color=#ff7700>~ts</color>拦截了，获得以下奖励！"
+    },
+    {
+      "Tag": "Mail_Convoy_Title",
+      "Text": "护送任务完成"
+    },
+    {
+      "Tag": "Mail_Convoy_Context",
+      "Text": "您的<color=#ff7700>~ts星</color>护送任务，一帆风顺，平安到达，获得以下奖励！"
+    },
+    {
+      "Tag": "Mail_Convoy_Context2",
+      "Text": "您的<color=#ff7700>~ts星</color>护送任务，共被拦截了<color=#ff7700>~ts</color>次，拦截者<color=#ff7700>~ts</color>，获得以下奖励！"
+    },
+    {
+      "Tag": "Convoy_Announcement_5star",
+      "Text": "<color=#ff7700>~ts</color>运气极佳，获得<color=#ff7700>~ts星</color>的护送，大家快去围观吧！"
+    },
+    {
+      "Tag": "Convoy_OpenDouble",
+      "Text": "世界第一公会<color=#ff7700>~ts</color>会长<color=#FFDC19FF>~ts</color>，广发福利，开启了<color=#ff7700>护送加成</color>，大家快去护送呀！"
+    },
+    {
+      "Tag": "Arena_Bot_Name",
+      "Text": "竞技场守卫"
+    },
+    {
+      "Tag": "Mail_PublicArenaRankReward_Title",
+      "Text": "跨服竞技排名奖励"
+    },
+    {
+      "Tag": "Mail_PublicArenaRankReward_Context",
+      "Text": "您在本周跨服竞技中累计积分<color=#FFFF00>~ts</color>，排名<color=#FFFF00>~ts</color>，特授予您以下奖励！"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "ArtifactCost": [
+    {
+      "ArtifactLv": 1,
+      "EnergyCost": 5000
+    },
+    {
+      "ArtifactLv": 2,
+      "EnergyCost": 5150
+    },
+    {
+      "ArtifactLv": 3,
+      "EnergyCost": 5305
+    },
+    {
+      "ArtifactLv": 4,
+      "EnergyCost": 5465
+    },
+    {
+      "ArtifactLv": 5,
+      "EnergyCost": 5630
+    },
+    {
+      "ArtifactLv": 6,
+      "EnergyCost": 5795
+    },
+    {
+      "ArtifactLv": 7,
+      "EnergyCost": 5970
+    },
+    {
+      "ArtifactLv": 8,
+      "EnergyCost": 6150
+    },
+    {
+      "ArtifactLv": 9,
+      "EnergyCost": 6335
+    },
+    {
+      "ArtifactLv": 10,
+      "EnergyCost": 6525
+    },
+    {
+      "ArtifactLv": 11,
+      "EnergyCost": 6720
+    },
+    {
+      "ArtifactLv": 12,
+      "EnergyCost": 6920
+    },
+    {
+      "ArtifactLv": 13,
+      "EnergyCost": 7130
+    },
+    {
+      "ArtifactLv": 14,
+      "EnergyCost": 7345
+    },
+    {
+      "ArtifactLv": 15,
+      "EnergyCost": 7565
+    },
+    {
+      "ArtifactLv": 16,
+      "EnergyCost": 7790
+    },
+    {
+      "ArtifactLv": 17,
+      "EnergyCost": 8025
+    },
+    {
+      "ArtifactLv": 18,
+      "EnergyCost": 8265
+    },
+    {
+      "ArtifactLv": 19,
+      "EnergyCost": 8390
+    },
+    {
+      "ArtifactLv": 20,
+      "EnergyCost": 8515
+    },
+    {
+      "ArtifactLv": 21,
+      "EnergyCost": 8645
+    },
+    {
+      "ArtifactLv": 22,
+      "EnergyCost": 8775
+    },
+    {
+      "ArtifactLv": 23,
+      "EnergyCost": 8905
+    },
+    {
+      "ArtifactLv": 24,
+      "EnergyCost": 9040
+    },
+    {
+      "ArtifactLv": 25,
+      "EnergyCost": 9175
+    },
+    {
+      "ArtifactLv": 26,
+      "EnergyCost": 9315
+    },
+    {
+      "ArtifactLv": 27,
+      "EnergyCost": 9455
+    },
+    {
+      "ArtifactLv": 28,
+      "EnergyCost": 9595
+    },
+    {
+      "ArtifactLv": 29,
+      "EnergyCost": 9740
+    },
+    {
+      "ArtifactLv": 30,
+      "EnergyCost": 9890
+    },
+    {
+      "ArtifactLv": 31,
+      "EnergyCost": 10040
+    },
+    {
+      "ArtifactLv": 32,
+      "EnergyCost": 10190
+    },
+    {
+      "ArtifactLv": 33,
+      "EnergyCost": 10340
+    },
+    {
+      "ArtifactLv": 34,
+      "EnergyCost": 10500
+    },
+    {
+      "ArtifactLv": 35,
+      "EnergyCost": 10660
+    },
+    {
+      "ArtifactLv": 36,
+      "EnergyCost": 10820
+    },
+    {
+      "ArtifactLv": 37,
+      "EnergyCost": 10980
+    },
+    {
+      "ArtifactLv": 38,
+      "EnergyCost": 11140
+    },
+    {
+      "ArtifactLv": 39,
+      "EnergyCost": 11310
+    },
+    {
+      "ArtifactLv": 40,
+      "EnergyCost": 11480
+    },
+    {
+      "ArtifactLv": 41,
+      "EnergyCost": 11650
+    },
+    {
+      "ArtifactLv": 42,
+      "EnergyCost": 11820
+    },
+    {
+      "ArtifactLv": 43,
+      "EnergyCost": 12000
+    },
+    {
+      "ArtifactLv": 44,
+      "EnergyCost": 12180
+    },
+    {
+      "ArtifactLv": 45,
+      "EnergyCost": 12360
+    }
+  ]
+}

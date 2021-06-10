@@ -1,0 +1,326 @@
+{
+  "WorldBossCampaign": [
+    {
+      "CampaignID": 1,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 2,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 3,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 4,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 5,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 6,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 7,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 8,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 9,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 10,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 11,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 12,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 13,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 14,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 15,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 16,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 17,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 18,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 19,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 20,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 21,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 22,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 23,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 24,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 25,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 26,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 27,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 28,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 29,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 30,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 31,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 32,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 33,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 34,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 35,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 36,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 37,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 38,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 39,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 40,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 41,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 42,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 43,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 44,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 45,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    },
+    {
+      "CampaignID": 46,
+      "AttackReward": 1,
+      "KilledReward": 2,
+      "MapName": "fb_08_heilongdongxue",
+      "MapEditorName": "fb_08_heilongdongxue"
+    }
+  ]
+}

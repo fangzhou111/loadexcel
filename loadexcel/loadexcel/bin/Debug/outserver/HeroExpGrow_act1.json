@@ -1,0 +1,172 @@
+{
+  "HeroExpGrow_act1": [
+    {
+      "ID": 1001,
+      "Type": 1,
+      "Idvalue": 2,
+      "ExpGrow": 0.7
+    },
+    {
+      "ID": 1002,
+      "Type": 1,
+      "Idvalue": 4,
+      "ExpGrow": 0.8
+    },
+    {
+      "ID": 1003,
+      "Type": 1,
+      "Idvalue": 5,
+      "ExpGrow": 0.9
+    },
+    {
+      "ID": 1004,
+      "Type": 1,
+      "Idvalue": 7,
+      "ExpGrow": 1.0
+    },
+    {
+      "ID": 1005,
+      "Type": 1,
+      "Idvalue": 8,
+      "ExpGrow": 1.36
+    },
+    {
+      "ID": 1006,
+      "Type": 1,
+      "Idvalue": 10,
+      "ExpGrow": 1.91
+    },
+    {
+      "ID": 1008,
+      "Type": 1,
+      "Idvalue": 12,
+      "ExpGrow": 2.86
+    },
+    {
+      "ID": 1010,
+      "Type": 1,
+      "Idvalue": 16,
+      "ExpGrow": 3.63
+    },
+    {
+      "ID": 1015,
+      "Type": 2,
+      "Idvalue": 0,
+      "ExpGrow": 1.0
+    },
+    {
+      "ID": 1016,
+      "Type": 2,
+      "Idvalue": 1,
+      "ExpGrow": 1.0
+    },
+    {
+      "ID": 1017,
+      "Type": 2,
+      "Idvalue": 2,
+      "ExpGrow": 1.0
+    },
+    {
+      "ID": 1018,
+      "Type": 2,
+      "Idvalue": 3,
+      "ExpGrow": 1.0
+    },
+    {
+      "ID": 1019,
+      "Type": 2,
+      "Idvalue": 4,
+      "ExpGrow": 1.0
+    },
+    {
+      "ID": 1020,
+      "Type": 2,
+      "Idvalue": 5,
+      "ExpGrow": 1.0
+    },
+    {
+      "ID": 1021,
+      "Type": 2,
+      "Idvalue": 6,
+      "ExpGrow": 1.0
+    },
+    {
+      "ID": 1022,
+      "Type": 2,
+      "Idvalue": 7,
+      "ExpGrow": 1.0
+    },
+    {
+      "ID": 1023,
+      "Type": 2,
+      "Idvalue": 8,
+      "ExpGrow": 1.0
+    },
+    {
+      "ID": 1024,
+      "Type": 2,
+      "Idvalue": 9,
+      "ExpGrow": 1.0
+    },
+    {
+      "ID": 1025,
+      "Type": 2,
+      "Idvalue": 10,
+      "ExpGrow": 1.0
+    },
+    {
+      "ID": 1026,
+      "Type": 2,
+      "Idvalue": 11,
+      "ExpGrow": 1.0
+    },
+    {
+      "ID": 1027,
+      "Type": 2,
+      "Idvalue": 12,
+      "ExpGrow": 1.0
+    },
+    {
+      "ID": 1028,
+      "Type": 2,
+      "Idvalue": 13,
+      "ExpGrow": 1.0
+    },
+    {
+      "ID": 1029,
+      "Type": 2,
+      "Idvalue": 14,
+      "ExpGrow": 1.0
+    },
+    {
+      "ID": 1030,
+      "Type": 2,
+      "Idvalue": 15,
+      "ExpGrow": 1.0
+    },
+    {
+      "ID": 1031,
+      "Type": 2,
+      "Idvalue": 16,
+      "ExpGrow": 1.0
+    },
+    {
+      "ID": 1032,
+      "Type": 2,
+      "Idvalue": 17,
+      "ExpGrow": 1.0
+    },
+    {
+      "ID": 1033,
+      "Type": 2,
+      "Idvalue": 18,
+      "ExpGrow": 1.0
+    },
+    {
+      "ID": 1034,
+      "Type": 2,
+      "Idvalue": 19,
+      "ExpGrow": 1.0
+    }
+  ]
+}

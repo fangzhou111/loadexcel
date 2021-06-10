@@ -1,0 +1,13 @@
+local list = {
+[1]={GuildLevel=1,GuildExp=0,Money=30000,MoneyExp=200,MoneyContribution=200,MoneyProgress=1,Gold=30,GoldExp=600,GoldContribution=600,GoldProgress=2,Diamond=300,DiamondEXP=1500,DiamondContribution=3000,DiamondProgress=5,GuildPlayer=20,GuildLeader=1,GuildBuild=1},
+[2]={GuildLevel=2,GuildExp=10000,Money=30000,MoneyExp=200,MoneyContribution=200,MoneyProgress=1,Gold=30,GoldExp=600,GoldContribution=600,GoldProgress=2,Diamond=300,DiamondEXP=1500,DiamondContribution=3000,DiamondProgress=5,GuildPlayer=22,GuildLeader=2,GuildBuild=1},
+[3]={GuildLevel=3,GuildExp=31500,Money=30000,MoneyExp=200,MoneyContribution=200,MoneyProgress=1,Gold=30,GoldExp=600,GoldContribution=600,GoldProgress=2,Diamond=300,DiamondEXP=1500,DiamondContribution=3000,DiamondProgress=5,GuildPlayer=24,GuildLeader=2,GuildBuild=1},
+[4]={GuildLevel=4,GuildExp=66000,Money=30000,MoneyExp=200,MoneyContribution=200,MoneyProgress=1,Gold=30,GoldExp=600,GoldContribution=600,GoldProgress=2,Diamond=300,DiamondEXP=1500,DiamondContribution=3000,DiamondProgress=5,GuildPlayer=26,GuildLeader=2,GuildBuild=1},
+[5]={GuildLevel=5,GuildExp=144000,Money=30000,MoneyExp=200,MoneyContribution=200,MoneyProgress=1,Gold=30,GoldExp=600,GoldContribution=600,GoldProgress=2,Diamond=300,DiamondEXP=1500,DiamondContribution=3000,DiamondProgress=5,GuildPlayer=28,GuildLeader=3,GuildBuild=1},
+[6]={GuildLevel=6,GuildExp=234000,Money=30000,MoneyExp=200,MoneyContribution=200,MoneyProgress=1,Gold=30,GoldExp=600,GoldContribution=600,GoldProgress=2,Diamond=300,DiamondEXP=1500,DiamondContribution=3000,DiamondProgress=5,GuildPlayer=30,GuildLeader=3,GuildBuild=1},
+[7]={GuildLevel=7,GuildExp=336000,Money=30000,MoneyExp=200,MoneyContribution=200,MoneyProgress=1,Gold=30,GoldExp=600,GoldContribution=600,GoldProgress=2,Diamond=300,DiamondEXP=1500,DiamondContribution=3000,DiamondProgress=5,GuildPlayer=32,GuildLeader=3,GuildBuild=1},
+[8]={GuildLevel=8,GuildExp=450000,Money=30000,MoneyExp=200,MoneyContribution=200,MoneyProgress=1,Gold=30,GoldExp=600,GoldContribution=600,GoldProgress=2,Diamond=300,DiamondEXP=1500,DiamondContribution=3000,DiamondProgress=5,GuildPlayer=34,GuildLeader=4,GuildBuild=1},
+[9]={GuildLevel=9,GuildExp=640000,Money=30000,MoneyExp=200,MoneyContribution=200,MoneyProgress=1,Gold=30,GoldExp=600,GoldContribution=600,GoldProgress=2,Diamond=300,DiamondEXP=1500,DiamondContribution=3000,DiamondProgress=5,GuildPlayer=36,GuildLeader=4,GuildBuild=1},
+[10]={GuildLevel=10,GuildExp=1020000,Money=30000,MoneyExp=200,MoneyContribution=200,MoneyProgress=1,Gold=30,GoldExp=600,GoldContribution=600,GoldProgress=2,Diamond=300,DiamondEXP=1500,DiamondContribution=3000,DiamondProgress=5,GuildPlayer=38,GuildLeader=4,GuildBuild=1}
+}
+return list

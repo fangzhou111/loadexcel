@@ -1,0 +1,16 @@
+{
+  "DomainQuestHeroMax": [
+    {
+      "PlayLevel": 40,
+      "DomainQuestHeroMax": 10
+    },
+    {
+      "PlayLevel": 50,
+      "DomainQuestHeroMax": 15
+    },
+    {
+      "PlayLevel": 60,
+      "DomainQuestHeroMax": 20
+    }
+  ]
+}

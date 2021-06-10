@@ -1,0 +1,28 @@
+{
+  "GemSuit": [
+    {
+      "SuitID": 1,
+      "Type": 1,
+      "Para1": 54,
+      "EffectID": 2001
+    },
+    {
+      "SuitID": 2,
+      "Type": 1,
+      "Para1": 72,
+      "EffectID": 2002
+    },
+    {
+      "SuitID": 3,
+      "Type": 1,
+      "Para1": 90,
+      "EffectID": 2003
+    },
+    {
+      "SuitID": 4,
+      "Type": 1,
+      "Para1": 108,
+      "EffectID": 2004
+    }
+  ]
+}

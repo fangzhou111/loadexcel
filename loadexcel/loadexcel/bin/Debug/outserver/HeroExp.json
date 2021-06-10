@@ -1,0 +1,604 @@
+{
+  "HeroExp": [
+    {
+      "Level": 1,
+      "BaseExp": 0,
+      "StepLevel": 0,
+      "ExperienceRatio": 1
+    },
+    {
+      "Level": 2,
+      "BaseExp": 20,
+      "StepLevel": 0,
+      "ExperienceRatio": 1
+    },
+    {
+      "Level": 3,
+      "BaseExp": 40,
+      "StepLevel": 0,
+      "ExperienceRatio": 1
+    },
+    {
+      "Level": 4,
+      "BaseExp": 60,
+      "StepLevel": 0,
+      "ExperienceRatio": 1
+    },
+    {
+      "Level": 5,
+      "BaseExp": 90,
+      "StepLevel": 0,
+      "ExperienceRatio": 1
+    },
+    {
+      "Level": 6,
+      "BaseExp": 120,
+      "StepLevel": 0,
+      "ExperienceRatio": 1
+    },
+    {
+      "Level": 7,
+      "BaseExp": 160,
+      "StepLevel": 0,
+      "ExperienceRatio": 1
+    },
+    {
+      "Level": 8,
+      "BaseExp": 200,
+      "StepLevel": 3,
+      "ExperienceRatio": 1
+    },
+    {
+      "Level": 9,
+      "BaseExp": 250,
+      "StepLevel": 3,
+      "ExperienceRatio": 1
+    },
+    {
+      "Level": 10,
+      "BaseExp": 300,
+      "StepLevel": 3,
+      "ExperienceRatio": 10
+    },
+    {
+      "Level": 11,
+      "BaseExp": 360,
+      "StepLevel": 3,
+      "ExperienceRatio": 10
+    },
+    {
+      "Level": 12,
+      "BaseExp": 430,
+      "StepLevel": 3,
+      "ExperienceRatio": 10
+    },
+    {
+      "Level": 13,
+      "BaseExp": 500,
+      "StepLevel": 3,
+      "ExperienceRatio": 10
+    },
+    {
+      "Level": 14,
+      "BaseExp": 580,
+      "StepLevel": 3,
+      "ExperienceRatio": 10
+    },
+    {
+      "Level": 15,
+      "BaseExp": 660,
+      "StepLevel": 3,
+      "ExperienceRatio": 10
+    },
+    {
+      "Level": 16,
+      "BaseExp": 750,
+      "StepLevel": 4,
+      "ExperienceRatio": 10
+    },
+    {
+      "Level": 17,
+      "BaseExp": 850,
+      "StepLevel": 4,
+      "ExperienceRatio": 10
+    },
+    {
+      "Level": 18,
+      "BaseExp": 960,
+      "StepLevel": 4,
+      "ExperienceRatio": 10
+    },
+    {
+      "Level": 19,
+      "BaseExp": 1100,
+      "StepLevel": 4,
+      "ExperienceRatio": 20
+    },
+    {
+      "Level": 20,
+      "BaseExp": 1250,
+      "StepLevel": 4,
+      "ExperienceRatio": 20
+    },
+    {
+      "Level": 21,
+      "BaseExp": 1400,
+      "StepLevel": 4,
+      "ExperienceRatio": 20
+    },
+    {
+      "Level": 22,
+      "BaseExp": 1600,
+      "StepLevel": 5,
+      "ExperienceRatio": 20
+    },
+    {
+      "Level": 23,
+      "BaseExp": 1800,
+      "StepLevel": 5,
+      "ExperienceRatio": 20
+    },
+    {
+      "Level": 24,
+      "BaseExp": 2000,
+      "StepLevel": 5,
+      "ExperienceRatio": 20
+    },
+    {
+      "Level": 25,
+      "BaseExp": 2300,
+      "StepLevel": 5,
+      "ExperienceRatio": 20
+    },
+    {
+      "Level": 26,
+      "BaseExp": 2600,
+      "StepLevel": 5,
+      "ExperienceRatio": 20
+    },
+    {
+      "Level": 27,
+      "BaseExp": 3000,
+      "StepLevel": 5,
+      "ExperienceRatio": 20
+    },
+    {
+      "Level": 28,
+      "BaseExp": 3400,
+      "StepLevel": 6,
+      "ExperienceRatio": 30
+    },
+    {
+      "Level": 29,
+      "BaseExp": 3800,
+      "StepLevel": 6,
+      "ExperienceRatio": 30
+    },
+    {
+      "Level": 30,
+      "BaseExp": 4200,
+      "StepLevel": 6,
+      "ExperienceRatio": 30
+    },
+    {
+      "Level": 31,
+      "BaseExp": 4700,
+      "StepLevel": 6,
+      "ExperienceRatio": 30
+    },
+    {
+      "Level": 32,
+      "BaseExp": 5200,
+      "StepLevel": 6,
+      "ExperienceRatio": 30
+    },
+    {
+      "Level": 33,
+      "BaseExp": 5700,
+      "StepLevel": 6,
+      "ExperienceRatio": 30
+    },
+    {
+      "Level": 34,
+      "BaseExp": 6200,
+      "StepLevel": 7,
+      "ExperienceRatio": 30
+    },
+    {
+      "Level": 35,
+      "BaseExp": 6800,
+      "StepLevel": 7,
+      "ExperienceRatio": 30
+    },
+    {
+      "Level": 36,
+      "BaseExp": 7500,
+      "StepLevel": 7,
+      "ExperienceRatio": 30
+    },
+    {
+      "Level": 37,
+      "BaseExp": 8200,
+      "StepLevel": 7,
+      "ExperienceRatio": 40
+    },
+    {
+      "Level": 38,
+      "BaseExp": 9000,
+      "StepLevel": 7,
+      "ExperienceRatio": 40
+    },
+    {
+      "Level": 39,
+      "BaseExp": 10000,
+      "StepLevel": 7,
+      "ExperienceRatio": 40
+    },
+    {
+      "Level": 40,
+      "BaseExp": 11000,
+      "StepLevel": 8,
+      "ExperienceRatio": 40
+    },
+    {
+      "Level": 41,
+      "BaseExp": 12500,
+      "StepLevel": 8,
+      "ExperienceRatio": 40
+    },
+    {
+      "Level": 42,
+      "BaseExp": 14000,
+      "StepLevel": 8,
+      "ExperienceRatio": 40
+    },
+    {
+      "Level": 43,
+      "BaseExp": 16000,
+      "StepLevel": 8,
+      "ExperienceRatio": 40
+    },
+    {
+      "Level": 44,
+      "BaseExp": 18000,
+      "StepLevel": 8,
+      "ExperienceRatio": 40
+    },
+    {
+      "Level": 45,
+      "BaseExp": 21000,
+      "StepLevel": 8,
+      "ExperienceRatio": 40
+    },
+    {
+      "Level": 46,
+      "BaseExp": 24000,
+      "StepLevel": 9,
+      "ExperienceRatio": 50
+    },
+    {
+      "Level": 47,
+      "BaseExp": 27500,
+      "StepLevel": 9,
+      "ExperienceRatio": 50
+    },
+    {
+      "Level": 48,
+      "BaseExp": 31000,
+      "StepLevel": 9,
+      "ExperienceRatio": 50
+    },
+    {
+      "Level": 49,
+      "BaseExp": 35000,
+      "StepLevel": 9,
+      "ExperienceRatio": 50
+    },
+    {
+      "Level": 50,
+      "BaseExp": 39500,
+      "StepLevel": 9,
+      "ExperienceRatio": 50
+    },
+    {
+      "Level": 51,
+      "BaseExp": 44000,
+      "StepLevel": 10,
+      "ExperienceRatio": 50
+    },
+    {
+      "Level": 52,
+      "BaseExp": 49000,
+      "StepLevel": 10,
+      "ExperienceRatio": 50
+    },
+    {
+      "Level": 53,
+      "BaseExp": 57500,
+      "StepLevel": 10,
+      "ExperienceRatio": 50
+    },
+    {
+      "Level": 54,
+      "BaseExp": 66000,
+      "StepLevel": 10,
+      "ExperienceRatio": 50
+    },
+    {
+      "Level": 55,
+      "BaseExp": 76000,
+      "StepLevel": 10,
+      "ExperienceRatio": 60
+    },
+    {
+      "Level": 56,
+      "BaseExp": 86000,
+      "StepLevel": 11,
+      "ExperienceRatio": 60
+    },
+    {
+      "Level": 57,
+      "BaseExp": 98000,
+      "StepLevel": 11,
+      "ExperienceRatio": 60
+    },
+    {
+      "Level": 58,
+      "BaseExp": 110000,
+      "StepLevel": 11,
+      "ExperienceRatio": 60
+    },
+    {
+      "Level": 59,
+      "BaseExp": 125000,
+      "StepLevel": 11,
+      "ExperienceRatio": 60
+    },
+    {
+      "Level": 60,
+      "BaseExp": 140000,
+      "StepLevel": 11,
+      "ExperienceRatio": 60
+    },
+    {
+      "Level": 61,
+      "BaseExp": 155000,
+      "StepLevel": 12,
+      "ExperienceRatio": 60
+    },
+    {
+      "Level": 62,
+      "BaseExp": 175000,
+      "StepLevel": 12,
+      "ExperienceRatio": 60
+    },
+    {
+      "Level": 63,
+      "BaseExp": 195000,
+      "StepLevel": 12,
+      "ExperienceRatio": 60
+    },
+    {
+      "Level": 64,
+      "BaseExp": 220000,
+      "StepLevel": 12,
+      "ExperienceRatio": 70
+    },
+    {
+      "Level": 65,
+      "BaseExp": 245000,
+      "StepLevel": 12,
+      "ExperienceRatio": 70
+    },
+    {
+      "Level": 66,
+      "BaseExp": 270000,
+      "StepLevel": 13,
+      "ExperienceRatio": 70
+    },
+    {
+      "Level": 67,
+      "BaseExp": 295000,
+      "StepLevel": 13,
+      "ExperienceRatio": 70
+    },
+    {
+      "Level": 68,
+      "BaseExp": 320000,
+      "StepLevel": 13,
+      "ExperienceRatio": 70
+    },
+    {
+      "Level": 69,
+      "BaseExp": 360000,
+      "StepLevel": 13,
+      "ExperienceRatio": 70
+    },
+    {
+      "Level": 70,
+      "BaseExp": 400000,
+      "StepLevel": 13,
+      "ExperienceRatio": 70
+    },
+    {
+      "Level": 71,
+      "BaseExp": 445000,
+      "StepLevel": 14,
+      "ExperienceRatio": 70
+    },
+    {
+      "Level": 72,
+      "BaseExp": 490000,
+      "StepLevel": 14,
+      "ExperienceRatio": 70
+    },
+    {
+      "Level": 73,
+      "BaseExp": 540000,
+      "StepLevel": 14,
+      "ExperienceRatio": 80
+    },
+    {
+      "Level": 74,
+      "BaseExp": 590000,
+      "StepLevel": 14,
+      "ExperienceRatio": 80
+    },
+    {
+      "Level": 75,
+      "BaseExp": 650000,
+      "StepLevel": 14,
+      "ExperienceRatio": 80
+    },
+    {
+      "Level": 76,
+      "BaseExp": 715000,
+      "StepLevel": 15,
+      "ExperienceRatio": 80
+    },
+    {
+      "Level": 77,
+      "BaseExp": 780000,
+      "StepLevel": 15,
+      "ExperienceRatio": 80
+    },
+    {
+      "Level": 78,
+      "BaseExp": 860000,
+      "StepLevel": 15,
+      "ExperienceRatio": 80
+    },
+    {
+      "Level": 79,
+      "BaseExp": 940000,
+      "StepLevel": 15,
+      "ExperienceRatio": 80
+    },
+    {
+      "Level": 80,
+      "BaseExp": 1020000,
+      "StepLevel": 15,
+      "ExperienceRatio": 80
+    },
+    {
+      "Level": 81,
+      "BaseExp": 1100000,
+      "StepLevel": 16,
+      "ExperienceRatio": 80
+    },
+    {
+      "Level": 82,
+      "BaseExp": 1200000,
+      "StepLevel": 16,
+      "ExperienceRatio": 90
+    },
+    {
+      "Level": 83,
+      "BaseExp": 1300000,
+      "StepLevel": 16,
+      "ExperienceRatio": 90
+    },
+    {
+      "Level": 84,
+      "BaseExp": 1400000,
+      "StepLevel": 16,
+      "ExperienceRatio": 90
+    },
+    {
+      "Level": 85,
+      "BaseExp": 1500000,
+      "StepLevel": 16,
+      "ExperienceRatio": 90
+    },
+    {
+      "Level": 86,
+      "BaseExp": 1600000,
+      "StepLevel": 17,
+      "ExperienceRatio": 90
+    },
+    {
+      "Level": 87,
+      "BaseExp": 1800000,
+      "StepLevel": 17,
+      "ExperienceRatio": 90
+    },
+    {
+      "Level": 88,
+      "BaseExp": 2000000,
+      "StepLevel": 17,
+      "ExperienceRatio": 90
+    },
+    {
+      "Level": 89,
+      "BaseExp": 2200000,
+      "StepLevel": 17,
+      "ExperienceRatio": 90
+    },
+    {
+      "Level": 90,
+      "BaseExp": 2400000,
+      "StepLevel": 17,
+      "ExperienceRatio": 90
+    },
+    {
+      "Level": 91,
+      "BaseExp": 2600000,
+      "StepLevel": 18,
+      "ExperienceRatio": 100
+    },
+    {
+      "Level": 92,
+      "BaseExp": 2800000,
+      "StepLevel": 18,
+      "ExperienceRatio": 100
+    },
+    {
+      "Level": 93,
+      "BaseExp": 3050000,
+      "StepLevel": 18,
+      "ExperienceRatio": 100
+    },
+    {
+      "Level": 94,
+      "BaseExp": 3300000,
+      "StepLevel": 18,
+      "ExperienceRatio": 100
+    },
+    {
+      "Level": 95,
+      "BaseExp": 3600000,
+      "StepLevel": 18,
+      "ExperienceRatio": 100
+    },
+    {
+      "Level": 96,
+      "BaseExp": 3900000,
+      "StepLevel": 19,
+      "ExperienceRatio": 100
+    },
+    {
+      "Level": 97,
+      "BaseExp": 4200000,
+      "StepLevel": 19,
+      "ExperienceRatio": 100
+    },
+    {
+      "Level": 98,
+      "BaseExp": 4500000,
+      "StepLevel": 19,
+      "ExperienceRatio": 100
+    },
+    {
+      "Level": 99,
+      "BaseExp": 4800000,
+      "StepLevel": 19,
+      "ExperienceRatio": 100
+    },
+    {
+      "Level": 100,
+      "BaseExp": 5130000,
+      "StepLevel": 19,
+      "ExperienceRatio": 120
+    }
+  ]
+}

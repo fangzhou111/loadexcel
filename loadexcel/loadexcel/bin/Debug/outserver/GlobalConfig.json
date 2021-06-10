@@ -1,0 +1,1160 @@
+{
+  "GlobalConfig": [
+    {
+      "NameID": "WorldBossBox",
+      "Value": 3
+    },
+    {
+      "NameID": "WorldBossBoxNum",
+      "Value": 3
+    },
+    {
+      "NameID": "WorldBossResurrection",
+      "Value": 60
+    },
+    {
+      "NameID": "WorldBossResurrectionGold",
+      "Value": 50
+    },
+    {
+      "NameID": "WorldBossReduce",
+      "Value": 2
+    },
+    {
+      "NameID": "WorldBossAccordVIP",
+      "Value": 5
+    },
+    {
+      "NameID": "WorldBossAccordLevel",
+      "Value": 50
+    },
+    {
+      "NameID": "WorldBossFightRound",
+      "Value": 5
+    },
+    {
+      "NameID": "ItemBagBaseSpace",
+      "Value": 500
+    },
+    {
+      "NameID": "HeroBagBaseSpace",
+      "Value": 100
+    },
+    {
+      "NameID": "EquipmentBagBaseSpace",
+      "Value": 100
+    },
+    {
+      "NameID": "GemComposeBaseNum",
+      "Value": 4
+    },
+    {
+      "NameID": "LightenTheFourthGemOutputPrice",
+      "Value": 500
+    },
+    {
+      "NameID": "SweepItemID",
+      "Value": 0
+    },
+    {
+      "NameID": "GemBagSpaceNum",
+      "Value": 17
+    },
+    {
+      "NameID": "EnchantNeedItemID",
+      "Value": 2020001
+    },
+    {
+      "NameID": "SkillUpgradeLevel1",
+      "Value": 100
+    },
+    {
+      "NameID": "SkillUpgradeLevel2",
+      "Value": 0
+    },
+    {
+      "NameID": "SkillUpgradeLevel3",
+      "Value": 0
+    },
+    {
+      "NameID": "PlayerFirstCaptain",
+      "Value": 20010818
+    },
+    {
+      "NameID": "PlayerFirstHero1",
+      "Value": 0
+    },
+    {
+      "NameID": "PlayerFirstHero2",
+      "Value": 0
+    },
+    {
+      "NameID": "EnchantGainExp",
+      "Value": 10
+    },
+    {
+      "NameID": "ArenaRefreshCost",
+      "Value": 0
+    },
+    {
+      "NameID": "ArenaBattleCD",
+      "Value": 0
+    },
+    {
+      "NameID": "ArenaBCDResetCost",
+      "Value": 10
+    },
+    {
+      "NameID": "ArenaFreeTimes",
+      "Value": 20
+    },
+    {
+      "NameID": "ArenaWinHonor",
+      "Value": 50
+    },
+    {
+      "NameID": "ArenaWinSilver",
+      "Value": 2
+    },
+    {
+      "NameID": "ArenaLoseHonor",
+      "Value": 20
+    },
+    {
+      "NameID": "ArenaLoseSilver",
+      "Value": 1
+    },
+    {
+      "NameID": "MaxDevourHeroNum",
+      "Value": 8
+    },
+    {
+      "NameID": "PlayerMaxLevel",
+      "Value": 80
+    },
+    {
+      "NameID": "NormalCampaignBattleTime",
+      "Value": 180
+    },
+    {
+      "NameID": "EliteCampaignBattleTime",
+      "Value": 300
+    },
+    {
+      "NameID": "ResourceCampaignBattleTime",
+      "Value": 60
+    },
+    {
+      "NameID": "SoloBossBattleTime",
+      "Value": 600
+    },
+    {
+      "NameID": "WrestlingBattleTime",
+      "Value": 120
+    },
+    {
+      "NameID": "ArenaBattleTime",
+      "Value": 120
+    },
+    {
+      "NameID": "SoloBattleTime",
+      "Value": 120
+    },
+    {
+      "NameID": "WrestlingHPRestore",
+      "Value": 30
+    },
+    {
+      "NameID": "WrestlingRagePointRestore",
+      "Value": 30
+    },
+    {
+      "NameID": "ChatWorldLevel",
+      "Value": 10
+    },
+    {
+      "NameID": "ChatWorldCD",
+      "Value": 30
+    },
+    {
+      "NameID": "ChatShowNum",
+      "Value": 30
+    },
+    {
+      "NameID": "ChatMessageLength",
+      "Value": 40
+    },
+    {
+      "NameID": "ChatFriend",
+      "Value": 30
+    },
+    {
+      "NameID": "ChatGuildCD",
+      "Value": 15
+    },
+    {
+      "NameID": "BattlefieldChoiceTime",
+      "Value": 60
+    },
+    {
+      "NameID": "BattlefieldReliveCD",
+      "Value": 30
+    },
+    {
+      "NameID": "BattlefieldReturnCD",
+      "Value": 15
+    },
+    {
+      "NameID": "BattlefiledTimeRewardCD",
+      "Value": 10
+    },
+    {
+      "NameID": "BattlefiledCrossTime",
+      "Value": 45
+    },
+    {
+      "NameID": "DailyTimeCaveChallengeTime",
+      "Value": 2
+    },
+    {
+      "NameID": "RechristenCardItemID",
+      "Value": 2030002
+    },
+    {
+      "NameID": "FriendRequestTime",
+      "Value": 72
+    },
+    {
+      "NameID": "PrivateChatShowNum",
+      "Value": 30
+    },
+    {
+      "NameID": "ChatPrivateCD",
+      "Value": 1
+    },
+    {
+      "NameID": "HeroResolveSoulStar1",
+      "Value": 10
+    },
+    {
+      "NameID": "HeroResolveSoulStar2",
+      "Value": 20
+    },
+    {
+      "NameID": "HeroResolveSoulStar3",
+      "Value": 60
+    },
+    {
+      "NameID": "HeroResolveSoulStar4",
+      "Value": 480
+    },
+    {
+      "NameID": "HeroResolveSoulStar5",
+      "Value": 2000
+    },
+    {
+      "NameID": "HeroResolveSoulStar6",
+      "Value": 3000
+    },
+    {
+      "NameID": "HeroPosition1",
+      "Value": 0
+    },
+    {
+      "NameID": "HeroPosition2",
+      "Value": 0
+    },
+    {
+      "NameID": "HeroPosition3",
+      "Value": 0
+    },
+    {
+      "NameID": "HeroPosition4",
+      "Value": 0
+    },
+    {
+      "NameID": "HeroPosition5",
+      "Value": 0
+    },
+    {
+      "NameID": "FateFightChapterTimes",
+      "Value": 3
+    },
+    {
+      "NameID": "HeroResolvePrice",
+      "Value": 0
+    },
+    {
+      "NameID": "HeroResolveBack",
+      "Value": 100
+    },
+    {
+      "NameID": "DailyTimeCaveChestOpeningTime",
+      "Value": 0
+    },
+    {
+      "NameID": "ResourceCampaignCD",
+      "Value": 600
+    },
+    {
+      "NameID": "ResourceCampaignCDResetCost",
+      "Value": 10
+    },
+    {
+      "NameID": "ResourceCampaignSweep",
+      "Value": 20
+    },
+    {
+      "NameID": "EquipmentDecompositionPrice",
+      "Value": 0
+    },
+    {
+      "NameID": "EquipmentDecompositionBack",
+      "Value": 100
+    },
+    {
+      "NameID": "TempleFightTime",
+      "Value": 90
+    },
+    {
+      "NameID": "FateFightTime",
+      "Value": 300
+    },
+    {
+      "NameID": "Quest30HeroID",
+      "Value": 40220010
+    },
+    {
+      "NameID": "SkillPointCD",
+      "Value": 300
+    },
+    {
+      "NameID": "SkillPointMax",
+      "Value": 20
+    },
+    {
+      "NameID": "FriendActionPoint",
+      "Value": 50
+    },
+    {
+      "NameID": "HeroResolvePrice1",
+      "Value": 0
+    },
+    {
+      "NameID": "EquipmentDecompositionPrice1",
+      "Value": 0
+    },
+    {
+      "NameID": "RetroactiveQuest",
+      "Value": 20
+    },
+    {
+      "NameID": "ArenaBattleScore",
+      "Value": 2
+    },
+    {
+      "NameID": "ArenaWorshipGold",
+      "Value": 10000
+    },
+    {
+      "NameID": "ChangeName",
+      "Value": 50
+    },
+    {
+      "NameID": "GuildBuildDiamond",
+      "Value": 200
+    },
+    {
+      "NameID": "GuildBuildLevel",
+      "Value": 25
+    },
+    {
+      "NameID": "GuildChangeName",
+      "Value": 25
+    },
+    {
+      "NameID": "GuildDadge",
+      "Value": 8
+    },
+    {
+      "NameID": "GuildRaidTime",
+      "Value": 180
+    },
+    {
+      "NameID": "IllidanSpendMax",
+      "Value": 15
+    },
+    {
+      "NameID": "GuildRaidRewardMax",
+      "Value": 1
+    },
+    {
+      "NameID": "GuildRaidRewardTime",
+      "Value": 1
+    },
+    {
+      "NameID": "GuildRaidOpen",
+      "Value": 0
+    },
+    {
+      "NameID": "GuildRaidOver",
+      "Value": 8
+    },
+    {
+      "NameID": "InheritPriceMIN",
+      "Value": 50
+    },
+    {
+      "NameID": "InheritHeroExpItemMIN",
+      "Value": 2050002
+    },
+    {
+      "NameID": "TavernHeroBlessingShowVIP",
+      "Value": 4
+    },
+    {
+      "NameID": "LegionAllSweepCost",
+      "Value": 20
+    },
+    {
+      "NameID": "ArenaQuickFightCost",
+      "Value": 2
+    },
+    {
+      "NameID": "ArenaQuickFightNeedRank",
+      "Value": 1000
+    },
+    {
+      "NameID": "TimeCaveQuickFightCost",
+      "Value": 20
+    },
+    {
+      "NameID": "EquipmentEnchantMINGSNeed",
+      "Value": 7
+    },
+    {
+      "NameID": "VIPLevelMax",
+      "Value": 16
+    },
+    {
+      "NameID": "1SquirePlayerLevel",
+      "Value": 40
+    },
+    {
+      "NameID": "2SquirePlayerLevel",
+      "Value": 50
+    },
+    {
+      "NameID": "3SquirePlayerLevel",
+      "Value": 60
+    },
+    {
+      "NameID": "SquireHeroStar",
+      "Value": 3
+    },
+    {
+      "NameID": "SquireHeroStarStrength",
+      "Value": 6
+    },
+    {
+      "NameID": "DomainSweepCost",
+      "Value": 20
+    },
+    {
+      "NameID": "MaxActivityTime",
+      "Value": 3
+    },
+    {
+      "NameID": "GuildMailMax",
+      "Value": 2
+    },
+    {
+      "NameID": "GuildApplyMax",
+      "Value": 20
+    },
+    {
+      "NameID": "ArtifactResetCost",
+      "Value": 100
+    },
+    {
+      "NameID": "PitOccupyTime",
+      "Value": 180
+    },
+    {
+      "NameID": "PitPlunderNum",
+      "Value": 3
+    },
+    {
+      "NameID": "PitPlunderCD",
+      "Value": 20
+    },
+    {
+      "NameID": "PitPlunderedNum",
+      "Value": 3
+    },
+    {
+      "NameID": "PitProtectTime",
+      "Value": 10
+    },
+    {
+      "NameID": "PitPlunderedMax",
+      "Value": 15
+    },
+    {
+      "NameID": "PitBattleTime",
+      "Value": 120
+    },
+    {
+      "NameID": "UseAngrySkill",
+      "Value": 100
+    },
+    {
+      "NameID": "TopAngryNum",
+      "Value": 200
+    },
+    {
+      "NameID": "HealthAngrySkillCondition",
+      "Value": 70
+    },
+    {
+      "NameID": "JewelryStrengStart",
+      "Value": 10
+    },
+    {
+      "NameID": "SpiritRestoreLimit",
+      "Value": 75
+    },
+    {
+      "NameID": "SpiritRestoreTime",
+      "Value": 15
+    },
+    {
+      "NameID": "ResourceDecay",
+      "Value": 10
+    },
+    {
+      "NameID": "SpiritShowNum",
+      "Value": 10
+    },
+    {
+      "NameID": "RunesOutPosition",
+      "Value": 4
+    },
+    {
+      "NameID": "RunesOutItem",
+      "Value": 400001
+    },
+    {
+      "NameID": "RunesOutFree",
+      "Value": 1
+    },
+    {
+      "NameID": "RunesStepItem",
+      "Value": 400002
+    },
+    {
+      "NameID": "RunesOutTen",
+      "Value": 50
+    },
+    {
+      "NameID": "RunesWawangLevel",
+      "Value": 60
+    },
+    {
+      "NameID": "OrnamentDisplaceBasePrice",
+      "Value": 20
+    },
+    {
+      "NameID": "CimeliaDisplacePrice",
+      "Value": 100
+    },
+    {
+      "NameID": "OrangeHeroDisplacePrice",
+      "Value": 100
+    },
+    {
+      "NameID": "RedHeroDisplacePrice",
+      "Value": 2000
+    },
+    {
+      "NameID": "ChatOpenVIPLevel",
+      "Value": 3
+    },
+    {
+      "NameID": "ChatOpenLevel",
+      "Value": 20
+    },
+    {
+      "NameID": "ConjureOrdinaryTimes",
+      "Value": 500
+    },
+    {
+      "NameID": "ConjureSeniorTimes",
+      "Value": 500
+    },
+    {
+      "NameID": "EquipOrdinaryTimes",
+      "Value": 500
+    },
+    {
+      "NameID": "EquipSeniorTimes",
+      "Value": 500
+    },
+    {
+      "NameID": "LimitHeroTimes",
+      "Value": 500
+    },
+    {
+      "NameID": "MaxOpenLevel",
+      "Value": 40
+    },
+    {
+      "NameID": "LineupPosition7",
+      "Value": 1000
+    },
+    {
+      "NameID": "LineupPosition8",
+      "Value": 2000
+    },
+    {
+      "NameID": "MysteryShopNeedPhysicalStrength",
+      "Value": 1000
+    },
+    {
+      "NameID": "MysteryShopAppearProbability",
+      "Value": 5000
+    },
+    {
+      "NameID": "MysteryShopAppearTime",
+      "Value": 3600
+    },
+    {
+      "NameID": "PetStepItem",
+      "Value": 500005
+    },
+    {
+      "NameID": "CarnivalEndDay",
+      "Value": 8
+    },
+    {
+      "NameID": "CarnivalRewardStartDay",
+      "Value": 5
+    },
+    {
+      "NameID": "BeginRankHeroId",
+      "Value": 20011204
+    },
+    {
+      "NameID": "BeginRankStartDay",
+      "Value": 0
+    },
+    {
+      "NameID": "BeginRankSettleDay",
+      "Value": 0
+    },
+    {
+      "NameID": "BeginRankEndDay",
+      "Value": 0
+    },
+    {
+      "NameID": "BeginRankFightValue",
+      "Value": 20000
+    },
+    {
+      "NameID": "BeginRankEndClock",
+      "Value": 0
+    },
+    {
+      "NameID": "ConvoyTimes",
+      "Value": 3
+    },
+    {
+      "NameID": "ConvoyLootTimes",
+      "Value": 4
+    },
+    {
+      "NameID": "ConvoyHelpTimes",
+      "Value": 2
+    },
+    {
+      "NameID": "ConvoyFreeRefreshTimes",
+      "Value": 5
+    },
+    {
+      "NameID": "Convoy5StarExpend",
+      "Value": 100
+    },
+    {
+      "NameID": "ConvoryAssistCountdown",
+      "Value": 40
+    },
+    {
+      "NameID": "ConvoryDoubleTime",
+      "Value": 30
+    },
+    {
+      "NameID": "ConvoryDoubleInitial",
+      "Value": 50
+    },
+    {
+      "NameID": "ConvoryDoubleGuildLevel",
+      "Value": 10
+    },
+    {
+      "NameID": "ConvoyLootReward",
+      "Value": 20
+    },
+    {
+      "NameID": "TimeCaveBattleCD",
+      "Value": 600
+    },
+    {
+      "NameID": "ChestPrice1",
+      "Value": 0
+    },
+    {
+      "NameID": "ChestPrice2",
+      "Value": 20
+    },
+    {
+      "NameID": "ChestPrice3",
+      "Value": 50
+    },
+    {
+      "NameID": "ChestPrice4",
+      "Value": 100
+    },
+    {
+      "NameID": "HeroRebirthExpendDiamond",
+      "Value": 50
+    },
+    {
+      "NameID": "EquipmentrRbirthExpendDiamond",
+      "Value": 50
+    },
+    {
+      "NameID": "ArtifactRebirthExpendDiamond",
+      "Value": 50
+    },
+    {
+      "NameID": "OrnamentRebirthExpengdDiamond",
+      "Value": 50
+    },
+    {
+      "NameID": "RunesRebirthExpengdDiamond",
+      "Value": 50
+    },
+    {
+      "NameID": "PetRebirthExpengdDiamond",
+      "Value": 50
+    },
+    {
+      "NameID": "PrisonBattleTime",
+      "Value": 60
+    },
+    {
+      "NameID": "Carnival2OpenDay",
+      "Value": 8
+    },
+    {
+      "NameID": "Carnival2EndDay",
+      "Value": 15
+    },
+    {
+      "NameID": "SignNumRecycle",
+      "Value": 10
+    },
+    {
+      "NameID": "FreeFightTime",
+      "Value": 2
+    },
+    {
+      "NameID": "UpdateFriendCost",
+      "Value": 10
+    },
+    {
+      "NameID": "3HeroAmityAddFirstHandValue",
+      "Value": 200
+    },
+    {
+      "NameID": "StarDamage",
+      "Value": 12
+    },
+    {
+      "NameID": "PulicArenaFightTimes",
+      "Value": 10
+    },
+    {
+      "NameID": "PulicArenaRefreshTimes",
+      "Value": 2
+    },
+    {
+      "NameID": "PulicArenaWinConquer",
+      "Value": 20
+    },
+    {
+      "NameID": "PulicArenaLostConquer",
+      "Value": 10
+    },
+    {
+      "NameID": "PulicArenaScoreBase",
+      "Value": 200
+    },
+    {
+      "NameID": "PulicArenaScoreRatio",
+      "Value": 38
+    },
+    {
+      "NameID": "LeagueMatchScoreRatio",
+      "Value": 64
+    },
+    {
+      "NameID": "LeagueMatchFightTimes",
+      "Value": 15
+    },
+    {
+      "NameID": "LeagueMatchWorshipTimes",
+      "Value": 3
+    },
+    {
+      "NameID": "LeagueMatchWorshipCP",
+      "Value": 100
+    },
+    {
+      "NameID": "LeagueMatchWinCP",
+      "Value": 100
+    },
+    {
+      "NameID": "LeagueMatchLostCP",
+      "Value": 80
+    },
+    {
+      "NameID": "LeagueMatchVictoryMatchingScore",
+      "Value": 0
+    },
+    {
+      "NameID": "LeagueMatchFailureMatchingScore",
+      "Value": 0
+    },
+    {
+      "NameID": "LeagueMatchVictoryMatchingScoreMax",
+      "Value": 500
+    },
+    {
+      "NameID": "LeagueMatchFailureMatchingScoreMin",
+      "Value": 500
+    },
+    {
+      "NameID": "LeagueMatchBattleTime",
+      "Value": 120
+    },
+    {
+      "NameID": "LeagueMatchChestOpenNum",
+      "Value": 1
+    },
+    {
+      "NameID": "LeagueMatchOpenTime",
+      "Value": 7
+    },
+    {
+      "NameID": "GrowthFundEndTime",
+      "Value": 7
+    },
+    {
+      "NameID": "ArenaRankEndDay",
+      "Value": 5
+    },
+    {
+      "NameID": "ArenaRankMinNum",
+      "Value": 50
+    },
+    {
+      "NameID": "MonthCardFirstReward",
+      "Value": 20108330
+    },
+    {
+      "NameID": "MonthCardFirstNum",
+      "Value": 1
+    },
+    {
+      "NameID": "TavernDropFirst",
+      "Value": 1
+    },
+    {
+      "NameID": "TavernSpecialDropFirst",
+      "Value": 60001
+    },
+    {
+      "NameID": "TavernTenEvenSmokeFirst",
+      "Value": 60002
+    },
+    {
+      "NameID": "TavernDropDailyTimes",
+      "Value": 5
+    },
+    {
+      "NameID": "TavernDropItemID",
+      "Value": 2030003
+    },
+    {
+      "NameID": "TavernSpecialDropItemID",
+      "Value": 2030004
+    },
+    {
+      "NameID": "TavernDropIntervalTime",
+      "Value": 600
+    },
+    {
+      "NameID": "TavernSpecialDropIntervalTime",
+      "Value": 86400
+    },
+    {
+      "NameID": "TavernHotDropIntervalTime",
+      "Value": 259200
+    },
+    {
+      "NameID": "TavernSpecialTenDropIntervalTime",
+      "Value": 5400
+    },
+    {
+      "NameID": "TavernSpecialDropNeedDiamond",
+      "Value": 300
+    },
+    {
+      "NameID": "TavernSpecialTenDropNeedDiamond",
+      "Value": 2850
+    },
+    {
+      "NameID": "TavernSpecialDropChangeTimes",
+      "Value": 10
+    },
+    {
+      "NameID": "TavernSpecialDropTransform",
+      "Value": 0
+    },
+    {
+      "NameID": "TarvernSepclalDorpThird",
+      "Value": 4
+    },
+    {
+      "NameID": "TavernEquipDropItemID",
+      "Value": 2030077
+    },
+    {
+      "NameID": "HighTavernEquipDropItemID",
+      "Value": 2030010
+    },
+    {
+      "NameID": "TavernEquipDropNeedDiamond",
+      "Value": 150
+    },
+    {
+      "NameID": "TavernEquipTenDropNeedDiamond",
+      "Value": 1280
+    },
+    {
+      "NameID": "TavernEquipDropIntervalTime",
+      "Value": 86400
+    },
+    {
+      "NameID": "TavernSpecialTenDropItemID",
+      "Value": 2030074
+    },
+    {
+      "NameID": "TavernHotDropNeedDiamond",
+      "Value": 300
+    },
+    {
+      "NameID": "TavernHotDropTimes",
+      "Value": 50
+    },
+    {
+      "NameID": "TavernSpecialDropScore",
+      "Value": 10
+    },
+    {
+      "NameID": "TavernSpecialDropDoubleScoreRate",
+      "Value": 2000
+    },
+    {
+      "NameID": "TavernSpecialDropFouthScoreRate",
+      "Value": 500
+    },
+    {
+      "NameID": "TavernHotDropScore",
+      "Value": 10
+    },
+    {
+      "NameID": "TavernHotDropDoubleScoreRate",
+      "Value": 2000
+    },
+    {
+      "NameID": "TavernHotDropFouthScoreRate",
+      "Value": 500
+    },
+    {
+      "NameID": "BossChallengeItemReply",
+      "Value": 50
+    },
+    {
+      "NameID": "BossChallengeItemMax",
+      "Value": 20
+    },
+    {
+      "NameID": "BossChallengeAttack",
+      "Value": 1
+    },
+    {
+      "NameID": "BossChallengeRankRefresh",
+      "Value": 1
+    },
+    {
+      "NameID": "BossChallengeRwardNum",
+      "Value": 15
+    },
+    {
+      "NameID": "BossChallengeAmount",
+      "Value": 20
+    },
+    {
+      "NameID": "BossChallengeTime",
+      "Value": 90
+    },
+    {
+      "NameID": "BossChallengeTrigger",
+      "Value": 6
+    },
+    {
+      "NameID": "BossChallengeEscape",
+      "Value": 180
+    },
+    {
+      "NameID": "BossChallengeNext",
+      "Value": 90
+    },
+    {
+      "NameID": "BossChallengeNightBegin",
+      "Value": 21
+    },
+    {
+      "NameID": "BossChallengeNightOver",
+      "Value": 12
+    },
+    {
+      "NameID": "BossChallengeMaxlevel",
+      "Value": 148
+    },
+    {
+      "NameID": "BossChallengeUp",
+      "Value": 5
+    },
+    {
+      "NameID": "BossChallengePersonLevel",
+      "Value": 200
+    },
+    {
+      "NameID": "ChangeCampCost",
+      "Value": 100
+    },
+    {
+      "NameID": "CampProperty1",
+      "Value": 108
+    },
+    {
+      "NameID": "CampProperty2",
+      "Value": 108
+    },
+    {
+      "NameID": "CampProperty3",
+      "Value": 108
+    },
+    {
+      "NameID": "CupBattleTime",
+      "Value": 60
+    },
+    {
+      "NameID": "CupPromtionRestTime",
+      "Value": 3600
+    },
+    {
+      "NameID": "CupOpenTime",
+      "Value": 14
+    },
+    {
+      "NameID": "CupSeedingRestTime",
+      "Value": 1800
+    },
+    {
+      "NameID": "CupWorshipReward",
+      "Value": 20000
+    },
+    {
+      "NameID": "CupCelebrateGift",
+      "Value": 10078
+    },
+    {
+      "NameID": "DomainQuestDoubleReward",
+      "Value": 50
+    },
+    {
+      "NameID": "DomainQuestHeroSuccessRatioBase",
+      "Value": 100000
+    },
+    {
+      "NameID": "DomainQuestDayDomainQuestMax",
+      "Value": 16
+    },
+    {
+      "NameID": "DomainQuestListMax",
+      "Value": 8
+    },
+    {
+      "NameID": "DomainQuestRefreshQuestNUM",
+      "Value": 8
+    },
+    {
+      "NameID": "DomainQuestRefreshTime1",
+      "Value": 720
+    },
+    {
+      "NameID": "DomainQuestRefreshTime2",
+      "Value": 1080
+    },
+    {
+      "NameID": "DomainEnemyRefreshTime",
+      "Value": 24
+    },
+    {
+      "NameID": "DomainMineBattleTime",
+      "Value": 300
+    },
+    {
+      "NameID": "DomainPlayerBattleTime",
+      "Value": 120
+    },
+    {
+      "NameID": "DomainBotBattleTime",
+      "Value": 120
+    },
+    {
+      "NameID": "DomainTimeRatio",
+      "Value": 50
+    },
+    {
+      "NameID": "DomianBattleActive",
+      "Value": 10
+    },
+    {
+      "NameID": "DomianActiveReduce",
+      "Value": 0
+    },
+    {
+      "NameID": "DomainActiveReduceEveryDay",
+      "Value": 370
+    },
+    {
+      "NameID": "BlackShopPriceFloat",
+      "Value": 20
+    }
+  ]
+}

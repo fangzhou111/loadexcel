@@ -1,0 +1,39 @@
+{
+  "ShopItemResetTime": [
+    {
+      "ID": 1,
+      "ShopType": 4,
+      "ResetTime": 720
+    },
+    {
+      "ID": 2,
+      "ShopType": 4,
+      "ResetTime": 1080
+    },
+    {
+      "ID": 3,
+      "ShopType": 4,
+      "ResetTime": 1260
+    },
+    {
+      "ID": 4,
+      "ShopType": 2,
+      "ResetTime": 720
+    },
+    {
+      "ID": 5,
+      "ShopType": 2,
+      "ResetTime": 1080
+    },
+    {
+      "ID": 6,
+      "ShopType": 2,
+      "ResetTime": 1260
+    },
+    {
+      "ID": 7,
+      "ShopType": 9,
+      "ResetTime": 1260
+    }
+  ]
+}

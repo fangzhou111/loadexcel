@@ -1,0 +1,444 @@
+{
+  "TavernHeroBlessing": [
+    {
+      "ID": 1,
+      "Type": 1,
+      "Order": 1,
+      "NeedBlessing": 500,
+      "HeroPieceID": 20021008,
+      "Num": 1
+    },
+    {
+      "ID": 2,
+      "Type": 1,
+      "Order": 1,
+      "NeedBlessing": 500,
+      "HeroPieceID": 20021009,
+      "Num": 1
+    },
+    {
+      "ID": 3,
+      "Type": 1,
+      "Order": 1,
+      "NeedBlessing": 500,
+      "HeroPieceID": 20021010,
+      "Num": 1
+    },
+    {
+      "ID": 4,
+      "Type": 1,
+      "Order": 1,
+      "NeedBlessing": 500,
+      "HeroPieceID": 20021011,
+      "Num": 1
+    },
+    {
+      "ID": 5,
+      "Type": 1,
+      "Order": 1,
+      "NeedBlessing": 500,
+      "HeroPieceID": 20021012,
+      "Num": 1
+    },
+    {
+      "ID": 6,
+      "Type": 1,
+      "Order": 1,
+      "NeedBlessing": 500,
+      "HeroPieceID": 20021013,
+      "Num": 1
+    },
+    {
+      "ID": 7,
+      "Type": 1,
+      "Order": 1,
+      "NeedBlessing": 500,
+      "HeroPieceID": 20021014,
+      "Num": 1
+    },
+    {
+      "ID": 11,
+      "Type": 1,
+      "Order": 1,
+      "NeedBlessing": 500,
+      "HeroPieceID": 20011008,
+      "Num": 1
+    },
+    {
+      "ID": 12,
+      "Type": 1,
+      "Order": 1,
+      "NeedBlessing": 500,
+      "HeroPieceID": 20011009,
+      "Num": 1
+    },
+    {
+      "ID": 13,
+      "Type": 1,
+      "Order": 1,
+      "NeedBlessing": 500,
+      "HeroPieceID": 20011010,
+      "Num": 1
+    },
+    {
+      "ID": 14,
+      "Type": 1,
+      "Order": 1,
+      "NeedBlessing": 500,
+      "HeroPieceID": 20011011,
+      "Num": 1
+    },
+    {
+      "ID": 15,
+      "Type": 1,
+      "Order": 1,
+      "NeedBlessing": 500,
+      "HeroPieceID": 20011012,
+      "Num": 1
+    },
+    {
+      "ID": 16,
+      "Type": 1,
+      "Order": 1,
+      "NeedBlessing": 500,
+      "HeroPieceID": 20011013,
+      "Num": 1
+    },
+    {
+      "ID": 17,
+      "Type": 1,
+      "Order": 1,
+      "NeedBlessing": 500,
+      "HeroPieceID": 20011014,
+      "Num": 1
+    },
+    {
+      "ID": 21,
+      "Type": 1,
+      "Order": 1,
+      "NeedBlessing": 500,
+      "HeroPieceID": 20031008,
+      "Num": 1
+    },
+    {
+      "ID": 22,
+      "Type": 1,
+      "Order": 1,
+      "NeedBlessing": 500,
+      "HeroPieceID": 20031009,
+      "Num": 1
+    },
+    {
+      "ID": 23,
+      "Type": 1,
+      "Order": 1,
+      "NeedBlessing": 500,
+      "HeroPieceID": 20031010,
+      "Num": 1
+    },
+    {
+      "ID": 24,
+      "Type": 1,
+      "Order": 1,
+      "NeedBlessing": 500,
+      "HeroPieceID": 20031011,
+      "Num": 1
+    },
+    {
+      "ID": 25,
+      "Type": 1,
+      "Order": 1,
+      "NeedBlessing": 500,
+      "HeroPieceID": 20031012,
+      "Num": 1
+    },
+    {
+      "ID": 26,
+      "Type": 1,
+      "Order": 1,
+      "NeedBlessing": 500,
+      "HeroPieceID": 20031013,
+      "Num": 1
+    },
+    {
+      "ID": 27,
+      "Type": 1,
+      "Order": 1,
+      "NeedBlessing": 500,
+      "HeroPieceID": 20031014,
+      "Num": 1
+    },
+    {
+      "ID": 31,
+      "Type": 1,
+      "Order": 2,
+      "NeedBlessing": 1000,
+      "HeroPieceID": 20021008,
+      "Num": 1
+    },
+    {
+      "ID": 32,
+      "Type": 1,
+      "Order": 2,
+      "NeedBlessing": 1000,
+      "HeroPieceID": 20021009,
+      "Num": 1
+    },
+    {
+      "ID": 33,
+      "Type": 1,
+      "Order": 2,
+      "NeedBlessing": 1000,
+      "HeroPieceID": 20021010,
+      "Num": 1
+    },
+    {
+      "ID": 34,
+      "Type": 1,
+      "Order": 2,
+      "NeedBlessing": 1000,
+      "HeroPieceID": 20021011,
+      "Num": 1
+    },
+    {
+      "ID": 35,
+      "Type": 1,
+      "Order": 2,
+      "NeedBlessing": 1000,
+      "HeroPieceID": 20021012,
+      "Num": 1
+    },
+    {
+      "ID": 36,
+      "Type": 1,
+      "Order": 2,
+      "NeedBlessing": 1000,
+      "HeroPieceID": 20021013,
+      "Num": 1
+    },
+    {
+      "ID": 37,
+      "Type": 1,
+      "Order": 2,
+      "NeedBlessing": 1000,
+      "HeroPieceID": 20021014,
+      "Num": 1
+    },
+    {
+      "ID": 41,
+      "Type": 1,
+      "Order": 2,
+      "NeedBlessing": 1000,
+      "HeroPieceID": 20011008,
+      "Num": 1
+    },
+    {
+      "ID": 42,
+      "Type": 1,
+      "Order": 2,
+      "NeedBlessing": 1000,
+      "HeroPieceID": 20011009,
+      "Num": 1
+    },
+    {
+      "ID": 43,
+      "Type": 1,
+      "Order": 2,
+      "NeedBlessing": 1000,
+      "HeroPieceID": 20011010,
+      "Num": 1
+    },
+    {
+      "ID": 44,
+      "Type": 1,
+      "Order": 2,
+      "NeedBlessing": 1000,
+      "HeroPieceID": 20011011,
+      "Num": 1
+    },
+    {
+      "ID": 45,
+      "Type": 1,
+      "Order": 2,
+      "NeedBlessing": 1000,
+      "HeroPieceID": 20011012,
+      "Num": 1
+    },
+    {
+      "ID": 46,
+      "Type": 1,
+      "Order": 2,
+      "NeedBlessing": 1000,
+      "HeroPieceID": 20011013,
+      "Num": 1
+    },
+    {
+      "ID": 47,
+      "Type": 1,
+      "Order": 2,
+      "NeedBlessing": 1000,
+      "HeroPieceID": 20011014,
+      "Num": 1
+    },
+    {
+      "ID": 51,
+      "Type": 1,
+      "Order": 2,
+      "NeedBlessing": 1000,
+      "HeroPieceID": 20031008,
+      "Num": 1
+    },
+    {
+      "ID": 52,
+      "Type": 1,
+      "Order": 2,
+      "NeedBlessing": 1000,
+      "HeroPieceID": 20031009,
+      "Num": 1
+    },
+    {
+      "ID": 53,
+      "Type": 1,
+      "Order": 2,
+      "NeedBlessing": 1000,
+      "HeroPieceID": 20031010,
+      "Num": 1
+    },
+    {
+      "ID": 54,
+      "Type": 1,
+      "Order": 2,
+      "NeedBlessing": 1000,
+      "HeroPieceID": 20031011,
+      "Num": 1
+    },
+    {
+      "ID": 55,
+      "Type": 1,
+      "Order": 2,
+      "NeedBlessing": 1000,
+      "HeroPieceID": 20031012,
+      "Num": 1
+    },
+    {
+      "ID": 56,
+      "Type": 1,
+      "Order": 2,
+      "NeedBlessing": 1000,
+      "HeroPieceID": 20031013,
+      "Num": 1
+    },
+    {
+      "ID": 57,
+      "Type": 1,
+      "Order": 2,
+      "NeedBlessing": 1000,
+      "HeroPieceID": 20031014,
+      "Num": 1
+    },
+    {
+      "ID": 61,
+      "Type": 1,
+      "Order": 3,
+      "NeedBlessing": 1500,
+      "HeroPieceID": 20021203,
+      "Num": 1
+    },
+    {
+      "ID": 62,
+      "Type": 1,
+      "Order": 3,
+      "NeedBlessing": 1500,
+      "HeroPieceID": 20021205,
+      "Num": 1
+    },
+    {
+      "ID": 64,
+      "Type": 1,
+      "Order": 3,
+      "NeedBlessing": 1500,
+      "HeroPieceID": 20021206,
+      "Num": 1
+    },
+    {
+      "ID": 65,
+      "Type": 1,
+      "Order": 3,
+      "NeedBlessing": 1500,
+      "HeroPieceID": 20011203,
+      "Num": 1
+    },
+    {
+      "ID": 66,
+      "Type": 1,
+      "Order": 3,
+      "NeedBlessing": 1500,
+      "HeroPieceID": 20011205,
+      "Num": 1
+    },
+    {
+      "ID": 67,
+      "Type": 1,
+      "Order": 3,
+      "NeedBlessing": 1500,
+      "HeroPieceID": 20011206,
+      "Num": 1
+    },
+    {
+      "ID": 68,
+      "Type": 1,
+      "Order": 3,
+      "NeedBlessing": 1500,
+      "HeroPieceID": 20031203,
+      "Num": 1
+    },
+    {
+      "ID": 69,
+      "Type": 1,
+      "Order": 3,
+      "NeedBlessing": 1500,
+      "HeroPieceID": 20031204,
+      "Num": 1
+    },
+    {
+      "ID": 70,
+      "Type": 1,
+      "Order": 3,
+      "NeedBlessing": 1500,
+      "HeroPieceID": 20031205,
+      "Num": 1
+    },
+    {
+      "ID": 71,
+      "Type": 100,
+      "Order": 1,
+      "NeedBlessing": 250,
+      "HeroPieceID": -1,
+      "Num": 10
+    },
+    {
+      "ID": 72,
+      "Type": 100,
+      "Order": 2,
+      "NeedBlessing": 500,
+      "HeroPieceID": -1,
+      "Num": 20
+    },
+    {
+      "ID": 73,
+      "Type": 100,
+      "Order": 3,
+      "NeedBlessing": 750,
+      "HeroPieceID": -1,
+      "Num": 30
+    },
+    {
+      "ID": 74,
+      "Type": 100,
+      "Order": 4,
+      "NeedBlessing": 1000,
+      "HeroPieceID": -1,
+      "Num": 40
+    }
+  ]
+}

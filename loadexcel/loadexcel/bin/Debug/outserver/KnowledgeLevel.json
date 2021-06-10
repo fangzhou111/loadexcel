@@ -1,0 +1,774 @@
+{
+  "KnowledgeLevel": [
+    {
+      "Step": 1,
+      "Level": 0,
+      "EffectID": 0,
+      "Type": 0,
+      "CampaignID": 0
+    },
+    {
+      "Step": 1,
+      "Level": 1,
+      "EffectID": 17001,
+      "Type": 1,
+      "CampaignID": 1001005
+    },
+    {
+      "Step": 2,
+      "Level": 0,
+      "EffectID": 0,
+      "Type": 0,
+      "CampaignID": 1001005
+    },
+    {
+      "Step": 2,
+      "Level": 1,
+      "EffectID": 17013,
+      "Type": 1,
+      "CampaignID": 1002006
+    },
+    {
+      "Step": 2,
+      "Level": 2,
+      "EffectID": 17001,
+      "Type": 1,
+      "CampaignID": 1003008
+    },
+    {
+      "Step": 3,
+      "Level": 0,
+      "EffectID": 0,
+      "Type": 0,
+      "CampaignID": 1003008
+    },
+    {
+      "Step": 3,
+      "Level": 1,
+      "EffectID": 17025,
+      "Type": 1,
+      "CampaignID": 1004010
+    },
+    {
+      "Step": 3,
+      "Level": 2,
+      "EffectID": 17002,
+      "Type": 1,
+      "CampaignID": 1005010
+    },
+    {
+      "Step": 3,
+      "Level": 3,
+      "EffectID": 17014,
+      "Type": 1,
+      "CampaignID": 1006010
+    },
+    {
+      "Step": 4,
+      "Level": 0,
+      "EffectID": 0,
+      "Type": 0,
+      "CampaignID": 1006010
+    },
+    {
+      "Step": 4,
+      "Level": 1,
+      "EffectID": 17002,
+      "Type": 1,
+      "CampaignID": 1007010
+    },
+    {
+      "Step": 4,
+      "Level": 2,
+      "EffectID": 17026,
+      "Type": 1,
+      "CampaignID": 1008010
+    },
+    {
+      "Step": 4,
+      "Level": 3,
+      "EffectID": 17015,
+      "Type": 1,
+      "CampaignID": 1009010
+    },
+    {
+      "Step": 5,
+      "Level": 0,
+      "EffectID": 0,
+      "Type": 0,
+      "CampaignID": 1009010
+    },
+    {
+      "Step": 5,
+      "Level": 1,
+      "EffectID": 17015,
+      "Type": 1,
+      "CampaignID": 1010010
+    },
+    {
+      "Step": 5,
+      "Level": 2,
+      "EffectID": 17003,
+      "Type": 1,
+      "CampaignID": 1011010
+    },
+    {
+      "Step": 5,
+      "Level": 3,
+      "EffectID": 17027,
+      "Type": 1,
+      "CampaignID": 1012010
+    },
+    {
+      "Step": 5,
+      "Level": 4,
+      "EffectID": 17004,
+      "Type": 1,
+      "CampaignID": 1013010
+    },
+    {
+      "Step": 5,
+      "Level": 5,
+      "EffectID": 17016,
+      "Type": 1,
+      "CampaignID": 1014010
+    },
+    {
+      "Step": 6,
+      "Level": 0,
+      "EffectID": 0,
+      "Type": 0,
+      "CampaignID": 1014010
+    },
+    {
+      "Step": 6,
+      "Level": 1,
+      "EffectID": 17004,
+      "Type": 1,
+      "CampaignID": 1015010
+    },
+    {
+      "Step": 6,
+      "Level": 2,
+      "EffectID": 17028,
+      "Type": 1,
+      "CampaignID": 1016010
+    },
+    {
+      "Step": 6,
+      "Level": 3,
+      "EffectID": 17005,
+      "Type": 1,
+      "CampaignID": 1017010
+    },
+    {
+      "Step": 6,
+      "Level": 4,
+      "EffectID": 17017,
+      "Type": 1,
+      "CampaignID": 1018010
+    },
+    {
+      "Step": 6,
+      "Level": 5,
+      "EffectID": 17005,
+      "Type": 1,
+      "CampaignID": 1019010
+    },
+    {
+      "Step": 7,
+      "Level": 0,
+      "EffectID": 0,
+      "Type": 0,
+      "CampaignID": 1019010
+    },
+    {
+      "Step": 7,
+      "Level": 1,
+      "EffectID": 17029,
+      "Type": 1,
+      "CampaignID": 1020010
+    },
+    {
+      "Step": 7,
+      "Level": 2,
+      "EffectID": 17006,
+      "Type": 1,
+      "CampaignID": 1021010
+    },
+    {
+      "Step": 7,
+      "Level": 3,
+      "EffectID": 17018,
+      "Type": 1,
+      "CampaignID": 1022010
+    },
+    {
+      "Step": 7,
+      "Level": 4,
+      "EffectID": 17006,
+      "Type": 1,
+      "CampaignID": 1023010
+    },
+    {
+      "Step": 7,
+      "Level": 5,
+      "EffectID": 17030,
+      "Type": 1,
+      "CampaignID": 1024010
+    },
+    {
+      "Step": 8,
+      "Level": 0,
+      "EffectID": 0,
+      "Type": 0,
+      "CampaignID": 1024010
+    },
+    {
+      "Step": 8,
+      "Level": 1,
+      "EffectID": 17007,
+      "Type": 1,
+      "CampaignID": 1025010
+    },
+    {
+      "Step": 8,
+      "Level": 2,
+      "EffectID": 17019,
+      "Type": 1,
+      "CampaignID": 1026010
+    },
+    {
+      "Step": 8,
+      "Level": 3,
+      "EffectID": 17007,
+      "Type": 1,
+      "CampaignID": 1027010
+    },
+    {
+      "Step": 8,
+      "Level": 4,
+      "EffectID": 17031,
+      "Type": 1,
+      "CampaignID": 1028010
+    },
+    {
+      "Step": 8,
+      "Level": 5,
+      "EffectID": 17008,
+      "Type": 1,
+      "CampaignID": 1029010
+    },
+    {
+      "Step": 9,
+      "Level": 0,
+      "EffectID": 0,
+      "Type": 0,
+      "CampaignID": 1029010
+    },
+    {
+      "Step": 9,
+      "Level": 1,
+      "EffectID": 17020,
+      "Type": 1,
+      "CampaignID": 1030010
+    },
+    {
+      "Step": 9,
+      "Level": 2,
+      "EffectID": 17008,
+      "Type": 1,
+      "CampaignID": 1031010
+    },
+    {
+      "Step": 9,
+      "Level": 3,
+      "EffectID": 17032,
+      "Type": 1,
+      "CampaignID": 1032010
+    },
+    {
+      "Step": 9,
+      "Level": 4,
+      "EffectID": 17009,
+      "Type": 1,
+      "CampaignID": 1033010
+    },
+    {
+      "Step": 9,
+      "Level": 5,
+      "EffectID": 17021,
+      "Type": 1,
+      "CampaignID": 1034010
+    },
+    {
+      "Step": 9,
+      "Level": 6,
+      "EffectID": 17009,
+      "Type": 1,
+      "CampaignID": 1035010
+    },
+    {
+      "Step": 9,
+      "Level": 7,
+      "EffectID": 17033,
+      "Type": 1,
+      "CampaignID": 1036010
+    },
+    {
+      "Step": 10,
+      "Level": 0,
+      "EffectID": 0,
+      "Type": 0,
+      "CampaignID": 1036010
+    },
+    {
+      "Step": 10,
+      "Level": 1,
+      "EffectID": 17010,
+      "Type": 1,
+      "CampaignID": 1037010
+    },
+    {
+      "Step": 10,
+      "Level": 2,
+      "EffectID": 17022,
+      "Type": 1,
+      "CampaignID": 1038010
+    },
+    {
+      "Step": 10,
+      "Level": 3,
+      "EffectID": 17010,
+      "Type": 1,
+      "CampaignID": 1039010
+    },
+    {
+      "Step": 10,
+      "Level": 4,
+      "EffectID": 17034,
+      "Type": 1,
+      "CampaignID": 1040010
+    },
+    {
+      "Step": 10,
+      "Level": 5,
+      "EffectID": 17011,
+      "Type": 1,
+      "CampaignID": 1041010
+    },
+    {
+      "Step": 10,
+      "Level": 6,
+      "EffectID": 17023,
+      "Type": 1,
+      "CampaignID": 1042010
+    },
+    {
+      "Step": 10,
+      "Level": 7,
+      "EffectID": 17011,
+      "Type": 1,
+      "CampaignID": 1043010
+    },
+    {
+      "Step": 11,
+      "Level": 0,
+      "EffectID": 0,
+      "Type": 0,
+      "CampaignID": 1043010
+    },
+    {
+      "Step": 11,
+      "Level": 1,
+      "EffectID": 17035,
+      "Type": 1,
+      "CampaignID": 1044010
+    },
+    {
+      "Step": 11,
+      "Level": 2,
+      "EffectID": 17012,
+      "Type": 1,
+      "CampaignID": 1045010
+    },
+    {
+      "Step": 11,
+      "Level": 3,
+      "EffectID": 17024,
+      "Type": 1,
+      "CampaignID": 1046010
+    },
+    {
+      "Step": 11,
+      "Level": 4,
+      "EffectID": 17012,
+      "Type": 1,
+      "CampaignID": 1047010
+    },
+    {
+      "Step": 11,
+      "Level": 5,
+      "EffectID": 17036,
+      "Type": 1,
+      "CampaignID": 1048010
+    },
+    {
+      "Step": 11,
+      "Level": 6,
+      "EffectID": 17012,
+      "Type": 1,
+      "CampaignID": 1049010
+    },
+    {
+      "Step": 11,
+      "Level": 7,
+      "EffectID": 17024,
+      "Type": 1,
+      "CampaignID": 1050010
+    },
+    {
+      "Step": 12,
+      "Level": 0,
+      "EffectID": 0,
+      "Type": 0,
+      "CampaignID": 1050010
+    },
+    {
+      "Step": 12,
+      "Level": 1,
+      "EffectID": 17012,
+      "Type": 1,
+      "CampaignID": 1051010
+    },
+    {
+      "Step": 12,
+      "Level": 2,
+      "EffectID": 17036,
+      "Type": 1,
+      "CampaignID": 1052010
+    },
+    {
+      "Step": 12,
+      "Level": 3,
+      "EffectID": 17012,
+      "Type": 1,
+      "CampaignID": 1053010
+    },
+    {
+      "Step": 12,
+      "Level": 4,
+      "EffectID": 17024,
+      "Type": 1,
+      "CampaignID": 1054010
+    },
+    {
+      "Step": 12,
+      "Level": 5,
+      "EffectID": 17012,
+      "Type": 1,
+      "CampaignID": 1055010
+    },
+    {
+      "Step": 12,
+      "Level": 6,
+      "EffectID": 17036,
+      "Type": 1,
+      "CampaignID": 1056010
+    },
+    {
+      "Step": 12,
+      "Level": 7,
+      "EffectID": 17012,
+      "Type": 1,
+      "CampaignID": 1057010
+    },
+    {
+      "Step": 13,
+      "Level": 0,
+      "EffectID": 0,
+      "Type": 0,
+      "CampaignID": 1057010
+    },
+    {
+      "Step": 13,
+      "Level": 1,
+      "EffectID": 17024,
+      "Type": 1,
+      "CampaignID": 1058010
+    },
+    {
+      "Step": 13,
+      "Level": 2,
+      "EffectID": 17012,
+      "Type": 1,
+      "CampaignID": 1059010
+    },
+    {
+      "Step": 13,
+      "Level": 3,
+      "EffectID": 17036,
+      "Type": 1,
+      "CampaignID": 1060010
+    },
+    {
+      "Step": 13,
+      "Level": 4,
+      "EffectID": 17012,
+      "Type": 1,
+      "CampaignID": 1061010
+    },
+    {
+      "Step": 13,
+      "Level": 5,
+      "EffectID": 17024,
+      "Type": 1,
+      "CampaignID": 1062010
+    },
+    {
+      "Step": 13,
+      "Level": 6,
+      "EffectID": 17012,
+      "Type": 1,
+      "CampaignID": 1063010
+    },
+    {
+      "Step": 13,
+      "Level": 7,
+      "EffectID": 17036,
+      "Type": 1,
+      "CampaignID": 1064010
+    },
+    {
+      "Step": 14,
+      "Level": 0,
+      "EffectID": 0,
+      "Type": 0,
+      "CampaignID": 1064010
+    },
+    {
+      "Step": 14,
+      "Level": 1,
+      "EffectID": 17012,
+      "Type": 1,
+      "CampaignID": 1065010
+    },
+    {
+      "Step": 14,
+      "Level": 2,
+      "EffectID": 17024,
+      "Type": 1,
+      "CampaignID": 1066010
+    },
+    {
+      "Step": 14,
+      "Level": 3,
+      "EffectID": 17012,
+      "Type": 1,
+      "CampaignID": 1067010
+    },
+    {
+      "Step": 14,
+      "Level": 4,
+      "EffectID": 17036,
+      "Type": 1,
+      "CampaignID": 1068010
+    },
+    {
+      "Step": 14,
+      "Level": 5,
+      "EffectID": 17012,
+      "Type": 1,
+      "CampaignID": 1069010
+    },
+    {
+      "Step": 14,
+      "Level": 6,
+      "EffectID": 17024,
+      "Type": 1,
+      "CampaignID": 1070010
+    },
+    {
+      "Step": 14,
+      "Level": 7,
+      "EffectID": 17012,
+      "Type": 1,
+      "CampaignID": 1071010
+    },
+    {
+      "Step": 15,
+      "Level": 0,
+      "EffectID": 0,
+      "Type": 0,
+      "CampaignID": 1071010
+    },
+    {
+      "Step": 15,
+      "Level": 1,
+      "EffectID": 17036,
+      "Type": 1,
+      "CampaignID": 1072010
+    },
+    {
+      "Step": 15,
+      "Level": 2,
+      "EffectID": 17012,
+      "Type": 1,
+      "CampaignID": 1073010
+    },
+    {
+      "Step": 15,
+      "Level": 3,
+      "EffectID": 17024,
+      "Type": 1,
+      "CampaignID": 1074010
+    },
+    {
+      "Step": 15,
+      "Level": 4,
+      "EffectID": 17012,
+      "Type": 1,
+      "CampaignID": 1075010
+    },
+    {
+      "Step": 15,
+      "Level": 5,
+      "EffectID": 17036,
+      "Type": 1,
+      "CampaignID": 1076010
+    },
+    {
+      "Step": 15,
+      "Level": 6,
+      "EffectID": 17012,
+      "Type": 1,
+      "CampaignID": 1077010
+    },
+    {
+      "Step": 15,
+      "Level": 7,
+      "EffectID": 17024,
+      "Type": 1,
+      "CampaignID": 1078010
+    },
+    {
+      "Step": 16,
+      "Level": 0,
+      "EffectID": 0,
+      "Type": 0,
+      "CampaignID": 1078010
+    },
+    {
+      "Step": 16,
+      "Level": 1,
+      "EffectID": 17037,
+      "Type": 0,
+      "CampaignID": 1079010
+    },
+    {
+      "Step": 16,
+      "Level": 2,
+      "EffectID": 17038,
+      "Type": 0,
+      "CampaignID": 1080010
+    },
+    {
+      "Step": 16,
+      "Level": 3,
+      "EffectID": 17037,
+      "Type": 0,
+      "CampaignID": 1081010
+    },
+    {
+      "Step": 16,
+      "Level": 4,
+      "EffectID": 17039,
+      "Type": 0,
+      "CampaignID": 1082010
+    },
+    {
+      "Step": 16,
+      "Level": 5,
+      "EffectID": 17037,
+      "Type": 0,
+      "CampaignID": 1083010
+    },
+    {
+      "Step": 16,
+      "Level": 6,
+      "EffectID": 17038,
+      "Type": 0,
+      "CampaignID": 1084010
+    },
+    {
+      "Step": 16,
+      "Level": 7,
+      "EffectID": 17037,
+      "Type": 0,
+      "CampaignID": 1085010
+    },
+    {
+      "Step": 17,
+      "Level": 0,
+      "EffectID": 0,
+      "Type": 0,
+      "CampaignID": 1085010
+    },
+    {
+      "Step": 17,
+      "Level": 1,
+      "EffectID": 17039,
+      "Type": 0,
+      "CampaignID": 1086010
+    },
+    {
+      "Step": 17,
+      "Level": 2,
+      "EffectID": 17037,
+      "Type": 0,
+      "CampaignID": 1087010
+    },
+    {
+      "Step": 17,
+      "Level": 3,
+      "EffectID": 17038,
+      "Type": 0,
+      "CampaignID": 1088010
+    },
+    {
+      "Step": 17,
+      "Level": 4,
+      "EffectID": 17037,
+      "Type": 0,
+      "CampaignID": 1089010
+    },
+    {
+      "Step": 17,
+      "Level": 5,
+      "EffectID": 17039,
+      "Type": 0,
+      "CampaignID": 1090010
+    },
+    {
+      "Step": 17,
+      "Level": 6,
+      "EffectID": 17037,
+      "Type": 0,
+      "CampaignID": 1091010
+    },
+    {
+      "Step": 17,
+      "Level": 7,
+      "EffectID": 17038,
+      "Type": 0,
+      "CampaignID": 1092010
+    },
+    {
+      "Step": 18,
+      "Level": 0,
+      "EffectID": 0,
+      "Type": 0,
+      "CampaignID": 1092010
+    }
+  ]
+}

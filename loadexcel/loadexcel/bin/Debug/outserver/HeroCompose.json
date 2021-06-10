@@ -1,0 +1,746 @@
+{
+  "HeroCompose": [
+    {
+      "HeroID": 20021601,
+      "ItemID": 200216010,
+      "Count": 160,
+      "ShowHero": 1,
+      "FortressFriendPoint": 1
+    },
+    {
+      "HeroID": 20021602,
+      "ItemID": 200216020,
+      "Count": 160,
+      "ShowHero": 1,
+      "FortressFriendPoint": 2
+    },
+    {
+      "HeroID": 20021203,
+      "ItemID": 200212030,
+      "Count": 100,
+      "ShowHero": 1,
+      "FortressFriendPoint": 2
+    },
+    {
+      "HeroID": 20021204,
+      "ItemID": 200212040,
+      "Count": 100,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20021205,
+      "ItemID": 200212050,
+      "Count": 100,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20021206,
+      "ItemID": 200212060,
+      "Count": 100,
+      "ShowHero": 1,
+      "FortressFriendPoint": 6
+    },
+    {
+      "HeroID": 20021207,
+      "ItemID": 200212070,
+      "Count": 100,
+      "ShowHero": 1,
+      "FortressFriendPoint": 6
+    },
+    {
+      "HeroID": 20021008,
+      "ItemID": 200210080,
+      "Count": 80,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20021009,
+      "ItemID": 200210090,
+      "Count": 80,
+      "ShowHero": 1,
+      "FortressFriendPoint": 6
+    },
+    {
+      "HeroID": 20021010,
+      "ItemID": 200210100,
+      "Count": 80,
+      "ShowHero": 1,
+      "FortressFriendPoint": 6
+    },
+    {
+      "HeroID": 20021011,
+      "ItemID": 200210110,
+      "Count": 80,
+      "ShowHero": 1,
+      "FortressFriendPoint": 6
+    },
+    {
+      "HeroID": 20021012,
+      "ItemID": 200210120,
+      "Count": 80,
+      "ShowHero": 1,
+      "FortressFriendPoint": 6
+    },
+    {
+      "HeroID": 20021013,
+      "ItemID": 200210130,
+      "Count": 80,
+      "ShowHero": 1,
+      "FortressFriendPoint": 6
+    },
+    {
+      "HeroID": 20021014,
+      "ItemID": 200210140,
+      "Count": 80,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20021015,
+      "ItemID": 200210150,
+      "Count": 80,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20021016,
+      "ItemID": 200210160,
+      "Count": 80,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20021017,
+      "ItemID": 200210170,
+      "Count": 100,
+      "ShowHero": 1,
+      "FortressFriendPoint": 6
+    },
+    {
+      "HeroID": 20020818,
+      "ItemID": 200208180,
+      "Count": 40,
+      "ShowHero": 1,
+      "FortressFriendPoint": 6
+    },
+    {
+      "HeroID": 20020819,
+      "ItemID": 200208190,
+      "Count": 40,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20020820,
+      "ItemID": 200208200,
+      "Count": 40,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20020821,
+      "ItemID": 200208210,
+      "Count": 40,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20020822,
+      "ItemID": 200208220,
+      "Count": 40,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20020823,
+      "ItemID": 200208230,
+      "Count": 40,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20020424,
+      "ItemID": 200204240,
+      "Count": 20,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20020425,
+      "ItemID": 200204250,
+      "Count": 20,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20020426,
+      "ItemID": 200204260,
+      "Count": 20,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20020427,
+      "ItemID": 200204270,
+      "Count": 20,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20020428,
+      "ItemID": 200204280,
+      "Count": 20,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20020429,
+      "ItemID": 200204290,
+      "Count": 20,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20020430,
+      "ItemID": 200204300,
+      "Count": 20,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20020431,
+      "ItemID": 200204310,
+      "Count": 20,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20020432,
+      "ItemID": 200204320,
+      "Count": 20,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20020433,
+      "ItemID": 200204330,
+      "Count": 20,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20020434,
+      "ItemID": 200204340,
+      "Count": 10,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20020435,
+      "ItemID": 200204350,
+      "Count": 10,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20020436,
+      "ItemID": 200204360,
+      "Count": 10,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20020437,
+      "ItemID": 200204370,
+      "Count": 10,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20011601,
+      "ItemID": 200116010,
+      "Count": 160,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20011602,
+      "ItemID": 200116020,
+      "Count": 160,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20011203,
+      "ItemID": 200112030,
+      "Count": 100,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20011204,
+      "ItemID": 200112040,
+      "Count": 100,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20011205,
+      "ItemID": 200112050,
+      "Count": 100,
+      "ShowHero": 1,
+      "FortressFriendPoint": 6
+    },
+    {
+      "HeroID": 20011206,
+      "ItemID": 200112060,
+      "Count": 100,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20011207,
+      "ItemID": 200112070,
+      "Count": 100,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20011008,
+      "ItemID": 200110080,
+      "Count": 80,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20011009,
+      "ItemID": 200110090,
+      "Count": 80,
+      "ShowHero": 1,
+      "FortressFriendPoint": 12
+    },
+    {
+      "HeroID": 20011010,
+      "ItemID": 200110100,
+      "Count": 80,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20011011,
+      "ItemID": 200110110,
+      "Count": 80,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20011012,
+      "ItemID": 200110120,
+      "Count": 80,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20011013,
+      "ItemID": 200110130,
+      "Count": 80,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20011014,
+      "ItemID": 200110140,
+      "Count": 80,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20011015,
+      "ItemID": 200110150,
+      "Count": 100,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20011016,
+      "ItemID": 200110160,
+      "Count": 80,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20011017,
+      "ItemID": 200110170,
+      "Count": 80,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20010818,
+      "ItemID": 200108180,
+      "Count": 40,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20010819,
+      "ItemID": 200108190,
+      "Count": 40,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20010820,
+      "ItemID": 200108200,
+      "Count": 40,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20010821,
+      "ItemID": 200108210,
+      "Count": 40,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20010822,
+      "ItemID": 200108220,
+      "Count": 40,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20010823,
+      "ItemID": 200108230,
+      "Count": 40,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20010824,
+      "ItemID": 200108240,
+      "Count": 40,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20010425,
+      "ItemID": 200104250,
+      "Count": 20,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20010426,
+      "ItemID": 200104260,
+      "Count": 20,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20010427,
+      "ItemID": 200104270,
+      "Count": 20,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20010428,
+      "ItemID": 200104280,
+      "Count": 20,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20010429,
+      "ItemID": 200104290,
+      "Count": 20,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20010430,
+      "ItemID": 200104300,
+      "Count": 20,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20010431,
+      "ItemID": 200104310,
+      "Count": 20,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20010432,
+      "ItemID": 200104320,
+      "Count": 10,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20010433,
+      "ItemID": 200104330,
+      "Count": 10,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20010434,
+      "ItemID": 200104340,
+      "Count": 10,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20010435,
+      "ItemID": 200104350,
+      "Count": 10,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20031601,
+      "ItemID": 200316010,
+      "Count": 160,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20031602,
+      "ItemID": 200316020,
+      "Count": 160,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20031203,
+      "ItemID": 200312030,
+      "Count": 100,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20031204,
+      "ItemID": 200312040,
+      "Count": 100,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20031205,
+      "ItemID": 200312050,
+      "Count": 100,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20031206,
+      "ItemID": 200312060,
+      "Count": 100,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20031207,
+      "ItemID": 200312070,
+      "Count": 100,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20031008,
+      "ItemID": 200310080,
+      "Count": 80,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20031009,
+      "ItemID": 200310090,
+      "Count": 80,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20031010,
+      "ItemID": 200310100,
+      "Count": 80,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20031011,
+      "ItemID": 200310110,
+      "Count": 80,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20031012,
+      "ItemID": 200310120,
+      "Count": 80,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20031013,
+      "ItemID": 200310130,
+      "Count": 80,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20031014,
+      "ItemID": 200310140,
+      "Count": 80,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20031015,
+      "ItemID": 200310150,
+      "Count": 100,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20031016,
+      "ItemID": 200310160,
+      "Count": 80,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20031017,
+      "ItemID": 200310170,
+      "Count": 80,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20030818,
+      "ItemID": 200308180,
+      "Count": 40,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20030819,
+      "ItemID": 200308190,
+      "Count": 40,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20030820,
+      "ItemID": 200308200,
+      "Count": 40,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20030821,
+      "ItemID": 200308210,
+      "Count": 40,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20030822,
+      "ItemID": 200308220,
+      "Count": 40,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20030823,
+      "ItemID": 200308230,
+      "Count": 40,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20030824,
+      "ItemID": 200308240,
+      "Count": 40,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20030425,
+      "ItemID": 200304250,
+      "Count": 20,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20030426,
+      "ItemID": 200304260,
+      "Count": 20,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20030427,
+      "ItemID": 200304270,
+      "Count": 20,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20030428,
+      "ItemID": 200304280,
+      "Count": 20,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20030429,
+      "ItemID": 200304290,
+      "Count": 20,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20030430,
+      "ItemID": 200304300,
+      "Count": 20,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20030431,
+      "ItemID": 200304310,
+      "Count": 10,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20030432,
+      "ItemID": 200304320,
+      "Count": 10,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20030433,
+      "ItemID": 200304330,
+      "Count": 10,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    },
+    {
+      "HeroID": 20030434,
+      "ItemID": 200304340,
+      "Count": 10,
+      "ShowHero": 1,
+      "FortressFriendPoint": 20
+    }
+  ]
+}

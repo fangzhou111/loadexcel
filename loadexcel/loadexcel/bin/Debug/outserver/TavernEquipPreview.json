@@ -1,0 +1,200 @@
+{
+  "TavernEquipPreview": [
+    {
+      "ID": 1,
+      "DropItemID": 2030101
+    },
+    {
+      "ID": 2,
+      "DropItemID": 2015011
+    },
+    {
+      "ID": 3,
+      "DropItemID": 2015012
+    },
+    {
+      "ID": 4,
+      "DropItemID": 2015013
+    },
+    {
+      "ID": 5,
+      "DropItemID": 2015014
+    },
+    {
+      "ID": 6,
+      "DropItemID": 2015015
+    },
+    {
+      "ID": 7,
+      "DropItemID": 2015016
+    },
+    {
+      "ID": 8,
+      "DropItemID": 2015021
+    },
+    {
+      "ID": 9,
+      "DropItemID": 2015022
+    },
+    {
+      "ID": 10,
+      "DropItemID": 2015023
+    },
+    {
+      "ID": 11,
+      "DropItemID": 2015024
+    },
+    {
+      "ID": 12,
+      "DropItemID": 2015025
+    },
+    {
+      "ID": 13,
+      "DropItemID": 2015026
+    },
+    {
+      "ID": 14,
+      "DropItemID": 2015031
+    },
+    {
+      "ID": 15,
+      "DropItemID": 2015032
+    },
+    {
+      "ID": 16,
+      "DropItemID": 2015033
+    },
+    {
+      "ID": 17,
+      "DropItemID": 2015034
+    },
+    {
+      "ID": 18,
+      "DropItemID": 2015035
+    },
+    {
+      "ID": 19,
+      "DropItemID": 2015036
+    },
+    {
+      "ID": 20,
+      "DropItemID": 2015041
+    },
+    {
+      "ID": 21,
+      "DropItemID": 2015042
+    },
+    {
+      "ID": 22,
+      "DropItemID": 2015043
+    },
+    {
+      "ID": 23,
+      "DropItemID": 2015044
+    },
+    {
+      "ID": 24,
+      "DropItemID": 2015045
+    },
+    {
+      "ID": 25,
+      "DropItemID": 2015046
+    },
+    {
+      "ID": 26,
+      "DropItemID": 2014011
+    },
+    {
+      "ID": 27,
+      "DropItemID": 2014012
+    },
+    {
+      "ID": 28,
+      "DropItemID": 2014013
+    },
+    {
+      "ID": 29,
+      "DropItemID": 2014014
+    },
+    {
+      "ID": 30,
+      "DropItemID": 2014015
+    },
+    {
+      "ID": 31,
+      "DropItemID": 2014016
+    },
+    {
+      "ID": 32,
+      "DropItemID": 2014021
+    },
+    {
+      "ID": 33,
+      "DropItemID": 2014022
+    },
+    {
+      "ID": 34,
+      "DropItemID": 2014023
+    },
+    {
+      "ID": 35,
+      "DropItemID": 2014024
+    },
+    {
+      "ID": 36,
+      "DropItemID": 2014025
+    },
+    {
+      "ID": 37,
+      "DropItemID": 2014026
+    },
+    {
+      "ID": 38,
+      "DropItemID": 2014031
+    },
+    {
+      "ID": 39,
+      "DropItemID": 2014032
+    },
+    {
+      "ID": 40,
+      "DropItemID": 2014033
+    },
+    {
+      "ID": 41,
+      "DropItemID": 2014034
+    },
+    {
+      "ID": 42,
+      "DropItemID": 2014035
+    },
+    {
+      "ID": 43,
+      "DropItemID": 2014036
+    },
+    {
+      "ID": 44,
+      "DropItemID": 2014041
+    },
+    {
+      "ID": 45,
+      "DropItemID": 2014042
+    },
+    {
+      "ID": 46,
+      "DropItemID": 2014043
+    },
+    {
+      "ID": 47,
+      "DropItemID": 2014044
+    },
+    {
+      "ID": 48,
+      "DropItemID": 2014045
+    },
+    {
+      "ID": 49,
+      "DropItemID": 2014046
+    }
+  ]
+}

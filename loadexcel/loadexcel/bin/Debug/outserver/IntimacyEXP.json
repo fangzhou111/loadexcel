@@ -1,0 +1,2314 @@
+{
+  "IntimacyEXP": [
+    {
+      "IntimacyStep": 1,
+      "IntimacyLevel": 0,
+      "IntimacyEXP": 0,
+      "IntimacyFirstHandValue": 0
+    },
+    {
+      "IntimacyStep": 1,
+      "IntimacyLevel": 1,
+      "IntimacyEXP": 20,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 1,
+      "IntimacyLevel": 2,
+      "IntimacyEXP": 20,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 1,
+      "IntimacyLevel": 3,
+      "IntimacyEXP": 20,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 1,
+      "IntimacyLevel": 4,
+      "IntimacyEXP": 20,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 1,
+      "IntimacyLevel": 5,
+      "IntimacyEXP": 20,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 1,
+      "IntimacyLevel": 6,
+      "IntimacyEXP": 30,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 1,
+      "IntimacyLevel": 7,
+      "IntimacyEXP": 30,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 1,
+      "IntimacyLevel": 8,
+      "IntimacyEXP": 30,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 1,
+      "IntimacyLevel": 9,
+      "IntimacyEXP": 30,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 1,
+      "IntimacyLevel": 10,
+      "IntimacyEXP": 30,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 1,
+      "IntimacyLevel": 11,
+      "IntimacyEXP": 40,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 1,
+      "IntimacyLevel": 12,
+      "IntimacyEXP": 40,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 1,
+      "IntimacyLevel": 13,
+      "IntimacyEXP": 40,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 1,
+      "IntimacyLevel": 14,
+      "IntimacyEXP": 40,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 1,
+      "IntimacyLevel": 15,
+      "IntimacyEXP": 40,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 1,
+      "IntimacyLevel": 16,
+      "IntimacyEXP": 50,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 1,
+      "IntimacyLevel": 17,
+      "IntimacyEXP": 50,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 1,
+      "IntimacyLevel": 18,
+      "IntimacyEXP": 50,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 1,
+      "IntimacyLevel": 19,
+      "IntimacyEXP": 50,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 1,
+      "IntimacyLevel": 20,
+      "IntimacyEXP": 50,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 0,
+      "IntimacyEXP": 0,
+      "IntimacyFirstHandValue": 10
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 1,
+      "IntimacyEXP": 30,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 2,
+      "IntimacyEXP": 30,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 3,
+      "IntimacyEXP": 30,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 4,
+      "IntimacyEXP": 30,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 5,
+      "IntimacyEXP": 30,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 6,
+      "IntimacyEXP": 40,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 7,
+      "IntimacyEXP": 40,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 8,
+      "IntimacyEXP": 40,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 9,
+      "IntimacyEXP": 40,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 10,
+      "IntimacyEXP": 40,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 11,
+      "IntimacyEXP": 50,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 12,
+      "IntimacyEXP": 50,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 13,
+      "IntimacyEXP": 50,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 14,
+      "IntimacyEXP": 50,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 15,
+      "IntimacyEXP": 50,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 16,
+      "IntimacyEXP": 60,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 17,
+      "IntimacyEXP": 60,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 18,
+      "IntimacyEXP": 60,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 19,
+      "IntimacyEXP": 60,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 20,
+      "IntimacyEXP": 60,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 21,
+      "IntimacyEXP": 70,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 22,
+      "IntimacyEXP": 70,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 23,
+      "IntimacyEXP": 70,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 24,
+      "IntimacyEXP": 70,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 25,
+      "IntimacyEXP": 70,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 26,
+      "IntimacyEXP": 80,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 27,
+      "IntimacyEXP": 80,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 28,
+      "IntimacyEXP": 80,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 29,
+      "IntimacyEXP": 80,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 30,
+      "IntimacyEXP": 80,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 31,
+      "IntimacyEXP": 90,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 32,
+      "IntimacyEXP": 90,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 33,
+      "IntimacyEXP": 90,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 34,
+      "IntimacyEXP": 90,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 35,
+      "IntimacyEXP": 90,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 36,
+      "IntimacyEXP": 100,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 37,
+      "IntimacyEXP": 100,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 38,
+      "IntimacyEXP": 100,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 39,
+      "IntimacyEXP": 100,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 2,
+      "IntimacyLevel": 40,
+      "IntimacyEXP": 100,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 0,
+      "IntimacyEXP": 0,
+      "IntimacyFirstHandValue": 10
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 1,
+      "IntimacyEXP": 40,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 2,
+      "IntimacyEXP": 40,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 3,
+      "IntimacyEXP": 40,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 4,
+      "IntimacyEXP": 40,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 5,
+      "IntimacyEXP": 40,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 6,
+      "IntimacyEXP": 50,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 7,
+      "IntimacyEXP": 50,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 8,
+      "IntimacyEXP": 50,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 9,
+      "IntimacyEXP": 50,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 10,
+      "IntimacyEXP": 50,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 11,
+      "IntimacyEXP": 60,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 12,
+      "IntimacyEXP": 60,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 13,
+      "IntimacyEXP": 60,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 14,
+      "IntimacyEXP": 60,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 15,
+      "IntimacyEXP": 60,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 16,
+      "IntimacyEXP": 70,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 17,
+      "IntimacyEXP": 70,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 18,
+      "IntimacyEXP": 70,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 19,
+      "IntimacyEXP": 70,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 20,
+      "IntimacyEXP": 70,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 21,
+      "IntimacyEXP": 80,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 22,
+      "IntimacyEXP": 80,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 23,
+      "IntimacyEXP": 80,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 24,
+      "IntimacyEXP": 80,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 25,
+      "IntimacyEXP": 80,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 26,
+      "IntimacyEXP": 90,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 27,
+      "IntimacyEXP": 90,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 28,
+      "IntimacyEXP": 90,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 29,
+      "IntimacyEXP": 90,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 30,
+      "IntimacyEXP": 90,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 31,
+      "IntimacyEXP": 100,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 32,
+      "IntimacyEXP": 100,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 33,
+      "IntimacyEXP": 100,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 34,
+      "IntimacyEXP": 100,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 35,
+      "IntimacyEXP": 100,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 36,
+      "IntimacyEXP": 110,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 37,
+      "IntimacyEXP": 110,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 38,
+      "IntimacyEXP": 110,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 39,
+      "IntimacyEXP": 110,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 40,
+      "IntimacyEXP": 110,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 41,
+      "IntimacyEXP": 120,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 42,
+      "IntimacyEXP": 120,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 43,
+      "IntimacyEXP": 120,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 44,
+      "IntimacyEXP": 120,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 45,
+      "IntimacyEXP": 120,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 46,
+      "IntimacyEXP": 130,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 47,
+      "IntimacyEXP": 130,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 48,
+      "IntimacyEXP": 130,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 49,
+      "IntimacyEXP": 130,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 50,
+      "IntimacyEXP": 130,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 51,
+      "IntimacyEXP": 140,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 52,
+      "IntimacyEXP": 140,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 53,
+      "IntimacyEXP": 140,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 54,
+      "IntimacyEXP": 140,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 55,
+      "IntimacyEXP": 140,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 56,
+      "IntimacyEXP": 150,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 57,
+      "IntimacyEXP": 150,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 58,
+      "IntimacyEXP": 150,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 59,
+      "IntimacyEXP": 150,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 60,
+      "IntimacyEXP": 150,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 61,
+      "IntimacyEXP": 160,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 62,
+      "IntimacyEXP": 160,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 63,
+      "IntimacyEXP": 160,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 64,
+      "IntimacyEXP": 160,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 65,
+      "IntimacyEXP": 160,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 66,
+      "IntimacyEXP": 170,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 67,
+      "IntimacyEXP": 170,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 68,
+      "IntimacyEXP": 170,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 69,
+      "IntimacyEXP": 170,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 70,
+      "IntimacyEXP": 170,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 71,
+      "IntimacyEXP": 180,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 72,
+      "IntimacyEXP": 180,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 73,
+      "IntimacyEXP": 180,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 74,
+      "IntimacyEXP": 180,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 75,
+      "IntimacyEXP": 180,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 76,
+      "IntimacyEXP": 190,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 77,
+      "IntimacyEXP": 190,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 78,
+      "IntimacyEXP": 190,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 79,
+      "IntimacyEXP": 190,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 3,
+      "IntimacyLevel": 80,
+      "IntimacyEXP": 190,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 0,
+      "IntimacyEXP": 0,
+      "IntimacyFirstHandValue": 10
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 1,
+      "IntimacyEXP": 50,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 2,
+      "IntimacyEXP": 50,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 3,
+      "IntimacyEXP": 50,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 4,
+      "IntimacyEXP": 50,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 5,
+      "IntimacyEXP": 50,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 6,
+      "IntimacyEXP": 60,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 7,
+      "IntimacyEXP": 60,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 8,
+      "IntimacyEXP": 60,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 9,
+      "IntimacyEXP": 60,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 10,
+      "IntimacyEXP": 60,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 11,
+      "IntimacyEXP": 70,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 12,
+      "IntimacyEXP": 70,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 13,
+      "IntimacyEXP": 70,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 14,
+      "IntimacyEXP": 70,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 15,
+      "IntimacyEXP": 70,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 16,
+      "IntimacyEXP": 80,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 17,
+      "IntimacyEXP": 80,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 18,
+      "IntimacyEXP": 80,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 19,
+      "IntimacyEXP": 80,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 20,
+      "IntimacyEXP": 80,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 21,
+      "IntimacyEXP": 90,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 22,
+      "IntimacyEXP": 90,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 23,
+      "IntimacyEXP": 90,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 24,
+      "IntimacyEXP": 90,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 25,
+      "IntimacyEXP": 90,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 26,
+      "IntimacyEXP": 100,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 27,
+      "IntimacyEXP": 100,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 28,
+      "IntimacyEXP": 100,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 29,
+      "IntimacyEXP": 100,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 30,
+      "IntimacyEXP": 100,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 31,
+      "IntimacyEXP": 110,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 32,
+      "IntimacyEXP": 110,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 33,
+      "IntimacyEXP": 110,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 34,
+      "IntimacyEXP": 110,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 35,
+      "IntimacyEXP": 110,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 36,
+      "IntimacyEXP": 120,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 37,
+      "IntimacyEXP": 120,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 38,
+      "IntimacyEXP": 120,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 39,
+      "IntimacyEXP": 120,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 40,
+      "IntimacyEXP": 120,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 41,
+      "IntimacyEXP": 130,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 42,
+      "IntimacyEXP": 130,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 43,
+      "IntimacyEXP": 130,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 44,
+      "IntimacyEXP": 130,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 45,
+      "IntimacyEXP": 130,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 46,
+      "IntimacyEXP": 140,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 47,
+      "IntimacyEXP": 140,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 48,
+      "IntimacyEXP": 140,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 49,
+      "IntimacyEXP": 140,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 50,
+      "IntimacyEXP": 140,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 51,
+      "IntimacyEXP": 150,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 52,
+      "IntimacyEXP": 150,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 53,
+      "IntimacyEXP": 150,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 54,
+      "IntimacyEXP": 150,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 55,
+      "IntimacyEXP": 150,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 56,
+      "IntimacyEXP": 160,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 57,
+      "IntimacyEXP": 160,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 58,
+      "IntimacyEXP": 160,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 59,
+      "IntimacyEXP": 160,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 60,
+      "IntimacyEXP": 160,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 61,
+      "IntimacyEXP": 170,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 62,
+      "IntimacyEXP": 170,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 63,
+      "IntimacyEXP": 170,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 64,
+      "IntimacyEXP": 170,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 65,
+      "IntimacyEXP": 170,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 66,
+      "IntimacyEXP": 180,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 67,
+      "IntimacyEXP": 180,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 68,
+      "IntimacyEXP": 180,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 69,
+      "IntimacyEXP": 180,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 70,
+      "IntimacyEXP": 180,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 71,
+      "IntimacyEXP": 190,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 72,
+      "IntimacyEXP": 190,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 73,
+      "IntimacyEXP": 190,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 74,
+      "IntimacyEXP": 190,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 75,
+      "IntimacyEXP": 190,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 76,
+      "IntimacyEXP": 200,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 77,
+      "IntimacyEXP": 200,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 78,
+      "IntimacyEXP": 200,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 79,
+      "IntimacyEXP": 200,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 80,
+      "IntimacyEXP": 200,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 81,
+      "IntimacyEXP": 210,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 82,
+      "IntimacyEXP": 210,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 83,
+      "IntimacyEXP": 210,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 84,
+      "IntimacyEXP": 210,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 85,
+      "IntimacyEXP": 210,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 86,
+      "IntimacyEXP": 220,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 87,
+      "IntimacyEXP": 220,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 88,
+      "IntimacyEXP": 220,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 89,
+      "IntimacyEXP": 220,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 90,
+      "IntimacyEXP": 220,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 91,
+      "IntimacyEXP": 230,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 92,
+      "IntimacyEXP": 230,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 93,
+      "IntimacyEXP": 230,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 94,
+      "IntimacyEXP": 230,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 95,
+      "IntimacyEXP": 230,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 96,
+      "IntimacyEXP": 240,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 97,
+      "IntimacyEXP": 240,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 98,
+      "IntimacyEXP": 240,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 99,
+      "IntimacyEXP": 240,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 100,
+      "IntimacyEXP": 240,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 101,
+      "IntimacyEXP": 250,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 102,
+      "IntimacyEXP": 250,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 103,
+      "IntimacyEXP": 250,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 104,
+      "IntimacyEXP": 250,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 105,
+      "IntimacyEXP": 250,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 106,
+      "IntimacyEXP": 250,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 107,
+      "IntimacyEXP": 250,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 108,
+      "IntimacyEXP": 250,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 109,
+      "IntimacyEXP": 250,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 110,
+      "IntimacyEXP": 250,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 111,
+      "IntimacyEXP": 250,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 112,
+      "IntimacyEXP": 250,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 113,
+      "IntimacyEXP": 250,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 114,
+      "IntimacyEXP": 250,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 115,
+      "IntimacyEXP": 250,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 116,
+      "IntimacyEXP": 250,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 117,
+      "IntimacyEXP": 250,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 118,
+      "IntimacyEXP": 250,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 119,
+      "IntimacyEXP": 250,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 4,
+      "IntimacyLevel": 120,
+      "IntimacyEXP": 250,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 0,
+      "IntimacyEXP": 0,
+      "IntimacyFirstHandValue": 10
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 1,
+      "IntimacyEXP": 60,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 2,
+      "IntimacyEXP": 60,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 3,
+      "IntimacyEXP": 60,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 4,
+      "IntimacyEXP": 60,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 5,
+      "IntimacyEXP": 60,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 6,
+      "IntimacyEXP": 70,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 7,
+      "IntimacyEXP": 70,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 8,
+      "IntimacyEXP": 70,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 9,
+      "IntimacyEXP": 70,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 10,
+      "IntimacyEXP": 70,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 11,
+      "IntimacyEXP": 80,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 12,
+      "IntimacyEXP": 80,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 13,
+      "IntimacyEXP": 80,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 14,
+      "IntimacyEXP": 80,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 15,
+      "IntimacyEXP": 80,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 16,
+      "IntimacyEXP": 90,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 17,
+      "IntimacyEXP": 90,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 18,
+      "IntimacyEXP": 90,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 19,
+      "IntimacyEXP": 90,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 20,
+      "IntimacyEXP": 90,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 21,
+      "IntimacyEXP": 100,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 22,
+      "IntimacyEXP": 100,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 23,
+      "IntimacyEXP": 100,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 24,
+      "IntimacyEXP": 100,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 25,
+      "IntimacyEXP": 100,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 26,
+      "IntimacyEXP": 110,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 27,
+      "IntimacyEXP": 110,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 28,
+      "IntimacyEXP": 110,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 29,
+      "IntimacyEXP": 110,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 30,
+      "IntimacyEXP": 110,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 31,
+      "IntimacyEXP": 120,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 32,
+      "IntimacyEXP": 120,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 33,
+      "IntimacyEXP": 120,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 34,
+      "IntimacyEXP": 120,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 35,
+      "IntimacyEXP": 120,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 36,
+      "IntimacyEXP": 130,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 37,
+      "IntimacyEXP": 130,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 38,
+      "IntimacyEXP": 130,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 39,
+      "IntimacyEXP": 130,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 40,
+      "IntimacyEXP": 130,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 41,
+      "IntimacyEXP": 140,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 42,
+      "IntimacyEXP": 140,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 43,
+      "IntimacyEXP": 140,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 44,
+      "IntimacyEXP": 140,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 45,
+      "IntimacyEXP": 140,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 46,
+      "IntimacyEXP": 150,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 47,
+      "IntimacyEXP": 150,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 48,
+      "IntimacyEXP": 150,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 49,
+      "IntimacyEXP": 150,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 50,
+      "IntimacyEXP": 150,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 51,
+      "IntimacyEXP": 160,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 52,
+      "IntimacyEXP": 160,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 53,
+      "IntimacyEXP": 160,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 54,
+      "IntimacyEXP": 160,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 55,
+      "IntimacyEXP": 160,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 56,
+      "IntimacyEXP": 170,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 57,
+      "IntimacyEXP": 170,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 58,
+      "IntimacyEXP": 170,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 59,
+      "IntimacyEXP": 170,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 60,
+      "IntimacyEXP": 170,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 61,
+      "IntimacyEXP": 180,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 62,
+      "IntimacyEXP": 180,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 63,
+      "IntimacyEXP": 180,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 64,
+      "IntimacyEXP": 180,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 65,
+      "IntimacyEXP": 180,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 66,
+      "IntimacyEXP": 190,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 67,
+      "IntimacyEXP": 190,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 68,
+      "IntimacyEXP": 190,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 69,
+      "IntimacyEXP": 190,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 70,
+      "IntimacyEXP": 190,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 71,
+      "IntimacyEXP": 200,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 72,
+      "IntimacyEXP": 200,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 73,
+      "IntimacyEXP": 200,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 74,
+      "IntimacyEXP": 200,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 75,
+      "IntimacyEXP": 200,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 76,
+      "IntimacyEXP": 210,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 77,
+      "IntimacyEXP": 210,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 78,
+      "IntimacyEXP": 210,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 79,
+      "IntimacyEXP": 210,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 80,
+      "IntimacyEXP": 210,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 81,
+      "IntimacyEXP": 220,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 82,
+      "IntimacyEXP": 220,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 83,
+      "IntimacyEXP": 220,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 84,
+      "IntimacyEXP": 220,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 85,
+      "IntimacyEXP": 220,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 86,
+      "IntimacyEXP": 230,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 87,
+      "IntimacyEXP": 230,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 88,
+      "IntimacyEXP": 230,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 89,
+      "IntimacyEXP": 230,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 90,
+      "IntimacyEXP": 230,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 91,
+      "IntimacyEXP": 240,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 92,
+      "IntimacyEXP": 240,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 93,
+      "IntimacyEXP": 240,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 94,
+      "IntimacyEXP": 240,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 95,
+      "IntimacyEXP": 240,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 96,
+      "IntimacyEXP": 250,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 97,
+      "IntimacyEXP": 250,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 98,
+      "IntimacyEXP": 250,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 99,
+      "IntimacyEXP": 250,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 100,
+      "IntimacyEXP": 250,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 101,
+      "IntimacyEXP": 260,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 102,
+      "IntimacyEXP": 260,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 103,
+      "IntimacyEXP": 260,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 104,
+      "IntimacyEXP": 260,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 105,
+      "IntimacyEXP": 260,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 106,
+      "IntimacyEXP": 270,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 107,
+      "IntimacyEXP": 270,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 108,
+      "IntimacyEXP": 270,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 109,
+      "IntimacyEXP": 270,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 110,
+      "IntimacyEXP": 270,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 111,
+      "IntimacyEXP": 280,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 112,
+      "IntimacyEXP": 280,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 113,
+      "IntimacyEXP": 280,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 114,
+      "IntimacyEXP": 280,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 115,
+      "IntimacyEXP": 280,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 116,
+      "IntimacyEXP": 290,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 117,
+      "IntimacyEXP": 290,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 118,
+      "IntimacyEXP": 290,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 119,
+      "IntimacyEXP": 290,
+      "IntimacyFirstHandValue": 1
+    },
+    {
+      "IntimacyStep": 5,
+      "IntimacyLevel": 120,
+      "IntimacyEXP": 290,
+      "IntimacyFirstHandValue": 1
+    }
+  ]
+}

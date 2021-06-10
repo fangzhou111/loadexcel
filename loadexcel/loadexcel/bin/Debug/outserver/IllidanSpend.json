@@ -1,0 +1,64 @@
+{
+  "IllidanSpend": [
+    {
+      "SpendNum": 1,
+      "SpendDiamond": 5
+    },
+    {
+      "SpendNum": 2,
+      "SpendDiamond": 5
+    },
+    {
+      "SpendNum": 3,
+      "SpendDiamond": 5
+    },
+    {
+      "SpendNum": 4,
+      "SpendDiamond": 10
+    },
+    {
+      "SpendNum": 5,
+      "SpendDiamond": 10
+    },
+    {
+      "SpendNum": 6,
+      "SpendDiamond": 10
+    },
+    {
+      "SpendNum": 7,
+      "SpendDiamond": 15
+    },
+    {
+      "SpendNum": 8,
+      "SpendDiamond": 15
+    },
+    {
+      "SpendNum": 9,
+      "SpendDiamond": 15
+    },
+    {
+      "SpendNum": 10,
+      "SpendDiamond": 20
+    },
+    {
+      "SpendNum": 11,
+      "SpendDiamond": 20
+    },
+    {
+      "SpendNum": 12,
+      "SpendDiamond": 20
+    },
+    {
+      "SpendNum": 13,
+      "SpendDiamond": 30
+    },
+    {
+      "SpendNum": 14,
+      "SpendDiamond": 30
+    },
+    {
+      "SpendNum": 15,
+      "SpendDiamond": 30
+    }
+  ]
+}

@@ -1,0 +1,6484 @@
+{
+  "LegionArmy": [
+    {
+      "WaveID": 1,
+      "Index": 1,
+      "MonsterBaseID": 901012,
+      "Level": 16,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 1,
+      "Index": 2,
+      "MonsterBaseID": 901013,
+      "Level": 16,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 1,
+      "Index": 3,
+      "MonsterBaseID": 901013,
+      "Level": 16,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 1,
+      "Index": 4,
+      "MonsterBaseID": 901008,
+      "Level": 16,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 1,
+      "Index": 5,
+      "MonsterBaseID": 9010426,
+      "Level": 16,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 1,
+      "Index": 6,
+      "MonsterBaseID": 901013,
+      "Level": 16,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2,
+      "Index": 1,
+      "MonsterBaseID": 901011,
+      "Level": 17,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2,
+      "Index": 2,
+      "MonsterBaseID": 901006,
+      "Level": 17,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2,
+      "Index": 3,
+      "MonsterBaseID": 901008,
+      "Level": 17,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2,
+      "Index": 4,
+      "MonsterBaseID": 901011,
+      "Level": 17,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2,
+      "Index": 5,
+      "MonsterBaseID": 9010822,
+      "Level": 17,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 2,
+      "Index": 6,
+      "MonsterBaseID": 901009,
+      "Level": 17,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 3,
+      "Index": 1,
+      "MonsterBaseID": 901007,
+      "Level": 18,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 3,
+      "Index": 2,
+      "MonsterBaseID": 901010,
+      "Level": 18,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 3,
+      "Index": 3,
+      "MonsterBaseID": 901006,
+      "Level": 18,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 3,
+      "Index": 4,
+      "MonsterBaseID": 901010,
+      "Level": 18,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 3,
+      "Index": 5,
+      "MonsterBaseID": 9010818,
+      "Level": 18,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 3,
+      "Index": 6,
+      "MonsterBaseID": 901010,
+      "Level": 18,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 4,
+      "Index": 1,
+      "MonsterBaseID": 901006,
+      "Level": 19,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 4,
+      "Index": 2,
+      "MonsterBaseID": 901002,
+      "Level": 19,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 4,
+      "Index": 3,
+      "MonsterBaseID": 901008,
+      "Level": 19,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 4,
+      "Index": 4,
+      "MonsterBaseID": 901003,
+      "Level": 19,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 4,
+      "Index": 5,
+      "MonsterBaseID": 9010819,
+      "Level": 19,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 4,
+      "Index": 6,
+      "MonsterBaseID": 901011,
+      "Level": 19,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 5,
+      "Index": 1,
+      "MonsterBaseID": 901013,
+      "Level": 20,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 5,
+      "Index": 2,
+      "MonsterBaseID": 901011,
+      "Level": 20,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 5,
+      "Index": 3,
+      "MonsterBaseID": 901010,
+      "Level": 20,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 5,
+      "Index": 4,
+      "MonsterBaseID": 9010823,
+      "Level": 20,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 5,
+      "Index": 5,
+      "MonsterBaseID": 9011203,
+      "Level": 20,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 5,
+      "Index": 6,
+      "MonsterBaseID": 9010821,
+      "Level": 20,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 6,
+      "Index": 1,
+      "MonsterBaseID": 901008,
+      "Level": 21,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 6,
+      "Index": 2,
+      "MonsterBaseID": 901007,
+      "Level": 21,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 6,
+      "Index": 3,
+      "MonsterBaseID": 901015,
+      "Level": 21,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 6,
+      "Index": 4,
+      "MonsterBaseID": 901015,
+      "Level": 21,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 6,
+      "Index": 5,
+      "MonsterBaseID": 9010818,
+      "Level": 21,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 6,
+      "Index": 6,
+      "MonsterBaseID": 901011,
+      "Level": 21,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 7,
+      "Index": 1,
+      "MonsterBaseID": 901008,
+      "Level": 22,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 7,
+      "Index": 2,
+      "MonsterBaseID": 901012,
+      "Level": 22,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 7,
+      "Index": 3,
+      "MonsterBaseID": 901015,
+      "Level": 22,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 7,
+      "Index": 4,
+      "MonsterBaseID": 901007,
+      "Level": 22,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 7,
+      "Index": 5,
+      "MonsterBaseID": 9010820,
+      "Level": 22,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 7,
+      "Index": 6,
+      "MonsterBaseID": 901016,
+      "Level": 22,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 8,
+      "Index": 1,
+      "MonsterBaseID": 901011,
+      "Level": 23,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 8,
+      "Index": 2,
+      "MonsterBaseID": 901012,
+      "Level": 23,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 8,
+      "Index": 3,
+      "MonsterBaseID": 901015,
+      "Level": 23,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 8,
+      "Index": 4,
+      "MonsterBaseID": 901011,
+      "Level": 23,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 8,
+      "Index": 5,
+      "MonsterBaseID": 9010426,
+      "Level": 23,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 8,
+      "Index": 6,
+      "MonsterBaseID": 901004,
+      "Level": 23,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 9,
+      "Index": 1,
+      "MonsterBaseID": 901006,
+      "Level": 24,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 9,
+      "Index": 2,
+      "MonsterBaseID": 901002,
+      "Level": 24,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 9,
+      "Index": 3,
+      "MonsterBaseID": 901011,
+      "Level": 24,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 9,
+      "Index": 4,
+      "MonsterBaseID": 901010,
+      "Level": 24,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 9,
+      "Index": 5,
+      "MonsterBaseID": 9010819,
+      "Level": 24,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 9,
+      "Index": 6,
+      "MonsterBaseID": 901011,
+      "Level": 24,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 10,
+      "Index": 1,
+      "MonsterBaseID": 901006,
+      "Level": 25,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 10,
+      "Index": 2,
+      "MonsterBaseID": 901005,
+      "Level": 25,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 10,
+      "Index": 3,
+      "MonsterBaseID": 901005,
+      "Level": 25,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 10,
+      "Index": 4,
+      "MonsterBaseID": 9010819,
+      "Level": 25,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 10,
+      "Index": 5,
+      "MonsterBaseID": 9011204,
+      "Level": 25,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 10,
+      "Index": 6,
+      "MonsterBaseID": 9010821,
+      "Level": 25,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 11,
+      "Index": 1,
+      "MonsterBaseID": 902007,
+      "Level": 26,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 11,
+      "Index": 2,
+      "MonsterBaseID": 902005,
+      "Level": 26,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 11,
+      "Index": 3,
+      "MonsterBaseID": 902006,
+      "Level": 26,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 11,
+      "Index": 4,
+      "MonsterBaseID": 902009,
+      "Level": 26,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 11,
+      "Index": 5,
+      "MonsterBaseID": 9020819,
+      "Level": 26,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 11,
+      "Index": 6,
+      "MonsterBaseID": 902010,
+      "Level": 26,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 12,
+      "Index": 1,
+      "MonsterBaseID": 902010,
+      "Level": 27,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 12,
+      "Index": 2,
+      "MonsterBaseID": 902010,
+      "Level": 27,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 12,
+      "Index": 3,
+      "MonsterBaseID": 902006,
+      "Level": 27,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 12,
+      "Index": 4,
+      "MonsterBaseID": 902011,
+      "Level": 27,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 12,
+      "Index": 5,
+      "MonsterBaseID": 9020822,
+      "Level": 27,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 12,
+      "Index": 6,
+      "MonsterBaseID": 902007,
+      "Level": 27,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 13,
+      "Index": 1,
+      "MonsterBaseID": 902011,
+      "Level": 28,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 13,
+      "Index": 2,
+      "MonsterBaseID": 902012,
+      "Level": 28,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 13,
+      "Index": 3,
+      "MonsterBaseID": 902010,
+      "Level": 28,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 13,
+      "Index": 4,
+      "MonsterBaseID": 902012,
+      "Level": 28,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 13,
+      "Index": 5,
+      "MonsterBaseID": 9020821,
+      "Level": 28,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 13,
+      "Index": 6,
+      "MonsterBaseID": 902007,
+      "Level": 28,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 14,
+      "Index": 1,
+      "MonsterBaseID": 902009,
+      "Level": 29,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 14,
+      "Index": 2,
+      "MonsterBaseID": 902011,
+      "Level": 29,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 14,
+      "Index": 3,
+      "MonsterBaseID": 902007,
+      "Level": 29,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 14,
+      "Index": 4,
+      "MonsterBaseID": 902009,
+      "Level": 29,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 14,
+      "Index": 5,
+      "MonsterBaseID": 9020820,
+      "Level": 29,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 14,
+      "Index": 6,
+      "MonsterBaseID": 902009,
+      "Level": 29,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 15,
+      "Index": 1,
+      "MonsterBaseID": 902010,
+      "Level": 30,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 15,
+      "Index": 2,
+      "MonsterBaseID": 902012,
+      "Level": 30,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 15,
+      "Index": 3,
+      "MonsterBaseID": 902012,
+      "Level": 30,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 15,
+      "Index": 4,
+      "MonsterBaseID": 9020818,
+      "Level": 30,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 15,
+      "Index": 5,
+      "MonsterBaseID": 9021203,
+      "Level": 30,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 15,
+      "Index": 6,
+      "MonsterBaseID": 9020819,
+      "Level": 30,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 16,
+      "Index": 1,
+      "MonsterBaseID": 902010,
+      "Level": 31,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 16,
+      "Index": 2,
+      "MonsterBaseID": 902005,
+      "Level": 31,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 16,
+      "Index": 3,
+      "MonsterBaseID": 902005,
+      "Level": 31,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 16,
+      "Index": 4,
+      "MonsterBaseID": 902010,
+      "Level": 31,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 16,
+      "Index": 5,
+      "MonsterBaseID": 9020821,
+      "Level": 31,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 16,
+      "Index": 6,
+      "MonsterBaseID": 902008,
+      "Level": 31,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 17,
+      "Index": 1,
+      "MonsterBaseID": 902008,
+      "Level": 32,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 17,
+      "Index": 2,
+      "MonsterBaseID": 902010,
+      "Level": 32,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 17,
+      "Index": 3,
+      "MonsterBaseID": 902012,
+      "Level": 32,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 17,
+      "Index": 4,
+      "MonsterBaseID": 902006,
+      "Level": 32,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 17,
+      "Index": 5,
+      "MonsterBaseID": 9020819,
+      "Level": 32,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 17,
+      "Index": 6,
+      "MonsterBaseID": 902012,
+      "Level": 32,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 18,
+      "Index": 1,
+      "MonsterBaseID": 902011,
+      "Level": 33,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 18,
+      "Index": 2,
+      "MonsterBaseID": 902010,
+      "Level": 33,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 18,
+      "Index": 3,
+      "MonsterBaseID": 902010,
+      "Level": 33,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 18,
+      "Index": 4,
+      "MonsterBaseID": 902009,
+      "Level": 33,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 18,
+      "Index": 5,
+      "MonsterBaseID": 9020818,
+      "Level": 33,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 18,
+      "Index": 6,
+      "MonsterBaseID": 902011,
+      "Level": 33,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 19,
+      "Index": 1,
+      "MonsterBaseID": 902007,
+      "Level": 34,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 19,
+      "Index": 2,
+      "MonsterBaseID": 902006,
+      "Level": 34,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 19,
+      "Index": 3,
+      "MonsterBaseID": 902009,
+      "Level": 34,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 19,
+      "Index": 4,
+      "MonsterBaseID": 902006,
+      "Level": 34,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 19,
+      "Index": 5,
+      "MonsterBaseID": 9020823,
+      "Level": 34,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 19,
+      "Index": 6,
+      "MonsterBaseID": 902010,
+      "Level": 34,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 20,
+      "Index": 1,
+      "MonsterBaseID": 902009,
+      "Level": 35,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 20,
+      "Index": 2,
+      "MonsterBaseID": 902007,
+      "Level": 35,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 20,
+      "Index": 3,
+      "MonsterBaseID": 902007,
+      "Level": 35,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 20,
+      "Index": 4,
+      "MonsterBaseID": 9020822,
+      "Level": 35,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 20,
+      "Index": 5,
+      "MonsterBaseID": 9021204,
+      "Level": 35,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 20,
+      "Index": 6,
+      "MonsterBaseID": 9020823,
+      "Level": 35,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 21,
+      "Index": 1,
+      "MonsterBaseID": 903007,
+      "Level": 36,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 21,
+      "Index": 2,
+      "MonsterBaseID": 903008,
+      "Level": 36,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 21,
+      "Index": 3,
+      "MonsterBaseID": 903009,
+      "Level": 36,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 21,
+      "Index": 4,
+      "MonsterBaseID": 903006,
+      "Level": 36,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 21,
+      "Index": 5,
+      "MonsterBaseID": 9030823,
+      "Level": 36,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 21,
+      "Index": 6,
+      "MonsterBaseID": 903007,
+      "Level": 36,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 22,
+      "Index": 1,
+      "MonsterBaseID": 903005,
+      "Level": 37,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 22,
+      "Index": 2,
+      "MonsterBaseID": 903002,
+      "Level": 37,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 22,
+      "Index": 3,
+      "MonsterBaseID": 903009,
+      "Level": 37,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 22,
+      "Index": 4,
+      "MonsterBaseID": 903002,
+      "Level": 37,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 22,
+      "Index": 5,
+      "MonsterBaseID": 9030822,
+      "Level": 37,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 22,
+      "Index": 6,
+      "MonsterBaseID": 903006,
+      "Level": 37,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 23,
+      "Index": 1,
+      "MonsterBaseID": 903009,
+      "Level": 38,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 23,
+      "Index": 2,
+      "MonsterBaseID": 903007,
+      "Level": 38,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 23,
+      "Index": 3,
+      "MonsterBaseID": 903009,
+      "Level": 38,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 23,
+      "Index": 4,
+      "MonsterBaseID": 903002,
+      "Level": 38,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 23,
+      "Index": 5,
+      "MonsterBaseID": 9030819,
+      "Level": 38,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 23,
+      "Index": 6,
+      "MonsterBaseID": 903008,
+      "Level": 38,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 24,
+      "Index": 1,
+      "MonsterBaseID": 903002,
+      "Level": 39,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 24,
+      "Index": 2,
+      "MonsterBaseID": 903005,
+      "Level": 39,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 24,
+      "Index": 3,
+      "MonsterBaseID": 903006,
+      "Level": 39,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 24,
+      "Index": 4,
+      "MonsterBaseID": 903008,
+      "Level": 39,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 24,
+      "Index": 5,
+      "MonsterBaseID": 9030818,
+      "Level": 39,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 24,
+      "Index": 6,
+      "MonsterBaseID": 903005,
+      "Level": 39,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 25,
+      "Index": 1,
+      "MonsterBaseID": 913009,
+      "Level": 40,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 25,
+      "Index": 2,
+      "MonsterBaseID": 913006,
+      "Level": 40,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 25,
+      "Index": 3,
+      "MonsterBaseID": 913009,
+      "Level": 40,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 25,
+      "Index": 4,
+      "MonsterBaseID": 9030818,
+      "Level": 40,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 25,
+      "Index": 5,
+      "MonsterBaseID": 9031203,
+      "Level": 40,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 25,
+      "Index": 6,
+      "MonsterBaseID": 9030819,
+      "Level": 40,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 26,
+      "Index": 1,
+      "MonsterBaseID": 913002,
+      "Level": 41,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 26,
+      "Index": 2,
+      "MonsterBaseID": 913006,
+      "Level": 41,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 26,
+      "Index": 3,
+      "MonsterBaseID": 913009,
+      "Level": 41,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 26,
+      "Index": 4,
+      "MonsterBaseID": 903006,
+      "Level": 41,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 26,
+      "Index": 5,
+      "MonsterBaseID": 9030824,
+      "Level": 41,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 26,
+      "Index": 6,
+      "MonsterBaseID": 903008,
+      "Level": 41,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 27,
+      "Index": 1,
+      "MonsterBaseID": 913008,
+      "Level": 42,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 27,
+      "Index": 2,
+      "MonsterBaseID": 913007,
+      "Level": 42,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 27,
+      "Index": 3,
+      "MonsterBaseID": 913005,
+      "Level": 42,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 27,
+      "Index": 4,
+      "MonsterBaseID": 903009,
+      "Level": 42,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 27,
+      "Index": 5,
+      "MonsterBaseID": 9030818,
+      "Level": 42,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 27,
+      "Index": 6,
+      "MonsterBaseID": 903008,
+      "Level": 42,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 28,
+      "Index": 1,
+      "MonsterBaseID": 913008,
+      "Level": 43,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 28,
+      "Index": 2,
+      "MonsterBaseID": 913006,
+      "Level": 43,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 28,
+      "Index": 3,
+      "MonsterBaseID": 913005,
+      "Level": 43,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 28,
+      "Index": 4,
+      "MonsterBaseID": 903006,
+      "Level": 43,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 28,
+      "Index": 5,
+      "MonsterBaseID": 9030819,
+      "Level": 43,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 28,
+      "Index": 6,
+      "MonsterBaseID": 903006,
+      "Level": 43,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 29,
+      "Index": 1,
+      "MonsterBaseID": 913008,
+      "Level": 44,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 29,
+      "Index": 2,
+      "MonsterBaseID": 913009,
+      "Level": 44,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 29,
+      "Index": 3,
+      "MonsterBaseID": 913002,
+      "Level": 44,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 29,
+      "Index": 4,
+      "MonsterBaseID": 903009,
+      "Level": 44,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 29,
+      "Index": 5,
+      "MonsterBaseID": 9030822,
+      "Level": 44,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 29,
+      "Index": 6,
+      "MonsterBaseID": 903006,
+      "Level": 44,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 30,
+      "Index": 1,
+      "MonsterBaseID": 913008,
+      "Level": 45,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 30,
+      "Index": 2,
+      "MonsterBaseID": 913007,
+      "Level": 45,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 30,
+      "Index": 3,
+      "MonsterBaseID": 913009,
+      "Level": 45,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 30,
+      "Index": 4,
+      "MonsterBaseID": 9130820,
+      "Level": 45,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 30,
+      "Index": 5,
+      "MonsterBaseID": 9131204,
+      "Level": 45,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 30,
+      "Index": 6,
+      "MonsterBaseID": 9130820,
+      "Level": 45,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 31,
+      "Index": 1,
+      "MonsterBaseID": 911011,
+      "Level": 46,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 31,
+      "Index": 2,
+      "MonsterBaseID": 911006,
+      "Level": 46,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 31,
+      "Index": 3,
+      "MonsterBaseID": 911007,
+      "Level": 46,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 31,
+      "Index": 4,
+      "MonsterBaseID": 911016,
+      "Level": 46,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 31,
+      "Index": 5,
+      "MonsterBaseID": 9110818,
+      "Level": 46,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 31,
+      "Index": 6,
+      "MonsterBaseID": 911016,
+      "Level": 46,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 32,
+      "Index": 1,
+      "MonsterBaseID": 911013,
+      "Level": 47,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 32,
+      "Index": 2,
+      "MonsterBaseID": 911008,
+      "Level": 47,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 32,
+      "Index": 3,
+      "MonsterBaseID": 911013,
+      "Level": 47,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 32,
+      "Index": 4,
+      "MonsterBaseID": 911006,
+      "Level": 47,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 32,
+      "Index": 5,
+      "MonsterBaseID": 9110819,
+      "Level": 47,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 32,
+      "Index": 6,
+      "MonsterBaseID": 911002,
+      "Level": 47,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 33,
+      "Index": 1,
+      "MonsterBaseID": 911005,
+      "Level": 48,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 33,
+      "Index": 2,
+      "MonsterBaseID": 911010,
+      "Level": 48,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 33,
+      "Index": 3,
+      "MonsterBaseID": 911002,
+      "Level": 48,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 33,
+      "Index": 4,
+      "MonsterBaseID": 911007,
+      "Level": 48,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 33,
+      "Index": 5,
+      "MonsterBaseID": 9110823,
+      "Level": 48,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 33,
+      "Index": 6,
+      "MonsterBaseID": 911010,
+      "Level": 48,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 34,
+      "Index": 1,
+      "MonsterBaseID": 911010,
+      "Level": 49,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 34,
+      "Index": 2,
+      "MonsterBaseID": 911006,
+      "Level": 49,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 34,
+      "Index": 3,
+      "MonsterBaseID": 911015,
+      "Level": 49,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 34,
+      "Index": 4,
+      "MonsterBaseID": 911013,
+      "Level": 49,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 34,
+      "Index": 5,
+      "MonsterBaseID": 9110822,
+      "Level": 49,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 34,
+      "Index": 6,
+      "MonsterBaseID": 911013,
+      "Level": 49,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 35,
+      "Index": 1,
+      "MonsterBaseID": 911012,
+      "Level": 50,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 35,
+      "Index": 2,
+      "MonsterBaseID": 911012,
+      "Level": 50,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 35,
+      "Index": 3,
+      "MonsterBaseID": 911011,
+      "Level": 50,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 35,
+      "Index": 4,
+      "MonsterBaseID": 9110824,
+      "Level": 50,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 35,
+      "Index": 5,
+      "MonsterBaseID": 9111205,
+      "Level": 50,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 35,
+      "Index": 6,
+      "MonsterBaseID": 9110820,
+      "Level": 50,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 36,
+      "Index": 1,
+      "MonsterBaseID": 911002,
+      "Level": 51,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 36,
+      "Index": 2,
+      "MonsterBaseID": 911008,
+      "Level": 51,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 36,
+      "Index": 3,
+      "MonsterBaseID": 911015,
+      "Level": 51,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 36,
+      "Index": 4,
+      "MonsterBaseID": 911012,
+      "Level": 51,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 36,
+      "Index": 5,
+      "MonsterBaseID": 9110818,
+      "Level": 51,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 36,
+      "Index": 6,
+      "MonsterBaseID": 911011,
+      "Level": 51,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 37,
+      "Index": 1,
+      "MonsterBaseID": 911012,
+      "Level": 52,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 37,
+      "Index": 2,
+      "MonsterBaseID": 911015,
+      "Level": 52,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 37,
+      "Index": 3,
+      "MonsterBaseID": 911011,
+      "Level": 52,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 37,
+      "Index": 4,
+      "MonsterBaseID": 911013,
+      "Level": 52,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 37,
+      "Index": 5,
+      "MonsterBaseID": 9110823,
+      "Level": 52,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 37,
+      "Index": 6,
+      "MonsterBaseID": 911005,
+      "Level": 52,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 38,
+      "Index": 1,
+      "MonsterBaseID": 911008,
+      "Level": 53,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 38,
+      "Index": 2,
+      "MonsterBaseID": 911011,
+      "Level": 53,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 38,
+      "Index": 3,
+      "MonsterBaseID": 911015,
+      "Level": 53,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 38,
+      "Index": 4,
+      "MonsterBaseID": 911011,
+      "Level": 53,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 38,
+      "Index": 5,
+      "MonsterBaseID": 9110822,
+      "Level": 53,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 38,
+      "Index": 6,
+      "MonsterBaseID": 911005,
+      "Level": 53,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 39,
+      "Index": 1,
+      "MonsterBaseID": 911002,
+      "Level": 54,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 39,
+      "Index": 2,
+      "MonsterBaseID": 911002,
+      "Level": 54,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 39,
+      "Index": 3,
+      "MonsterBaseID": 911002,
+      "Level": 54,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 39,
+      "Index": 4,
+      "MonsterBaseID": 911012,
+      "Level": 54,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 39,
+      "Index": 5,
+      "MonsterBaseID": 9110820,
+      "Level": 54,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 39,
+      "Index": 6,
+      "MonsterBaseID": 911011,
+      "Level": 54,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 40,
+      "Index": 1,
+      "MonsterBaseID": 911011,
+      "Level": 55,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 40,
+      "Index": 2,
+      "MonsterBaseID": 911006,
+      "Level": 55,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 40,
+      "Index": 3,
+      "MonsterBaseID": 911013,
+      "Level": 55,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 40,
+      "Index": 4,
+      "MonsterBaseID": 9110821,
+      "Level": 55,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 40,
+      "Index": 5,
+      "MonsterBaseID": 9111206,
+      "Level": 55,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 40,
+      "Index": 6,
+      "MonsterBaseID": 9110818,
+      "Level": 55,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 41,
+      "Index": 1,
+      "MonsterBaseID": 912011,
+      "Level": 56,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 41,
+      "Index": 2,
+      "MonsterBaseID": 912007,
+      "Level": 56,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 41,
+      "Index": 3,
+      "MonsterBaseID": 912009,
+      "Level": 56,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 41,
+      "Index": 4,
+      "MonsterBaseID": 912011,
+      "Level": 56,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 41,
+      "Index": 5,
+      "MonsterBaseID": 9120819,
+      "Level": 56,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 41,
+      "Index": 6,
+      "MonsterBaseID": 912008,
+      "Level": 56,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 42,
+      "Index": 1,
+      "MonsterBaseID": 912005,
+      "Level": 57,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 42,
+      "Index": 2,
+      "MonsterBaseID": 912006,
+      "Level": 57,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 42,
+      "Index": 3,
+      "MonsterBaseID": 912007,
+      "Level": 57,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 42,
+      "Index": 4,
+      "MonsterBaseID": 912006,
+      "Level": 57,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 42,
+      "Index": 5,
+      "MonsterBaseID": 9120818,
+      "Level": 57,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 42,
+      "Index": 6,
+      "MonsterBaseID": 912012,
+      "Level": 57,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 43,
+      "Index": 1,
+      "MonsterBaseID": 912012,
+      "Level": 58,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 43,
+      "Index": 2,
+      "MonsterBaseID": 912009,
+      "Level": 58,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 43,
+      "Index": 3,
+      "MonsterBaseID": 912009,
+      "Level": 58,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 43,
+      "Index": 4,
+      "MonsterBaseID": 912009,
+      "Level": 58,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 43,
+      "Index": 5,
+      "MonsterBaseID": 9120820,
+      "Level": 58,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 43,
+      "Index": 6,
+      "MonsterBaseID": 912009,
+      "Level": 58,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 44,
+      "Index": 1,
+      "MonsterBaseID": 912006,
+      "Level": 59,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 44,
+      "Index": 2,
+      "MonsterBaseID": 912009,
+      "Level": 59,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 44,
+      "Index": 3,
+      "MonsterBaseID": 912006,
+      "Level": 59,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 44,
+      "Index": 4,
+      "MonsterBaseID": 912007,
+      "Level": 59,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 44,
+      "Index": 5,
+      "MonsterBaseID": 9120821,
+      "Level": 59,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 44,
+      "Index": 6,
+      "MonsterBaseID": 912010,
+      "Level": 59,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 45,
+      "Index": 1,
+      "MonsterBaseID": 912009,
+      "Level": 60,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 45,
+      "Index": 2,
+      "MonsterBaseID": 912008,
+      "Level": 60,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 45,
+      "Index": 3,
+      "MonsterBaseID": 912011,
+      "Level": 60,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 45,
+      "Index": 4,
+      "MonsterBaseID": 9120818,
+      "Level": 60,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 45,
+      "Index": 5,
+      "MonsterBaseID": 9121205,
+      "Level": 60,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 45,
+      "Index": 6,
+      "MonsterBaseID": 9120823,
+      "Level": 60,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 46,
+      "Index": 1,
+      "MonsterBaseID": 912011,
+      "Level": 61,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 46,
+      "Index": 2,
+      "MonsterBaseID": 912007,
+      "Level": 61,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 46,
+      "Index": 3,
+      "MonsterBaseID": 912009,
+      "Level": 61,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 46,
+      "Index": 4,
+      "MonsterBaseID": 912011,
+      "Level": 61,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 46,
+      "Index": 5,
+      "MonsterBaseID": 9120819,
+      "Level": 61,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 46,
+      "Index": 6,
+      "MonsterBaseID": 912008,
+      "Level": 61,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 47,
+      "Index": 1,
+      "MonsterBaseID": 912005,
+      "Level": 62,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 47,
+      "Index": 2,
+      "MonsterBaseID": 912006,
+      "Level": 62,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 47,
+      "Index": 3,
+      "MonsterBaseID": 912007,
+      "Level": 62,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 47,
+      "Index": 4,
+      "MonsterBaseID": 912006,
+      "Level": 62,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 47,
+      "Index": 5,
+      "MonsterBaseID": 9120818,
+      "Level": 62,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 47,
+      "Index": 6,
+      "MonsterBaseID": 912012,
+      "Level": 62,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 48,
+      "Index": 1,
+      "MonsterBaseID": 912012,
+      "Level": 63,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 48,
+      "Index": 2,
+      "MonsterBaseID": 912009,
+      "Level": 63,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 48,
+      "Index": 3,
+      "MonsterBaseID": 912009,
+      "Level": 63,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 48,
+      "Index": 4,
+      "MonsterBaseID": 912009,
+      "Level": 63,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 48,
+      "Index": 5,
+      "MonsterBaseID": 9120820,
+      "Level": 63,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 48,
+      "Index": 6,
+      "MonsterBaseID": 912009,
+      "Level": 63,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 49,
+      "Index": 1,
+      "MonsterBaseID": 912006,
+      "Level": 64,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 49,
+      "Index": 2,
+      "MonsterBaseID": 912009,
+      "Level": 64,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 49,
+      "Index": 3,
+      "MonsterBaseID": 912006,
+      "Level": 64,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 49,
+      "Index": 4,
+      "MonsterBaseID": 912007,
+      "Level": 64,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 49,
+      "Index": 5,
+      "MonsterBaseID": 9120821,
+      "Level": 64,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 49,
+      "Index": 6,
+      "MonsterBaseID": 912010,
+      "Level": 64,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 50,
+      "Index": 1,
+      "MonsterBaseID": 912009,
+      "Level": 65,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 50,
+      "Index": 2,
+      "MonsterBaseID": 912008,
+      "Level": 65,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 50,
+      "Index": 3,
+      "MonsterBaseID": 912011,
+      "Level": 65,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 50,
+      "Index": 4,
+      "MonsterBaseID": 9120818,
+      "Level": 65,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 50,
+      "Index": 5,
+      "MonsterBaseID": 9121206,
+      "Level": 65,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 50,
+      "Index": 6,
+      "MonsterBaseID": 9120823,
+      "Level": 65,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 51,
+      "Index": 1,
+      "MonsterBaseID": 913008,
+      "Level": 66,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 51,
+      "Index": 2,
+      "MonsterBaseID": 913005,
+      "Level": 66,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 51,
+      "Index": 3,
+      "MonsterBaseID": 913005,
+      "Level": 66,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 51,
+      "Index": 4,
+      "MonsterBaseID": 913008,
+      "Level": 66,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 51,
+      "Index": 5,
+      "MonsterBaseID": 9130820,
+      "Level": 66,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 51,
+      "Index": 6,
+      "MonsterBaseID": 913009,
+      "Level": 66,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 52,
+      "Index": 1,
+      "MonsterBaseID": 913009,
+      "Level": 67,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 52,
+      "Index": 2,
+      "MonsterBaseID": 913009,
+      "Level": 67,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 52,
+      "Index": 3,
+      "MonsterBaseID": 913006,
+      "Level": 67,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 52,
+      "Index": 4,
+      "MonsterBaseID": 913007,
+      "Level": 67,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 52,
+      "Index": 5,
+      "MonsterBaseID": 9130821,
+      "Level": 67,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 52,
+      "Index": 6,
+      "MonsterBaseID": 913006,
+      "Level": 67,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 53,
+      "Index": 1,
+      "MonsterBaseID": 913005,
+      "Level": 68,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 53,
+      "Index": 2,
+      "MonsterBaseID": 913009,
+      "Level": 68,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 53,
+      "Index": 3,
+      "MonsterBaseID": 913006,
+      "Level": 68,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 53,
+      "Index": 4,
+      "MonsterBaseID": 913006,
+      "Level": 68,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 53,
+      "Index": 5,
+      "MonsterBaseID": 9130823,
+      "Level": 68,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 53,
+      "Index": 6,
+      "MonsterBaseID": 913007,
+      "Level": 68,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 54,
+      "Index": 1,
+      "MonsterBaseID": 913007,
+      "Level": 69,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 54,
+      "Index": 2,
+      "MonsterBaseID": 913008,
+      "Level": 69,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 54,
+      "Index": 3,
+      "MonsterBaseID": 913005,
+      "Level": 69,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 54,
+      "Index": 4,
+      "MonsterBaseID": 913006,
+      "Level": 69,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 54,
+      "Index": 5,
+      "MonsterBaseID": 9130822,
+      "Level": 69,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 54,
+      "Index": 6,
+      "MonsterBaseID": 913005,
+      "Level": 69,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 55,
+      "Index": 1,
+      "MonsterBaseID": 913009,
+      "Level": 70,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 55,
+      "Index": 2,
+      "MonsterBaseID": 913007,
+      "Level": 70,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 55,
+      "Index": 3,
+      "MonsterBaseID": 913009,
+      "Level": 70,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 55,
+      "Index": 4,
+      "MonsterBaseID": 9130823,
+      "Level": 70,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 55,
+      "Index": 5,
+      "MonsterBaseID": 9131205,
+      "Level": 70,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 55,
+      "Index": 6,
+      "MonsterBaseID": 9130818,
+      "Level": 70,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 56,
+      "Index": 1,
+      "MonsterBaseID": 913009,
+      "Level": 71,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 56,
+      "Index": 2,
+      "MonsterBaseID": 913005,
+      "Level": 71,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 56,
+      "Index": 3,
+      "MonsterBaseID": 913008,
+      "Level": 71,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 56,
+      "Index": 4,
+      "MonsterBaseID": 913009,
+      "Level": 71,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 56,
+      "Index": 5,
+      "MonsterBaseID": 9130822,
+      "Level": 71,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 56,
+      "Index": 6,
+      "MonsterBaseID": 913009,
+      "Level": 71,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 57,
+      "Index": 1,
+      "MonsterBaseID": 913005,
+      "Level": 72,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 57,
+      "Index": 2,
+      "MonsterBaseID": 913007,
+      "Level": 72,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 57,
+      "Index": 3,
+      "MonsterBaseID": 913002,
+      "Level": 72,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 57,
+      "Index": 4,
+      "MonsterBaseID": 913005,
+      "Level": 72,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 57,
+      "Index": 5,
+      "MonsterBaseID": 9130820,
+      "Level": 72,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 57,
+      "Index": 6,
+      "MonsterBaseID": 913007,
+      "Level": 72,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 58,
+      "Index": 1,
+      "MonsterBaseID": 913008,
+      "Level": 73,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 58,
+      "Index": 2,
+      "MonsterBaseID": 913009,
+      "Level": 73,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 58,
+      "Index": 3,
+      "MonsterBaseID": 913008,
+      "Level": 73,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 58,
+      "Index": 4,
+      "MonsterBaseID": 913009,
+      "Level": 73,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 58,
+      "Index": 5,
+      "MonsterBaseID": 9130824,
+      "Level": 73,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 58,
+      "Index": 6,
+      "MonsterBaseID": 913008,
+      "Level": 73,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 59,
+      "Index": 1,
+      "MonsterBaseID": 913009,
+      "Level": 74,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 59,
+      "Index": 2,
+      "MonsterBaseID": 913009,
+      "Level": 74,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 59,
+      "Index": 3,
+      "MonsterBaseID": 913006,
+      "Level": 74,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 59,
+      "Index": 4,
+      "MonsterBaseID": 913007,
+      "Level": 74,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 59,
+      "Index": 5,
+      "MonsterBaseID": 9130823,
+      "Level": 74,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 59,
+      "Index": 6,
+      "MonsterBaseID": 913009,
+      "Level": 74,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 60,
+      "Index": 1,
+      "MonsterBaseID": 913009,
+      "Level": 75,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 60,
+      "Index": 2,
+      "MonsterBaseID": 913007,
+      "Level": 75,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 60,
+      "Index": 3,
+      "MonsterBaseID": 913002,
+      "Level": 75,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 60,
+      "Index": 4,
+      "MonsterBaseID": 9130819,
+      "Level": 75,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 60,
+      "Index": 5,
+      "MonsterBaseID": 9131206,
+      "Level": 75,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 60,
+      "Index": 6,
+      "MonsterBaseID": 9130821,
+      "Level": 75,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 61,
+      "Index": 1,
+      "MonsterBaseID": 911010,
+      "Level": 76,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 61,
+      "Index": 2,
+      "MonsterBaseID": 911011,
+      "Level": 76,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 61,
+      "Index": 3,
+      "MonsterBaseID": 911006,
+      "Level": 76,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 61,
+      "Index": 4,
+      "MonsterBaseID": 911012,
+      "Level": 76,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 61,
+      "Index": 5,
+      "MonsterBaseID": 9110818,
+      "Level": 76,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 61,
+      "Index": 6,
+      "MonsterBaseID": 911007,
+      "Level": 76,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 62,
+      "Index": 1,
+      "MonsterBaseID": 911015,
+      "Level": 77,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 62,
+      "Index": 2,
+      "MonsterBaseID": 911013,
+      "Level": 77,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 62,
+      "Index": 3,
+      "MonsterBaseID": 911002,
+      "Level": 77,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 62,
+      "Index": 4,
+      "MonsterBaseID": 911007,
+      "Level": 77,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 62,
+      "Index": 5,
+      "MonsterBaseID": 9110824,
+      "Level": 77,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 62,
+      "Index": 6,
+      "MonsterBaseID": 911013,
+      "Level": 77,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 63,
+      "Index": 1,
+      "MonsterBaseID": 911007,
+      "Level": 78,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 63,
+      "Index": 2,
+      "MonsterBaseID": 911015,
+      "Level": 78,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 63,
+      "Index": 3,
+      "MonsterBaseID": 911006,
+      "Level": 78,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 63,
+      "Index": 4,
+      "MonsterBaseID": 911011,
+      "Level": 78,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 63,
+      "Index": 5,
+      "MonsterBaseID": 9110820,
+      "Level": 78,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 63,
+      "Index": 6,
+      "MonsterBaseID": 911010,
+      "Level": 78,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 64,
+      "Index": 1,
+      "MonsterBaseID": 911011,
+      "Level": 79,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 64,
+      "Index": 2,
+      "MonsterBaseID": 911010,
+      "Level": 79,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 64,
+      "Index": 3,
+      "MonsterBaseID": 911008,
+      "Level": 79,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 64,
+      "Index": 4,
+      "MonsterBaseID": 911007,
+      "Level": 79,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 64,
+      "Index": 5,
+      "MonsterBaseID": 9110821,
+      "Level": 79,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 64,
+      "Index": 6,
+      "MonsterBaseID": 911008,
+      "Level": 79,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 65,
+      "Index": 1,
+      "MonsterBaseID": 911011,
+      "Level": 80,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 65,
+      "Index": 2,
+      "MonsterBaseID": 911011,
+      "Level": 80,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 65,
+      "Index": 3,
+      "MonsterBaseID": 911007,
+      "Level": 80,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 65,
+      "Index": 4,
+      "MonsterBaseID": 9110821,
+      "Level": 80,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 65,
+      "Index": 5,
+      "MonsterBaseID": 9111008,
+      "Level": 80,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 65,
+      "Index": 6,
+      "MonsterBaseID": 9110822,
+      "Level": 80,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 66,
+      "Index": 1,
+      "MonsterBaseID": 911006,
+      "Level": 81,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 66,
+      "Index": 2,
+      "MonsterBaseID": 911012,
+      "Level": 81,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 66,
+      "Index": 3,
+      "MonsterBaseID": 911005,
+      "Level": 81,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 66,
+      "Index": 4,
+      "MonsterBaseID": 911005,
+      "Level": 81,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 66,
+      "Index": 5,
+      "MonsterBaseID": 9110818,
+      "Level": 81,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 66,
+      "Index": 6,
+      "MonsterBaseID": 911015,
+      "Level": 81,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 67,
+      "Index": 1,
+      "MonsterBaseID": 911007,
+      "Level": 82,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 67,
+      "Index": 2,
+      "MonsterBaseID": 911006,
+      "Level": 82,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 67,
+      "Index": 3,
+      "MonsterBaseID": 911015,
+      "Level": 82,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 67,
+      "Index": 4,
+      "MonsterBaseID": 911008,
+      "Level": 82,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 67,
+      "Index": 5,
+      "MonsterBaseID": 9110823,
+      "Level": 82,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 67,
+      "Index": 6,
+      "MonsterBaseID": 911008,
+      "Level": 82,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 68,
+      "Index": 1,
+      "MonsterBaseID": 911002,
+      "Level": 83,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 68,
+      "Index": 2,
+      "MonsterBaseID": 911013,
+      "Level": 83,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 68,
+      "Index": 3,
+      "MonsterBaseID": 911013,
+      "Level": 83,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 68,
+      "Index": 4,
+      "MonsterBaseID": 911001,
+      "Level": 83,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 68,
+      "Index": 5,
+      "MonsterBaseID": 9110820,
+      "Level": 83,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 68,
+      "Index": 6,
+      "MonsterBaseID": 911012,
+      "Level": 83,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 69,
+      "Index": 1,
+      "MonsterBaseID": 911005,
+      "Level": 84,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 69,
+      "Index": 2,
+      "MonsterBaseID": 911007,
+      "Level": 84,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 69,
+      "Index": 3,
+      "MonsterBaseID": 911008,
+      "Level": 84,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 69,
+      "Index": 4,
+      "MonsterBaseID": 911009,
+      "Level": 84,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 69,
+      "Index": 5,
+      "MonsterBaseID": 9110822,
+      "Level": 84,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 69,
+      "Index": 6,
+      "MonsterBaseID": 911004,
+      "Level": 84,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 70,
+      "Index": 1,
+      "MonsterBaseID": 911012,
+      "Level": 85,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 70,
+      "Index": 2,
+      "MonsterBaseID": 911012,
+      "Level": 85,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 70,
+      "Index": 3,
+      "MonsterBaseID": 911008,
+      "Level": 85,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 70,
+      "Index": 4,
+      "MonsterBaseID": 9110824,
+      "Level": 85,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 70,
+      "Index": 5,
+      "MonsterBaseID": 9111009,
+      "Level": 85,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 70,
+      "Index": 6,
+      "MonsterBaseID": 9110426,
+      "Level": 85,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 71,
+      "Index": 1,
+      "MonsterBaseID": 912010,
+      "Level": 86,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 71,
+      "Index": 2,
+      "MonsterBaseID": 912011,
+      "Level": 86,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 71,
+      "Index": 3,
+      "MonsterBaseID": 912008,
+      "Level": 86,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 71,
+      "Index": 4,
+      "MonsterBaseID": 912012,
+      "Level": 86,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 71,
+      "Index": 5,
+      "MonsterBaseID": 9120821,
+      "Level": 86,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 71,
+      "Index": 6,
+      "MonsterBaseID": 912011,
+      "Level": 86,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 72,
+      "Index": 1,
+      "MonsterBaseID": 912011,
+      "Level": 87,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 72,
+      "Index": 2,
+      "MonsterBaseID": 912008,
+      "Level": 87,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 72,
+      "Index": 3,
+      "MonsterBaseID": 912012,
+      "Level": 87,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 72,
+      "Index": 4,
+      "MonsterBaseID": 912012,
+      "Level": 87,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 72,
+      "Index": 5,
+      "MonsterBaseID": 9120823,
+      "Level": 87,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 72,
+      "Index": 6,
+      "MonsterBaseID": 912007,
+      "Level": 87,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 73,
+      "Index": 1,
+      "MonsterBaseID": 912006,
+      "Level": 88,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 73,
+      "Index": 2,
+      "MonsterBaseID": 912005,
+      "Level": 88,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 73,
+      "Index": 3,
+      "MonsterBaseID": 912011,
+      "Level": 88,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 73,
+      "Index": 4,
+      "MonsterBaseID": 912011,
+      "Level": 88,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 73,
+      "Index": 5,
+      "MonsterBaseID": 9120820,
+      "Level": 88,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 73,
+      "Index": 6,
+      "MonsterBaseID": 912011,
+      "Level": 88,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 74,
+      "Index": 1,
+      "MonsterBaseID": 912009,
+      "Level": 89,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 74,
+      "Index": 2,
+      "MonsterBaseID": 912011,
+      "Level": 89,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 74,
+      "Index": 3,
+      "MonsterBaseID": 912010,
+      "Level": 89,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 74,
+      "Index": 4,
+      "MonsterBaseID": 912008,
+      "Level": 89,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 74,
+      "Index": 5,
+      "MonsterBaseID": 9120822,
+      "Level": 89,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 74,
+      "Index": 6,
+      "MonsterBaseID": 912011,
+      "Level": 89,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 75,
+      "Index": 1,
+      "MonsterBaseID": 912007,
+      "Level": 90,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 75,
+      "Index": 2,
+      "MonsterBaseID": 912012,
+      "Level": 90,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 75,
+      "Index": 3,
+      "MonsterBaseID": 912009,
+      "Level": 90,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 75,
+      "Index": 4,
+      "MonsterBaseID": 9120819,
+      "Level": 90,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 75,
+      "Index": 5,
+      "MonsterBaseID": 9121008,
+      "Level": 90,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 75,
+      "Index": 6,
+      "MonsterBaseID": 9120820,
+      "Level": 90,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 76,
+      "Index": 1,
+      "MonsterBaseID": 912012,
+      "Level": 91,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 76,
+      "Index": 2,
+      "MonsterBaseID": 912007,
+      "Level": 91,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 76,
+      "Index": 3,
+      "MonsterBaseID": 912005,
+      "Level": 91,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 76,
+      "Index": 4,
+      "MonsterBaseID": 912009,
+      "Level": 91,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 76,
+      "Index": 5,
+      "MonsterBaseID": 9120820,
+      "Level": 91,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 76,
+      "Index": 6,
+      "MonsterBaseID": 912004,
+      "Level": 91,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 77,
+      "Index": 1,
+      "MonsterBaseID": 912008,
+      "Level": 92,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 77,
+      "Index": 2,
+      "MonsterBaseID": 912007,
+      "Level": 92,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 77,
+      "Index": 3,
+      "MonsterBaseID": 912007,
+      "Level": 92,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 77,
+      "Index": 4,
+      "MonsterBaseID": 912004,
+      "Level": 92,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 77,
+      "Index": 5,
+      "MonsterBaseID": 9120822,
+      "Level": 92,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 77,
+      "Index": 6,
+      "MonsterBaseID": 912010,
+      "Level": 92,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 78,
+      "Index": 1,
+      "MonsterBaseID": 912011,
+      "Level": 93,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 78,
+      "Index": 2,
+      "MonsterBaseID": 912008,
+      "Level": 93,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 78,
+      "Index": 3,
+      "MonsterBaseID": 912012,
+      "Level": 93,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 78,
+      "Index": 4,
+      "MonsterBaseID": 912005,
+      "Level": 93,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 78,
+      "Index": 5,
+      "MonsterBaseID": 9120823,
+      "Level": 93,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 78,
+      "Index": 6,
+      "MonsterBaseID": 912005,
+      "Level": 93,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 79,
+      "Index": 1,
+      "MonsterBaseID": 912007,
+      "Level": 94,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 79,
+      "Index": 2,
+      "MonsterBaseID": 912007,
+      "Level": 94,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 79,
+      "Index": 3,
+      "MonsterBaseID": 912010,
+      "Level": 94,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 79,
+      "Index": 4,
+      "MonsterBaseID": 912005,
+      "Level": 94,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 79,
+      "Index": 5,
+      "MonsterBaseID": 9120821,
+      "Level": 94,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 79,
+      "Index": 6,
+      "MonsterBaseID": 912010,
+      "Level": 94,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 80,
+      "Index": 1,
+      "MonsterBaseID": 912010,
+      "Level": 95,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 80,
+      "Index": 2,
+      "MonsterBaseID": 912011,
+      "Level": 95,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 80,
+      "Index": 3,
+      "MonsterBaseID": 912010,
+      "Level": 95,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 80,
+      "Index": 4,
+      "MonsterBaseID": 9120818,
+      "Level": 95,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 80,
+      "Index": 5,
+      "MonsterBaseID": 9121009,
+      "Level": 95,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 80,
+      "Index": 6,
+      "MonsterBaseID": 9120823,
+      "Level": 95,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 81,
+      "Index": 1,
+      "MonsterBaseID": 913007,
+      "Level": 96,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 81,
+      "Index": 2,
+      "MonsterBaseID": 913009,
+      "Level": 96,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 81,
+      "Index": 3,
+      "MonsterBaseID": 913009,
+      "Level": 96,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 81,
+      "Index": 4,
+      "MonsterBaseID": 913009,
+      "Level": 96,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 81,
+      "Index": 5,
+      "MonsterBaseID": 9130819,
+      "Level": 96,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 81,
+      "Index": 6,
+      "MonsterBaseID": 913008,
+      "Level": 96,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 82,
+      "Index": 1,
+      "MonsterBaseID": 913009,
+      "Level": 97,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 82,
+      "Index": 2,
+      "MonsterBaseID": 913008,
+      "Level": 97,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 82,
+      "Index": 3,
+      "MonsterBaseID": 913009,
+      "Level": 97,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 82,
+      "Index": 4,
+      "MonsterBaseID": 913009,
+      "Level": 97,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 82,
+      "Index": 5,
+      "MonsterBaseID": 9130824,
+      "Level": 97,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 82,
+      "Index": 6,
+      "MonsterBaseID": 913006,
+      "Level": 97,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 83,
+      "Index": 1,
+      "MonsterBaseID": 913007,
+      "Level": 98,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 83,
+      "Index": 2,
+      "MonsterBaseID": 913006,
+      "Level": 98,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 83,
+      "Index": 3,
+      "MonsterBaseID": 913008,
+      "Level": 98,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 83,
+      "Index": 4,
+      "MonsterBaseID": 913004,
+      "Level": 98,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 83,
+      "Index": 5,
+      "MonsterBaseID": 9130822,
+      "Level": 98,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 83,
+      "Index": 6,
+      "MonsterBaseID": 913009,
+      "Level": 98,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 84,
+      "Index": 1,
+      "MonsterBaseID": 913009,
+      "Level": 99,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 84,
+      "Index": 2,
+      "MonsterBaseID": 913006,
+      "Level": 99,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 84,
+      "Index": 3,
+      "MonsterBaseID": 913009,
+      "Level": 99,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 84,
+      "Index": 4,
+      "MonsterBaseID": 913002,
+      "Level": 99,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 84,
+      "Index": 5,
+      "MonsterBaseID": 9130820,
+      "Level": 99,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 84,
+      "Index": 6,
+      "MonsterBaseID": 913005,
+      "Level": 99,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 85,
+      "Index": 1,
+      "MonsterBaseID": 913009,
+      "Level": 100,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 85,
+      "Index": 2,
+      "MonsterBaseID": 913009,
+      "Level": 100,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 85,
+      "Index": 3,
+      "MonsterBaseID": 913009,
+      "Level": 100,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 85,
+      "Index": 4,
+      "MonsterBaseID": 9130818,
+      "Level": 100,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 85,
+      "Index": 5,
+      "MonsterBaseID": 9131009,
+      "Level": 100,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 85,
+      "Index": 6,
+      "MonsterBaseID": 9130824,
+      "Level": 100,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 86,
+      "Index": 1,
+      "MonsterBaseID": 913002,
+      "Level": 101,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 86,
+      "Index": 2,
+      "MonsterBaseID": 913008,
+      "Level": 101,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 86,
+      "Index": 3,
+      "MonsterBaseID": 913009,
+      "Level": 101,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 86,
+      "Index": 4,
+      "MonsterBaseID": 913008,
+      "Level": 101,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 86,
+      "Index": 5,
+      "MonsterBaseID": 9130821,
+      "Level": 101,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 86,
+      "Index": 6,
+      "MonsterBaseID": 913005,
+      "Level": 101,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 87,
+      "Index": 1,
+      "MonsterBaseID": 913006,
+      "Level": 102,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 87,
+      "Index": 2,
+      "MonsterBaseID": 913009,
+      "Level": 102,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 87,
+      "Index": 3,
+      "MonsterBaseID": 913007,
+      "Level": 102,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 87,
+      "Index": 4,
+      "MonsterBaseID": 913008,
+      "Level": 102,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 87,
+      "Index": 5,
+      "MonsterBaseID": 9130824,
+      "Level": 102,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 87,
+      "Index": 6,
+      "MonsterBaseID": 913006,
+      "Level": 102,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 88,
+      "Index": 1,
+      "MonsterBaseID": 913009,
+      "Level": 103,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 88,
+      "Index": 2,
+      "MonsterBaseID": 913009,
+      "Level": 103,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 88,
+      "Index": 3,
+      "MonsterBaseID": 913007,
+      "Level": 103,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 88,
+      "Index": 4,
+      "MonsterBaseID": 913005,
+      "Level": 103,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 88,
+      "Index": 5,
+      "MonsterBaseID": 9130822,
+      "Level": 103,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 88,
+      "Index": 6,
+      "MonsterBaseID": 913007,
+      "Level": 103,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 89,
+      "Index": 1,
+      "MonsterBaseID": 913009,
+      "Level": 104,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 89,
+      "Index": 2,
+      "MonsterBaseID": 913009,
+      "Level": 104,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 89,
+      "Index": 3,
+      "MonsterBaseID": 913009,
+      "Level": 104,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 89,
+      "Index": 4,
+      "MonsterBaseID": 913009,
+      "Level": 104,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 89,
+      "Index": 5,
+      "MonsterBaseID": 9130820,
+      "Level": 104,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 89,
+      "Index": 6,
+      "MonsterBaseID": 913009,
+      "Level": 104,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 90,
+      "Index": 1,
+      "MonsterBaseID": 913007,
+      "Level": 105,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 90,
+      "Index": 2,
+      "MonsterBaseID": 913002,
+      "Level": 105,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 90,
+      "Index": 3,
+      "MonsterBaseID": 913002,
+      "Level": 105,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 90,
+      "Index": 4,
+      "MonsterBaseID": 9130824,
+      "Level": 105,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 90,
+      "Index": 5,
+      "MonsterBaseID": 9131010,
+      "Level": 105,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 90,
+      "Index": 6,
+      "MonsterBaseID": 9130818,
+      "Level": 105,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 91,
+      "Index": 1,
+      "MonsterBaseID": 911008,
+      "Level": 106,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 91,
+      "Index": 2,
+      "MonsterBaseID": 911007,
+      "Level": 106,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 91,
+      "Index": 3,
+      "MonsterBaseID": 911011,
+      "Level": 106,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 91,
+      "Index": 4,
+      "MonsterBaseID": 911008,
+      "Level": 106,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 91,
+      "Index": 5,
+      "MonsterBaseID": 9110820,
+      "Level": 106,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 91,
+      "Index": 6,
+      "MonsterBaseID": 911013,
+      "Level": 106,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 92,
+      "Index": 1,
+      "MonsterBaseID": 911010,
+      "Level": 107,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 92,
+      "Index": 2,
+      "MonsterBaseID": 911005,
+      "Level": 107,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 92,
+      "Index": 3,
+      "MonsterBaseID": 911008,
+      "Level": 107,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 92,
+      "Index": 4,
+      "MonsterBaseID": 911009,
+      "Level": 107,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 92,
+      "Index": 5,
+      "MonsterBaseID": 9110824,
+      "Level": 107,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 92,
+      "Index": 6,
+      "MonsterBaseID": 911001,
+      "Level": 107,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 93,
+      "Index": 1,
+      "MonsterBaseID": 911015,
+      "Level": 108,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 93,
+      "Index": 2,
+      "MonsterBaseID": 911007,
+      "Level": 108,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 93,
+      "Index": 3,
+      "MonsterBaseID": 911011,
+      "Level": 108,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 93,
+      "Index": 4,
+      "MonsterBaseID": 911006,
+      "Level": 108,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 93,
+      "Index": 5,
+      "MonsterBaseID": 9110818,
+      "Level": 108,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 93,
+      "Index": 6,
+      "MonsterBaseID": 911007,
+      "Level": 108,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 94,
+      "Index": 1,
+      "MonsterBaseID": 911012,
+      "Level": 109,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 94,
+      "Index": 2,
+      "MonsterBaseID": 911007,
+      "Level": 109,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 94,
+      "Index": 3,
+      "MonsterBaseID": 911002,
+      "Level": 109,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 94,
+      "Index": 4,
+      "MonsterBaseID": 911003,
+      "Level": 109,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 94,
+      "Index": 5,
+      "MonsterBaseID": 9110819,
+      "Level": 109,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 94,
+      "Index": 6,
+      "MonsterBaseID": 911011,
+      "Level": 109,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 95,
+      "Index": 1,
+      "MonsterBaseID": 911010,
+      "Level": 110,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 95,
+      "Index": 2,
+      "MonsterBaseID": 911005,
+      "Level": 110,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 95,
+      "Index": 3,
+      "MonsterBaseID": 911012,
+      "Level": 110,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 95,
+      "Index": 4,
+      "MonsterBaseID": 9110821,
+      "Level": 110,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 95,
+      "Index": 5,
+      "MonsterBaseID": 9111010,
+      "Level": 110,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 95,
+      "Index": 6,
+      "MonsterBaseID": 9110820,
+      "Level": 110,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 96,
+      "Index": 1,
+      "MonsterBaseID": 911015,
+      "Level": 111,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 96,
+      "Index": 2,
+      "MonsterBaseID": 911010,
+      "Level": 111,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 96,
+      "Index": 3,
+      "MonsterBaseID": 911013,
+      "Level": 111,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 96,
+      "Index": 4,
+      "MonsterBaseID": 911008,
+      "Level": 111,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 96,
+      "Index": 5,
+      "MonsterBaseID": 9110820,
+      "Level": 111,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 96,
+      "Index": 6,
+      "MonsterBaseID": 911004,
+      "Level": 111,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 97,
+      "Index": 1,
+      "MonsterBaseID": 911007,
+      "Level": 112,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 97,
+      "Index": 2,
+      "MonsterBaseID": 911011,
+      "Level": 112,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 97,
+      "Index": 3,
+      "MonsterBaseID": 911012,
+      "Level": 112,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 97,
+      "Index": 4,
+      "MonsterBaseID": 911011,
+      "Level": 112,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 97,
+      "Index": 5,
+      "MonsterBaseID": 9110822,
+      "Level": 112,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 97,
+      "Index": 6,
+      "MonsterBaseID": 911013,
+      "Level": 112,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 98,
+      "Index": 1,
+      "MonsterBaseID": 911008,
+      "Level": 113,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 98,
+      "Index": 2,
+      "MonsterBaseID": 911012,
+      "Level": 113,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 98,
+      "Index": 3,
+      "MonsterBaseID": 911007,
+      "Level": 113,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 98,
+      "Index": 4,
+      "MonsterBaseID": 911011,
+      "Level": 113,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 98,
+      "Index": 5,
+      "MonsterBaseID": 9110823,
+      "Level": 113,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 98,
+      "Index": 6,
+      "MonsterBaseID": 911006,
+      "Level": 113,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 99,
+      "Index": 1,
+      "MonsterBaseID": 911002,
+      "Level": 114,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 99,
+      "Index": 2,
+      "MonsterBaseID": 911007,
+      "Level": 114,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 99,
+      "Index": 3,
+      "MonsterBaseID": 911012,
+      "Level": 114,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 99,
+      "Index": 4,
+      "MonsterBaseID": 911015,
+      "Level": 114,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 99,
+      "Index": 5,
+      "MonsterBaseID": 9110821,
+      "Level": 114,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 99,
+      "Index": 6,
+      "MonsterBaseID": 911011,
+      "Level": 114,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 100,
+      "Index": 1,
+      "MonsterBaseID": 911015,
+      "Level": 115,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 100,
+      "Index": 2,
+      "MonsterBaseID": 911013,
+      "Level": 115,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 100,
+      "Index": 3,
+      "MonsterBaseID": 911007,
+      "Level": 115,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 100,
+      "Index": 4,
+      "MonsterBaseID": 9110823,
+      "Level": 115,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 100,
+      "Index": 5,
+      "MonsterBaseID": 9111011,
+      "Level": 115,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 100,
+      "Index": 6,
+      "MonsterBaseID": 9110821,
+      "Level": 115,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001001,
+      "Index": 1,
+      "MonsterBaseID": 903008,
+      "Level": 25,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001001,
+      "Index": 2,
+      "MonsterBaseID": 903002,
+      "Level": 25,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001001,
+      "Index": 3,
+      "MonsterBaseID": 903002,
+      "Level": 25,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001001,
+      "Index": 4,
+      "MonsterBaseID": 9030821,
+      "Level": 25,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001001,
+      "Index": 5,
+      "MonsterBaseID": 9031014,
+      "Level": 25,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 2001001,
+      "Index": 6,
+      "MonsterBaseID": 9030822,
+      "Level": 25,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001002,
+      "Index": 1,
+      "MonsterBaseID": 903008,
+      "Level": 30,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001002,
+      "Index": 2,
+      "MonsterBaseID": 903005,
+      "Level": 30,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001002,
+      "Index": 3,
+      "MonsterBaseID": 903008,
+      "Level": 30,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001002,
+      "Index": 4,
+      "MonsterBaseID": 9030819,
+      "Level": 30,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001002,
+      "Index": 5,
+      "MonsterBaseID": 9031013,
+      "Level": 30,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 2001002,
+      "Index": 6,
+      "MonsterBaseID": 9030822,
+      "Level": 30,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001003,
+      "Index": 1,
+      "MonsterBaseID": 903002,
+      "Level": 35,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001003,
+      "Index": 2,
+      "MonsterBaseID": 903009,
+      "Level": 35,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001003,
+      "Index": 3,
+      "MonsterBaseID": 903002,
+      "Level": 35,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001003,
+      "Index": 4,
+      "MonsterBaseID": 9030823,
+      "Level": 35,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001003,
+      "Index": 5,
+      "MonsterBaseID": 9031012,
+      "Level": 35,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 2001003,
+      "Index": 6,
+      "MonsterBaseID": 9030820,
+      "Level": 35,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001004,
+      "Index": 1,
+      "MonsterBaseID": 903006,
+      "Level": 40,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001004,
+      "Index": 2,
+      "MonsterBaseID": 903009,
+      "Level": 40,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001004,
+      "Index": 3,
+      "MonsterBaseID": 903007,
+      "Level": 40,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001004,
+      "Index": 4,
+      "MonsterBaseID": 9030820,
+      "Level": 40,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001004,
+      "Index": 5,
+      "MonsterBaseID": 9031011,
+      "Level": 40,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 2001004,
+      "Index": 6,
+      "MonsterBaseID": 9030822,
+      "Level": 40,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001005,
+      "Index": 1,
+      "MonsterBaseID": 913002,
+      "Level": 45,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001005,
+      "Index": 2,
+      "MonsterBaseID": 913009,
+      "Level": 45,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001005,
+      "Index": 3,
+      "MonsterBaseID": 913005,
+      "Level": 45,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001005,
+      "Index": 4,
+      "MonsterBaseID": 9130821,
+      "Level": 45,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001005,
+      "Index": 5,
+      "MonsterBaseID": 9131010,
+      "Level": 45,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 2001005,
+      "Index": 6,
+      "MonsterBaseID": 9130823,
+      "Level": 45,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001006,
+      "Index": 1,
+      "MonsterBaseID": 911002,
+      "Level": 50,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001006,
+      "Index": 2,
+      "MonsterBaseID": 911015,
+      "Level": 50,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001006,
+      "Index": 3,
+      "MonsterBaseID": 911010,
+      "Level": 50,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001006,
+      "Index": 4,
+      "MonsterBaseID": 9110426,
+      "Level": 50,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001006,
+      "Index": 5,
+      "MonsterBaseID": 9111014,
+      "Level": 50,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 2001006,
+      "Index": 6,
+      "MonsterBaseID": 9110822,
+      "Level": 50,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001007,
+      "Index": 1,
+      "MonsterBaseID": 911013,
+      "Level": 55,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001007,
+      "Index": 2,
+      "MonsterBaseID": 911002,
+      "Level": 55,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001007,
+      "Index": 3,
+      "MonsterBaseID": 911002,
+      "Level": 55,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001007,
+      "Index": 4,
+      "MonsterBaseID": 9110823,
+      "Level": 55,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001007,
+      "Index": 5,
+      "MonsterBaseID": 9111013,
+      "Level": 55,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 2001007,
+      "Index": 6,
+      "MonsterBaseID": 9110819,
+      "Level": 55,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001008,
+      "Index": 1,
+      "MonsterBaseID": 911012,
+      "Level": 60,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001008,
+      "Index": 2,
+      "MonsterBaseID": 911013,
+      "Level": 60,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001008,
+      "Index": 3,
+      "MonsterBaseID": 911008,
+      "Level": 60,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001008,
+      "Index": 4,
+      "MonsterBaseID": 9110824,
+      "Level": 60,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001008,
+      "Index": 5,
+      "MonsterBaseID": 9111012,
+      "Level": 60,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 2001008,
+      "Index": 6,
+      "MonsterBaseID": 9110822,
+      "Level": 60,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001009,
+      "Index": 1,
+      "MonsterBaseID": 911010,
+      "Level": 65,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001009,
+      "Index": 2,
+      "MonsterBaseID": 911010,
+      "Level": 65,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001009,
+      "Index": 3,
+      "MonsterBaseID": 911015,
+      "Level": 65,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001009,
+      "Index": 4,
+      "MonsterBaseID": 9110821,
+      "Level": 65,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001009,
+      "Index": 5,
+      "MonsterBaseID": 9111011,
+      "Level": 65,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 2001009,
+      "Index": 6,
+      "MonsterBaseID": 9110820,
+      "Level": 65,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001010,
+      "Index": 1,
+      "MonsterBaseID": 911015,
+      "Level": 70,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001010,
+      "Index": 2,
+      "MonsterBaseID": 911013,
+      "Level": 70,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001010,
+      "Index": 3,
+      "MonsterBaseID": 911007,
+      "Level": 70,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001010,
+      "Index": 4,
+      "MonsterBaseID": 9110821,
+      "Level": 70,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001010,
+      "Index": 5,
+      "MonsterBaseID": 9111010,
+      "Level": 70,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 2001010,
+      "Index": 6,
+      "MonsterBaseID": 9110426,
+      "Level": 70,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001011,
+      "Index": 1,
+      "MonsterBaseID": 912010,
+      "Level": 75,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001011,
+      "Index": 2,
+      "MonsterBaseID": 912009,
+      "Level": 75,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001011,
+      "Index": 3,
+      "MonsterBaseID": 912012,
+      "Level": 75,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001011,
+      "Index": 4,
+      "MonsterBaseID": 9120823,
+      "Level": 75,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001011,
+      "Index": 5,
+      "MonsterBaseID": 9121014,
+      "Level": 75,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 2001011,
+      "Index": 6,
+      "MonsterBaseID": 9120818,
+      "Level": 75,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001012,
+      "Index": 1,
+      "MonsterBaseID": 912009,
+      "Level": 80,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001012,
+      "Index": 2,
+      "MonsterBaseID": 912007,
+      "Level": 80,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001012,
+      "Index": 3,
+      "MonsterBaseID": 912010,
+      "Level": 80,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001012,
+      "Index": 4,
+      "MonsterBaseID": 9120818,
+      "Level": 80,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001012,
+      "Index": 5,
+      "MonsterBaseID": 9121013,
+      "Level": 80,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 2001012,
+      "Index": 6,
+      "MonsterBaseID": 9120823,
+      "Level": 80,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001013,
+      "Index": 1,
+      "MonsterBaseID": 912007,
+      "Level": 85,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001013,
+      "Index": 2,
+      "MonsterBaseID": 912010,
+      "Level": 85,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001013,
+      "Index": 3,
+      "MonsterBaseID": 912010,
+      "Level": 85,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001013,
+      "Index": 4,
+      "MonsterBaseID": 9120823,
+      "Level": 85,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001013,
+      "Index": 5,
+      "MonsterBaseID": 9121012,
+      "Level": 85,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 2001013,
+      "Index": 6,
+      "MonsterBaseID": 9120821,
+      "Level": 85,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001014,
+      "Index": 1,
+      "MonsterBaseID": 912005,
+      "Level": 90,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001014,
+      "Index": 2,
+      "MonsterBaseID": 912011,
+      "Level": 90,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001014,
+      "Index": 3,
+      "MonsterBaseID": 912008,
+      "Level": 90,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001014,
+      "Index": 4,
+      "MonsterBaseID": 9120822,
+      "Level": 90,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001014,
+      "Index": 5,
+      "MonsterBaseID": 9121011,
+      "Level": 90,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 2001014,
+      "Index": 6,
+      "MonsterBaseID": 9120819,
+      "Level": 90,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001015,
+      "Index": 1,
+      "MonsterBaseID": 912012,
+      "Level": 95,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001015,
+      "Index": 2,
+      "MonsterBaseID": 912012,
+      "Level": 95,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001015,
+      "Index": 3,
+      "MonsterBaseID": 912010,
+      "Level": 95,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001015,
+      "Index": 4,
+      "MonsterBaseID": 9120820,
+      "Level": 95,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001015,
+      "Index": 5,
+      "MonsterBaseID": 9121010,
+      "Level": 95,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 2001015,
+      "Index": 6,
+      "MonsterBaseID": 9120821,
+      "Level": 95,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001016,
+      "Index": 1,
+      "MonsterBaseID": 913006,
+      "Level": 100,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001016,
+      "Index": 2,
+      "MonsterBaseID": 913009,
+      "Level": 100,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001016,
+      "Index": 3,
+      "MonsterBaseID": 913007,
+      "Level": 100,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001016,
+      "Index": 4,
+      "MonsterBaseID": 9130820,
+      "Level": 100,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001016,
+      "Index": 5,
+      "MonsterBaseID": 9131011,
+      "Level": 100,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 2001016,
+      "Index": 6,
+      "MonsterBaseID": 9130822,
+      "Level": 100,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001017,
+      "Index": 1,
+      "MonsterBaseID": 913002,
+      "Level": 105,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001017,
+      "Index": 2,
+      "MonsterBaseID": 913009,
+      "Level": 105,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001017,
+      "Index": 3,
+      "MonsterBaseID": 913005,
+      "Level": 105,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001017,
+      "Index": 4,
+      "MonsterBaseID": 9130821,
+      "Level": 105,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001017,
+      "Index": 5,
+      "MonsterBaseID": 9131010,
+      "Level": 105,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 2001017,
+      "Index": 6,
+      "MonsterBaseID": 9130823,
+      "Level": 105,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001018,
+      "Index": 1,
+      "MonsterBaseID": 911002,
+      "Level": 110,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001018,
+      "Index": 2,
+      "MonsterBaseID": 911015,
+      "Level": 110,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001018,
+      "Index": 3,
+      "MonsterBaseID": 911010,
+      "Level": 110,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001018,
+      "Index": 4,
+      "MonsterBaseID": 9110426,
+      "Level": 110,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001018,
+      "Index": 5,
+      "MonsterBaseID": 9111014,
+      "Level": 110,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 2001018,
+      "Index": 6,
+      "MonsterBaseID": 9110822,
+      "Level": 110,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001019,
+      "Index": 1,
+      "MonsterBaseID": 911013,
+      "Level": 115,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001019,
+      "Index": 2,
+      "MonsterBaseID": 911002,
+      "Level": 115,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001019,
+      "Index": 3,
+      "MonsterBaseID": 911002,
+      "Level": 115,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001019,
+      "Index": 4,
+      "MonsterBaseID": 9110823,
+      "Level": 115,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001019,
+      "Index": 5,
+      "MonsterBaseID": 9111013,
+      "Level": 115,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 2001019,
+      "Index": 6,
+      "MonsterBaseID": 9110819,
+      "Level": 115,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001020,
+      "Index": 1,
+      "MonsterBaseID": 911012,
+      "Level": 120,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001020,
+      "Index": 2,
+      "MonsterBaseID": 911013,
+      "Level": 120,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001020,
+      "Index": 3,
+      "MonsterBaseID": 911008,
+      "Level": 120,
+      "Type": 2,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001020,
+      "Index": 4,
+      "MonsterBaseID": 9110824,
+      "Level": 120,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    },
+    {
+      "WaveID": 2001020,
+      "Index": 5,
+      "MonsterBaseID": 9111012,
+      "Level": 120,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 130
+    },
+    {
+      "WaveID": 2001020,
+      "Index": 6,
+      "MonsterBaseID": 9110822,
+      "Level": 120,
+      "Type": 3,
+      "ID": 1,
+      "MonsterSize": 100
+    }
+  ]
+}

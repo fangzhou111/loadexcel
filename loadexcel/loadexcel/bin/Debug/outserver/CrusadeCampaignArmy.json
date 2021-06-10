@@ -1,0 +1,1300 @@
+{
+  "CrusadeCampaignArmy": [
+    {
+      "CampaignID": 111,
+      "Index": 1,
+      "MonsterBaseID": 901002,
+      "Level": 6,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 111,
+      "Index": 2,
+      "MonsterBaseID": 901013,
+      "Level": 6,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 111,
+      "Index": 3,
+      "MonsterBaseID": 901012,
+      "Level": 6,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 111,
+      "Index": 4,
+      "MonsterBaseID": 901005,
+      "Level": 6,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 111,
+      "Index": 5,
+      "MonsterBaseID": 9021008,
+      "Level": 6,
+      "Type": 2,
+      "ID": 1
+    },
+    {
+      "CampaignID": 111,
+      "Index": 6,
+      "MonsterBaseID": 901013,
+      "Level": 6,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 211,
+      "Index": 1,
+      "MonsterBaseID": 901012,
+      "Level": 15,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 211,
+      "Index": 2,
+      "MonsterBaseID": 901015,
+      "Level": 15,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 211,
+      "Index": 3,
+      "MonsterBaseID": 901013,
+      "Level": 15,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 211,
+      "Index": 4,
+      "MonsterBaseID": 901008,
+      "Level": 15,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 211,
+      "Index": 5,
+      "MonsterBaseID": 901008,
+      "Level": 15,
+      "Type": 2,
+      "ID": 1
+    },
+    {
+      "CampaignID": 211,
+      "Index": 6,
+      "MonsterBaseID": 901002,
+      "Level": 15,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 311,
+      "Index": 1,
+      "MonsterBaseID": 901015,
+      "Level": 18,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 311,
+      "Index": 2,
+      "MonsterBaseID": 901012,
+      "Level": 18,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 311,
+      "Index": 3,
+      "MonsterBaseID": 901005,
+      "Level": 18,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 311,
+      "Index": 4,
+      "MonsterBaseID": 901002,
+      "Level": 18,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 311,
+      "Index": 5,
+      "MonsterBaseID": 9010824,
+      "Level": 18,
+      "Type": 2,
+      "ID": 1
+    },
+    {
+      "CampaignID": 311,
+      "Index": 6,
+      "MonsterBaseID": 901008,
+      "Level": 18,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 411,
+      "Index": 1,
+      "MonsterBaseID": 901011,
+      "Level": 22,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 411,
+      "Index": 2,
+      "MonsterBaseID": 901015,
+      "Level": 22,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 411,
+      "Index": 3,
+      "MonsterBaseID": 901015,
+      "Level": 22,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 411,
+      "Index": 4,
+      "MonsterBaseID": 901011,
+      "Level": 22,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 411,
+      "Index": 5,
+      "MonsterBaseID": 9031010,
+      "Level": 22,
+      "Type": 2,
+      "ID": 1
+    },
+    {
+      "CampaignID": 411,
+      "Index": 6,
+      "MonsterBaseID": 901013,
+      "Level": 22,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 511,
+      "Index": 1,
+      "MonsterBaseID": 901008,
+      "Level": 26,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 511,
+      "Index": 2,
+      "MonsterBaseID": 901010,
+      "Level": 26,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 511,
+      "Index": 3,
+      "MonsterBaseID": 901010,
+      "Level": 26,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 511,
+      "Index": 4,
+      "MonsterBaseID": 901011,
+      "Level": 26,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 511,
+      "Index": 5,
+      "MonsterBaseID": 9031204,
+      "Level": 26,
+      "Type": 2,
+      "ID": 1
+    },
+    {
+      "CampaignID": 511,
+      "Index": 6,
+      "MonsterBaseID": 901010,
+      "Level": 26,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 611,
+      "Index": 1,
+      "MonsterBaseID": 901008,
+      "Level": 30,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 611,
+      "Index": 2,
+      "MonsterBaseID": 901010,
+      "Level": 30,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 611,
+      "Index": 3,
+      "MonsterBaseID": 901010,
+      "Level": 30,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 611,
+      "Index": 4,
+      "MonsterBaseID": 901011,
+      "Level": 30,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 611,
+      "Index": 5,
+      "MonsterBaseID": 9021011,
+      "Level": 30,
+      "Type": 2,
+      "ID": 1
+    },
+    {
+      "CampaignID": 611,
+      "Index": 6,
+      "MonsterBaseID": 901010,
+      "Level": 30,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 711,
+      "Index": 1,
+      "MonsterBaseID": 901008,
+      "Level": 34,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 711,
+      "Index": 2,
+      "MonsterBaseID": 901010,
+      "Level": 34,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 711,
+      "Index": 3,
+      "MonsterBaseID": 901010,
+      "Level": 34,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 711,
+      "Index": 4,
+      "MonsterBaseID": 901011,
+      "Level": 34,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 711,
+      "Index": 5,
+      "MonsterBaseID": 9010819,
+      "Level": 34,
+      "Type": 2,
+      "ID": 1
+    },
+    {
+      "CampaignID": 711,
+      "Index": 6,
+      "MonsterBaseID": 901010,
+      "Level": 34,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 811,
+      "Index": 1,
+      "MonsterBaseID": 901008,
+      "Level": 38,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 811,
+      "Index": 2,
+      "MonsterBaseID": 901010,
+      "Level": 38,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 811,
+      "Index": 3,
+      "MonsterBaseID": 901010,
+      "Level": 38,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 811,
+      "Index": 4,
+      "MonsterBaseID": 901011,
+      "Level": 38,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 811,
+      "Index": 5,
+      "MonsterBaseID": 9011012,
+      "Level": 38,
+      "Type": 2,
+      "ID": 1
+    },
+    {
+      "CampaignID": 811,
+      "Index": 6,
+      "MonsterBaseID": 901010,
+      "Level": 38,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 911,
+      "Index": 1,
+      "MonsterBaseID": 901008,
+      "Level": 42,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 911,
+      "Index": 2,
+      "MonsterBaseID": 901010,
+      "Level": 42,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 911,
+      "Index": 3,
+      "MonsterBaseID": 901010,
+      "Level": 42,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 911,
+      "Index": 4,
+      "MonsterBaseID": 901011,
+      "Level": 42,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 911,
+      "Index": 5,
+      "MonsterBaseID": 9031011,
+      "Level": 42,
+      "Type": 2,
+      "ID": 1
+    },
+    {
+      "CampaignID": 911,
+      "Index": 6,
+      "MonsterBaseID": 901010,
+      "Level": 42,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1011,
+      "Index": 1,
+      "MonsterBaseID": 901008,
+      "Level": 46,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1011,
+      "Index": 2,
+      "MonsterBaseID": 901010,
+      "Level": 46,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1011,
+      "Index": 3,
+      "MonsterBaseID": 901010,
+      "Level": 46,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1011,
+      "Index": 4,
+      "MonsterBaseID": 901011,
+      "Level": 46,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1011,
+      "Index": 5,
+      "MonsterBaseID": 9030427,
+      "Level": 46,
+      "Type": 2,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1011,
+      "Index": 6,
+      "MonsterBaseID": 901010,
+      "Level": 46,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1111,
+      "Index": 1,
+      "MonsterBaseID": 901008,
+      "Level": 50,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1111,
+      "Index": 2,
+      "MonsterBaseID": 901010,
+      "Level": 50,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1111,
+      "Index": 3,
+      "MonsterBaseID": 901010,
+      "Level": 50,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1111,
+      "Index": 4,
+      "MonsterBaseID": 901011,
+      "Level": 50,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1111,
+      "Index": 5,
+      "MonsterBaseID": 9021013,
+      "Level": 50,
+      "Type": 2,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1111,
+      "Index": 6,
+      "MonsterBaseID": 901010,
+      "Level": 50,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1211,
+      "Index": 1,
+      "MonsterBaseID": 901008,
+      "Level": 54,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1211,
+      "Index": 2,
+      "MonsterBaseID": 901010,
+      "Level": 54,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1211,
+      "Index": 3,
+      "MonsterBaseID": 901010,
+      "Level": 54,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1211,
+      "Index": 4,
+      "MonsterBaseID": 901011,
+      "Level": 54,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1211,
+      "Index": 5,
+      "MonsterBaseID": 9011203,
+      "Level": 54,
+      "Type": 2,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1211,
+      "Index": 6,
+      "MonsterBaseID": 901010,
+      "Level": 54,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1311,
+      "Index": 1,
+      "MonsterBaseID": 901008,
+      "Level": 58,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1311,
+      "Index": 2,
+      "MonsterBaseID": 901010,
+      "Level": 58,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1311,
+      "Index": 3,
+      "MonsterBaseID": 901010,
+      "Level": 58,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1311,
+      "Index": 4,
+      "MonsterBaseID": 901011,
+      "Level": 58,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1311,
+      "Index": 5,
+      "MonsterBaseID": 9011204,
+      "Level": 58,
+      "Type": 2,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1311,
+      "Index": 6,
+      "MonsterBaseID": 901010,
+      "Level": 58,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1411,
+      "Index": 1,
+      "MonsterBaseID": 901008,
+      "Level": 62,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1411,
+      "Index": 2,
+      "MonsterBaseID": 901010,
+      "Level": 62,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1411,
+      "Index": 3,
+      "MonsterBaseID": 901010,
+      "Level": 62,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1411,
+      "Index": 4,
+      "MonsterBaseID": 901011,
+      "Level": 62,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1411,
+      "Index": 5,
+      "MonsterBaseID": 9031009,
+      "Level": 62,
+      "Type": 2,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1411,
+      "Index": 6,
+      "MonsterBaseID": 901010,
+      "Level": 62,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1511,
+      "Index": 1,
+      "MonsterBaseID": 901008,
+      "Level": 66,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1511,
+      "Index": 2,
+      "MonsterBaseID": 901010,
+      "Level": 66,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1511,
+      "Index": 3,
+      "MonsterBaseID": 901010,
+      "Level": 66,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1511,
+      "Index": 4,
+      "MonsterBaseID": 901011,
+      "Level": 66,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1511,
+      "Index": 5,
+      "MonsterBaseID": 9031203,
+      "Level": 66,
+      "Type": 2,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1511,
+      "Index": 6,
+      "MonsterBaseID": 901010,
+      "Level": 66,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1611,
+      "Index": 1,
+      "MonsterBaseID": 901008,
+      "Level": 70,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1611,
+      "Index": 2,
+      "MonsterBaseID": 901010,
+      "Level": 70,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1611,
+      "Index": 3,
+      "MonsterBaseID": 901010,
+      "Level": 70,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1611,
+      "Index": 4,
+      "MonsterBaseID": 901011,
+      "Level": 70,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1611,
+      "Index": 5,
+      "MonsterBaseID": 9021204,
+      "Level": 70,
+      "Type": 2,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1611,
+      "Index": 6,
+      "MonsterBaseID": 901010,
+      "Level": 70,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1711,
+      "Index": 1,
+      "MonsterBaseID": 901008,
+      "Level": 74,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1711,
+      "Index": 2,
+      "MonsterBaseID": 901010,
+      "Level": 74,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1711,
+      "Index": 3,
+      "MonsterBaseID": 901010,
+      "Level": 74,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1711,
+      "Index": 4,
+      "MonsterBaseID": 901011,
+      "Level": 74,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1711,
+      "Index": 5,
+      "MonsterBaseID": 9011205,
+      "Level": 74,
+      "Type": 2,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1711,
+      "Index": 6,
+      "MonsterBaseID": 901010,
+      "Level": 74,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1811,
+      "Index": 1,
+      "MonsterBaseID": 901008,
+      "Level": 78,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1811,
+      "Index": 2,
+      "MonsterBaseID": 901010,
+      "Level": 78,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1811,
+      "Index": 3,
+      "MonsterBaseID": 901010,
+      "Level": 78,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1811,
+      "Index": 4,
+      "MonsterBaseID": 901011,
+      "Level": 78,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1811,
+      "Index": 5,
+      "MonsterBaseID": 9021013,
+      "Level": 78,
+      "Type": 2,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1811,
+      "Index": 6,
+      "MonsterBaseID": 901010,
+      "Level": 78,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1911,
+      "Index": 1,
+      "MonsterBaseID": 901006,
+      "Level": 82,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1911,
+      "Index": 2,
+      "MonsterBaseID": 901010,
+      "Level": 82,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1911,
+      "Index": 3,
+      "MonsterBaseID": 901013,
+      "Level": 82,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1911,
+      "Index": 4,
+      "MonsterBaseID": 9010824,
+      "Level": 82,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1911,
+      "Index": 5,
+      "MonsterBaseID": 9011011,
+      "Level": 82,
+      "Type": 2,
+      "ID": 1
+    },
+    {
+      "CampaignID": 1911,
+      "Index": 6,
+      "MonsterBaseID": 9010819,
+      "Level": 82,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2011,
+      "Index": 1,
+      "MonsterBaseID": 901006,
+      "Level": 86,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2011,
+      "Index": 2,
+      "MonsterBaseID": 901012,
+      "Level": 86,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2011,
+      "Index": 3,
+      "MonsterBaseID": 901008,
+      "Level": 86,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2011,
+      "Index": 4,
+      "MonsterBaseID": 9010818,
+      "Level": 86,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2011,
+      "Index": 5,
+      "MonsterBaseID": 9011010,
+      "Level": 86,
+      "Type": 2,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2011,
+      "Index": 6,
+      "MonsterBaseID": 9010820,
+      "Level": 86,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2111,
+      "Index": 1,
+      "MonsterBaseID": 902008,
+      "Level": 90,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2111,
+      "Index": 2,
+      "MonsterBaseID": 902010,
+      "Level": 90,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2111,
+      "Index": 3,
+      "MonsterBaseID": 902008,
+      "Level": 90,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2111,
+      "Index": 4,
+      "MonsterBaseID": 9020819,
+      "Level": 90,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2111,
+      "Index": 5,
+      "MonsterBaseID": 9021010,
+      "Level": 90,
+      "Type": 2,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2111,
+      "Index": 6,
+      "MonsterBaseID": 9020823,
+      "Level": 90,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2211,
+      "Index": 1,
+      "MonsterBaseID": 902009,
+      "Level": 94,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2211,
+      "Index": 2,
+      "MonsterBaseID": 902007,
+      "Level": 94,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2211,
+      "Index": 3,
+      "MonsterBaseID": 902008,
+      "Level": 94,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2211,
+      "Index": 4,
+      "MonsterBaseID": 9020822,
+      "Level": 94,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2211,
+      "Index": 5,
+      "MonsterBaseID": 9021009,
+      "Level": 94,
+      "Type": 2,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2211,
+      "Index": 6,
+      "MonsterBaseID": 9020819,
+      "Level": 94,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2311,
+      "Index": 1,
+      "MonsterBaseID": 902007,
+      "Level": 98,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2311,
+      "Index": 2,
+      "MonsterBaseID": 902009,
+      "Level": 98,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2311,
+      "Index": 3,
+      "MonsterBaseID": 902012,
+      "Level": 98,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2311,
+      "Index": 4,
+      "MonsterBaseID": 9020820,
+      "Level": 98,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2311,
+      "Index": 5,
+      "MonsterBaseID": 9021008,
+      "Level": 98,
+      "Type": 2,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2311,
+      "Index": 6,
+      "MonsterBaseID": 9020821,
+      "Level": 98,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2411,
+      "Index": 1,
+      "MonsterBaseID": 903009,
+      "Level": 102,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2411,
+      "Index": 2,
+      "MonsterBaseID": 903005,
+      "Level": 102,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2411,
+      "Index": 3,
+      "MonsterBaseID": 903008,
+      "Level": 102,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2411,
+      "Index": 4,
+      "MonsterBaseID": 9030819,
+      "Level": 102,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2411,
+      "Index": 5,
+      "MonsterBaseID": 9011204,
+      "Level": 102,
+      "Type": 2,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2411,
+      "Index": 6,
+      "MonsterBaseID": 9030821,
+      "Level": 102,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2511,
+      "Index": 1,
+      "MonsterBaseID": 903009,
+      "Level": 106,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2511,
+      "Index": 2,
+      "MonsterBaseID": 903008,
+      "Level": 106,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2511,
+      "Index": 3,
+      "MonsterBaseID": 903002,
+      "Level": 106,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2511,
+      "Index": 4,
+      "MonsterBaseID": 9030819,
+      "Level": 106,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2511,
+      "Index": 5,
+      "MonsterBaseID": 9031011,
+      "Level": 106,
+      "Type": 2,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2511,
+      "Index": 6,
+      "MonsterBaseID": 9030821,
+      "Level": 106,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2611,
+      "Index": 1,
+      "MonsterBaseID": 903008,
+      "Level": 110,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2611,
+      "Index": 2,
+      "MonsterBaseID": 903002,
+      "Level": 110,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2611,
+      "Index": 3,
+      "MonsterBaseID": 903007,
+      "Level": 110,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2611,
+      "Index": 4,
+      "MonsterBaseID": 9030824,
+      "Level": 110,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2611,
+      "Index": 5,
+      "MonsterBaseID": 9031010,
+      "Level": 110,
+      "Type": 2,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2611,
+      "Index": 6,
+      "MonsterBaseID": 9030818,
+      "Level": 110,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2711,
+      "Index": 1,
+      "MonsterBaseID": 903009,
+      "Level": 114,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2711,
+      "Index": 2,
+      "MonsterBaseID": 903008,
+      "Level": 114,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2711,
+      "Index": 3,
+      "MonsterBaseID": 903005,
+      "Level": 114,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2711,
+      "Index": 4,
+      "MonsterBaseID": 9030819,
+      "Level": 114,
+      "Type": 1,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2711,
+      "Index": 5,
+      "MonsterBaseID": 9031009,
+      "Level": 114,
+      "Type": 2,
+      "ID": 1
+    },
+    {
+      "CampaignID": 2711,
+      "Index": 6,
+      "MonsterBaseID": 9030822,
+      "Level": 114,
+      "Type": 1,
+      "ID": 1
+    }
+  ]
+}

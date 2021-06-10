@@ -1,0 +1,404 @@
+{
+  "GoldPrice": [
+    {
+      "Level": 1,
+      "GoldPrice": 380
+    },
+    {
+      "Level": 2,
+      "GoldPrice": 400
+    },
+    {
+      "Level": 3,
+      "GoldPrice": 410
+    },
+    {
+      "Level": 4,
+      "GoldPrice": 420
+    },
+    {
+      "Level": 5,
+      "GoldPrice": 430
+    },
+    {
+      "Level": 6,
+      "GoldPrice": 440
+    },
+    {
+      "Level": 7,
+      "GoldPrice": 450
+    },
+    {
+      "Level": 8,
+      "GoldPrice": 460
+    },
+    {
+      "Level": 9,
+      "GoldPrice": 470
+    },
+    {
+      "Level": 10,
+      "GoldPrice": 480
+    },
+    {
+      "Level": 11,
+      "GoldPrice": 490
+    },
+    {
+      "Level": 12,
+      "GoldPrice": 510
+    },
+    {
+      "Level": 13,
+      "GoldPrice": 520
+    },
+    {
+      "Level": 14,
+      "GoldPrice": 530
+    },
+    {
+      "Level": 15,
+      "GoldPrice": 540
+    },
+    {
+      "Level": 16,
+      "GoldPrice": 550
+    },
+    {
+      "Level": 17,
+      "GoldPrice": 560
+    },
+    {
+      "Level": 18,
+      "GoldPrice": 570
+    },
+    {
+      "Level": 19,
+      "GoldPrice": 580
+    },
+    {
+      "Level": 20,
+      "GoldPrice": 590
+    },
+    {
+      "Level": 21,
+      "GoldPrice": 600
+    },
+    {
+      "Level": 22,
+      "GoldPrice": 620
+    },
+    {
+      "Level": 23,
+      "GoldPrice": 630
+    },
+    {
+      "Level": 24,
+      "GoldPrice": 630
+    },
+    {
+      "Level": 25,
+      "GoldPrice": 660
+    },
+    {
+      "Level": 26,
+      "GoldPrice": 710
+    },
+    {
+      "Level": 27,
+      "GoldPrice": 750
+    },
+    {
+      "Level": 28,
+      "GoldPrice": 780
+    },
+    {
+      "Level": 29,
+      "GoldPrice": 820
+    },
+    {
+      "Level": 30,
+      "GoldPrice": 860
+    },
+    {
+      "Level": 31,
+      "GoldPrice": 900
+    },
+    {
+      "Level": 32,
+      "GoldPrice": 940
+    },
+    {
+      "Level": 33,
+      "GoldPrice": 980
+    },
+    {
+      "Level": 34,
+      "GoldPrice": 1020
+    },
+    {
+      "Level": 35,
+      "GoldPrice": 1060
+    },
+    {
+      "Level": 36,
+      "GoldPrice": 1100
+    },
+    {
+      "Level": 37,
+      "GoldPrice": 1140
+    },
+    {
+      "Level": 38,
+      "GoldPrice": 1210
+    },
+    {
+      "Level": 39,
+      "GoldPrice": 1240
+    },
+    {
+      "Level": 40,
+      "GoldPrice": 1320
+    },
+    {
+      "Level": 41,
+      "GoldPrice": 1370
+    },
+    {
+      "Level": 42,
+      "GoldPrice": 1400
+    },
+    {
+      "Level": 43,
+      "GoldPrice": 1440
+    },
+    {
+      "Level": 44,
+      "GoldPrice": 1550
+    },
+    {
+      "Level": 45,
+      "GoldPrice": 1650
+    },
+    {
+      "Level": 46,
+      "GoldPrice": 1760
+    },
+    {
+      "Level": 47,
+      "GoldPrice": 1860
+    },
+    {
+      "Level": 48,
+      "GoldPrice": 1980
+    },
+    {
+      "Level": 49,
+      "GoldPrice": 2100
+    },
+    {
+      "Level": 50,
+      "GoldPrice": 2110
+    },
+    {
+      "Level": 51,
+      "GoldPrice": 2140
+    },
+    {
+      "Level": 52,
+      "GoldPrice": 2300
+    },
+    {
+      "Level": 53,
+      "GoldPrice": 2430
+    },
+    {
+      "Level": 54,
+      "GoldPrice": 2600
+    },
+    {
+      "Level": 55,
+      "GoldPrice": 2740
+    },
+    {
+      "Level": 56,
+      "GoldPrice": 2880
+    },
+    {
+      "Level": 57,
+      "GoldPrice": 3000
+    },
+    {
+      "Level": 58,
+      "GoldPrice": 3180
+    },
+    {
+      "Level": 59,
+      "GoldPrice": 3340
+    },
+    {
+      "Level": 60,
+      "GoldPrice": 3480
+    },
+    {
+      "Level": 61,
+      "GoldPrice": 3670
+    },
+    {
+      "Level": 62,
+      "GoldPrice": 3830
+    },
+    {
+      "Level": 63,
+      "GoldPrice": 4060
+    },
+    {
+      "Level": 64,
+      "GoldPrice": 4270
+    },
+    {
+      "Level": 65,
+      "GoldPrice": 4460
+    },
+    {
+      "Level": 66,
+      "GoldPrice": 4580
+    },
+    {
+      "Level": 67,
+      "GoldPrice": 4660
+    },
+    {
+      "Level": 68,
+      "GoldPrice": 4930
+    },
+    {
+      "Level": 69,
+      "GoldPrice": 5170
+    },
+    {
+      "Level": 70,
+      "GoldPrice": 5450
+    },
+    {
+      "Level": 71,
+      "GoldPrice": 5700
+    },
+    {
+      "Level": 72,
+      "GoldPrice": 5910
+    },
+    {
+      "Level": 73,
+      "GoldPrice": 6090
+    },
+    {
+      "Level": 74,
+      "GoldPrice": 6360
+    },
+    {
+      "Level": 75,
+      "GoldPrice": 6640
+    },
+    {
+      "Level": 76,
+      "GoldPrice": 6900
+    },
+    {
+      "Level": 77,
+      "GoldPrice": 7250
+    },
+    {
+      "Level": 78,
+      "GoldPrice": 7570
+    },
+    {
+      "Level": 79,
+      "GoldPrice": 7870
+    },
+    {
+      "Level": 80,
+      "GoldPrice": 8140
+    },
+    {
+      "Level": 81,
+      "GoldPrice": 8540
+    },
+    {
+      "Level": 82,
+      "GoldPrice": 8900
+    },
+    {
+      "Level": 83,
+      "GoldPrice": 9230
+    },
+    {
+      "Level": 84,
+      "GoldPrice": 9230
+    },
+    {
+      "Level": 85,
+      "GoldPrice": 9220
+    },
+    {
+      "Level": 86,
+      "GoldPrice": 9750
+    },
+    {
+      "Level": 87,
+      "GoldPrice": 10230
+    },
+    {
+      "Level": 88,
+      "GoldPrice": 10650
+    },
+    {
+      "Level": 89,
+      "GoldPrice": 11030
+    },
+    {
+      "Level": 90,
+      "GoldPrice": 11370
+    },
+    {
+      "Level": 91,
+      "GoldPrice": 11680
+    },
+    {
+      "Level": 92,
+      "GoldPrice": 12160
+    },
+    {
+      "Level": 93,
+      "GoldPrice": 12590
+    },
+    {
+      "Level": 94,
+      "GoldPrice": 13180
+    },
+    {
+      "Level": 95,
+      "GoldPrice": 13720
+    },
+    {
+      "Level": 96,
+      "GoldPrice": 14210
+    },
+    {
+      "Level": 97,
+      "GoldPrice": 14670
+    },
+    {
+      "Level": 98,
+      "GoldPrice": 15090
+    },
+    {
+      "Level": 99,
+      "GoldPrice": 15570
+    },
+    {
+      "Level": 100,
+      "GoldPrice": 8160
+    }
+  ]
+}

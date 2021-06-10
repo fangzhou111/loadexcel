@@ -1,0 +1,388 @@
+{
+  "BGM": [
+    {
+      "CampaignSandID": "home",
+      "Music": "bgm-home"
+    },
+    {
+      "CampaignSandID": "drunkery",
+      "Music": "bgm-home"
+    },
+    {
+      "CampaignSandID": "arena",
+      "Music": "bgm-jingjichang"
+    },
+    {
+      "CampaignSandID": "corp",
+      "Music": "bgm#main"
+    },
+    {
+      "CampaignSandID": "campaign",
+      "Music": "bgm-fuben"
+    },
+    {
+      "CampaignSandID": "login",
+      "Music": "bgm-denglu"
+    },
+    {
+      "CampaignSandID": "jingjichang",
+      "Music": "bgm-pvp"
+    },
+    {
+      "CampaignSandID": "jiaodouchang",
+      "Music": "bgm#pvp"
+    },
+    {
+      "CampaignSandID": "blackdragon",
+      "Music": "bgm#time-d"
+    },
+    {
+      "CampaignSandID": "tyj01",
+      "Music": "bgm#time-j"
+    },
+    {
+      "CampaignSandID": "ahdx01",
+      "Music": "bgm#pve01"
+    },
+    {
+      "CampaignSandID": "ahdx02",
+      "Music": "bgm#pve01"
+    },
+    {
+      "CampaignSandID": "ahdx03",
+      "Music": "bgm#pve01"
+    },
+    {
+      "CampaignSandID": "ahdx04",
+      "Music": "bgm#pve01"
+    },
+    {
+      "CampaignSandID": "ahdx05",
+      "Music": "bgm#pve01"
+    },
+    {
+      "CampaignSandID": "tdgd01",
+      "Music": "bgm#pve01"
+    },
+    {
+      "CampaignSandID": "tdgd02",
+      "Music": "bgm#pve01"
+    },
+    {
+      "CampaignSandID": "tdgd03",
+      "Music": "bgm#pve01"
+    },
+    {
+      "CampaignSandID": "tdgd04",
+      "Music": "bgm#pve01"
+    },
+    {
+      "CampaignSandID": "swkj01",
+      "Music": "bgm#pve01"
+    },
+    {
+      "CampaignSandID": "swkj02",
+      "Music": "bgm#pve01"
+    },
+    {
+      "CampaignSandID": "swkj03",
+      "Music": "bgm#pve01"
+    },
+    {
+      "CampaignSandID": "swkj04",
+      "Music": "bgm#pve01"
+    },
+    {
+      "CampaignSandID": "pysk01",
+      "Music": "bgm#pve01"
+    },
+    {
+      "CampaignSandID": "pysk02",
+      "Music": "bgm#pve01"
+    },
+    {
+      "CampaignSandID": "pysk03",
+      "Music": "bgm#pve01"
+    },
+    {
+      "CampaignSandID": "pysk04",
+      "Music": "bgm#pve01"
+    },
+    {
+      "CampaignSandID": "yycb01",
+      "Music": "bgm#pve02"
+    },
+    {
+      "CampaignSandID": "yycb02",
+      "Music": "bgm#pve02"
+    },
+    {
+      "CampaignSandID": "yycb03",
+      "Music": "bgm#pve02"
+    },
+    {
+      "CampaignSandID": "yycb04",
+      "Music": "bgm#pve02"
+    },
+    {
+      "CampaignSandID": "stsm01",
+      "Music": "bgm#pve02"
+    },
+    {
+      "CampaignSandID": "stsm02",
+      "Music": "bgm#pve02"
+    },
+    {
+      "CampaignSandID": "stsm03",
+      "Music": "bgm#pve02"
+    },
+    {
+      "CampaignSandID": "stsm04",
+      "Music": "bgm#pve02"
+    },
+    {
+      "CampaignSandID": "stsm05",
+      "Music": "bgm#pve02"
+    },
+    {
+      "CampaignSandID": "stsm06",
+      "Music": "bgm#pve02"
+    },
+    {
+      "CampaignSandID": "tlxy01",
+      "Music": "bgm#pve02"
+    },
+    {
+      "CampaignSandID": "tlxy02",
+      "Music": "bgm#pve02"
+    },
+    {
+      "CampaignSandID": "tlxy03",
+      "Music": "bgm#pve02"
+    },
+    {
+      "CampaignSandID": "tlxy04",
+      "Music": "bgm#pve02"
+    },
+    {
+      "CampaignSandID": "tlxy05",
+      "Music": "bgm#pve02"
+    },
+    {
+      "CampaignSandID": "tlxy06",
+      "Music": "bgm#pve02"
+    },
+    {
+      "CampaignSandID": "ajd01",
+      "Music": "bgm#pve02"
+    },
+    {
+      "CampaignSandID": "ajd02",
+      "Music": "bgm#pve02"
+    },
+    {
+      "CampaignSandID": "ajd03",
+      "Music": "bgm#pve02"
+    },
+    {
+      "CampaignSandID": "ajd04",
+      "Music": "bgm#pve02"
+    },
+    {
+      "CampaignSandID": "ajd05",
+      "Music": "bgm#pve02"
+    },
+    {
+      "CampaignSandID": "ajd06",
+      "Music": "bgm#pve02"
+    },
+    {
+      "CampaignSandID": "jzhm",
+      "Music": "bgm#pve02"
+    },
+    {
+      "CampaignSandID": "haishang01",
+      "Music": "bgm#pve03"
+    },
+    {
+      "CampaignSandID": "haishang02",
+      "Music": "bgm#pve03"
+    },
+    {
+      "CampaignSandID": "haishang03",
+      "Music": "bgm#pve03"
+    },
+    {
+      "CampaignSandID": "haishang04",
+      "Music": "bgm#pve03"
+    },
+    {
+      "CampaignSandID": "haishang05",
+      "Music": "bgm#pve03"
+    },
+    {
+      "CampaignSandID": "xuese01",
+      "Music": "bgm#pve03"
+    },
+    {
+      "CampaignSandID": "xuese02",
+      "Music": "bgm#pve03"
+    },
+    {
+      "CampaignSandID": "xuese03",
+      "Music": "bgm#pve03"
+    },
+    {
+      "CampaignSandID": "xuese04",
+      "Music": "bgm#pve03"
+    },
+    {
+      "CampaignSandID": "fbys01",
+      "Music": "bgm#pve03"
+    },
+    {
+      "CampaignSandID": "fbys02",
+      "Music": "bgm#pve03"
+    },
+    {
+      "CampaignSandID": "fbys03",
+      "Music": "bgm#pve03"
+    },
+    {
+      "CampaignSandID": "fbys04",
+      "Music": "bgm#pve03"
+    },
+    {
+      "CampaignSandID": "fbys05",
+      "Music": "bgm#pve03"
+    },
+    {
+      "CampaignSandID": "fbys06",
+      "Music": "bgm#pve03"
+    },
+    {
+      "CampaignSandID": "xuzhang01",
+      "Music": "bgm#pve03"
+    },
+    {
+      "CampaignSandID": "juntuanruqin",
+      "Music": "bgm#pve03"
+    },
+    {
+      "CampaignSandID": "hst01",
+      "Music": "bgm#pve04"
+    },
+    {
+      "CampaignSandID": "hst02",
+      "Music": "bgm#pve04"
+    },
+    {
+      "CampaignSandID": "hst03",
+      "Music": "bgm#pve04"
+    },
+    {
+      "CampaignSandID": "hst04",
+      "Music": "bgm#pve04"
+    },
+    {
+      "CampaignSandID": "dyhbl01",
+      "Music": "bgm#pve04"
+    },
+    {
+      "CampaignSandID": "dyhbl02",
+      "Music": "bgm#pve04"
+    },
+    {
+      "CampaignSandID": "dyhbl03",
+      "Music": "bgm#pve04"
+    },
+    {
+      "CampaignSandID": "dyhbl04",
+      "Music": "bgm#pve04"
+    },
+    {
+      "CampaignSandID": "dyhbl05",
+      "Music": "bgm#pve04"
+    },
+    {
+      "CampaignSandID": "bhs01",
+      "Music": "bgm#pve04"
+    },
+    {
+      "CampaignSandID": "mobafight",
+      "Music": "bgm#moba"
+    },
+    {
+      "CampaignSandID": "singleboss1",
+      "Music": "bgm#time-d"
+    },
+    {
+      "CampaignSandID": "singleboss2",
+      "Music": "bgm#time-j"
+    },
+    {
+      "CampaignSandID": "lingdi",
+      "Music": "bgm#main"
+    },
+    {
+      "CampaignSandID": "fb_01_aojindun",
+      "Music": "bgm-pve"
+    },
+    {
+      "CampaignSandID": "taofa",
+      "Music": "bgm-qita"
+    },
+    {
+      "CampaignSandID": "taitazhilu",
+      "Music": "bgm-qita"
+    },
+    {
+      "CampaignSandID": "shijieboss",
+      "Music": "bgm-qita"
+    },
+    {
+      "CampaignSandID": "shenmibaoku",
+      "Music": "bgm-qita"
+    },
+    {
+      "CampaignSandID": "yewaishouling",
+      "Music": "bgm-qita"
+    },
+    {
+      "CampaignSandID": "fb_01_aojindun",
+      "Music": "bgm-pve"
+    },
+    {
+      "CampaignSandID": "fb_02_diyuhuobaolei",
+      "Music": "bgm-pve"
+    },
+    {
+      "CampaignSandID": "fb_03_haishan",
+      "Music": "bgm-pve"
+    },
+    {
+      "CampaignSandID": "fb_04_tonglingxueyuan",
+      "Music": "bgm-pve"
+    },
+    {
+      "CampaignSandID": "fb_05_yingyachengbao",
+      "Music": "bgm-pve"
+    },
+    {
+      "CampaignSandID": "fb_06_sitansuomu",
+      "Music": "bgm-pve"
+    },
+    {
+      "CampaignSandID": "fb_07_taiyangjing",
+      "Music": "bgm-pve"
+    },
+    {
+      "CampaignSandID": "fb_08_heilongdongxue",
+      "Music": "bgm-pve"
+    },
+    {
+      "CampaignSandID": "UI_01_zhucheng",
+      "Music": "bgm-pvp"
+    }
+  ]
+}

@@ -1,0 +1,3238 @@
+{
+  "InscriptionLevelUp": [
+    {
+      "NodeID": 10101,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10101,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10101,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10101,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10101,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10101,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10101,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10102,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10102,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10102,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10102,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10102,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10102,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10102,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10103,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10103,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10103,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10103,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10103,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10103,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10103,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10104,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10104,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10104,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10104,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10104,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10104,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10104,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10105,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10105,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10105,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10105,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10105,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10105,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10105,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10106,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10106,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10106,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10106,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10106,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10106,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10106,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10201,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10201,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10201,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10201,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10201,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10201,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10201,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10202,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10202,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10202,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10202,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10202,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10202,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10202,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10203,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10203,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10203,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10203,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10203,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10203,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10203,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10204,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10204,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10204,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10204,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10204,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10204,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10204,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10205,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10205,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10205,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10205,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10205,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10205,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10205,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10206,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10206,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10206,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10206,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10206,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10206,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10206,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10301,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10301,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10301,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10301,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10301,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10301,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10301,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10302,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10302,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10302,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10302,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10302,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10302,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10302,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10303,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10303,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10303,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10303,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10303,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10303,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10303,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10304,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10304,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10304,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10304,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10304,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10304,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10304,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10305,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10305,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10305,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10305,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10305,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10305,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10305,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10306,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10306,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10306,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10306,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10306,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10306,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10306,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10401,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10401,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10401,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10401,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10401,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10401,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10401,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10402,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10402,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10402,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10402,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10402,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10402,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10402,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10403,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10403,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10403,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10403,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10403,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10403,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10403,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10404,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10404,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10404,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10404,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10404,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10404,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10404,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10405,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10405,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10405,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10405,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10405,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10405,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10405,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10406,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10406,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10406,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10406,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10406,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10406,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10406,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10501,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10501,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10501,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10501,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10501,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10501,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10501,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10502,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10502,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10502,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10502,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10502,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10502,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10502,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10503,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10503,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10503,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10503,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10503,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10503,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10503,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10504,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10504,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10504,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10504,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10504,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10504,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10504,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10505,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10505,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10505,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10505,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10505,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10505,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10505,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10506,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10506,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10506,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10506,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10506,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10506,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10506,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10601,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10601,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10601,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10601,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10601,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10601,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10601,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10602,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10602,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10602,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10602,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10602,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10602,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10602,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10603,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10603,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10603,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10603,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10603,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10603,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10603,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10604,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10604,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10604,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10604,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10604,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10604,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10604,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10605,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10605,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10605,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10605,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10605,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10605,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10605,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10606,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10606,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10606,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10606,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10606,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10606,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10606,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10701,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10701,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10701,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10701,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10701,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10701,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10701,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10702,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10702,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10702,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10702,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10702,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10702,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10702,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10703,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10703,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10703,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10703,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10703,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10703,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10703,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10704,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10704,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10704,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10704,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10704,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10704,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10704,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10705,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10705,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10705,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10705,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10705,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10705,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10705,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10706,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10706,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10706,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10706,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10706,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10706,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10706,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10801,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10801,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10801,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10801,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10801,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10801,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10801,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10802,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10802,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10802,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10802,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10802,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10802,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10802,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10803,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10803,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10803,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10803,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10803,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10803,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10803,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10804,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10804,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10804,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10804,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10804,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10804,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10804,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10805,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10805,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10805,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10805,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10805,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10805,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10805,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10806,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10806,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10806,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10806,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10806,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10806,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10806,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10901,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10901,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10901,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10901,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10901,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10901,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10901,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10902,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10902,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10902,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10902,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10902,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10902,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10902,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10903,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10903,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10903,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10903,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10903,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10903,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10903,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10904,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10904,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10904,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10904,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10904,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10904,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10904,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10905,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10905,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10905,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10905,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10905,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10905,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10905,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 10906,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 10906,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 10906,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 10906,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 10906,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 10906,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 10906,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 11001,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 11001,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 11001,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 11001,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 11001,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 11001,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 11001,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 11002,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 11002,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 11002,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 11002,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 11002,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 11002,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 11002,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 11003,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 11003,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 11003,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 11003,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 11003,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 11003,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 11003,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 11004,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 11004,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 11004,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 11004,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 11004,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 11004,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 11004,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 11005,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 11005,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 11005,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 11005,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 11005,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 11005,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 11005,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 11006,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 11006,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 11006,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 11006,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 11006,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 11006,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 11006,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 11101,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 11101,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 11101,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 11101,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 11101,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 11101,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 11101,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 11102,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 11102,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 11102,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 11102,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 11102,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 11102,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 11102,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 11103,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 11103,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 11103,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 11103,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 11103,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 11103,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 11103,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 11104,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 11104,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 11104,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 11104,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 11104,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 11104,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 11104,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 11105,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 11105,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 11105,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 11105,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 11105,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 11105,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 11105,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    },
+    {
+      "NodeID": 11106,
+      "Level": 0,
+      "AttributeValue": 100,
+      "NeedInscriptionExp": 0,
+      "NeedMoney": 0
+    },
+    {
+      "NodeID": 11106,
+      "Level": 1,
+      "AttributeValue": 200,
+      "NeedInscriptionExp": 10000,
+      "NeedMoney": 10000
+    },
+    {
+      "NodeID": 11106,
+      "Level": 2,
+      "AttributeValue": 300,
+      "NeedInscriptionExp": 20000,
+      "NeedMoney": 20000
+    },
+    {
+      "NodeID": 11106,
+      "Level": 3,
+      "AttributeValue": 400,
+      "NeedInscriptionExp": 30000,
+      "NeedMoney": 30000
+    },
+    {
+      "NodeID": 11106,
+      "Level": 4,
+      "AttributeValue": 500,
+      "NeedInscriptionExp": 40000,
+      "NeedMoney": 40000
+    },
+    {
+      "NodeID": 11106,
+      "Level": 5,
+      "AttributeValue": 600,
+      "NeedInscriptionExp": 50000,
+      "NeedMoney": 50000
+    },
+    {
+      "NodeID": 11106,
+      "Level": 6,
+      "AttributeValue": 700,
+      "NeedInscriptionExp": 60000,
+      "NeedMoney": 60000
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "DomainOpen": [
+    {
+      "AreaID": 1,
+      "OpenLevel": 0,
+      "GoldCost": 0,
+      "MatchRatio": 150.0
+    },
+    {
+      "AreaID": 2,
+      "OpenLevel": 0,
+      "GoldCost": 0,
+      "MatchRatio": 150.0
+    },
+    {
+      "AreaID": 3,
+      "OpenLevel": 35,
+      "GoldCost": 50000,
+      "MatchRatio": 140.0
+    },
+    {
+      "AreaID": 4,
+      "OpenLevel": 40,
+      "GoldCost": 100000,
+      "MatchRatio": 135.0
+    },
+    {
+      "AreaID": 5,
+      "OpenLevel": 45,
+      "GoldCost": 150000,
+      "MatchRatio": 130.0
+    },
+    {
+      "AreaID": 6,
+      "OpenLevel": 50,
+      "GoldCost": 200000,
+      "MatchRatio": 125.0
+    },
+    {
+      "AreaID": 7,
+      "OpenLevel": 55,
+      "GoldCost": 250000,
+      "MatchRatio": 120.0
+    },
+    {
+      "AreaID": 8,
+      "OpenLevel": 60,
+      "GoldCost": 300000,
+      "MatchRatio": 115.0
+    },
+    {
+      "AreaID": 9,
+      "OpenLevel": 65,
+      "GoldCost": 350000,
+      "MatchRatio": 100.0
+    }
+  ]
+}

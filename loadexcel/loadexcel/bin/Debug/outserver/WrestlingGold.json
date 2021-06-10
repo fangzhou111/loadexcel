@@ -1,0 +1,284 @@
+{
+  "WrestlingGold": [
+    {
+      "RewardID": 1,
+      "Order": 6,
+      "OrderLevel": 20,
+      "RewardItemNumMin": 3000,
+      "RewardItemNumMax": 3400
+    },
+    {
+      "RewardID": 2,
+      "Order": 7,
+      "OrderLevel": 20,
+      "RewardItemNumMin": 3000,
+      "RewardItemNumMax": 3400
+    },
+    {
+      "RewardID": 3,
+      "Order": 8,
+      "OrderLevel": 20,
+      "RewardItemNumMin": 6200,
+      "RewardItemNumMax": 6600
+    },
+    {
+      "RewardID": 4,
+      "Order": 9,
+      "OrderLevel": 20,
+      "RewardItemNumMin": 6200,
+      "RewardItemNumMax": 6600
+    },
+    {
+      "RewardID": 5,
+      "Order": 10,
+      "OrderLevel": 20,
+      "RewardItemNumMin": 12600,
+      "RewardItemNumMax": 13000
+    },
+    {
+      "RewardID": 6,
+      "Order": 6,
+      "OrderLevel": 30,
+      "RewardItemNumMin": 4300,
+      "RewardItemNumMax": 4700
+    },
+    {
+      "RewardID": 7,
+      "Order": 7,
+      "OrderLevel": 30,
+      "RewardItemNumMin": 4300,
+      "RewardItemNumMax": 4700
+    },
+    {
+      "RewardID": 8,
+      "Order": 8,
+      "OrderLevel": 30,
+      "RewardItemNumMin": 8800,
+      "RewardItemNumMax": 9200
+    },
+    {
+      "RewardID": 9,
+      "Order": 9,
+      "OrderLevel": 30,
+      "RewardItemNumMin": 8800,
+      "RewardItemNumMax": 9200
+    },
+    {
+      "RewardID": 10,
+      "Order": 10,
+      "OrderLevel": 30,
+      "RewardItemNumMin": 17800,
+      "RewardItemNumMax": 18200
+    },
+    {
+      "RewardID": 11,
+      "Order": 6,
+      "OrderLevel": 35,
+      "RewardItemNumMin": 6400,
+      "RewardItemNumMax": 6800
+    },
+    {
+      "RewardID": 12,
+      "Order": 7,
+      "OrderLevel": 35,
+      "RewardItemNumMin": 6400,
+      "RewardItemNumMax": 6800
+    },
+    {
+      "RewardID": 13,
+      "Order": 8,
+      "OrderLevel": 35,
+      "RewardItemNumMin": 13000,
+      "RewardItemNumMax": 13400
+    },
+    {
+      "RewardID": 14,
+      "Order": 9,
+      "OrderLevel": 35,
+      "RewardItemNumMin": 13000,
+      "RewardItemNumMax": 13400
+    },
+    {
+      "RewardID": 15,
+      "Order": 10,
+      "OrderLevel": 35,
+      "RewardItemNumMin": 26200,
+      "RewardItemNumMax": 26600
+    },
+    {
+      "RewardID": 16,
+      "Order": 6,
+      "OrderLevel": 40,
+      "RewardItemNumMin": 9300,
+      "RewardItemNumMax": 9700
+    },
+    {
+      "RewardID": 17,
+      "Order": 7,
+      "OrderLevel": 40,
+      "RewardItemNumMin": 9300,
+      "RewardItemNumMax": 9700
+    },
+    {
+      "RewardID": 18,
+      "Order": 8,
+      "OrderLevel": 40,
+      "RewardItemNumMin": 18800,
+      "RewardItemNumMax": 19200
+    },
+    {
+      "RewardID": 19,
+      "Order": 9,
+      "OrderLevel": 40,
+      "RewardItemNumMin": 18800,
+      "RewardItemNumMax": 19200
+    },
+    {
+      "RewardID": 20,
+      "Order": 10,
+      "OrderLevel": 40,
+      "RewardItemNumMin": 37800,
+      "RewardItemNumMax": 38200
+    },
+    {
+      "RewardID": 21,
+      "Order": 6,
+      "OrderLevel": 50,
+      "RewardItemNumMin": 12800,
+      "RewardItemNumMax": 13200
+    },
+    {
+      "RewardID": 22,
+      "Order": 7,
+      "OrderLevel": 50,
+      "RewardItemNumMin": 12800,
+      "RewardItemNumMax": 13200
+    },
+    {
+      "RewardID": 23,
+      "Order": 8,
+      "OrderLevel": 50,
+      "RewardItemNumMin": 25800,
+      "RewardItemNumMax": 26200
+    },
+    {
+      "RewardID": 24,
+      "Order": 9,
+      "OrderLevel": 50,
+      "RewardItemNumMin": 25800,
+      "RewardItemNumMax": 26200
+    },
+    {
+      "RewardID": 25,
+      "Order": 10,
+      "OrderLevel": 50,
+      "RewardItemNumMin": 51800,
+      "RewardItemNumMax": 52200
+    },
+    {
+      "RewardID": 26,
+      "Order": 6,
+      "OrderLevel": 60,
+      "RewardItemNumMin": 19800,
+      "RewardItemNumMax": 20200
+    },
+    {
+      "RewardID": 27,
+      "Order": 7,
+      "OrderLevel": 60,
+      "RewardItemNumMin": 19800,
+      "RewardItemNumMax": 20200
+    },
+    {
+      "RewardID": 28,
+      "Order": 8,
+      "OrderLevel": 60,
+      "RewardItemNumMin": 39800,
+      "RewardItemNumMax": 40200
+    },
+    {
+      "RewardID": 29,
+      "Order": 9,
+      "OrderLevel": 60,
+      "RewardItemNumMin": 39800,
+      "RewardItemNumMax": 40200
+    },
+    {
+      "RewardID": 30,
+      "Order": 10,
+      "OrderLevel": 60,
+      "RewardItemNumMin": 79800,
+      "RewardItemNumMax": 80200
+    },
+    {
+      "RewardID": 31,
+      "Order": 6,
+      "OrderLevel": 70,
+      "RewardItemNumMin": 27800,
+      "RewardItemNumMax": 28200
+    },
+    {
+      "RewardID": 32,
+      "Order": 7,
+      "OrderLevel": 70,
+      "RewardItemNumMin": 27800,
+      "RewardItemNumMax": 28200
+    },
+    {
+      "RewardID": 33,
+      "Order": 8,
+      "OrderLevel": 70,
+      "RewardItemNumMin": 55800,
+      "RewardItemNumMax": 56200
+    },
+    {
+      "RewardID": 34,
+      "Order": 9,
+      "OrderLevel": 70,
+      "RewardItemNumMin": 55800,
+      "RewardItemNumMax": 56200
+    },
+    {
+      "RewardID": 35,
+      "Order": 10,
+      "OrderLevel": 70,
+      "RewardItemNumMin": 111800,
+      "RewardItemNumMax": 112200
+    },
+    {
+      "RewardID": 36,
+      "Order": 6,
+      "OrderLevel": 80,
+      "RewardItemNumMin": 40800,
+      "RewardItemNumMax": 41200
+    },
+    {
+      "RewardID": 37,
+      "Order": 7,
+      "OrderLevel": 80,
+      "RewardItemNumMin": 40800,
+      "RewardItemNumMax": 41200
+    },
+    {
+      "RewardID": 38,
+      "Order": 8,
+      "OrderLevel": 80,
+      "RewardItemNumMin": 81800,
+      "RewardItemNumMax": 82200
+    },
+    {
+      "RewardID": 39,
+      "Order": 9,
+      "OrderLevel": 80,
+      "RewardItemNumMin": 81800,
+      "RewardItemNumMax": 82200
+    },
+    {
+      "RewardID": 40,
+      "Order": 10,
+      "OrderLevel": 80,
+      "RewardItemNumMin": 163800,
+      "RewardItemNumMax": 164200
+    }
+  ]
+}

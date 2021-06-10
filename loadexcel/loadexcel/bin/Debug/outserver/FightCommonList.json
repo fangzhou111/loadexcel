@@ -1,0 +1,112 @@
+{
+  "FightCommonList": [
+    {
+      "ID": 1,
+      "Name": "effect/figh@tx@jihuozhizheng"
+    },
+    {
+      "ID": 2,
+      "Name": "effect/figh@tx@jihuozhizheng"
+    },
+    {
+      "ID": 3,
+      "Name": "effect/figh@tx@shifangheroskill"
+    },
+    {
+      "ID": 4,
+      "Name": "effect/figh@tx@xuanzhongguaiwu"
+    },
+    {
+      "ID": 5,
+      "Name": "effect/figh@tx@zidongzhandou"
+    },
+    {
+      "ID": 6,
+      "Name": "effect/xunlu@tx@dangji"
+    },
+    {
+      "ID": 7,
+      "Name": "effect/xunlu@tx@shuangji"
+    },
+    {
+      "ID": 8,
+      "Name": "effect/yingzi@enemy"
+    },
+    {
+      "ID": 9,
+      "Name": "effect/yingzi@1"
+    },
+    {
+      "ID": 10,
+      "Name": "effect/yingzi@2"
+    },
+    {
+      "ID": 11,
+      "Name": "effect/yingzi@3"
+    },
+    {
+      "ID": 12,
+      "Name": "effect/yingzi@4"
+    },
+    {
+      "ID": 13,
+      "Name": "effect/yingzi@5"
+    },
+    {
+      "ID": 14,
+      "Name": "func/fighteffectcamera"
+    },
+    {
+      "ID": 15,
+      "Name": "func/jusesuoding"
+    },
+    {
+      "ID": 16,
+      "Name": "func/texie"
+    },
+    {
+      "ID": 17,
+      "Name": "effect/lansejiantou"
+    },
+    {
+      "ID": 18,
+      "Name": "effect/lvsejiantou"
+    },
+    {
+      "ID": 19,
+      "Name": "effect/hongsejiantou"
+    },
+    {
+      "ID": 20,
+      "Name": "effect/fight@xunluzhishi"
+    },
+    {
+      "ID": 21,
+      "Name": "effect/fight@yudishijin"
+    },
+    {
+      "ID": 22,
+      "Name": "effect/jingjichang@yinxiongdingwei"
+    },
+    {
+      "ID": 23,
+      "Name": "effect/effect#alxzc#rqxiaoshi"
+    },
+    {
+      "ID": 24,
+      "Name": "effect/effect#alxzc#rqxiaoshi_red"
+    },
+    {
+      "ID": 25,
+      "Name": "effect/paobu"
+    },
+    {
+      "ID": 27,
+      "Name": "func/jinchangtexiao"
+    },
+    {
+      "ID": 28,
+      "Name": "func/jinchangtexiaoboss"
+    }
+  ]
+}

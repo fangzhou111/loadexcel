@@ -1,0 +1,22 @@
+{
+  "FateFightChapter": [
+    {
+      "CampaignChapterID": 1,
+      "CampaignChapterName": "缘分试炼一阶",
+      "CampaignOpeningLevel": 1,
+      "RewardPreview": "1@21"
+    },
+    {
+      "CampaignChapterID": 2,
+      "CampaignChapterName": "缘分试炼二阶",
+      "CampaignOpeningLevel": 1,
+      "RewardPreview": "1@21"
+    },
+    {
+      "CampaignChapterID": 3,
+      "CampaignChapterName": "缘分试炼三阶",
+      "CampaignOpeningLevel": 1,
+      "RewardPreview": "1@21"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "CarnivalTotle": [
+    {
+      "GetCount": 10,
+      "RewardId": 100101
+    },
+    {
+      "GetCount": 20,
+      "RewardId": 100102
+    },
+    {
+      "GetCount": 30,
+      "RewardId": 100103
+    },
+    {
+      "GetCount": 40,
+      "RewardId": 100104
+    },
+    {
+      "GetCount": 50,
+      "RewardId": 100105
+    },
+    {
+      "GetCount": 60,
+      "RewardId": 100106
+    },
+    {
+      "GetCount": 70,
+      "RewardId": 100107
+    },
+    {
+      "GetCount": 80,
+      "RewardId": 100108
+    },
+    {
+      "GetCount": 90,
+      "RewardId": 100109
+    },
+    {
+      "GetCount": 100,
+      "RewardId": 100110
+    }
+  ]
+}

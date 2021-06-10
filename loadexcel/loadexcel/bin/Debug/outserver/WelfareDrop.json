@@ -1,0 +1,535 @@
+{
+  "WelfareDrop": [
+    {
+      "RewardID": 1,
+      "Drop": 100101,
+      "RewardCondition": 0,
+      "RewardItemID": 10114,
+      "RewardItemNum": 80,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 2,
+      "Drop": 100101,
+      "RewardCondition": 0,
+      "RewardItemID": 20112343,
+      "RewardItemNum": 1,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 3,
+      "Drop": 100101,
+      "RewardCondition": 0,
+      "RewardItemID": 10084,
+      "RewardItemNum": 1,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 4,
+      "Drop": 100102,
+      "RewardCondition": 0,
+      "RewardItemID": 10117,
+      "RewardItemNum": 80,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 5,
+      "Drop": 100102,
+      "RewardCondition": 0,
+      "RewardItemID": 20112323,
+      "RewardItemNum": 1,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 6,
+      "Drop": 100102,
+      "RewardCondition": 0,
+      "RewardItemID": 20112333,
+      "RewardItemNum": 1,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 7,
+      "Drop": 100103,
+      "RewardCondition": 0,
+      "RewardItemID": 10118,
+      "RewardItemNum": 100,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 8,
+      "Drop": 100103,
+      "RewardCondition": 0,
+      "RewardItemID": 20112343,
+      "RewardItemNum": 1,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 9,
+      "Drop": 100103,
+      "RewardCondition": 0,
+      "RewardItemID": 10129,
+      "RewardItemNum": 20,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 10,
+      "Drop": 100104,
+      "RewardCondition": 0,
+      "RewardItemID": 10119,
+      "RewardItemNum": 100,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 11,
+      "Drop": 100104,
+      "RewardCondition": 0,
+      "RewardItemID": 20112333,
+      "RewardItemNum": 1,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 12,
+      "Drop": 100104,
+      "RewardCondition": 0,
+      "RewardItemID": 10130,
+      "RewardItemNum": 20,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 13,
+      "Drop": 100105,
+      "RewardCondition": 0,
+      "RewardItemID": 10120,
+      "RewardItemNum": 100,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 14,
+      "Drop": 100105,
+      "RewardCondition": 0,
+      "RewardItemID": 20112323,
+      "RewardItemNum": 1,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 15,
+      "Drop": 100105,
+      "RewardCondition": 0,
+      "RewardItemID": 10131,
+      "RewardItemNum": 20,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 16,
+      "Drop": 100106,
+      "RewardCondition": 0,
+      "RewardItemID": 10106,
+      "RewardItemNum": 100,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 17,
+      "Drop": 100106,
+      "RewardCondition": 0,
+      "RewardItemID": 20112313,
+      "RewardItemNum": 1,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 18,
+      "Drop": 100106,
+      "RewardCondition": 0,
+      "RewardItemID": 10132,
+      "RewardItemNum": 20,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 19,
+      "Drop": 100107,
+      "RewardCondition": 0,
+      "RewardItemID": 10106,
+      "RewardItemNum": 100,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 20,
+      "Drop": 100107,
+      "RewardCondition": 0,
+      "RewardItemID": 20117440,
+      "RewardItemNum": 1,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 21,
+      "Drop": 100107,
+      "RewardCondition": 0,
+      "RewardItemID": 10088,
+      "RewardItemNum": 1,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 55,
+      "Drop": 100108,
+      "RewardCondition": 0,
+      "RewardItemID": 10095,
+      "RewardItemNum": 1,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 56,
+      "Drop": 100108,
+      "RewardCondition": 0,
+      "RewardItemID": 20117420,
+      "RewardItemNum": 1,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 57,
+      "Drop": 100108,
+      "RewardCondition": 0,
+      "RewardItemID": 10088,
+      "RewardItemNum": 1,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 58,
+      "Drop": 100109,
+      "RewardCondition": 0,
+      "RewardItemID": 10095,
+      "RewardItemNum": 1,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 59,
+      "Drop": 100109,
+      "RewardCondition": 0,
+      "RewardItemID": 20117430,
+      "RewardItemNum": 1,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 60,
+      "Drop": 100109,
+      "RewardCondition": 0,
+      "RewardItemID": 10088,
+      "RewardItemNum": 1,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 61,
+      "Drop": 100110,
+      "RewardCondition": 0,
+      "RewardItemID": 10095,
+      "RewardItemNum": 1,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 62,
+      "Drop": 100110,
+      "RewardCondition": 0,
+      "RewardItemID": 20117410,
+      "RewardItemNum": 1,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 63,
+      "Drop": 100110,
+      "RewardCondition": 0,
+      "RewardItemID": 10088,
+      "RewardItemNum": 1,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 22,
+      "Drop": 100201,
+      "RewardCondition": 0,
+      "RewardItemID": 10030,
+      "RewardItemNum": 10,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 23,
+      "Drop": 100201,
+      "RewardCondition": 0,
+      "RewardItemID": 2050002,
+      "RewardItemNum": 5,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 24,
+      "Drop": 100201,
+      "RewardCondition": 0,
+      "RewardItemID": 10080,
+      "RewardItemNum": 5,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 25,
+      "Drop": 100202,
+      "RewardCondition": 0,
+      "RewardItemID": 10031,
+      "RewardItemNum": 5,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 26,
+      "Drop": 100202,
+      "RewardCondition": 0,
+      "RewardItemID": 2050002,
+      "RewardItemNum": 5,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 27,
+      "Drop": 100202,
+      "RewardCondition": 0,
+      "RewardItemID": 10080,
+      "RewardItemNum": 5,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 28,
+      "Drop": 100203,
+      "RewardCondition": 0,
+      "RewardItemID": 31,
+      "RewardItemNum": 100,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 29,
+      "Drop": 100203,
+      "RewardCondition": 0,
+      "RewardItemID": 2050002,
+      "RewardItemNum": 5,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 30,
+      "Drop": 100203,
+      "RewardCondition": 0,
+      "RewardItemID": 10080,
+      "RewardItemNum": 5,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 31,
+      "Drop": 100204,
+      "RewardCondition": 0,
+      "RewardItemID": 2060002,
+      "RewardItemNum": 50,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 32,
+      "Drop": 100204,
+      "RewardCondition": 0,
+      "RewardItemID": 2050002,
+      "RewardItemNum": 5,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 33,
+      "Drop": 100204,
+      "RewardCondition": 0,
+      "RewardItemID": 10080,
+      "RewardItemNum": 5,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 34,
+      "Drop": 100205,
+      "RewardCondition": 0,
+      "RewardItemID": 3050001,
+      "RewardItemNum": 400,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 35,
+      "Drop": 100205,
+      "RewardCondition": 0,
+      "RewardItemID": 2050002,
+      "RewardItemNum": 5,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 36,
+      "Drop": 100205,
+      "RewardCondition": 0,
+      "RewardItemID": 10080,
+      "RewardItemNum": 5,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 41,
+      "Drop": 100301,
+      "RewardCondition": 0,
+      "RewardItemID": 10101,
+      "RewardItemNum": 1,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 42,
+      "Drop": 100302,
+      "RewardCondition": 0,
+      "RewardItemID": 10137,
+      "RewardItemNum": 2,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 43,
+      "Drop": 100303,
+      "RewardCondition": 0,
+      "RewardItemID": 10137,
+      "RewardItemNum": 2,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 44,
+      "Drop": 100304,
+      "RewardCondition": 0,
+      "RewardItemID": 20112313,
+      "RewardItemNum": 1,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 45,
+      "Drop": 100305,
+      "RewardCondition": 0,
+      "RewardItemID": 20112323,
+      "RewardItemNum": 1,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 46,
+      "Drop": 100306,
+      "RewardCondition": 0,
+      "RewardItemID": 20112333,
+      "RewardItemNum": 1,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 47,
+      "Drop": 100307,
+      "RewardCondition": 0,
+      "RewardItemID": 20112343,
+      "RewardItemNum": 1,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 48,
+      "Drop": 100308,
+      "RewardCondition": 0,
+      "RewardItemID": 2050002,
+      "RewardItemNum": 30,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 49,
+      "Drop": 100309,
+      "RewardCondition": 0,
+      "RewardItemID": 20200001,
+      "RewardItemNum": 30,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 50,
+      "Drop": 100310,
+      "RewardCondition": 0,
+      "RewardItemID": 2060002,
+      "RewardItemNum": 200,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 51,
+      "Drop": 100311,
+      "RewardCondition": 0,
+      "RewardItemID": 2050003,
+      "RewardItemNum": 20,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 52,
+      "Drop": 100312,
+      "RewardCondition": 0,
+      "RewardItemID": 20200002,
+      "RewardItemNum": 10,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 53,
+      "Drop": 100313,
+      "RewardCondition": 0,
+      "RewardItemID": 2060003,
+      "RewardItemNum": 100,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 54,
+      "Drop": 100314,
+      "RewardCondition": 0,
+      "RewardItemID": 2050004,
+      "RewardItemNum": 20,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    }
+  ]
+}

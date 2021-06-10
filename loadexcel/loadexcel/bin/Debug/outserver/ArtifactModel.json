@@ -1,0 +1,20 @@
+{
+  "ArtifactModel": [
+    {
+      "ArtifactType": 1,
+      "ArtifactName": "shengqi@dunpai"
+    },
+    {
+      "ArtifactType": 2,
+      "ArtifactName": "shengqi@chuizi"
+    },
+    {
+      "ArtifactType": 3,
+      "ArtifactName": "shengqi@fazhang2"
+    },
+    {
+      "ArtifactType": 4,
+      "ArtifactName": "shengqi@fazhang"
+    }
+  ]
+}

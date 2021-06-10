@@ -1,0 +1,286 @@
+{
+  "GuideDes": [
+    {
+      "Function": 3,
+      "Value": 1001,
+      "Des": "天灾宝库获得",
+      "FunctionName": "神秘宝库"
+    },
+    {
+      "Function": 3,
+      "Value": 1002,
+      "Des": "人类宝库获得",
+      "FunctionName": "神秘宝库"
+    },
+    {
+      "Function": 3,
+      "Value": 1003,
+      "Des": "虚空宝库获得",
+      "FunctionName": "神秘宝库"
+    },
+    {
+      "Function": 3,
+      "Value": 1004,
+      "Des": "兽人宝库获得",
+      "FunctionName": "神秘宝库"
+    },
+    {
+      "Function": 3,
+      "Value": 1005,
+      "Des": "军团宝库获得",
+      "FunctionName": "神秘宝库"
+    },
+    {
+      "Function": 4,
+      "Value": 0,
+      "Des": "制造获得",
+      "FunctionName": "欢乐制造机"
+    },
+    {
+      "Function": 5,
+      "Value": 0,
+      "Des": "招募概率获得",
+      "FunctionName": "神殿"
+    },
+    {
+      "Function": 6,
+      "Value": 1,
+      "Des": "挑战及排名奖励",
+      "FunctionName": "竞持场"
+    },
+    {
+      "Function": 7,
+      "Value": 1,
+      "Des": "挑战奖励",
+      "FunctionName": "勇气试炼"
+    },
+    {
+      "Function": 8,
+      "Value": 1,
+      "Des": "活动奖励",
+      "FunctionName": "奥山战场"
+    },
+    {
+      "Function": 9,
+      "Value": 1,
+      "Des": "挑战奖励",
+      "FunctionName": "军团入侵"
+    },
+    {
+      "Function": 45,
+      "Value": 1,
+      "Des": "累积伤害及排名奖励",
+      "FunctionName": "野外首领"
+    },
+    {
+      "Function": 10,
+      "Value": 1,
+      "Des": "新品限时限量出售",
+      "FunctionName": "商城"
+    },
+    {
+      "Function": 30,
+      "Value": 100,
+      "Des": "购买VIP专属礼包获得",
+      "FunctionName": "商店"
+    },
+    {
+      "Function": 12,
+      "Value": 1,
+      "Des": "VIP1特权奖励",
+      "FunctionName": "VIP奖励"
+    },
+    {
+      "Function": 12,
+      "Value": 2,
+      "Des": "VIP2特权奖励",
+      "FunctionName": "VIP奖励"
+    },
+    {
+      "Function": 12,
+      "Value": 3,
+      "Des": "VIP3特权奖励",
+      "FunctionName": "VIP奖励"
+    },
+    {
+      "Function": 12,
+      "Value": 4,
+      "Des": "VIP4特权奖励",
+      "FunctionName": "VIP奖励"
+    },
+    {
+      "Function": 12,
+      "Value": 5,
+      "Des": "VIP5特权奖励",
+      "FunctionName": "VIP奖励"
+    },
+    {
+      "Function": 12,
+      "Value": 6,
+      "Des": "VIP6特权奖励",
+      "FunctionName": "VIP奖励"
+    },
+    {
+      "Function": 12,
+      "Value": 7,
+      "Des": "VIP7特权奖励",
+      "FunctionName": "VIP奖励"
+    },
+    {
+      "Function": 12,
+      "Value": 8,
+      "Des": "VIP8特权奖励",
+      "FunctionName": "VIP奖励"
+    },
+    {
+      "Function": 12,
+      "Value": 9,
+      "Des": "VIP9特权奖励",
+      "FunctionName": "VIP奖励"
+    },
+    {
+      "Function": 12,
+      "Value": 10,
+      "Des": "VIP10特权奖励",
+      "FunctionName": "VIP奖励"
+    },
+    {
+      "Function": 12,
+      "Value": 11,
+      "Des": "VIP11特权奖励",
+      "FunctionName": "VIP奖励"
+    },
+    {
+      "Function": 12,
+      "Value": 12,
+      "Des": "VIP12特权奖励",
+      "FunctionName": "VIP奖励"
+    },
+    {
+      "Function": 12,
+      "Value": 13,
+      "Des": "VIP13特权奖励",
+      "FunctionName": "VIP奖励"
+    },
+    {
+      "Function": 12,
+      "Value": 14,
+      "Des": "VIP14特权奖励",
+      "FunctionName": "VIP奖励"
+    },
+    {
+      "Function": 12,
+      "Value": 15,
+      "Des": "VIP15特权奖励",
+      "FunctionName": "VIP奖励"
+    },
+    {
+      "Function": 12,
+      "Value": 16,
+      "Des": "VIP16特权奖励",
+      "FunctionName": "VIP奖励"
+    },
+    {
+      "Function": 12,
+      "Value": 17,
+      "Des": "VIP17特权奖励",
+      "FunctionName": "VIP奖励"
+    },
+    {
+      "Function": 12,
+      "Value": 18,
+      "Des": "VIP18特权奖励",
+      "FunctionName": "VIP奖励"
+    },
+    {
+      "Function": 28,
+      "Value": 2,
+      "Des": "英雄分解获得",
+      "FunctionName": "祭坛"
+    },
+    {
+      "Function": 28,
+      "Value": 1,
+      "Des": "英雄召唤获得",
+      "FunctionName": "祭坛"
+    },
+    {
+      "Function": 30,
+      "Value": 1,
+      "Des": "荣誉商店购买",
+      "FunctionName": "商店"
+    },
+    {
+      "Function": 30,
+      "Value": 2,
+      "Des": "神器商店概率刷新",
+      "FunctionName": "商店"
+    },
+    {
+      "Function": 30,
+      "Value": 4,
+      "Des": "英雄商店概率刷新",
+      "FunctionName": "商店"
+    },
+    {
+      "Function": 30,
+      "Value": 6,
+      "Des": "装备商店购买",
+      "FunctionName": "商店"
+    },
+    {
+      "Function": 30,
+      "Value": 91,
+      "Des": "钻石商店购买",
+      "FunctionName": "商店"
+    },
+    {
+      "Function": 30,
+      "Value": 7,
+      "Des": "公会商店购买",
+      "FunctionName": "商店"
+    },
+    {
+      "Function": 30,
+      "Value": 8,
+      "Des": "神秘商店购买",
+      "FunctionName": "商店"
+    },
+    {
+      "Function": 30,
+      "Value": 3,
+      "Des": "征服商店购买",
+      "FunctionName": "商店"
+    },
+    {
+      "Function": 30,
+      "Value": 9,
+      "Des": "宠物商店购买",
+      "FunctionName": "商店"
+    },
+    {
+      "Function": 53,
+      "Value": 0,
+      "Des": "领地征战奖励",
+      "FunctionName": "领地"
+    },
+    {
+      "Function": 96,
+      "Value": 0,
+      "Des": "护送奖励",
+      "FunctionName": "护送"
+    },
+    {
+      "Function": 56,
+      "Value": 0,
+      "Des": "公会活动奖励",
+      "FunctionName": "公会"
+    },
+    {
+      "Function": 98,
+      "Value": 0,
+      "Des": "挑战奖励",
+      "FunctionName": "黑色神庙"
+    }
+  ]
+}

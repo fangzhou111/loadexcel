@@ -1,0 +1,76 @@
+{
+  "BossChallengeCurveRank_act1": [
+    {
+      "RewardID": 1,
+      "Order": 1,
+      "RewardCondition": 0,
+      "RewardItemID": 71,
+      "RewardItemNum": 1800,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 2,
+      "Order": 10,
+      "RewardCondition": 0,
+      "RewardItemID": 71,
+      "RewardItemNum": 1200,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 3,
+      "Order": 20,
+      "RewardCondition": 0,
+      "RewardItemID": 71,
+      "RewardItemNum": 1000,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 4,
+      "Order": 50,
+      "RewardCondition": 0,
+      "RewardItemID": 71,
+      "RewardItemNum": 800,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 5,
+      "Order": 100,
+      "RewardCondition": 0,
+      "RewardItemID": 71,
+      "RewardItemNum": 600,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 6,
+      "Order": 200,
+      "RewardCondition": 0,
+      "RewardItemID": 71,
+      "RewardItemNum": 400,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 7,
+      "Order": 300,
+      "RewardCondition": 0,
+      "RewardItemID": 71,
+      "RewardItemNum": 300,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 8,
+      "Order": 500,
+      "RewardCondition": 0,
+      "RewardItemID": 71,
+      "RewardItemNum": 200,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    }
+  ]
+}

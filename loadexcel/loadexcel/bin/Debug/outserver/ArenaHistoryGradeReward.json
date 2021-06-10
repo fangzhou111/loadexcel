@@ -1,0 +1,69 @@
+{
+  "ArenaHistoryGradeReward": [
+    {
+      "RewardID": 1,
+      "order": 1,
+      "Reward": 800.0
+    },
+    {
+      "RewardID": 2,
+      "order": 2,
+      "Reward": 200.0
+    },
+    {
+      "RewardID": 3,
+      "order": 3,
+      "Reward": 180.0
+    },
+    {
+      "RewardID": 4,
+      "order": 4,
+      "Reward": 150.0
+    },
+    {
+      "RewardID": 5,
+      "order": 5,
+      "Reward": 120.0
+    },
+    {
+      "RewardID": 6,
+      "order": 11,
+      "Reward": 80.0
+    },
+    {
+      "RewardID": 7,
+      "order": 21,
+      "Reward": 50.0
+    },
+    {
+      "RewardID": 8,
+      "order": 51,
+      "Reward": 20.0
+    },
+    {
+      "RewardID": 9,
+      "order": 101,
+      "Reward": 10.0
+    },
+    {
+      "RewardID": 10,
+      "order": 501,
+      "Reward": 6.0
+    },
+    {
+      "RewardID": 11,
+      "order": 1001,
+      "Reward": 2.0
+    },
+    {
+      "RewardID": 12,
+      "order": 2001,
+      "Reward": 0.5
+    },
+    {
+      "RewardID": 13,
+      "order": 3001,
+      "Reward": 0.1
+    }
+  ]
+}

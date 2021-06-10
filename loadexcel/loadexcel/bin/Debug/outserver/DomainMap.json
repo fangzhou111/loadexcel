@@ -1,0 +1,58 @@
+{
+  "DomainMap": [
+    {
+      "ID": 1,
+      "BattleType": 1,
+      "MapName": "haishang02",
+      "MapEditorName": "lingdi01"
+    },
+    {
+      "ID": 2,
+      "BattleType": 1,
+      "MapName": "haishang03",
+      "MapEditorName": "lingdi02"
+    },
+    {
+      "ID": 3,
+      "BattleType": 1,
+      "MapName": "haishang04",
+      "MapEditorName": "lingdi03"
+    },
+    {
+      "ID": 4,
+      "BattleType": 2,
+      "MapName": "jingjichang",
+      "MapEditorName": "jingjichang"
+    },
+    {
+      "ID": 5,
+      "BattleType": 3,
+      "MapName": "haishang02",
+      "MapEditorName": "lingdi01"
+    },
+    {
+      "ID": 6,
+      "BattleType": 3,
+      "MapName": "haishang03",
+      "MapEditorName": "lingdi02"
+    },
+    {
+      "ID": 7,
+      "BattleType": 3,
+      "MapName": "haishang04",
+      "MapEditorName": "lingdi03"
+    },
+    {
+      "ID": 8,
+      "BattleType": 2,
+      "MapName": "bhs01",
+      "MapEditorName": "kuafu"
+    },
+    {
+      "ID": 9,
+      "BattleType": 2,
+      "MapName": "jzhm",
+      "MapEditorName": "kuafu02"
+    }
+  ]
+}

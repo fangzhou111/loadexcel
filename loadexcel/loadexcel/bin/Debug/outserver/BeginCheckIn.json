@@ -1,0 +1,36 @@
+{
+  "BeginCheckIn": [
+    {
+      "OpenDay": 1,
+      "RewardID": 1001
+    },
+    {
+      "OpenDay": 2,
+      "RewardID": 1001
+    },
+    {
+      "OpenDay": 3,
+      "RewardID": 1001
+    },
+    {
+      "OpenDay": 4,
+      "RewardID": 1001
+    },
+    {
+      "OpenDay": 5,
+      "RewardID": 1001
+    },
+    {
+      "OpenDay": 6,
+      "RewardID": 1001
+    },
+    {
+      "OpenDay": 7,
+      "RewardID": 1001
+    },
+    {
+      "OpenDay": 8,
+      "RewardID": 1001
+    }
+  ]
+}

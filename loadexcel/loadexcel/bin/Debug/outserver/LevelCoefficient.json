@@ -1,0 +1,904 @@
+{
+  "LevelCoefficient": [
+    {
+      "level": 1,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 2,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 3,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 4,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 5,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 6,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 7,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 8,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 9,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 10,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 11,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 12,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 13,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 14,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 15,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 16,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 17,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 18,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 19,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 20,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 21,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 22,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 23,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 24,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 25,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 26,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 27,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 28,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 29,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 30,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 31,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 32,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 33,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 34,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 35,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 36,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 37,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 38,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 39,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 40,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 41,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 42,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 43,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 44,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 45,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 46,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 47,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 48,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 49,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 50,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 51,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 52,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 53,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 54,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 55,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 56,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 57,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 58,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 59,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 60,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 61,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 62,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 63,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 64,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 65,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 66,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 67,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 68,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 69,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 70,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 71,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 72,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 73,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 74,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 75,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 76,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 77,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 78,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 79,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 80,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 81,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 82,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 83,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 84,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 85,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 86,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 87,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 88,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 89,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 90,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 91,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 92,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 93,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 94,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 95,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 96,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 97,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 98,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 99,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 100,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 101,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 102,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 103,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 104,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 105,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 106,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 107,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 108,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 109,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 110,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 111,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 112,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 113,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 114,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 115,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 116,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 117,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 118,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 119,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 120,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 121,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 122,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 123,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 124,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 125,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 126,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 127,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 128,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 129,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 130,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 131,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 132,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 133,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 134,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 135,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 136,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 137,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 138,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 139,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 140,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 141,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 142,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 143,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 144,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 145,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 146,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 147,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 148,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 149,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    },
+    {
+      "level": 150,
+      "HitDodge\n": 1.0,
+      "CritToughness": 1.0,
+      "ParryPrecision": 1.0
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+local list = {
+[1]={ChapterID=1,CampaignChapterID=1002,CampaignChapterName='狂野兽人',Riadshow=21008,DoneReward=1002},
+[2]={ChapterID=2,CampaignChapterID=1005,CampaignChapterName='人类叛军',Riadshow=901008,DoneReward=1005},
+[3]={ChapterID=3,CampaignChapterID=1008,CampaignChapterName='堕落精灵',Riadshow=10824,DoneReward=1008},
+[4]={ChapterID=4,CampaignChapterID=1011,CampaignChapterName='不死亡灵',Riadshow=31010,DoneReward=1011},
+[5]={ChapterID=5,CampaignChapterID=1015,CampaignChapterName='恶魔入侵',Riadshow=31204,DoneReward=1015},
+[6]={ChapterID=6,CampaignChapterID=1019,CampaignChapterName='兽人部落',Riadshow=21011,DoneReward=1019},
+[7]={ChapterID=7,CampaignChapterID=1023,CampaignChapterName='叛军基地',Riadshow=10819,DoneReward=1023},
+[8]={ChapterID=8,CampaignChapterID=1027,CampaignChapterName='精灵巢穴',Riadshow=11017,DoneReward=1027},
+[9]={ChapterID=9,CampaignChapterID=1031,CampaignChapterName='亡灵废墟',Riadshow=31011,DoneReward=1031},
+[10]={ChapterID=10,CampaignChapterID=1035,CampaignChapterName='暗影恶魔',Riadshow=30827,DoneReward=1035},
+[11]={ChapterID=11,CampaignChapterID=1039,CampaignChapterName='嗜血兽人',Riadshow=21013,DoneReward=1039},
+[12]={ChapterID=12,CampaignChapterID=1043,CampaignChapterName='叛军大营',Riadshow=11203,DoneReward=1043},
+[13]={ChapterID=13,CampaignChapterID=1047,CampaignChapterName='暗影精灵',Riadshow=11204,DoneReward=1047},
+[14]={ChapterID=14,CampaignChapterID=1051,CampaignChapterName='天灾堡垒',Riadshow=31009,DoneReward=1051},
+[15]={ChapterID=15,CampaignChapterID=1055,CampaignChapterName='恶魔军团',Riadshow=31203,DoneReward=1055},
+[16]={ChapterID=16,CampaignChapterID=1059,CampaignChapterName='钢铁兽人',Riadshow=21204,DoneReward=1059},
+[17]={ChapterID=17,CampaignChapterID=1063,CampaignChapterName='精灵之巢',Riadshow=11205,DoneReward=1063},
+[18]={ChapterID=18,CampaignChapterID=1067,CampaignChapterName='狂热军团',Riadshow=21017,DoneReward=1067},
+[19]={ChapterID=19,CampaignChapterID=1071,CampaignChapterName='亡灵要塞',Riadshow=11011,DoneReward=1071},
+[20]={ChapterID=20,CampaignChapterID=1075,CampaignChapterName='恶魔祭坛',Riadshow=11010,DoneReward=1075},
+[21]={ChapterID=21,CampaignChapterID=1079,CampaignChapterName='嗜血兽人',Riadshow=21010,DoneReward=1079},
+[22]={ChapterID=22,CampaignChapterID=1083,CampaignChapterName='叛军要塞',Riadshow=21009,DoneReward=1083},
+[23]={ChapterID=23,CampaignChapterID=1087,CampaignChapterName='精灵大营',Riadshow=21008,DoneReward=1087}
+}
+return list

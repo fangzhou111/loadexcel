@@ -1,0 +1,179 @@
+{
+  "HeroExpReward": [
+    {
+      "HeroExpOrder": 1,
+      "PlayerLevel": 40,
+      "RewardItemNum": 450
+    },
+    {
+      "HeroExpOrder": 1,
+      "PlayerLevel": 50,
+      "RewardItemNum": 775
+    },
+    {
+      "HeroExpOrder": 1,
+      "PlayerLevel": 60,
+      "RewardItemNum": 1225
+    },
+    {
+      "HeroExpOrder": 1,
+      "PlayerLevel": 70,
+      "RewardItemNum": 1835
+    },
+    {
+      "HeroExpOrder": 1,
+      "PlayerLevel": 80,
+      "RewardItemNum": 2545
+    },
+    {
+      "HeroExpOrder": 1,
+      "PlayerLevel": 90,
+      "RewardItemNum": 3805
+    },
+    {
+      "HeroExpOrder": 1,
+      "PlayerLevel": 100,
+      "RewardItemNum": 4320
+    },
+    {
+      "HeroExpOrder": 2,
+      "PlayerLevel": 40,
+      "RewardItemNum": 1130
+    },
+    {
+      "HeroExpOrder": 2,
+      "PlayerLevel": 50,
+      "RewardItemNum": 1935
+    },
+    {
+      "HeroExpOrder": 2,
+      "PlayerLevel": 60,
+      "RewardItemNum": 3060
+    },
+    {
+      "HeroExpOrder": 2,
+      "PlayerLevel": 70,
+      "RewardItemNum": 4595
+    },
+    {
+      "HeroExpOrder": 2,
+      "PlayerLevel": 80,
+      "RewardItemNum": 6365
+    },
+    {
+      "HeroExpOrder": 2,
+      "PlayerLevel": 90,
+      "RewardItemNum": 9510
+    },
+    {
+      "HeroExpOrder": 2,
+      "PlayerLevel": 100,
+      "RewardItemNum": 10800
+    },
+    {
+      "HeroExpOrder": 3,
+      "PlayerLevel": 40,
+      "RewardItemNum": 2255
+    },
+    {
+      "HeroExpOrder": 3,
+      "PlayerLevel": 50,
+      "RewardItemNum": 3870
+    },
+    {
+      "HeroExpOrder": 3,
+      "PlayerLevel": 60,
+      "RewardItemNum": 6125
+    },
+    {
+      "HeroExpOrder": 3,
+      "PlayerLevel": 70,
+      "RewardItemNum": 9185
+    },
+    {
+      "HeroExpOrder": 3,
+      "PlayerLevel": 80,
+      "RewardItemNum": 12735
+    },
+    {
+      "HeroExpOrder": 3,
+      "PlayerLevel": 90,
+      "RewardItemNum": 19020
+    },
+    {
+      "HeroExpOrder": 3,
+      "PlayerLevel": 100,
+      "RewardItemNum": 21600
+    },
+    {
+      "HeroExpOrder": 4,
+      "PlayerLevel": 40,
+      "RewardItemNum": 4515
+    },
+    {
+      "HeroExpOrder": 4,
+      "PlayerLevel": 50,
+      "RewardItemNum": 7735
+    },
+    {
+      "HeroExpOrder": 4,
+      "PlayerLevel": 60,
+      "RewardItemNum": 12250
+    },
+    {
+      "HeroExpOrder": 4,
+      "PlayerLevel": 70,
+      "RewardItemNum": 18375
+    },
+    {
+      "HeroExpOrder": 4,
+      "PlayerLevel": 80,
+      "RewardItemNum": 25465
+    },
+    {
+      "HeroExpOrder": 4,
+      "PlayerLevel": 90,
+      "RewardItemNum": 38040
+    },
+    {
+      "HeroExpOrder": 4,
+      "PlayerLevel": 100,
+      "RewardItemNum": 43195
+    },
+    {
+      "HeroExpOrder": 5,
+      "PlayerLevel": 40,
+      "RewardItemNum": 9025
+    },
+    {
+      "HeroExpOrder": 5,
+      "PlayerLevel": 50,
+      "RewardItemNum": 15475
+    },
+    {
+      "HeroExpOrder": 5,
+      "PlayerLevel": 60,
+      "RewardItemNum": 24500
+    },
+    {
+      "HeroExpOrder": 5,
+      "PlayerLevel": 70,
+      "RewardItemNum": 36750
+    },
+    {
+      "HeroExpOrder": 5,
+      "PlayerLevel": 80,
+      "RewardItemNum": 50935
+    },
+    {
+      "HeroExpOrder": 5,
+      "PlayerLevel": 90,
+      "RewardItemNum": 76080
+    },
+    {
+      "HeroExpOrder": 5,
+      "PlayerLevel": 100,
+      "RewardItemNum": 86395
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+local list = {
+[1]={ID=1,PhysicsAtkPoint=.8,MagicAtkPoint=.8,PhysicsDefPoint=.33,MagicDefPoint=.33,HPPoint=.1,HitRatePoint=.025,DodgeRatePoint=.025,CritRatePoint=.025,ToughnessPoint=.025,ParryRatePoint=.025,PrecisionRatePoint=.025,FireUpPoint=.12,PoisonUpPoint=.12,DamageUpPoint=.24,FireDownPoint=.09,PoisonDownPoint=.09,DamageDownPoint=.24,HealthUpPoint=.375,BecuredPoint=.25},
+[2]={ID=2,PhysicsAtkPoint=.8,MagicAtkPoint=.8,PhysicsDefPoint=.33,MagicDefPoint=.33,HPPoint=.1,HitRatePoint=.025,DodgeRatePoint=.025,CritRatePoint=.025,ToughnessPoint=.025,ParryRatePoint=.025,PrecisionRatePoint=.025,FireUpPoint=.12,PoisonUpPoint=.12,DamageUpPoint=.24,FireDownPoint=.09,PoisonDownPoint=.09,DamageDownPoint=.24,HealthUpPoint=.375,BecuredPoint=.25},
+[3]={ID=3,PhysicsAtkPoint=.8,MagicAtkPoint=.8,PhysicsDefPoint=.33,MagicDefPoint=.33,HPPoint=.1,HitRatePoint=.025,DodgeRatePoint=.025,CritRatePoint=.025,ToughnessPoint=.025,ParryRatePoint=.025,PrecisionRatePoint=.025,FireUpPoint=.12,PoisonUpPoint=.12,DamageUpPoint=.24,FireDownPoint=.09,PoisonDownPoint=.09,DamageDownPoint=.24,HealthUpPoint=.375,BecuredPoint=.25},
+[4]={ID=4,PhysicsAtkPoint=.8,MagicAtkPoint=.8,PhysicsDefPoint=.33,MagicDefPoint=.33,HPPoint=.1,HitRatePoint=.025,DodgeRatePoint=.025,CritRatePoint=.025,ToughnessPoint=.025,ParryRatePoint=.025,PrecisionRatePoint=.025,FireUpPoint=.12,PoisonUpPoint=.12,DamageUpPoint=.24,FireDownPoint=.09,PoisonDownPoint=.09,DamageDownPoint=.24,HealthUpPoint=.375,BecuredPoint=.25}
+}
+return list

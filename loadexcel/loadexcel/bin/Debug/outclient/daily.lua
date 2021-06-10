@@ -1,0 +1,26 @@
+local list = {
+[1]={Index=1,Name='日常任务',FuncID=38,ModuleParameter=0,Icon='38',Des='大量领主经验',NotOpen='0',ProDesc1='0',ProDesc2='0',ProDesc3='0',Over='次日刷新'},
+[2]={Index=2,Name='人类宝库',FuncID=3,ModuleParameter=1004,Icon='3',Des='大量英雄经验',NotOpen='0',ProDesc1='剩余免费次数：%s/%s',ProDesc2='剩余可购买次数：%s/%s',ProDesc3='剩余购买挑战次数：%s/%s',Over='次日刷新'},
+[3]={Index=3,Name='兽人宝库',FuncID=3,ModuleParameter=1002,Icon='3',Des='大量装备经验',NotOpen='0',ProDesc1='剩余免费次数：%s/%s',ProDesc2='剩余可购买次数：%s/%s',ProDesc3='剩余购买挑战次数：%s/%s',Over='每周一、三、五、日开放'},
+[4]={Index=4,Name='天灾宝库',FuncID=3,ModuleParameter=1001,Icon='3',Des='大量金币',NotOpen='0',ProDesc1='剩余免费次数：%s/%s',ProDesc2='剩余可购买次数：%s/%s',ProDesc3='剩余购买挑战次数：%s/%s',Over='次日刷新'},
+[5]={Index=5,Name='虚空宝库',FuncID=3,ModuleParameter=1003,Icon='3',Des='英雄进阶材料',NotOpen='0',ProDesc1='剩余免费次数：%s/%s',ProDesc2='剩余可购买次数：%s/%s',ProDesc3='剩余购买挑战次数：%s/%s',Over='每周二、四、六、日开放'},
+[6]={Index=6,Name='军团宝库',FuncID=3,ModuleParameter=1005,Icon='3',Des='装备进阶材料',NotOpen='0',ProDesc1='剩余免费次数：%s/%s',ProDesc2='剩余可购买次数：%s/%s',ProDesc3='剩余购买挑战次数：%s/%s',Over='敬请期待'},
+[7]={Index=7,Name='军团入侵',FuncID=9,ModuleParameter=0,Icon='9',Des='军团铸币',NotOpen='0',ProDesc1='剩余挑战次数：%s/%s',ProDesc2='',ProDesc3='',Over='次日刷新'},
+[8]={Index=8,Name='决战黑庙',FuncID=48,ModuleParameter=0,Icon='905',Des='金币、技能经验',NotOpen='0',ProDesc1='剩余挑战关卡：%s/%s',ProDesc2='0',ProDesc3='0',Over='次日刷新'},
+[9]={Index=9,Name='时光之穴',FuncID=13,ModuleParameter=0,Icon='13',Des='金币、技能经验',NotOpen='0',ProDesc1='剩余免费次数：%s/%s',ProDesc2='剩余可购买次数：%s/%s',ProDesc3='剩余购买挑战次数：%s/%s',Over='次日刷新'},
+[10]={Index=10,Name='T的试炼',FuncID=47,ModuleParameter=1001,Icon='47',Des='T装备碎片',NotOpen='0',ProDesc1='剩余挑战次数：%s/%s',ProDesc2='0',ProDesc3='0',Over='每周一、四、日开放'},
+[11]={Index=11,Name='治疗试炼',FuncID=47,ModuleParameter=1002,Icon='47',Des='治疗装备碎片',NotOpen='0',ProDesc1='剩余挑战次数：%s/%s',ProDesc2='0',ProDesc3='0',Over='每周二、五、日开放'},
+[12]={Index=12,Name='DPS试炼',FuncID=47,ModuleParameter=1003,Icon='47',Des='DPS装备碎片',NotOpen='0',ProDesc1='剩余挑战次数：%s/%s',ProDesc2='0',ProDesc3='0',Over='每周三、六、日开放'},
+[13]={Index=13,Name='竞技场',FuncID=6,ModuleParameter=0,Icon='6',Des='荣誉点数',NotOpen='0',ProDesc1='剩余免费次数：%s/%s',ProDesc2='剩余可购买次数：%s/%s',ProDesc3='剩余购买挑战次数：%s/%s',Over='次日刷新'},
+[14]={Index=14,Name='勇气试炼',FuncID=7,ModuleParameter=0,Icon='7',Des='勇气徽章',NotOpen='0',ProDesc1='剩余挑战场次：%s/%s',ProDesc2='0',ProDesc3='0',Over='次日刷新'},
+[15]={Index=15,Name='奥山战场',FuncID=8,ModuleParameter=0,Icon='8',Des='征服点数',NotOpen='活动开启时间：21:00-21:30',ProDesc1='活动结束倒计时：%s分钟',ProDesc2='0',ProDesc3='0',Over='次日21:00刷新'},
+[16]={Index=16,Name='野外首领-挑战',FuncID=45,ModuleParameter=0,Icon='45',Des='英雄碎片',NotOpen='暂无野外首领可挑战',ProDesc1='可获得英雄碎片：%s/%s',ProDesc2='0',ProDesc3='0',Over='次日刷新'},
+[17]={Index=17,Name='野外首领-助战',FuncID=45,ModuleParameter=1,Icon='45',Des='金币、技能点',NotOpen='未收到好友助战请求',ProDesc1='剩余助战次数：%s/%s',ProDesc2='0',ProDesc3='0',Over='次日刷新'},
+[18]={Index=18,Name='魔法学院',FuncID=46,ModuleParameter=0,Icon='905',Des='金币、技能点等',NotOpen='0',ProDesc1='剩余题数：%s/%s',ProDesc2='0',ProDesc3='0',Over='次日刷新'},
+[19]={Index=19,Name='免费普通召唤',FuncID=5,ModuleParameter=0,Icon='5',Des='1-3星英雄',NotOpen='0',ProDesc1='剩余次数：%s/%s',ProDesc2='0',ProDesc3='0',Over='次日刷新'},
+[20]={Index=20,Name='免费高级召唤',FuncID=5,ModuleParameter=1,Icon='5',Des='4-5星英雄',NotOpen='0',ProDesc1='剩余次数：%s/%s',ProDesc2='0',ProDesc3='0',Over='次日刷新'},
+[21]={Index=21,Name='好友-领取体力',FuncID=19,ModuleParameter=0,Icon='19',Des='体力',NotOpen='暂无可领取的体力',ProDesc1='剩余领体力次数：%s/%s',ProDesc2='0',ProDesc3='0',Over='次日刷新'},
+[22]={Index=22,Name='公会任务',FuncID=56,ModuleParameter=0,Icon='905',Des='大量神秘奖励',NotOpen='请先加入公会',ProDesc1='剩余免费次数：%s/%s',ProDesc2='剩余可购买次数：%s/%s',ProDesc3='剩余购买挑战次数：%s/%s',Over='敬请期待'},
+[23]={Index=23,Name='主线任务',FuncID=18,ModuleParameter=0,Icon='18',Des='大量神秘奖励',NotOpen='0',ProDesc1='0',ProDesc2='0',ProDesc3='0',Over='次日刷新'}
+}
+return list

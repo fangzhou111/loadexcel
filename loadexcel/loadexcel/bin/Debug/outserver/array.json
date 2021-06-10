@@ -1,0 +1,436 @@
+{
+  "array": [
+    {
+      "row": 1,
+      "cul": 1,
+      "ctype": 1,
+      "chaid": 0
+    },
+    {
+      "row": 1,
+      "cul": 2,
+      "ctype": 1,
+      "chaid": 0
+    },
+    {
+      "row": 1,
+      "cul": 3,
+      "ctype": 1,
+      "chaid": 0
+    },
+    {
+      "row": 1,
+      "cul": 4,
+      "ctype": 1,
+      "chaid": 0
+    },
+    {
+      "row": 1,
+      "cul": 5,
+      "ctype": 1,
+      "chaid": 0
+    },
+    {
+      "row": 1,
+      "cul": 6,
+      "ctype": 1,
+      "chaid": 0
+    },
+    {
+      "row": 2,
+      "cul": 1,
+      "ctype": 1,
+      "chaid": 103
+    },
+    {
+      "row": 2,
+      "cul": 2,
+      "ctype": 1,
+      "chaid": 103
+    },
+    {
+      "row": 2,
+      "cul": 3,
+      "ctype": 1,
+      "chaid": 103
+    },
+    {
+      "row": 2,
+      "cul": 4,
+      "ctype": 1,
+      "chaid": 103
+    },
+    {
+      "row": 2,
+      "cul": 5,
+      "ctype": 1,
+      "chaid": 103
+    },
+    {
+      "row": 2,
+      "cul": 6,
+      "ctype": 1,
+      "chaid": 0
+    },
+    {
+      "row": 3,
+      "cul": 1,
+      "ctype": 1,
+      "chaid": 4
+    },
+    {
+      "row": 3,
+      "cul": 2,
+      "ctype": 1,
+      "chaid": 4
+    },
+    {
+      "row": 3,
+      "cul": 3,
+      "ctype": 1,
+      "chaid": 4
+    },
+    {
+      "row": 3,
+      "cul": 4,
+      "ctype": 1,
+      "chaid": 4
+    },
+    {
+      "row": 3,
+      "cul": 5,
+      "ctype": 1,
+      "chaid": 4
+    },
+    {
+      "row": 3,
+      "cul": 6,
+      "ctype": 1,
+      "chaid": 0
+    },
+    {
+      "row": 4,
+      "cul": 1,
+      "ctype": 1,
+      "chaid": 2
+    },
+    {
+      "row": 4,
+      "cul": 2,
+      "ctype": 1,
+      "chaid": 2
+    },
+    {
+      "row": 4,
+      "cul": 3,
+      "ctype": 1,
+      "chaid": 2
+    },
+    {
+      "row": 4,
+      "cul": 4,
+      "ctype": 1,
+      "chaid": 2
+    },
+    {
+      "row": 4,
+      "cul": 5,
+      "ctype": 1,
+      "chaid": 2
+    },
+    {
+      "row": 4,
+      "cul": 6,
+      "ctype": 1,
+      "chaid": 0
+    },
+    {
+      "row": 5,
+      "cul": 1,
+      "ctype": 1,
+      "chaid": 1
+    },
+    {
+      "row": 5,
+      "cul": 2,
+      "ctype": 1,
+      "chaid": 1
+    },
+    {
+      "row": 5,
+      "cul": 3,
+      "ctype": 1,
+      "chaid": 1
+    },
+    {
+      "row": 5,
+      "cul": 4,
+      "ctype": 1,
+      "chaid": 1
+    },
+    {
+      "row": 5,
+      "cul": 5,
+      "ctype": 1,
+      "chaid": 1
+    },
+    {
+      "row": 5,
+      "cul": 6,
+      "ctype": 1,
+      "chaid": 0
+    },
+    {
+      "row": 6,
+      "cul": 1,
+      "ctype": 1,
+      "chaid": 0
+    },
+    {
+      "row": 6,
+      "cul": 2,
+      "ctype": 1,
+      "chaid": 0
+    },
+    {
+      "row": 6,
+      "cul": 3,
+      "ctype": 1,
+      "chaid": 0
+    },
+    {
+      "row": 6,
+      "cul": 4,
+      "ctype": 1,
+      "chaid": 0
+    },
+    {
+      "row": 6,
+      "cul": 5,
+      "ctype": 1,
+      "chaid": 0
+    },
+    {
+      "row": 6,
+      "cul": 6,
+      "ctype": 1,
+      "chaid": 0
+    },
+    {
+      "row": 7,
+      "cul": 1,
+      "ctype": 2,
+      "chaid": 0
+    },
+    {
+      "row": 7,
+      "cul": 2,
+      "ctype": 2,
+      "chaid": 0
+    },
+    {
+      "row": 7,
+      "cul": 3,
+      "ctype": 2,
+      "chaid": 0
+    },
+    {
+      "row": 7,
+      "cul": 4,
+      "ctype": 2,
+      "chaid": 0
+    },
+    {
+      "row": 7,
+      "cul": 5,
+      "ctype": 2,
+      "chaid": 0
+    },
+    {
+      "row": 7,
+      "cul": 6,
+      "ctype": 2,
+      "chaid": 0
+    },
+    {
+      "row": 8,
+      "cul": 1,
+      "ctype": 2,
+      "chaid": 101
+    },
+    {
+      "row": 8,
+      "cul": 2,
+      "ctype": 2,
+      "chaid": 101
+    },
+    {
+      "row": 8,
+      "cul": 3,
+      "ctype": 2,
+      "chaid": 101
+    },
+    {
+      "row": 8,
+      "cul": 4,
+      "ctype": 2,
+      "chaid": 101
+    },
+    {
+      "row": 8,
+      "cul": 5,
+      "ctype": 2,
+      "chaid": 101
+    },
+    {
+      "row": 8,
+      "cul": 6,
+      "ctype": 2,
+      "chaid": 0
+    },
+    {
+      "row": 9,
+      "cul": 1,
+      "ctype": 2,
+      "chaid": 3
+    },
+    {
+      "row": 9,
+      "cul": 2,
+      "ctype": 2,
+      "chaid": 3
+    },
+    {
+      "row": 9,
+      "cul": 3,
+      "ctype": 2,
+      "chaid": 3
+    },
+    {
+      "row": 9,
+      "cul": 4,
+      "ctype": 2,
+      "chaid": 3
+    },
+    {
+      "row": 9,
+      "cul": 5,
+      "ctype": 2,
+      "chaid": 3
+    },
+    {
+      "row": 9,
+      "cul": 6,
+      "ctype": 2,
+      "chaid": 0
+    },
+    {
+      "row": 10,
+      "cul": 1,
+      "ctype": 2,
+      "chaid": 2
+    },
+    {
+      "row": 10,
+      "cul": 2,
+      "ctype": 2,
+      "chaid": 2
+    },
+    {
+      "row": 10,
+      "cul": 3,
+      "ctype": 2,
+      "chaid": 2
+    },
+    {
+      "row": 10,
+      "cul": 4,
+      "ctype": 2,
+      "chaid": 2
+    },
+    {
+      "row": 10,
+      "cul": 5,
+      "ctype": 2,
+      "chaid": 2
+    },
+    {
+      "row": 10,
+      "cul": 6,
+      "ctype": 2,
+      "chaid": 0
+    },
+    {
+      "row": 11,
+      "cul": 1,
+      "ctype": 2,
+      "chaid": 4
+    },
+    {
+      "row": 11,
+      "cul": 2,
+      "ctype": 2,
+      "chaid": 4
+    },
+    {
+      "row": 11,
+      "cul": 3,
+      "ctype": 2,
+      "chaid": 4
+    },
+    {
+      "row": 11,
+      "cul": 4,
+      "ctype": 2,
+      "chaid": 4
+    },
+    {
+      "row": 11,
+      "cul": 5,
+      "ctype": 2,
+      "chaid": 4
+    },
+    {
+      "row": 11,
+      "cul": 6,
+      "ctype": 2,
+      "chaid": 0
+    },
+    {
+      "row": 12,
+      "cul": 1,
+      "ctype": 2,
+      "chaid": 0
+    },
+    {
+      "row": 12,
+      "cul": 2,
+      "ctype": 2,
+      "chaid": 0
+    },
+    {
+      "row": 12,
+      "cul": 3,
+      "ctype": 2,
+      "chaid": 0
+    },
+    {
+      "row": 12,
+      "cul": 4,
+      "ctype": 2,
+      "chaid": 0
+    },
+    {
+      "row": 12,
+      "cul": 5,
+      "ctype": 2,
+      "chaid": 0
+    },
+    {
+      "row": 12,
+      "cul": 6,
+      "ctype": 2,
+      "chaid": 0
+    }
+  ]
+}

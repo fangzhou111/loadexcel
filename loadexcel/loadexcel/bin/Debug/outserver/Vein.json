@@ -1,0 +1,94 @@
+{
+  "Vein": [
+    {
+      "PitID": 1,
+      "Vein": 1,
+      "VeinNum": 0,
+      "PitLevel": 1,
+      "PitNum": 0,
+      "PitResources": 100,
+      "PitTime": 60,
+      "VeinName": "初级水晶矿"
+    },
+    {
+      "PitID": 2,
+      "Vein": 1,
+      "VeinNum": 0,
+      "PitLevel": 2,
+      "PitNum": 3,
+      "PitResources": 150,
+      "PitTime": 60,
+      "VeinName": "初级水晶矿"
+    },
+    {
+      "PitID": 3,
+      "Vein": 1,
+      "VeinNum": 0,
+      "PitLevel": 3,
+      "PitNum": 1,
+      "PitResources": 200,
+      "PitTime": 60,
+      "VeinName": "初级水晶矿"
+    },
+    {
+      "PitID": 4,
+      "Vein": 2,
+      "VeinNum": 2,
+      "PitLevel": 1,
+      "PitNum": 0,
+      "PitResources": 180,
+      "PitTime": 60,
+      "VeinName": "中级魔晶矿"
+    },
+    {
+      "PitID": 5,
+      "Vein": 2,
+      "VeinNum": 2,
+      "PitLevel": 2,
+      "PitNum": 3,
+      "PitResources": 230,
+      "PitTime": 60,
+      "VeinName": "中级魔晶矿"
+    },
+    {
+      "PitID": 6,
+      "Vein": 2,
+      "VeinNum": 2,
+      "PitLevel": 3,
+      "PitNum": 1,
+      "PitResources": 320,
+      "PitTime": 60,
+      "VeinName": "中级魔晶矿"
+    },
+    {
+      "PitID": 7,
+      "Vein": 3,
+      "VeinNum": 1,
+      "PitLevel": 1,
+      "PitNum": 0,
+      "PitResources": 300,
+      "PitTime": 60,
+      "VeinName": "高级秘法矿"
+    },
+    {
+      "PitID": 8,
+      "Vein": 3,
+      "VeinNum": 1,
+      "PitLevel": 2,
+      "PitNum": 3,
+      "PitResources": 350,
+      "PitTime": 60,
+      "VeinName": "高级秘法矿"
+    },
+    {
+      "PitID": 9,
+      "Vein": 3,
+      "VeinNum": 1,
+      "PitLevel": 3,
+      "PitNum": 1,
+      "PitResources": 400,
+      "PitTime": 60,
+      "VeinName": "高级秘法矿"
+    }
+  ]
+}

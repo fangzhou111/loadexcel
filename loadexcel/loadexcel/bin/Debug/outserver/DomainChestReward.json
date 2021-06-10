@@ -1,0 +1,319 @@
+{
+  "DomainChestReward": [
+    {
+      "RewardID": 1,
+      "Order": 35,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 4,
+      "RewardProbability": 3,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 2,
+      "Order": 35,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 5,
+      "RewardProbability": 3,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 3,
+      "Order": 35,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 6,
+      "RewardProbability": 3,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 4,
+      "Order": 35,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 7,
+      "RewardProbability": 3,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 5,
+      "Order": 35,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 8,
+      "RewardProbability": 2,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 6,
+      "Order": 40,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 4,
+      "RewardProbability": 3,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 7,
+      "Order": 40,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 5,
+      "RewardProbability": 3,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 8,
+      "Order": 40,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 6,
+      "RewardProbability": 3,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 9,
+      "Order": 40,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 7,
+      "RewardProbability": 3,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 10,
+      "Order": 40,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 8,
+      "RewardProbability": 2,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 11,
+      "Order": 45,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 4,
+      "RewardProbability": 3,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 12,
+      "Order": 45,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 5,
+      "RewardProbability": 3,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 13,
+      "Order": 45,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 6,
+      "RewardProbability": 3,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 14,
+      "Order": 45,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 7,
+      "RewardProbability": 3,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 15,
+      "Order": 45,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 8,
+      "RewardProbability": 2,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 16,
+      "Order": 50,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 4,
+      "RewardProbability": 3,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 17,
+      "Order": 50,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 5,
+      "RewardProbability": 3,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 18,
+      "Order": 50,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 6,
+      "RewardProbability": 3,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 19,
+      "Order": 50,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 7,
+      "RewardProbability": 3,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 20,
+      "Order": 50,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 8,
+      "RewardProbability": 2,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 21,
+      "Order": 55,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 4,
+      "RewardProbability": 3,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 22,
+      "Order": 55,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 5,
+      "RewardProbability": 3,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 23,
+      "Order": 55,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 6,
+      "RewardProbability": 3,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 24,
+      "Order": 55,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 7,
+      "RewardProbability": 3,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 25,
+      "Order": 55,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 8,
+      "RewardProbability": 2,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 26,
+      "Order": 60,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 4,
+      "RewardProbability": 3,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 27,
+      "Order": 60,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 5,
+      "RewardProbability": 3,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 28,
+      "Order": 60,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 6,
+      "RewardProbability": 3,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 29,
+      "Order": 60,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 7,
+      "RewardProbability": 3,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 30,
+      "Order": 60,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 8,
+      "RewardProbability": 2,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 31,
+      "Order": 65,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 4,
+      "RewardProbability": 3,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 32,
+      "Order": 65,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 5,
+      "RewardProbability": 3,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 33,
+      "Order": 65,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 6,
+      "RewardProbability": 3,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 34,
+      "Order": 65,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 7,
+      "RewardProbability": 3,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 35,
+      "Order": 65,
+      "RewardCondition": 1,
+      "RewardItemID": 2,
+      "RewardItemNum": 8,
+      "RewardProbability": 2,
+      "RewardPreview": 1
+    }
+  ]
+}

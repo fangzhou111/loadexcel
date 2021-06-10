@@ -1,0 +1,354 @@
+{
+  "BossChallengeCampaign": [
+    {
+      "BossChallengeChapterID": 1001,
+      "CampaignID": 1001001,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_04_tonglingxueyuan",
+      "MapEditorName": "fb_04_tonglingxueyuan_center",
+      "StrengthUp": 0
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "CampaignID": 1001002,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_03_haishan",
+      "MapEditorName": "fb_03_haishan_center",
+      "StrengthUp": 1
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "CampaignID": 1001003,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_06_sitansuomu",
+      "MapEditorName": "fb_06_sitansuomu",
+      "StrengthUp": 2
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "CampaignID": 1001004,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_04_tonglingxueyuan",
+      "MapEditorName": "fb_04_tonglingxueyuan_center",
+      "StrengthUp": 3
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "CampaignID": 1001005,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_03_haishan",
+      "MapEditorName": "fb_03_haishan_center",
+      "StrengthUp": 4
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "CampaignID": 1001006,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_06_sitansuomu",
+      "MapEditorName": "fb_06_sitansuomu",
+      "StrengthUp": 5
+    },
+    {
+      "BossChallengeChapterID": 1001,
+      "CampaignID": 1001007,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_04_tonglingxueyuan",
+      "MapEditorName": "fb_04_tonglingxueyuan_center",
+      "StrengthUp": 5
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "CampaignID": 1002001,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_04_tonglingxueyuan",
+      "MapEditorName": "fb_04_tonglingxueyuan_center",
+      "StrengthUp": 0
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "CampaignID": 1002002,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_03_haishan",
+      "MapEditorName": "fb_03_haishan_center",
+      "StrengthUp": 1
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "CampaignID": 1002003,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_06_sitansuomu",
+      "MapEditorName": "fb_06_sitansuomu",
+      "StrengthUp": 2
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "CampaignID": 1002004,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_04_tonglingxueyuan",
+      "MapEditorName": "fb_04_tonglingxueyuan_center",
+      "StrengthUp": 3
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "CampaignID": 1002005,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_03_haishan",
+      "MapEditorName": "fb_03_haishan_center",
+      "StrengthUp": 4
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "CampaignID": 1002006,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_06_sitansuomu",
+      "MapEditorName": "fb_06_sitansuomu",
+      "StrengthUp": 5
+    },
+    {
+      "BossChallengeChapterID": 1002,
+      "CampaignID": 1002007,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_04_tonglingxueyuan",
+      "MapEditorName": "fb_04_tonglingxueyuan_center",
+      "StrengthUp": 5
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "CampaignID": 1003001,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_04_tonglingxueyuan",
+      "MapEditorName": "fb_04_tonglingxueyuan_center",
+      "StrengthUp": 0
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "CampaignID": 1003002,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_03_haishan",
+      "MapEditorName": "fb_03_haishan_center",
+      "StrengthUp": 1
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "CampaignID": 1003003,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_06_sitansuomu",
+      "MapEditorName": "fb_06_sitansuomu",
+      "StrengthUp": 2
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "CampaignID": 1003004,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_04_tonglingxueyuan",
+      "MapEditorName": "fb_04_tonglingxueyuan_center",
+      "StrengthUp": 3
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "CampaignID": 1003005,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_03_haishan",
+      "MapEditorName": "fb_03_haishan_center",
+      "StrengthUp": 4
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "CampaignID": 1003006,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_06_sitansuomu",
+      "MapEditorName": "fb_06_sitansuomu",
+      "StrengthUp": 5
+    },
+    {
+      "BossChallengeChapterID": 1003,
+      "CampaignID": 1003007,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_04_tonglingxueyuan",
+      "MapEditorName": "fb_04_tonglingxueyuan_center",
+      "StrengthUp": 5
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "CampaignID": 1004001,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_04_tonglingxueyuan",
+      "MapEditorName": "fb_04_tonglingxueyuan_center",
+      "StrengthUp": 0
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "CampaignID": 1004002,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_03_haishan",
+      "MapEditorName": "fb_03_haishan_center",
+      "StrengthUp": 1
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "CampaignID": 1004003,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_06_sitansuomu",
+      "MapEditorName": "fb_06_sitansuomu",
+      "StrengthUp": 2
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "CampaignID": 1004004,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_04_tonglingxueyuan",
+      "MapEditorName": "fb_04_tonglingxueyuan_center",
+      "StrengthUp": 3
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "CampaignID": 1004005,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_03_haishan",
+      "MapEditorName": "fb_03_haishan_center",
+      "StrengthUp": 4
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "CampaignID": 1004006,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_06_sitansuomu",
+      "MapEditorName": "fb_06_sitansuomu",
+      "StrengthUp": 5
+    },
+    {
+      "BossChallengeChapterID": 1004,
+      "CampaignID": 1004007,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_04_tonglingxueyuan",
+      "MapEditorName": "fb_04_tonglingxueyuan_center",
+      "StrengthUp": 5
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "CampaignID": 1005001,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_04_tonglingxueyuan",
+      "MapEditorName": "fb_04_tonglingxueyuan_center",
+      "StrengthUp": 0
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "CampaignID": 1005002,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_03_haishan",
+      "MapEditorName": "fb_03_haishan_center",
+      "StrengthUp": 1
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "CampaignID": 1005003,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_06_sitansuomu",
+      "MapEditorName": "fb_06_sitansuomu",
+      "StrengthUp": 2
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "CampaignID": 1005004,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_04_tonglingxueyuan",
+      "MapEditorName": "fb_04_tonglingxueyuan_center",
+      "StrengthUp": 3
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "CampaignID": 1005005,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_03_haishan",
+      "MapEditorName": "fb_03_haishan_center",
+      "StrengthUp": 4
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "CampaignID": 1005006,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_06_sitansuomu",
+      "MapEditorName": "fb_06_sitansuomu",
+      "StrengthUp": 5
+    },
+    {
+      "BossChallengeChapterID": 1005,
+      "CampaignID": 1005007,
+      "CampaignPlayerLevel": 1,
+      "CampaignPlayerLevelMax": 100,
+      "CampaignChallengeTime": 0,
+      "MapName": "fb_04_tonglingxueyuan",
+      "MapEditorName": "fb_04_tonglingxueyuan_center",
+      "StrengthUp": 5
+    }
+  ]
+}

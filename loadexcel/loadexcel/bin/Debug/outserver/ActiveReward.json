@@ -1,0 +1,24 @@
+{
+  "ActiveReward": [
+    {
+      "ID": 1,
+      "ActiveValue": 30,
+      "Order": 101
+    },
+    {
+      "ID": 2,
+      "ActiveValue": 60,
+      "Order": 102
+    },
+    {
+      "ID": 3,
+      "ActiveValue": 90,
+      "Order": 103
+    },
+    {
+      "ID": 4,
+      "ActiveValue": 120,
+      "Order": 104
+    }
+  ]
+}

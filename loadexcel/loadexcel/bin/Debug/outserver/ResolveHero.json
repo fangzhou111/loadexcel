@@ -1,0 +1,76 @@
+{
+  "ResolveHero": [
+    {
+      "Type": 1,
+      "StarStrength": 2,
+      "ResolveID": 61,
+      "ResolveNum": 10
+    },
+    {
+      "Type": 1,
+      "StarStrength": 4,
+      "ResolveID": 61,
+      "ResolveNum": 40
+    },
+    {
+      "Type": 1,
+      "StarStrength": 8,
+      "ResolveID": 61,
+      "ResolveNum": 200
+    },
+    {
+      "Type": 1,
+      "StarStrength": 10,
+      "ResolveID": 61,
+      "ResolveNum": 1000
+    },
+    {
+      "Type": 1,
+      "StarStrength": 12,
+      "ResolveID": 61,
+      "ResolveNum": 2000
+    },
+    {
+      "Type": 1,
+      "StarStrength": 16,
+      "ResolveID": 61,
+      "ResolveNum": 2500
+    },
+    {
+      "Type": 2,
+      "StarStrength": 2,
+      "ResolveID": 61,
+      "ResolveNum": 1
+    },
+    {
+      "Type": 2,
+      "StarStrength": 4,
+      "ResolveID": 61,
+      "ResolveNum": 2
+    },
+    {
+      "Type": 2,
+      "StarStrength": 8,
+      "ResolveID": 61,
+      "ResolveNum": 5
+    },
+    {
+      "Type": 2,
+      "StarStrength": 10,
+      "ResolveID": 61,
+      "ResolveNum": 12
+    },
+    {
+      "Type": 2,
+      "StarStrength": 12,
+      "ResolveID": 61,
+      "ResolveNum": 20
+    },
+    {
+      "Type": 2,
+      "StarStrength": 16,
+      "ResolveID": 61,
+      "ResolveNum": 20
+    }
+  ]
+}

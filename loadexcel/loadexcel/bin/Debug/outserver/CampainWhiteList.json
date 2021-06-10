@@ -1,0 +1,32 @@
+{
+  "CampainWhiteList": [
+    {
+      "CampainID": 1001001,
+      "ShowCampain": 8801
+    },
+    {
+      "CampainID": 1001003,
+      "ShowCampain": 8802
+    },
+    {
+      "CampainID": 1001005,
+      "ShowCampain": 8803
+    },
+    {
+      "CampainID": 1002001,
+      "ShowCampain": 8804
+    },
+    {
+      "CampainID": 1002002,
+      "ShowCampain": 8805
+    },
+    {
+      "CampainID": 1002004,
+      "ShowCampain": 8806
+    },
+    {
+      "CampainID": 1002006,
+      "ShowCampain": 8807
+    }
+  ]
+}

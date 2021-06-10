@@ -1,0 +1,160 @@
+{
+  "ResolveEquipment": [
+    {
+      "Type": 1,
+      "StarStrength": 1,
+      "ResolveID": 54,
+      "ResolveNum": 100
+    },
+    {
+      "Type": 1,
+      "StarStrength": 2,
+      "ResolveID": 54,
+      "ResolveNum": 200
+    },
+    {
+      "Type": 1,
+      "StarStrength": 4,
+      "ResolveID": 54,
+      "ResolveNum": 1000
+    },
+    {
+      "Type": 1,
+      "StarStrength": 5,
+      "ResolveID": 54,
+      "ResolveNum": 1500
+    },
+    {
+      "Type": 1,
+      "StarStrength": 8,
+      "ResolveID": 54,
+      "ResolveNum": 6000
+    },
+    {
+      "Type": 1,
+      "StarStrength": 10,
+      "ResolveID": 54,
+      "ResolveNum": 12000
+    },
+    {
+      "Type": 1,
+      "StarStrength": 12,
+      "ResolveID": 54,
+      "ResolveNum": 15000
+    },
+    {
+      "Type": 1,
+      "StarStrength": 15,
+      "ResolveID": 54,
+      "ResolveNum": 20000
+    },
+    {
+      "Type": 1,
+      "StarStrength": 16,
+      "ResolveID": 54,
+      "ResolveNum": 20000
+    },
+    {
+      "Type": 1,
+      "StarStrength": 17,
+      "ResolveID": 54,
+      "ResolveNum": 30000
+    },
+    {
+      "Type": 1,
+      "StarStrength": 18,
+      "ResolveID": 54,
+      "ResolveNum": 40000
+    },
+    {
+      "Type": 1,
+      "StarStrength": 19,
+      "ResolveID": 54,
+      "ResolveNum": 45000
+    },
+    {
+      "Type": 1,
+      "StarStrength": 20,
+      "ResolveID": 54,
+      "ResolveNum": 50000
+    },
+    {
+      "Type": 2,
+      "StarStrength": 1,
+      "ResolveID": 54,
+      "ResolveNum": 10
+    },
+    {
+      "Type": 2,
+      "StarStrength": 2,
+      "ResolveID": 54,
+      "ResolveNum": 20
+    },
+    {
+      "Type": 2,
+      "StarStrength": 4,
+      "ResolveID": 54,
+      "ResolveNum": 50
+    },
+    {
+      "Type": 2,
+      "StarStrength": 5,
+      "ResolveID": 54,
+      "ResolveNum": 75
+    },
+    {
+      "Type": 2,
+      "StarStrength": 8,
+      "ResolveID": 54,
+      "ResolveNum": 200
+    },
+    {
+      "Type": 2,
+      "StarStrength": 10,
+      "ResolveID": 54,
+      "ResolveNum": 400
+    },
+    {
+      "Type": 2,
+      "StarStrength": 12,
+      "ResolveID": 54,
+      "ResolveNum": 500
+    },
+    {
+      "Type": 2,
+      "StarStrength": 15,
+      "ResolveID": 54,
+      "ResolveNum": 500
+    },
+    {
+      "Type": 2,
+      "StarStrength": 16,
+      "ResolveID": 54,
+      "ResolveNum": 400
+    },
+    {
+      "Type": 2,
+      "StarStrength": 17,
+      "ResolveID": 54,
+      "ResolveNum": 600
+    },
+    {
+      "Type": 2,
+      "StarStrength": 18,
+      "ResolveID": 54,
+      "ResolveNum": 800
+    },
+    {
+      "Type": 2,
+      "StarStrength": 19,
+      "ResolveID": 54,
+      "ResolveNum": 900
+    },
+    {
+      "Type": 2,
+      "StarStrength": 20,
+      "ResolveID": 54,
+      "ResolveNum": 1000
+    }
+  ]
+}

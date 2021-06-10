@@ -1,0 +1,28 @@
+{
+  "CupSupportReward": [
+    {
+      "Level": 50,
+      "GoldReward": 80000
+    },
+    {
+      "Level": 60,
+      "GoldReward": 100000
+    },
+    {
+      "Level": 70,
+      "GoldReward": 140000
+    },
+    {
+      "Level": 80,
+      "GoldReward": 160000
+    },
+    {
+      "Level": 90,
+      "GoldReward": 180000
+    },
+    {
+      "Level": 100,
+      "GoldReward": 200000
+    }
+  ]
+}

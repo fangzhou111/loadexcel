@@ -1,0 +1,12 @@
+local list = {
+[1]={CampaignChapterID=3001,CampaignChapterName='远古熔核',CampaignSandID='shapan04',NodeID='new-campaign-nodes-luxian-guild',RwardShow='10046@10047@10048',Riadshow=21010,RiadFrameShow=1,RiadNeedLevel=25,PreposeChapter=0,RaidDoneTime=96,RaidDoneRward=101,DoneReward=1},
+[2]={CampaignChapterID=3002,CampaignChapterName='巨魔密林',CampaignSandID='shapan11',NodeID='new-campaign-nodes-luxian-guild',RwardShow='10049@10050@10051',Riadshow=21204,RiadFrameShow=1,RiadNeedLevel=40,PreposeChapter=3001,RaidDoneTime=96,RaidDoneRward=202,DoneReward=2},
+[3]={CampaignChapterID=3003,CampaignChapterName='裂隙高塔',CampaignSandID='shapan10',NodeID='new-campaign-nodes-luxian-guild',RwardShow='10052@10053@10054',Riadshow=11010,RiadFrameShow=1,RiadNeedLevel=50,PreposeChapter=3002,RaidDoneTime=96,RaidDoneRward=303,DoneReward=3},
+[4]={CampaignChapterID=3004,CampaignChapterName='恶魔要塞',CampaignSandID='shapan06',NodeID='new-campaign-nodes-luxian-guild',RwardShow='10055@10056@10057',Riadshow=31010,RiadFrameShow=1,RiadNeedLevel=60,PreposeChapter=3003,RaidDoneTime=96,RaidDoneRward=404,DoneReward=4},
+[5]={CampaignChapterID=3005,CampaignChapterName='紫晶要塞',CampaignSandID='shapan07',NodeID='new-campaign-nodes-luxian-guild',RwardShow='10058@10059@10060',Riadshow=11204,RiadFrameShow=1,RiadNeedLevel=70,PreposeChapter=3004,RaidDoneTime=96,RaidDoneRward=505,DoneReward=5},
+[6]={CampaignChapterID=3006,CampaignChapterName='沼泽圣地',CampaignSandID='shapan09',NodeID='new-campaign-nodes-luxian-guild',RwardShow='10061@10062@10063',Riadshow=21010,RiadFrameShow=1,RiadNeedLevel=80,PreposeChapter=3005,RaidDoneTime=96,RaidDoneRward=606,DoneReward=6},
+[7]={CampaignChapterID=3007,CampaignChapterName='光影神殿',CampaignSandID='shapan12',NodeID='new-campaign-nodes-luxian-guild',RwardShow='10064@10065@10066',Riadshow=21204,RiadFrameShow=1,RiadNeedLevel=85,PreposeChapter=3006,RaidDoneTime=96,RaidDoneRward=707,DoneReward=7},
+[8]={CampaignChapterID=3008,CampaignChapterName='上古战役',CampaignSandID='shapan05',NodeID='new-campaign-nodes-luxian-guild',RwardShow='10067@10068@10069',Riadshow=11010,RiadFrameShow=1,RiadNeedLevel=90,PreposeChapter=3007,RaidDoneTime=96,RaidDoneRward=808,DoneReward=8},
+[9]={CampaignChapterID=3009,CampaignChapterName='圣地之战',CampaignSandID='shapan13',NodeID='new-campaign-nodes-luxian-guild',RwardShow='10070@10071@10072',Riadshow=31010,RiadFrameShow=1,RiadNeedLevel=95,PreposeChapter=3008,RaidDoneTime=96,RaidDoneRward=909,DoneReward=9}
+}
+return list

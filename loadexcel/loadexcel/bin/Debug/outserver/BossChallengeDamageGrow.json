@@ -1,0 +1,284 @@
+{
+  "BossChallengeDamageGrow": [
+    {
+      "ID": 1,
+      "DamageRatio": 1.0,
+      "Type": 1,
+      "ItemID": 1,
+      "Number": 1.0
+    },
+    {
+      "ID": 2,
+      "DamageRatio": 2.0,
+      "Type": 0,
+      "ItemID": 2030077,
+      "Number": 1.0
+    },
+    {
+      "ID": 3,
+      "DamageRatio": 3.0,
+      "Type": 3,
+      "ItemID": 71,
+      "Number": 1.0
+    },
+    {
+      "ID": 4,
+      "DamageRatio": 4.01,
+      "Type": 1,
+      "ItemID": 1,
+      "Number": 1.0
+    },
+    {
+      "ID": 5,
+      "DamageRatio": 5.01,
+      "Type": 2,
+      "ItemID": 3050001,
+      "Number": 1.0
+    },
+    {
+      "ID": 6,
+      "DamageRatio": 6.01,
+      "Type": 3,
+      "ItemID": 71,
+      "Number": 1.5
+    },
+    {
+      "ID": 7,
+      "DamageRatio": 7.01,
+      "Type": 1,
+      "ItemID": 1,
+      "Number": 1.0
+    },
+    {
+      "ID": 8,
+      "DamageRatio": 8.02,
+      "Type": 2,
+      "ItemID": 3050001,
+      "Number": 1.0
+    },
+    {
+      "ID": 9,
+      "DamageRatio": 9.02,
+      "Type": 1,
+      "ItemID": 1,
+      "Number": 1.0
+    },
+    {
+      "ID": 10,
+      "DamageRatio": 10.02,
+      "Type": 0,
+      "ItemID": 20200001,
+      "Number": 1.0
+    },
+    {
+      "ID": 11,
+      "DamageRatio": 11.02,
+      "Type": 3,
+      "ItemID": 71,
+      "Number": 1.5
+    },
+    {
+      "ID": 12,
+      "DamageRatio": 12.03,
+      "Type": 2,
+      "ItemID": 3050001,
+      "Number": 1.0
+    },
+    {
+      "ID": 13,
+      "DamageRatio": 13.03,
+      "Type": 1,
+      "ItemID": 1,
+      "Number": 1.0
+    },
+    {
+      "ID": 14,
+      "DamageRatio": 14.03,
+      "Type": 3,
+      "ItemID": 71,
+      "Number": 2.0
+    },
+    {
+      "ID": 15,
+      "DamageRatio": 15.03,
+      "Type": 2,
+      "ItemID": 3050001,
+      "Number": 1.0
+    },
+    {
+      "ID": 16,
+      "DamageRatio": 16.03,
+      "Type": 1,
+      "ItemID": 1,
+      "Number": 1.33
+    },
+    {
+      "ID": 17,
+      "DamageRatio": 17.04,
+      "Type": 2,
+      "ItemID": 3050001,
+      "Number": 1.18
+    },
+    {
+      "ID": 18,
+      "DamageRatio": 18.04,
+      "Type": 0,
+      "ItemID": 20200001,
+      "Number": 1.0
+    },
+    {
+      "ID": 19,
+      "DamageRatio": 19.04,
+      "Type": 0,
+      "ItemID": 2030010,
+      "Number": 1.0
+    },
+    {
+      "ID": 20,
+      "DamageRatio": 20.04,
+      "Type": 3,
+      "ItemID": 71,
+      "Number": 2.0
+    },
+    {
+      "ID": 21,
+      "DamageRatio": 21.3,
+      "Type": 1,
+      "ItemID": 1,
+      "Number": 1.33
+    },
+    {
+      "ID": 22,
+      "DamageRatio": 22.55,
+      "Type": 2,
+      "ItemID": 3050001,
+      "Number": 1.18
+    },
+    {
+      "ID": 23,
+      "DamageRatio": 23.81,
+      "Type": 0,
+      "ItemID": 20200002,
+      "Number": 1.0
+    },
+    {
+      "ID": 24,
+      "DamageRatio": 25.06,
+      "Type": 3,
+      "ItemID": 71,
+      "Number": 2.5
+    },
+    {
+      "ID": 25,
+      "DamageRatio": 26.31,
+      "Type": 1,
+      "ItemID": 1,
+      "Number": 1.333
+    },
+    {
+      "ID": 26,
+      "DamageRatio": 27.65,
+      "Type": 2,
+      "ItemID": 3050001,
+      "Number": 1.18
+    },
+    {
+      "ID": 27,
+      "DamageRatio": 28.81,
+      "Type": 1,
+      "ItemID": 1,
+      "Number": 1.333
+    },
+    {
+      "ID": 28,
+      "DamageRatio": 30.07,
+      "Type": 2,
+      "ItemID": 3050001,
+      "Number": 1.5454545455
+    },
+    {
+      "ID": 29,
+      "DamageRatio": 32.58,
+      "Type": 3,
+      "ItemID": 71,
+      "Number": 2.5
+    },
+    {
+      "ID": 30,
+      "DamageRatio": 35.08,
+      "Type": 1,
+      "ItemID": 1,
+      "Number": 1.666
+    },
+    {
+      "ID": 31,
+      "DamageRatio": 37.58,
+      "Type": 2,
+      "ItemID": 3050001,
+      "Number": 1.5454545455
+    },
+    {
+      "ID": 32,
+      "DamageRatio": 40.09,
+      "Type": 3,
+      "ItemID": 71,
+      "Number": 2.5
+    },
+    {
+      "ID": 33,
+      "DamageRatio": 42.6,
+      "Type": 1,
+      "ItemID": 1,
+      "Number": 1.666
+    },
+    {
+      "ID": 34,
+      "DamageRatio": 45.1,
+      "Type": 2,
+      "ItemID": 3050001,
+      "Number": 1.5454545455
+    },
+    {
+      "ID": 35,
+      "DamageRatio": 47.61,
+      "Type": 1,
+      "ItemID": 1,
+      "Number": 1.666
+    },
+    {
+      "ID": 36,
+      "DamageRatio": 50.12,
+      "Type": 3,
+      "ItemID": 71,
+      "Number": 2.5
+    },
+    {
+      "ID": 37,
+      "DamageRatio": 51.37,
+      "Type": 1,
+      "ItemID": 1,
+      "Number": 1.666
+    },
+    {
+      "ID": 38,
+      "DamageRatio": 52.62,
+      "Type": 2,
+      "ItemID": 3050001,
+      "Number": 2.0
+    },
+    {
+      "ID": 39,
+      "DamageRatio": 53.87,
+      "Type": 1,
+      "ItemID": 1,
+      "Number": 1.666
+    },
+    {
+      "ID": 40,
+      "DamageRatio": 55.13,
+      "Type": 0,
+      "ItemID": 20200002,
+      "Number": 1.0
+    }
+  ]
+}

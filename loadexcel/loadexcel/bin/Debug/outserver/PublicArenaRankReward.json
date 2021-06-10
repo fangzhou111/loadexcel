@@ -1,0 +1,364 @@
+{
+  "PublicArenaRankReward": [
+    {
+      "RewardID": 1,
+      "Order": 1,
+      "RewardCondition": 0,
+      "RewardItemID": 53,
+      "RewardItemNum": 20000,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 2,
+      "Order": 2,
+      "RewardCondition": 0,
+      "RewardItemID": 53,
+      "RewardItemNum": 15000,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 3,
+      "Order": 3,
+      "RewardCondition": 0,
+      "RewardItemID": 53,
+      "RewardItemNum": 12000,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 4,
+      "Order": 5,
+      "RewardCondition": 0,
+      "RewardItemID": 53,
+      "RewardItemNum": 10000,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 5,
+      "Order": 10,
+      "RewardCondition": 0,
+      "RewardItemID": 53,
+      "RewardItemNum": 9000,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 6,
+      "Order": 20,
+      "RewardCondition": 0,
+      "RewardItemID": 53,
+      "RewardItemNum": 8000,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 7,
+      "Order": 30,
+      "RewardCondition": 0,
+      "RewardItemID": 53,
+      "RewardItemNum": 7000,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 8,
+      "Order": 50,
+      "RewardCondition": 0,
+      "RewardItemID": 53,
+      "RewardItemNum": 6000,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 9,
+      "Order": 70,
+      "RewardCondition": 0,
+      "RewardItemID": 53,
+      "RewardItemNum": 5500,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 10,
+      "Order": 100,
+      "RewardCondition": 0,
+      "RewardItemID": 53,
+      "RewardItemNum": 5000,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 11,
+      "Order": 150,
+      "RewardCondition": 0,
+      "RewardItemID": 53,
+      "RewardItemNum": 4500,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 12,
+      "Order": 200,
+      "RewardCondition": 0,
+      "RewardItemID": 53,
+      "RewardItemNum": 4000,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 13,
+      "Order": 500,
+      "RewardCondition": 0,
+      "RewardItemID": 53,
+      "RewardItemNum": 3000,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 14,
+      "Order": 9999,
+      "RewardCondition": 0,
+      "RewardItemID": 53,
+      "RewardItemNum": 2000,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 15,
+      "Order": 1,
+      "RewardCondition": 0,
+      "RewardItemID": 1,
+      "RewardItemNum": 500000,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 16,
+      "Order": 2,
+      "RewardCondition": 0,
+      "RewardItemID": 1,
+      "RewardItemNum": 400000,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 17,
+      "Order": 3,
+      "RewardCondition": 0,
+      "RewardItemID": 1,
+      "RewardItemNum": 350000,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 18,
+      "Order": 5,
+      "RewardCondition": 0,
+      "RewardItemID": 1,
+      "RewardItemNum": 300000,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 19,
+      "Order": 10,
+      "RewardCondition": 0,
+      "RewardItemID": 1,
+      "RewardItemNum": 250000,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 20,
+      "Order": 20,
+      "RewardCondition": 0,
+      "RewardItemID": 1,
+      "RewardItemNum": 200000,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 21,
+      "Order": 30,
+      "RewardCondition": 0,
+      "RewardItemID": 1,
+      "RewardItemNum": 180000,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 22,
+      "Order": 50,
+      "RewardCondition": 0,
+      "RewardItemID": 1,
+      "RewardItemNum": 160000,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 23,
+      "Order": 70,
+      "RewardCondition": 0,
+      "RewardItemID": 1,
+      "RewardItemNum": 140000,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 24,
+      "Order": 100,
+      "RewardCondition": 0,
+      "RewardItemID": 1,
+      "RewardItemNum": 120000,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 25,
+      "Order": 150,
+      "RewardCondition": 0,
+      "RewardItemID": 1,
+      "RewardItemNum": 100000,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 26,
+      "Order": 200,
+      "RewardCondition": 0,
+      "RewardItemID": 1,
+      "RewardItemNum": 90000,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 27,
+      "Order": 500,
+      "RewardCondition": 0,
+      "RewardItemID": 1,
+      "RewardItemNum": 80000,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 28,
+      "Order": 9999,
+      "RewardCondition": 0,
+      "RewardItemID": 1,
+      "RewardItemNum": 60000,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 29,
+      "Order": 1,
+      "RewardCondition": 0,
+      "RewardItemID": 518020,
+      "RewardItemNum": 50,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 30,
+      "Order": 2,
+      "RewardCondition": 0,
+      "RewardItemID": 518020,
+      "RewardItemNum": 30,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 31,
+      "Order": 3,
+      "RewardCondition": 0,
+      "RewardItemID": 518020,
+      "RewardItemNum": 20,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 32,
+      "Order": 5,
+      "RewardCondition": 0,
+      "RewardItemID": 518020,
+      "RewardItemNum": 18,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 33,
+      "Order": 10,
+      "RewardCondition": 0,
+      "RewardItemID": 518020,
+      "RewardItemNum": 16,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 34,
+      "Order": 20,
+      "RewardCondition": 0,
+      "RewardItemID": 518020,
+      "RewardItemNum": 14,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 35,
+      "Order": 30,
+      "RewardCondition": 0,
+      "RewardItemID": 518020,
+      "RewardItemNum": 12,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 36,
+      "Order": 50,
+      "RewardCondition": 0,
+      "RewardItemID": 518020,
+      "RewardItemNum": 10,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 37,
+      "Order": 70,
+      "RewardCondition": 0,
+      "RewardItemID": 518020,
+      "RewardItemNum": 8,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 38,
+      "Order": 100,
+      "RewardCondition": 0,
+      "RewardItemID": 518020,
+      "RewardItemNum": 6,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 39,
+      "Order": 150,
+      "RewardCondition": 0,
+      "RewardItemID": 518020,
+      "RewardItemNum": 4,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    },
+    {
+      "RewardID": 40,
+      "Order": 200,
+      "RewardCondition": 0,
+      "RewardItemID": 518020,
+      "RewardItemNum": 2,
+      "RewardProbability": 1000000,
+      "RewardPreview": 1
+    }
+  ]
+}

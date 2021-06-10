@@ -1,0 +1,580 @@
+{
+  "RunesName": [
+    {
+      "SuitID": 101,
+      "SuitName": "闪击",
+      "RunesPart": 1,
+      "Name": "闪击.狂暴",
+      "Text": "强大的攻击符文，能大幅提高攻击能力。",
+      "icon": 40001
+    },
+    {
+      "SuitID": 101,
+      "SuitName": "闪击",
+      "RunesPart": 2,
+      "Name": "闪击.血性",
+      "Text": "神秘的符文，随机产生灼伤增加、毒伤增加、最终增伤能力中的一种。",
+      "icon": 40001
+    },
+    {
+      "SuitID": 101,
+      "SuitName": "闪击",
+      "RunesPart": 3,
+      "Name": "闪击.坚韧",
+      "Text": "防御符文，能提供大量的物理防御。",
+      "icon": 40001
+    },
+    {
+      "SuitID": 101,
+      "SuitName": "闪击",
+      "RunesPart": 4,
+      "Name": "闪击.石肤",
+      "Text": "附加石灵之力的符文，随机产生灼伤降低、毒伤降低、最终减伤中的一种。",
+      "icon": 40001
+    },
+    {
+      "SuitID": 101,
+      "SuitName": "闪击",
+      "RunesPart": 5,
+      "Name": "闪击.魔灵",
+      "Text": "防御符文，能提供大量的魔法防御。",
+      "icon": 40001
+    },
+    {
+      "SuitID": 101,
+      "SuitName": "闪击",
+      "RunesPart": 6,
+      "Name": "闪击.不屈",
+      "Text": "捉摸不定的符文，随机产生生命、物攻、魔攻属性中的一种。",
+      "icon": 40001
+    },
+    {
+      "SuitID": 107,
+      "SuitName": "血牙",
+      "RunesPart": 1,
+      "Name": "血牙.狂暴",
+      "Text": "强大的攻击符文，能大幅提高攻击能力。",
+      "icon": 40007
+    },
+    {
+      "SuitID": 107,
+      "SuitName": "血牙",
+      "RunesPart": 2,
+      "Name": "血牙.血性",
+      "Text": "神秘的符文，随机产生灼伤增加、毒伤增加、最终增伤能力中的一种。",
+      "icon": 40007
+    },
+    {
+      "SuitID": 107,
+      "SuitName": "血牙",
+      "RunesPart": 3,
+      "Name": "血牙.坚韧",
+      "Text": "防御符文，能提供大量的物理防御。",
+      "icon": 40007
+    },
+    {
+      "SuitID": 107,
+      "SuitName": "血牙",
+      "RunesPart": 4,
+      "Name": "血牙.石肤",
+      "Text": "附加石灵之力的符文，随机产生灼伤降低、毒伤降低、最终减伤中的一种。",
+      "icon": 40007
+    },
+    {
+      "SuitID": 107,
+      "SuitName": "血牙",
+      "RunesPart": 5,
+      "Name": "血牙.魔灵",
+      "Text": "防御符文，能提供大量的魔法防御。",
+      "icon": 40007
+    },
+    {
+      "SuitID": 107,
+      "SuitName": "血牙",
+      "RunesPart": 6,
+      "Name": "血牙.不屈",
+      "Text": "捉摸不定的符文，随机产生生命、物攻、魔攻属性中的一种。",
+      "icon": 40007
+    },
+    {
+      "SuitID": 110,
+      "SuitName": "破胆",
+      "RunesPart": 1,
+      "Name": "破胆.狂暴",
+      "Text": "强大的攻击符文，能大幅提高攻击能力。",
+      "icon": 40010
+    },
+    {
+      "SuitID": 110,
+      "SuitName": "破胆",
+      "RunesPart": 2,
+      "Name": "破胆.血性",
+      "Text": "神秘的符文，随机产生灼伤增加、毒伤增加、最终增伤能力中的一种。",
+      "icon": 40010
+    },
+    {
+      "SuitID": 110,
+      "SuitName": "破胆",
+      "RunesPart": 3,
+      "Name": "破胆.坚韧",
+      "Text": "防御符文，能提供大量的物理防御。",
+      "icon": 40010
+    },
+    {
+      "SuitID": 110,
+      "SuitName": "破胆",
+      "RunesPart": 4,
+      "Name": "破胆.石肤",
+      "Text": "附加石灵之力的符文，随机产生灼伤降低、毒伤降低、最终减伤中的一种。",
+      "icon": 40010
+    },
+    {
+      "SuitID": 110,
+      "SuitName": "破胆",
+      "RunesPart": 5,
+      "Name": "破胆.魔灵",
+      "Text": "防御符文，能提供大量的魔法防御。",
+      "icon": 40010
+    },
+    {
+      "SuitID": 110,
+      "SuitName": "破胆",
+      "RunesPart": 6,
+      "Name": "破胆.不屈",
+      "Text": "捉摸不定的符文，随机产生生命、物攻、魔攻属性中的一种。",
+      "icon": 40010
+    },
+    {
+      "SuitID": 111,
+      "SuitName": "巨龙",
+      "RunesPart": 1,
+      "Name": "巨龙.狂暴",
+      "Text": "强大的攻击符文，能大幅提高攻击能力。",
+      "icon": 40011
+    },
+    {
+      "SuitID": 111,
+      "SuitName": "巨龙",
+      "RunesPart": 2,
+      "Name": "巨龙.血性",
+      "Text": "神秘的符文，随机产生灼伤增加、毒伤增加、最终增伤能力中的一种。",
+      "icon": 40011
+    },
+    {
+      "SuitID": 111,
+      "SuitName": "巨龙",
+      "RunesPart": 3,
+      "Name": "巨龙.坚韧",
+      "Text": "防御符文，能提供大量的物理防御。",
+      "icon": 40011
+    },
+    {
+      "SuitID": 111,
+      "SuitName": "巨龙",
+      "RunesPart": 4,
+      "Name": "巨龙.石肤",
+      "Text": "附加石灵之力的符文，随机产生灼伤降低、毒伤降低、最终减伤中的一种。",
+      "icon": 40011
+    },
+    {
+      "SuitID": 111,
+      "SuitName": "巨龙",
+      "RunesPart": 5,
+      "Name": "巨龙.魔灵",
+      "Text": "防御符文，能提供大量的魔法防御。",
+      "icon": 40011
+    },
+    {
+      "SuitID": 111,
+      "SuitName": "巨龙",
+      "RunesPart": 6,
+      "Name": "巨龙.不屈",
+      "Text": "捉摸不定的符文，随机产生生命、物攻、魔攻属性中的一种。",
+      "icon": 40011
+    },
+    {
+      "SuitID": 113,
+      "SuitName": "破釜",
+      "RunesPart": 1,
+      "Name": "破釜.狂暴",
+      "Text": "强大的攻击符文，能大幅提高攻击能力。",
+      "icon": 40013
+    },
+    {
+      "SuitID": 113,
+      "SuitName": "破釜",
+      "RunesPart": 2,
+      "Name": "破釜.血性",
+      "Text": "神秘的符文，随机产生灼伤增加、毒伤增加、最终增伤能力中的一种。",
+      "icon": 40013
+    },
+    {
+      "SuitID": 113,
+      "SuitName": "破釜",
+      "RunesPart": 3,
+      "Name": "破釜.坚韧",
+      "Text": "防御符文，能提供大量的物理防御。",
+      "icon": 40013
+    },
+    {
+      "SuitID": 113,
+      "SuitName": "破釜",
+      "RunesPart": 4,
+      "Name": "破釜.石肤",
+      "Text": "附加石灵之力的符文，随机产生灼伤降低、毒伤降低、最终减伤中的一种。",
+      "icon": 40013
+    },
+    {
+      "SuitID": 113,
+      "SuitName": "破釜",
+      "RunesPart": 5,
+      "Name": "破釜.魔灵",
+      "Text": "防御符文，能提供大量的魔法防御。",
+      "icon": 40013
+    },
+    {
+      "SuitID": 113,
+      "SuitName": "破釜",
+      "RunesPart": 6,
+      "Name": "破釜.不屈",
+      "Text": "捉摸不定的符文，随机产生生命、物攻、魔攻属性中的一种。",
+      "icon": 40013
+    },
+    {
+      "SuitID": 114,
+      "SuitName": "堡垒",
+      "RunesPart": 1,
+      "Name": "堡垒.狂暴",
+      "Text": "强大的攻击符文，能大幅提高攻击能力。",
+      "icon": 40014
+    },
+    {
+      "SuitID": 114,
+      "SuitName": "堡垒",
+      "RunesPart": 2,
+      "Name": "堡垒.血性",
+      "Text": "神秘的符文，随机产生灼伤增加、毒伤增加、最终增伤能力中的一种。",
+      "icon": 40014
+    },
+    {
+      "SuitID": 114,
+      "SuitName": "堡垒",
+      "RunesPart": 3,
+      "Name": "堡垒.坚韧",
+      "Text": "防御符文，能提供大量的物理防御。",
+      "icon": 40014
+    },
+    {
+      "SuitID": 114,
+      "SuitName": "堡垒",
+      "RunesPart": 4,
+      "Name": "堡垒.石肤",
+      "Text": "附加石灵之力的符文，随机产生灼伤降低、毒伤降低、最终减伤中的一种。",
+      "icon": 40014
+    },
+    {
+      "SuitID": 114,
+      "SuitName": "堡垒",
+      "RunesPart": 5,
+      "Name": "堡垒.魔灵",
+      "Text": "防御符文，能提供大量的魔法防御。",
+      "icon": 40014
+    },
+    {
+      "SuitID": 114,
+      "SuitName": "堡垒",
+      "RunesPart": 6,
+      "Name": "堡垒.不屈",
+      "Text": "捉摸不定的符文，随机产生生命、物攻、魔攻属性中的一种。",
+      "icon": 40014
+    },
+    {
+      "SuitID": 115,
+      "SuitName": "不屈",
+      "RunesPart": 1,
+      "Name": "不屈.狂暴",
+      "Text": "强大的攻击符文，能大幅提高攻击能力。",
+      "icon": 40015
+    },
+    {
+      "SuitID": 115,
+      "SuitName": "不屈",
+      "RunesPart": 2,
+      "Name": "不屈.血性",
+      "Text": "神秘的符文，随机产生灼伤增加、毒伤增加、最终增伤能力中的一种。",
+      "icon": 40015
+    },
+    {
+      "SuitID": 115,
+      "SuitName": "不屈",
+      "RunesPart": 3,
+      "Name": "不屈.坚韧",
+      "Text": "防御符文，能提供大量的物理防御。",
+      "icon": 40015
+    },
+    {
+      "SuitID": 115,
+      "SuitName": "不屈",
+      "RunesPart": 4,
+      "Name": "不屈.石肤",
+      "Text": "附加石灵之力的符文，随机产生灼伤降低、毒伤降低、最终减伤中的一种。",
+      "icon": 40015
+    },
+    {
+      "SuitID": 115,
+      "SuitName": "不屈",
+      "RunesPart": 5,
+      "Name": "不屈.魔灵",
+      "Text": "防御符文，能提供大量的魔法防御。",
+      "icon": 40015
+    },
+    {
+      "SuitID": 115,
+      "SuitName": "不屈",
+      "RunesPart": 6,
+      "Name": "不屈.不屈",
+      "Text": "捉摸不定的符文，随机产生生命、物攻、魔攻属性中的一种。",
+      "icon": 40015
+    },
+    {
+      "SuitID": 116,
+      "SuitName": "固守",
+      "RunesPart": 1,
+      "Name": "固守.狂暴",
+      "Text": "强大的攻击符文，能大幅提高攻击能力。",
+      "icon": 40016
+    },
+    {
+      "SuitID": 116,
+      "SuitName": "固守",
+      "RunesPart": 2,
+      "Name": "固守.血性",
+      "Text": "神秘的符文，随机产生灼伤增加、毒伤增加、最终增伤能力中的一种。",
+      "icon": 40016
+    },
+    {
+      "SuitID": 116,
+      "SuitName": "固守",
+      "RunesPart": 3,
+      "Name": "固守.坚韧",
+      "Text": "防御符文，能提供大量的物理防御。",
+      "icon": 40016
+    },
+    {
+      "SuitID": 116,
+      "SuitName": "固守",
+      "RunesPart": 4,
+      "Name": "固守.石肤",
+      "Text": "附加石灵之力的符文，随机产生灼伤降低、毒伤降低、最终减伤中的一种。",
+      "icon": 40016
+    },
+    {
+      "SuitID": 116,
+      "SuitName": "固守",
+      "RunesPart": 5,
+      "Name": "固守.魔灵",
+      "Text": "防御符文，能提供大量的魔法防御。",
+      "icon": 40016
+    },
+    {
+      "SuitID": 116,
+      "SuitName": "固守",
+      "RunesPart": 6,
+      "Name": "固守.不屈",
+      "Text": "捉摸不定的符文，随机产生生命、物攻、魔攻属性中的一种。",
+      "icon": 40016
+    },
+    {
+      "SuitID": 117,
+      "SuitName": "甘霖",
+      "RunesPart": 1,
+      "Name": "甘霖.狂暴",
+      "Text": "强大的攻击符文，能大幅提高攻击能力。",
+      "icon": 40017
+    },
+    {
+      "SuitID": 117,
+      "SuitName": "甘霖",
+      "RunesPart": 2,
+      "Name": "甘霖.血性",
+      "Text": "神秘的符文，随机产生灼伤增加、毒伤增加、最终增伤能力中的一种。",
+      "icon": 40017
+    },
+    {
+      "SuitID": 117,
+      "SuitName": "甘霖",
+      "RunesPart": 3,
+      "Name": "甘霖.坚韧",
+      "Text": "防御符文，能提供大量的物理防御。",
+      "icon": 40017
+    },
+    {
+      "SuitID": 117,
+      "SuitName": "甘霖",
+      "RunesPart": 4,
+      "Name": "甘霖.石肤",
+      "Text": "附加石灵之力的符文，随机产生灼伤降低、毒伤降低、最终减伤中的一种。",
+      "icon": 40017
+    },
+    {
+      "SuitID": 117,
+      "SuitName": "甘霖",
+      "RunesPart": 5,
+      "Name": "甘霖.魔灵",
+      "Text": "防御符文，能提供大量的魔法防御。",
+      "icon": 40017
+    },
+    {
+      "SuitID": 117,
+      "SuitName": "甘霖",
+      "RunesPart": 6,
+      "Name": "甘霖.不屈",
+      "Text": "捉摸不定的符文，随机产生生命、物攻、魔攻属性中的一种。",
+      "icon": 40017
+    },
+    {
+      "SuitID": 118,
+      "SuitName": "回春",
+      "RunesPart": 1,
+      "Name": "回春.狂暴",
+      "Text": "强大的攻击符文，能大幅提高攻击能力。",
+      "icon": 40018
+    },
+    {
+      "SuitID": 118,
+      "SuitName": "回春",
+      "RunesPart": 2,
+      "Name": "回春.血性",
+      "Text": "神秘的符文，随机产生灼伤增加、毒伤增加、最终增伤能力中的一种。",
+      "icon": 40018
+    },
+    {
+      "SuitID": 118,
+      "SuitName": "回春",
+      "RunesPart": 3,
+      "Name": "回春.坚韧",
+      "Text": "防御符文，能提供大量的物理防御。",
+      "icon": 40018
+    },
+    {
+      "SuitID": 118,
+      "SuitName": "回春",
+      "RunesPart": 4,
+      "Name": "回春.石肤",
+      "Text": "附加石灵之力的符文，随机产生灼伤降低、毒伤降低、最终减伤中的一种。",
+      "icon": 40018
+    },
+    {
+      "SuitID": 118,
+      "SuitName": "回春",
+      "RunesPart": 5,
+      "Name": "回春.魔灵",
+      "Text": "防御符文，能提供大量的魔法防御。",
+      "icon": 40018
+    },
+    {
+      "SuitID": 118,
+      "SuitName": "回春",
+      "RunesPart": 6,
+      "Name": "回春.不屈",
+      "Text": "捉摸不定的符文，随机产生生命、物攻、魔攻属性中的一种。",
+      "icon": 40018
+    },
+    {
+      "SuitID": 119,
+      "SuitName": "激流",
+      "RunesPart": 1,
+      "Name": "激流.狂暴",
+      "Text": "强大的攻击符文，能大幅提高攻击能力。",
+      "icon": 40019
+    },
+    {
+      "SuitID": 119,
+      "SuitName": "激流",
+      "RunesPart": 2,
+      "Name": "激流.血性",
+      "Text": "神秘的符文，随机产生灼伤增加、毒伤增加、最终增伤能力中的一种。",
+      "icon": 40019
+    },
+    {
+      "SuitID": 119,
+      "SuitName": "激流",
+      "RunesPart": 3,
+      "Name": "激流.坚韧",
+      "Text": "防御符文，能提供大量的物理防御。",
+      "icon": 40019
+    },
+    {
+      "SuitID": 119,
+      "SuitName": "激流",
+      "RunesPart": 4,
+      "Name": "激流.石肤",
+      "Text": "附加石灵之力的符文，随机产生灼伤降低、毒伤降低、最终减伤中的一种。",
+      "icon": 40019
+    },
+    {
+      "SuitID": 119,
+      "SuitName": "激流",
+      "RunesPart": 5,
+      "Name": "激流.魔灵",
+      "Text": "防御符文，能提供大量的魔法防御。",
+      "icon": 40019
+    },
+    {
+      "SuitID": 119,
+      "SuitName": "激流",
+      "RunesPart": 6,
+      "Name": "激流.不屈",
+      "Text": "捉摸不定的符文，随机产生生命、物攻、魔攻属性中的一种。",
+      "icon": 40019
+    },
+    {
+      "SuitID": 120,
+      "SuitName": "神赐",
+      "RunesPart": 1,
+      "Name": "神赐.狂暴",
+      "Text": "强大的攻击符文，能大幅提高攻击能力。",
+      "icon": 40020
+    },
+    {
+      "SuitID": 120,
+      "SuitName": "神赐",
+      "RunesPart": 2,
+      "Name": "神赐.血性",
+      "Text": "神秘的符文，随机产生灼伤增加、毒伤增加、最终增伤能力中的一种。",
+      "icon": 40020
+    },
+    {
+      "SuitID": 120,
+      "SuitName": "神赐",
+      "RunesPart": 3,
+      "Name": "神赐.坚韧",
+      "Text": "防御符文，能提供大量的物理防御。",
+      "icon": 40020
+    },
+    {
+      "SuitID": 120,
+      "SuitName": "神赐",
+      "RunesPart": 4,
+      "Name": "神赐.石肤",
+      "Text": "附加石灵之力的符文，随机产生灼伤降低、毒伤降低、最终减伤中的一种。",
+      "icon": 40020
+    },
+    {
+      "SuitID": 120,
+      "SuitName": "神赐",
+      "RunesPart": 5,
+      "Name": "神赐.魔灵",
+      "Text": "防御符文，能提供大量的魔法防御。",
+      "icon": 40020
+    },
+    {
+      "SuitID": 120,
+      "SuitName": "神赐",
+      "RunesPart": 6,
+      "Name": "神赐.不屈",
+      "Text": "捉摸不定的符文，随机产生生命、物攻、魔攻属性中的一种。",
+      "icon": 40020
+    }
+  ]
+}

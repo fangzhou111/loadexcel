@@ -1,0 +1,2860 @@
+{
+  "HeroTalentCost": [
+    {
+      "TalentStep": 0,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 1,
+      "Probability": 10000
+    },
+    {
+      "TalentStep": 0,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 2,
+      "Probability": 10000
+    },
+    {
+      "TalentStep": 0,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 2,
+      "Probability": 10000
+    },
+    {
+      "TalentStep": 0,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 3,
+      "Probability": 10000
+    },
+    {
+      "TalentStep": 0,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 4,
+      "Probability": 10000
+    },
+    {
+      "TalentStep": 0,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 4,
+      "Probability": 10000
+    },
+    {
+      "TalentStep": 0,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 5,
+      "Probability": 10000
+    },
+    {
+      "TalentStep": 0,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 6,
+      "Probability": 10000
+    },
+    {
+      "TalentStep": 1,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 1,
+      "Probability": 10000
+    },
+    {
+      "TalentStep": 1,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 2,
+      "Probability": 10000
+    },
+    {
+      "TalentStep": 1,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 2,
+      "Probability": 10000
+    },
+    {
+      "TalentStep": 1,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 3,
+      "Probability": 10000
+    },
+    {
+      "TalentStep": 1,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 4,
+      "Probability": 10000
+    },
+    {
+      "TalentStep": 1,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 4,
+      "Probability": 10000
+    },
+    {
+      "TalentStep": 1,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 5,
+      "Probability": 10000
+    },
+    {
+      "TalentStep": 1,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 6,
+      "Probability": 10000
+    },
+    {
+      "TalentStep": 2,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 1,
+      "Probability": 10000
+    },
+    {
+      "TalentStep": 2,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 2,
+      "Probability": 10000
+    },
+    {
+      "TalentStep": 2,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 2,
+      "Probability": 10000
+    },
+    {
+      "TalentStep": 2,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 3,
+      "Probability": 10000
+    },
+    {
+      "TalentStep": 2,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 4,
+      "Probability": 10000
+    },
+    {
+      "TalentStep": 2,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 4,
+      "Probability": 10000
+    },
+    {
+      "TalentStep": 2,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 5,
+      "Probability": 9500
+    },
+    {
+      "TalentStep": 2,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 6,
+      "Probability": 9000
+    },
+    {
+      "TalentStep": 3,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 1,
+      "Probability": 10000
+    },
+    {
+      "TalentStep": 3,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 2,
+      "Probability": 10000
+    },
+    {
+      "TalentStep": 3,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 2,
+      "Probability": 10000
+    },
+    {
+      "TalentStep": 3,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 3,
+      "Probability": 10000
+    },
+    {
+      "TalentStep": 3,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 4,
+      "Probability": 9500
+    },
+    {
+      "TalentStep": 3,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 4,
+      "Probability": 9000
+    },
+    {
+      "TalentStep": 3,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 5,
+      "Probability": 8500
+    },
+    {
+      "TalentStep": 3,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 6,
+      "Probability": 8000
+    },
+    {
+      "TalentStep": 4,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 1,
+      "Probability": 10000
+    },
+    {
+      "TalentStep": 4,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 2,
+      "Probability": 10000
+    },
+    {
+      "TalentStep": 4,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 2,
+      "Probability": 9500
+    },
+    {
+      "TalentStep": 4,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 3,
+      "Probability": 9000
+    },
+    {
+      "TalentStep": 4,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 4,
+      "Probability": 8500
+    },
+    {
+      "TalentStep": 4,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 4,
+      "Probability": 8000
+    },
+    {
+      "TalentStep": 4,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 5,
+      "Probability": 7500
+    },
+    {
+      "TalentStep": 4,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 6,
+      "Probability": 7000
+    },
+    {
+      "TalentStep": 5,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 2,
+      "Probability": 9500
+    },
+    {
+      "TalentStep": 5,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 4,
+      "Probability": 9000
+    },
+    {
+      "TalentStep": 5,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 5,
+      "Probability": 8500
+    },
+    {
+      "TalentStep": 5,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 6,
+      "Probability": 8000
+    },
+    {
+      "TalentStep": 5,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 8,
+      "Probability": 7500
+    },
+    {
+      "TalentStep": 5,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 8,
+      "Probability": 7000
+    },
+    {
+      "TalentStep": 5,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 10,
+      "Probability": 6500
+    },
+    {
+      "TalentStep": 5,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 12,
+      "Probability": 6000
+    },
+    {
+      "TalentStep": 6,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 2,
+      "Probability": 9500
+    },
+    {
+      "TalentStep": 6,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 4,
+      "Probability": 9000
+    },
+    {
+      "TalentStep": 6,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 5,
+      "Probability": 8500
+    },
+    {
+      "TalentStep": 6,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 6,
+      "Probability": 8000
+    },
+    {
+      "TalentStep": 6,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 8,
+      "Probability": 7500
+    },
+    {
+      "TalentStep": 6,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 8,
+      "Probability": 7000
+    },
+    {
+      "TalentStep": 6,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 10,
+      "Probability": 6500
+    },
+    {
+      "TalentStep": 6,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 12,
+      "Probability": 6000
+    },
+    {
+      "TalentStep": 7,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 2,
+      "Probability": 9400
+    },
+    {
+      "TalentStep": 7,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 4,
+      "Probability": 8900
+    },
+    {
+      "TalentStep": 7,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 5,
+      "Probability": 8400
+    },
+    {
+      "TalentStep": 7,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 6,
+      "Probability": 7900
+    },
+    {
+      "TalentStep": 7,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 8,
+      "Probability": 7400
+    },
+    {
+      "TalentStep": 7,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 8,
+      "Probability": 6900
+    },
+    {
+      "TalentStep": 7,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 10,
+      "Probability": 6400
+    },
+    {
+      "TalentStep": 7,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 12,
+      "Probability": 5900
+    },
+    {
+      "TalentStep": 8,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 2,
+      "Probability": 9300
+    },
+    {
+      "TalentStep": 8,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 4,
+      "Probability": 8800
+    },
+    {
+      "TalentStep": 8,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 5,
+      "Probability": 8300
+    },
+    {
+      "TalentStep": 8,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 6,
+      "Probability": 7800
+    },
+    {
+      "TalentStep": 8,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 8,
+      "Probability": 7300
+    },
+    {
+      "TalentStep": 8,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 8,
+      "Probability": 6800
+    },
+    {
+      "TalentStep": 8,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 10,
+      "Probability": 6300
+    },
+    {
+      "TalentStep": 8,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 12,
+      "Probability": 5800
+    },
+    {
+      "TalentStep": 9,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 2,
+      "Probability": 9200
+    },
+    {
+      "TalentStep": 9,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 4,
+      "Probability": 8700
+    },
+    {
+      "TalentStep": 9,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 5,
+      "Probability": 8200
+    },
+    {
+      "TalentStep": 9,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 6,
+      "Probability": 7700
+    },
+    {
+      "TalentStep": 9,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 8,
+      "Probability": 7200
+    },
+    {
+      "TalentStep": 9,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 8,
+      "Probability": 6700
+    },
+    {
+      "TalentStep": 9,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 10,
+      "Probability": 6200
+    },
+    {
+      "TalentStep": 9,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 12,
+      "Probability": 5700
+    },
+    {
+      "TalentStep": 10,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 3,
+      "Probability": 9100
+    },
+    {
+      "TalentStep": 10,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 6,
+      "Probability": 8600
+    },
+    {
+      "TalentStep": 10,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 8,
+      "Probability": 8100
+    },
+    {
+      "TalentStep": 10,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 9,
+      "Probability": 7600
+    },
+    {
+      "TalentStep": 10,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 12,
+      "Probability": 7100
+    },
+    {
+      "TalentStep": 10,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 12,
+      "Probability": 6600
+    },
+    {
+      "TalentStep": 10,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 15,
+      "Probability": 6100
+    },
+    {
+      "TalentStep": 10,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 18,
+      "Probability": 5600
+    },
+    {
+      "TalentStep": 11,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 3,
+      "Probability": 9000
+    },
+    {
+      "TalentStep": 11,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 6,
+      "Probability": 8500
+    },
+    {
+      "TalentStep": 11,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 8,
+      "Probability": 8000
+    },
+    {
+      "TalentStep": 11,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 9,
+      "Probability": 7500
+    },
+    {
+      "TalentStep": 11,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 12,
+      "Probability": 7000
+    },
+    {
+      "TalentStep": 11,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 12,
+      "Probability": 6500
+    },
+    {
+      "TalentStep": 11,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 15,
+      "Probability": 6000
+    },
+    {
+      "TalentStep": 11,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 18,
+      "Probability": 5500
+    },
+    {
+      "TalentStep": 12,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 3,
+      "Probability": 8900
+    },
+    {
+      "TalentStep": 12,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 6,
+      "Probability": 8400
+    },
+    {
+      "TalentStep": 12,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 8,
+      "Probability": 7900
+    },
+    {
+      "TalentStep": 12,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 9,
+      "Probability": 7400
+    },
+    {
+      "TalentStep": 12,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 12,
+      "Probability": 6900
+    },
+    {
+      "TalentStep": 12,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 12,
+      "Probability": 6400
+    },
+    {
+      "TalentStep": 12,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 15,
+      "Probability": 5900
+    },
+    {
+      "TalentStep": 12,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 18,
+      "Probability": 5400
+    },
+    {
+      "TalentStep": 13,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 3,
+      "Probability": 8800
+    },
+    {
+      "TalentStep": 13,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 6,
+      "Probability": 8300
+    },
+    {
+      "TalentStep": 13,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 8,
+      "Probability": 7800
+    },
+    {
+      "TalentStep": 13,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 9,
+      "Probability": 7300
+    },
+    {
+      "TalentStep": 13,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 12,
+      "Probability": 6800
+    },
+    {
+      "TalentStep": 13,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 12,
+      "Probability": 6300
+    },
+    {
+      "TalentStep": 13,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 15,
+      "Probability": 5800
+    },
+    {
+      "TalentStep": 13,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 18,
+      "Probability": 5300
+    },
+    {
+      "TalentStep": 14,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 3,
+      "Probability": 8700
+    },
+    {
+      "TalentStep": 14,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 6,
+      "Probability": 8200
+    },
+    {
+      "TalentStep": 14,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 8,
+      "Probability": 7700
+    },
+    {
+      "TalentStep": 14,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 9,
+      "Probability": 7200
+    },
+    {
+      "TalentStep": 14,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 12,
+      "Probability": 6700
+    },
+    {
+      "TalentStep": 14,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 12,
+      "Probability": 6200
+    },
+    {
+      "TalentStep": 14,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 15,
+      "Probability": 5700
+    },
+    {
+      "TalentStep": 14,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 18,
+      "Probability": 5200
+    },
+    {
+      "TalentStep": 15,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 4,
+      "Probability": 8600
+    },
+    {
+      "TalentStep": 15,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 8,
+      "Probability": 8100
+    },
+    {
+      "TalentStep": 15,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 11,
+      "Probability": 7600
+    },
+    {
+      "TalentStep": 15,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 12,
+      "Probability": 7100
+    },
+    {
+      "TalentStep": 15,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 16,
+      "Probability": 6600
+    },
+    {
+      "TalentStep": 15,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 16,
+      "Probability": 6100
+    },
+    {
+      "TalentStep": 15,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 20,
+      "Probability": 5600
+    },
+    {
+      "TalentStep": 15,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 24,
+      "Probability": 5100
+    },
+    {
+      "TalentStep": 16,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 4,
+      "Probability": 8500
+    },
+    {
+      "TalentStep": 16,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 8,
+      "Probability": 8000
+    },
+    {
+      "TalentStep": 16,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 11,
+      "Probability": 7500
+    },
+    {
+      "TalentStep": 16,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 12,
+      "Probability": 7000
+    },
+    {
+      "TalentStep": 16,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 16,
+      "Probability": 6500
+    },
+    {
+      "TalentStep": 16,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 16,
+      "Probability": 6000
+    },
+    {
+      "TalentStep": 16,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 20,
+      "Probability": 5500
+    },
+    {
+      "TalentStep": 16,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 24,
+      "Probability": 5000
+    },
+    {
+      "TalentStep": 17,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 4,
+      "Probability": 8400
+    },
+    {
+      "TalentStep": 17,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 8,
+      "Probability": 7900
+    },
+    {
+      "TalentStep": 17,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 11,
+      "Probability": 7400
+    },
+    {
+      "TalentStep": 17,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 12,
+      "Probability": 6900
+    },
+    {
+      "TalentStep": 17,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 16,
+      "Probability": 6400
+    },
+    {
+      "TalentStep": 17,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 16,
+      "Probability": 5900
+    },
+    {
+      "TalentStep": 17,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 20,
+      "Probability": 5400
+    },
+    {
+      "TalentStep": 17,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 24,
+      "Probability": 4900
+    },
+    {
+      "TalentStep": 18,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 4,
+      "Probability": 8300
+    },
+    {
+      "TalentStep": 18,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 8,
+      "Probability": 7800
+    },
+    {
+      "TalentStep": 18,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 11,
+      "Probability": 7300
+    },
+    {
+      "TalentStep": 18,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 12,
+      "Probability": 6800
+    },
+    {
+      "TalentStep": 18,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 16,
+      "Probability": 6300
+    },
+    {
+      "TalentStep": 18,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 16,
+      "Probability": 5800
+    },
+    {
+      "TalentStep": 18,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 20,
+      "Probability": 5300
+    },
+    {
+      "TalentStep": 18,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 24,
+      "Probability": 4800
+    },
+    {
+      "TalentStep": 19,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 4,
+      "Probability": 8200
+    },
+    {
+      "TalentStep": 19,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 8,
+      "Probability": 7700
+    },
+    {
+      "TalentStep": 19,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 11,
+      "Probability": 7200
+    },
+    {
+      "TalentStep": 19,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 12,
+      "Probability": 6700
+    },
+    {
+      "TalentStep": 19,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 16,
+      "Probability": 6200
+    },
+    {
+      "TalentStep": 19,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 16,
+      "Probability": 5700
+    },
+    {
+      "TalentStep": 19,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 20,
+      "Probability": 5200
+    },
+    {
+      "TalentStep": 19,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 24,
+      "Probability": 4700
+    },
+    {
+      "TalentStep": 20,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 5,
+      "Probability": 8100
+    },
+    {
+      "TalentStep": 20,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 10,
+      "Probability": 7600
+    },
+    {
+      "TalentStep": 20,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 14,
+      "Probability": 7100
+    },
+    {
+      "TalentStep": 20,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 15,
+      "Probability": 6600
+    },
+    {
+      "TalentStep": 20,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 20,
+      "Probability": 6100
+    },
+    {
+      "TalentStep": 20,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 20,
+      "Probability": 5600
+    },
+    {
+      "TalentStep": 20,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 25,
+      "Probability": 5100
+    },
+    {
+      "TalentStep": 20,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 30,
+      "Probability": 4600
+    },
+    {
+      "TalentStep": 21,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 5,
+      "Probability": 8000
+    },
+    {
+      "TalentStep": 21,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 10,
+      "Probability": 7500
+    },
+    {
+      "TalentStep": 21,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 14,
+      "Probability": 7000
+    },
+    {
+      "TalentStep": 21,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 15,
+      "Probability": 6500
+    },
+    {
+      "TalentStep": 21,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 20,
+      "Probability": 6000
+    },
+    {
+      "TalentStep": 21,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 20,
+      "Probability": 5500
+    },
+    {
+      "TalentStep": 21,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 25,
+      "Probability": 5000
+    },
+    {
+      "TalentStep": 21,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 30,
+      "Probability": 4500
+    },
+    {
+      "TalentStep": 22,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 5,
+      "Probability": 7900
+    },
+    {
+      "TalentStep": 22,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 10,
+      "Probability": 7400
+    },
+    {
+      "TalentStep": 22,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 14,
+      "Probability": 6900
+    },
+    {
+      "TalentStep": 22,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 15,
+      "Probability": 6400
+    },
+    {
+      "TalentStep": 22,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 20,
+      "Probability": 5900
+    },
+    {
+      "TalentStep": 22,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 20,
+      "Probability": 5400
+    },
+    {
+      "TalentStep": 22,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 25,
+      "Probability": 4900
+    },
+    {
+      "TalentStep": 22,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 30,
+      "Probability": 4400
+    },
+    {
+      "TalentStep": 23,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 5,
+      "Probability": 7800
+    },
+    {
+      "TalentStep": 23,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 10,
+      "Probability": 7300
+    },
+    {
+      "TalentStep": 23,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 14,
+      "Probability": 6800
+    },
+    {
+      "TalentStep": 23,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 15,
+      "Probability": 6300
+    },
+    {
+      "TalentStep": 23,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 20,
+      "Probability": 5800
+    },
+    {
+      "TalentStep": 23,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 20,
+      "Probability": 5300
+    },
+    {
+      "TalentStep": 23,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 25,
+      "Probability": 4800
+    },
+    {
+      "TalentStep": 23,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 30,
+      "Probability": 4300
+    },
+    {
+      "TalentStep": 24,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 5,
+      "Probability": 7700
+    },
+    {
+      "TalentStep": 24,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 10,
+      "Probability": 7200
+    },
+    {
+      "TalentStep": 24,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 14,
+      "Probability": 6700
+    },
+    {
+      "TalentStep": 24,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 15,
+      "Probability": 6200
+    },
+    {
+      "TalentStep": 24,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 20,
+      "Probability": 5700
+    },
+    {
+      "TalentStep": 24,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 20,
+      "Probability": 5200
+    },
+    {
+      "TalentStep": 24,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 25,
+      "Probability": 4700
+    },
+    {
+      "TalentStep": 24,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 30,
+      "Probability": 4200
+    },
+    {
+      "TalentStep": 25,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 6,
+      "Probability": 7600
+    },
+    {
+      "TalentStep": 25,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 12,
+      "Probability": 7100
+    },
+    {
+      "TalentStep": 25,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 17,
+      "Probability": 6600
+    },
+    {
+      "TalentStep": 25,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 18,
+      "Probability": 6100
+    },
+    {
+      "TalentStep": 25,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 24,
+      "Probability": 5600
+    },
+    {
+      "TalentStep": 25,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 24,
+      "Probability": 5100
+    },
+    {
+      "TalentStep": 25,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 30,
+      "Probability": 4600
+    },
+    {
+      "TalentStep": 25,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 36,
+      "Probability": 4100
+    },
+    {
+      "TalentStep": 26,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 6,
+      "Probability": 7500
+    },
+    {
+      "TalentStep": 26,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 12,
+      "Probability": 7000
+    },
+    {
+      "TalentStep": 26,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 17,
+      "Probability": 6500
+    },
+    {
+      "TalentStep": 26,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 18,
+      "Probability": 6000
+    },
+    {
+      "TalentStep": 26,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 24,
+      "Probability": 5500
+    },
+    {
+      "TalentStep": 26,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 24,
+      "Probability": 5000
+    },
+    {
+      "TalentStep": 26,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 30,
+      "Probability": 4500
+    },
+    {
+      "TalentStep": 26,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 36,
+      "Probability": 4000
+    },
+    {
+      "TalentStep": 27,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 6,
+      "Probability": 7400
+    },
+    {
+      "TalentStep": 27,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 12,
+      "Probability": 6900
+    },
+    {
+      "TalentStep": 27,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 17,
+      "Probability": 6400
+    },
+    {
+      "TalentStep": 27,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 18,
+      "Probability": 5900
+    },
+    {
+      "TalentStep": 27,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 24,
+      "Probability": 5400
+    },
+    {
+      "TalentStep": 27,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 24,
+      "Probability": 4900
+    },
+    {
+      "TalentStep": 27,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 30,
+      "Probability": 4400
+    },
+    {
+      "TalentStep": 27,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 36,
+      "Probability": 3900
+    },
+    {
+      "TalentStep": 28,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 6,
+      "Probability": 7300
+    },
+    {
+      "TalentStep": 28,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 12,
+      "Probability": 6800
+    },
+    {
+      "TalentStep": 28,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 17,
+      "Probability": 6300
+    },
+    {
+      "TalentStep": 28,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 18,
+      "Probability": 5800
+    },
+    {
+      "TalentStep": 28,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 24,
+      "Probability": 5300
+    },
+    {
+      "TalentStep": 28,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 24,
+      "Probability": 4800
+    },
+    {
+      "TalentStep": 28,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 30,
+      "Probability": 4300
+    },
+    {
+      "TalentStep": 28,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 36,
+      "Probability": 3800
+    },
+    {
+      "TalentStep": 29,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 6,
+      "Probability": 7200
+    },
+    {
+      "TalentStep": 29,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 12,
+      "Probability": 6700
+    },
+    {
+      "TalentStep": 29,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 17,
+      "Probability": 6200
+    },
+    {
+      "TalentStep": 29,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 18,
+      "Probability": 5700
+    },
+    {
+      "TalentStep": 29,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 24,
+      "Probability": 5200
+    },
+    {
+      "TalentStep": 29,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 24,
+      "Probability": 4700
+    },
+    {
+      "TalentStep": 29,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 30,
+      "Probability": 4200
+    },
+    {
+      "TalentStep": 29,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 36,
+      "Probability": 3700
+    },
+    {
+      "TalentStep": 30,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 7,
+      "Probability": 7100
+    },
+    {
+      "TalentStep": 30,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 14,
+      "Probability": 6600
+    },
+    {
+      "TalentStep": 30,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 20,
+      "Probability": 6100
+    },
+    {
+      "TalentStep": 30,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 21,
+      "Probability": 5600
+    },
+    {
+      "TalentStep": 30,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 28,
+      "Probability": 5100
+    },
+    {
+      "TalentStep": 30,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 28,
+      "Probability": 4600
+    },
+    {
+      "TalentStep": 30,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 35,
+      "Probability": 4100
+    },
+    {
+      "TalentStep": 30,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 42,
+      "Probability": 3600
+    },
+    {
+      "TalentStep": 31,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 7,
+      "Probability": 7000
+    },
+    {
+      "TalentStep": 31,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 14,
+      "Probability": 6500
+    },
+    {
+      "TalentStep": 31,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 20,
+      "Probability": 6000
+    },
+    {
+      "TalentStep": 31,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 21,
+      "Probability": 5500
+    },
+    {
+      "TalentStep": 31,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 28,
+      "Probability": 5000
+    },
+    {
+      "TalentStep": 31,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 28,
+      "Probability": 4500
+    },
+    {
+      "TalentStep": 31,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 35,
+      "Probability": 4000
+    },
+    {
+      "TalentStep": 31,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 42,
+      "Probability": 3500
+    },
+    {
+      "TalentStep": 32,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 7,
+      "Probability": 6900
+    },
+    {
+      "TalentStep": 32,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 14,
+      "Probability": 6400
+    },
+    {
+      "TalentStep": 32,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 20,
+      "Probability": 5900
+    },
+    {
+      "TalentStep": 32,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 21,
+      "Probability": 5400
+    },
+    {
+      "TalentStep": 32,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 28,
+      "Probability": 4900
+    },
+    {
+      "TalentStep": 32,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 28,
+      "Probability": 4400
+    },
+    {
+      "TalentStep": 32,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 35,
+      "Probability": 3900
+    },
+    {
+      "TalentStep": 32,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 42,
+      "Probability": 3400
+    },
+    {
+      "TalentStep": 33,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 7,
+      "Probability": 6800
+    },
+    {
+      "TalentStep": 33,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 14,
+      "Probability": 6300
+    },
+    {
+      "TalentStep": 33,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 20,
+      "Probability": 5800
+    },
+    {
+      "TalentStep": 33,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 21,
+      "Probability": 5300
+    },
+    {
+      "TalentStep": 33,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 28,
+      "Probability": 4800
+    },
+    {
+      "TalentStep": 33,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 28,
+      "Probability": 4300
+    },
+    {
+      "TalentStep": 33,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 35,
+      "Probability": 3800
+    },
+    {
+      "TalentStep": 33,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 42,
+      "Probability": 3300
+    },
+    {
+      "TalentStep": 34,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 7,
+      "Probability": 6700
+    },
+    {
+      "TalentStep": 34,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 14,
+      "Probability": 6200
+    },
+    {
+      "TalentStep": 34,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 20,
+      "Probability": 5700
+    },
+    {
+      "TalentStep": 34,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 21,
+      "Probability": 5200
+    },
+    {
+      "TalentStep": 34,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 28,
+      "Probability": 4700
+    },
+    {
+      "TalentStep": 34,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 28,
+      "Probability": 4200
+    },
+    {
+      "TalentStep": 34,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 35,
+      "Probability": 3700
+    },
+    {
+      "TalentStep": 34,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 42,
+      "Probability": 3200
+    },
+    {
+      "TalentStep": 35,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 8,
+      "Probability": 6600
+    },
+    {
+      "TalentStep": 35,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 16,
+      "Probability": 6100
+    },
+    {
+      "TalentStep": 35,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 23,
+      "Probability": 5600
+    },
+    {
+      "TalentStep": 35,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 24,
+      "Probability": 5100
+    },
+    {
+      "TalentStep": 35,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 32,
+      "Probability": 4600
+    },
+    {
+      "TalentStep": 35,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 32,
+      "Probability": 4100
+    },
+    {
+      "TalentStep": 35,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 40,
+      "Probability": 3600
+    },
+    {
+      "TalentStep": 35,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 48,
+      "Probability": 3100
+    },
+    {
+      "TalentStep": 36,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 8,
+      "Probability": 6500
+    },
+    {
+      "TalentStep": 36,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 16,
+      "Probability": 6000
+    },
+    {
+      "TalentStep": 36,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 23,
+      "Probability": 5500
+    },
+    {
+      "TalentStep": 36,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 24,
+      "Probability": 5000
+    },
+    {
+      "TalentStep": 36,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 32,
+      "Probability": 4500
+    },
+    {
+      "TalentStep": 36,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 32,
+      "Probability": 4000
+    },
+    {
+      "TalentStep": 36,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 40,
+      "Probability": 3500
+    },
+    {
+      "TalentStep": 36,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 48,
+      "Probability": 3000
+    },
+    {
+      "TalentStep": 37,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 8,
+      "Probability": 6400
+    },
+    {
+      "TalentStep": 37,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 16,
+      "Probability": 5900
+    },
+    {
+      "TalentStep": 37,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 23,
+      "Probability": 5400
+    },
+    {
+      "TalentStep": 37,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 24,
+      "Probability": 4900
+    },
+    {
+      "TalentStep": 37,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 32,
+      "Probability": 4400
+    },
+    {
+      "TalentStep": 37,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 32,
+      "Probability": 3900
+    },
+    {
+      "TalentStep": 37,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 40,
+      "Probability": 3400
+    },
+    {
+      "TalentStep": 37,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 48,
+      "Probability": 2900
+    },
+    {
+      "TalentStep": 38,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 8,
+      "Probability": 6300
+    },
+    {
+      "TalentStep": 38,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 16,
+      "Probability": 5800
+    },
+    {
+      "TalentStep": 38,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 23,
+      "Probability": 5300
+    },
+    {
+      "TalentStep": 38,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 24,
+      "Probability": 4800
+    },
+    {
+      "TalentStep": 38,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 32,
+      "Probability": 4300
+    },
+    {
+      "TalentStep": 38,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 32,
+      "Probability": 3800
+    },
+    {
+      "TalentStep": 38,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 40,
+      "Probability": 3300
+    },
+    {
+      "TalentStep": 38,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 48,
+      "Probability": 2800
+    },
+    {
+      "TalentStep": 39,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 8,
+      "Probability": 6200
+    },
+    {
+      "TalentStep": 39,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 16,
+      "Probability": 5700
+    },
+    {
+      "TalentStep": 39,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 23,
+      "Probability": 5200
+    },
+    {
+      "TalentStep": 39,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 24,
+      "Probability": 4700
+    },
+    {
+      "TalentStep": 39,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 32,
+      "Probability": 4200
+    },
+    {
+      "TalentStep": 39,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 32,
+      "Probability": 3700
+    },
+    {
+      "TalentStep": 39,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 40,
+      "Probability": 3200
+    },
+    {
+      "TalentStep": 39,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 48,
+      "Probability": 2700
+    },
+    {
+      "TalentStep": 40,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 9,
+      "Probability": 6100
+    },
+    {
+      "TalentStep": 40,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 18,
+      "Probability": 5600
+    },
+    {
+      "TalentStep": 40,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 26,
+      "Probability": 5100
+    },
+    {
+      "TalentStep": 40,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 27,
+      "Probability": 4600
+    },
+    {
+      "TalentStep": 40,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 36,
+      "Probability": 4100
+    },
+    {
+      "TalentStep": 40,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 36,
+      "Probability": 3600
+    },
+    {
+      "TalentStep": 40,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 45,
+      "Probability": 3100
+    },
+    {
+      "TalentStep": 40,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 54,
+      "Probability": 2600
+    },
+    {
+      "TalentStep": 41,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 9,
+      "Probability": 6000
+    },
+    {
+      "TalentStep": 41,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 18,
+      "Probability": 5500
+    },
+    {
+      "TalentStep": 41,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 26,
+      "Probability": 5000
+    },
+    {
+      "TalentStep": 41,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 27,
+      "Probability": 4500
+    },
+    {
+      "TalentStep": 41,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 36,
+      "Probability": 4000
+    },
+    {
+      "TalentStep": 41,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 36,
+      "Probability": 3500
+    },
+    {
+      "TalentStep": 41,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 45,
+      "Probability": 3000
+    },
+    {
+      "TalentStep": 41,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 54,
+      "Probability": 2500
+    },
+    {
+      "TalentStep": 42,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 9,
+      "Probability": 5900
+    },
+    {
+      "TalentStep": 42,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 18,
+      "Probability": 5400
+    },
+    {
+      "TalentStep": 42,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 26,
+      "Probability": 4900
+    },
+    {
+      "TalentStep": 42,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 27,
+      "Probability": 4400
+    },
+    {
+      "TalentStep": 42,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 36,
+      "Probability": 3900
+    },
+    {
+      "TalentStep": 42,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 36,
+      "Probability": 3400
+    },
+    {
+      "TalentStep": 42,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 45,
+      "Probability": 2900
+    },
+    {
+      "TalentStep": 42,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 54,
+      "Probability": 2400
+    },
+    {
+      "TalentStep": 43,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 9,
+      "Probability": 5800
+    },
+    {
+      "TalentStep": 43,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 18,
+      "Probability": 5300
+    },
+    {
+      "TalentStep": 43,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 26,
+      "Probability": 4800
+    },
+    {
+      "TalentStep": 43,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 27,
+      "Probability": 4300
+    },
+    {
+      "TalentStep": 43,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 36,
+      "Probability": 3800
+    },
+    {
+      "TalentStep": 43,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 36,
+      "Probability": 3300
+    },
+    {
+      "TalentStep": 43,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 45,
+      "Probability": 2800
+    },
+    {
+      "TalentStep": 43,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 54,
+      "Probability": 2300
+    },
+    {
+      "TalentStep": 44,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 9,
+      "Probability": 5700
+    },
+    {
+      "TalentStep": 44,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 18,
+      "Probability": 5200
+    },
+    {
+      "TalentStep": 44,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 26,
+      "Probability": 4700
+    },
+    {
+      "TalentStep": 44,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 27,
+      "Probability": 4200
+    },
+    {
+      "TalentStep": 44,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 36,
+      "Probability": 3700
+    },
+    {
+      "TalentStep": 44,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 36,
+      "Probability": 3200
+    },
+    {
+      "TalentStep": 44,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 45,
+      "Probability": 2700
+    },
+    {
+      "TalentStep": 44,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 54,
+      "Probability": 2200
+    },
+    {
+      "TalentStep": 45,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 10,
+      "Probability": 5600
+    },
+    {
+      "TalentStep": 45,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 20,
+      "Probability": 5100
+    },
+    {
+      "TalentStep": 45,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 29,
+      "Probability": 4600
+    },
+    {
+      "TalentStep": 45,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 30,
+      "Probability": 4100
+    },
+    {
+      "TalentStep": 45,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 40,
+      "Probability": 3600
+    },
+    {
+      "TalentStep": 45,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 40,
+      "Probability": 3100
+    },
+    {
+      "TalentStep": 45,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 50,
+      "Probability": 2600
+    },
+    {
+      "TalentStep": 45,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 60,
+      "Probability": 2100
+    },
+    {
+      "TalentStep": 46,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 10,
+      "Probability": 5500
+    },
+    {
+      "TalentStep": 46,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 20,
+      "Probability": 5000
+    },
+    {
+      "TalentStep": 46,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 29,
+      "Probability": 4500
+    },
+    {
+      "TalentStep": 46,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 30,
+      "Probability": 4000
+    },
+    {
+      "TalentStep": 46,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 40,
+      "Probability": 3500
+    },
+    {
+      "TalentStep": 46,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 40,
+      "Probability": 3000
+    },
+    {
+      "TalentStep": 46,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 50,
+      "Probability": 2500
+    },
+    {
+      "TalentStep": 46,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 60,
+      "Probability": 2000
+    },
+    {
+      "TalentStep": 47,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 10,
+      "Probability": 5400
+    },
+    {
+      "TalentStep": 47,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 20,
+      "Probability": 4900
+    },
+    {
+      "TalentStep": 47,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 29,
+      "Probability": 4400
+    },
+    {
+      "TalentStep": 47,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 30,
+      "Probability": 3900
+    },
+    {
+      "TalentStep": 47,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 40,
+      "Probability": 3400
+    },
+    {
+      "TalentStep": 47,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 40,
+      "Probability": 2900
+    },
+    {
+      "TalentStep": 47,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 50,
+      "Probability": 2400
+    },
+    {
+      "TalentStep": 47,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 60,
+      "Probability": 1900
+    },
+    {
+      "TalentStep": 48,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 10,
+      "Probability": 5300
+    },
+    {
+      "TalentStep": 48,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 20,
+      "Probability": 4800
+    },
+    {
+      "TalentStep": 48,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 29,
+      "Probability": 4300
+    },
+    {
+      "TalentStep": 48,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 30,
+      "Probability": 3800
+    },
+    {
+      "TalentStep": 48,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 40,
+      "Probability": 3300
+    },
+    {
+      "TalentStep": 48,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 40,
+      "Probability": 2800
+    },
+    {
+      "TalentStep": 48,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 50,
+      "Probability": 2300
+    },
+    {
+      "TalentStep": 48,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 60,
+      "Probability": 1800
+    },
+    {
+      "TalentStep": 49,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 10,
+      "Probability": 5200
+    },
+    {
+      "TalentStep": 49,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 20,
+      "Probability": 4700
+    },
+    {
+      "TalentStep": 49,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 29,
+      "Probability": 4200
+    },
+    {
+      "TalentStep": 49,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 30,
+      "Probability": 3700
+    },
+    {
+      "TalentStep": 49,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 40,
+      "Probability": 3200
+    },
+    {
+      "TalentStep": 49,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 40,
+      "Probability": 2700
+    },
+    {
+      "TalentStep": 49,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 50,
+      "Probability": 2200
+    },
+    {
+      "TalentStep": 49,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 60,
+      "Probability": 1700
+    },
+    {
+      "TalentStep": 50,
+      "TalentLevel": 1,
+      "NeedItemID": 31,
+      "NeedNum": 11,
+      "Probability": 5100
+    },
+    {
+      "TalentStep": 50,
+      "TalentLevel": 2,
+      "NeedItemID": 31,
+      "NeedNum": 22,
+      "Probability": 4600
+    },
+    {
+      "TalentStep": 50,
+      "TalentLevel": 3,
+      "NeedItemID": 31,
+      "NeedNum": 32,
+      "Probability": 4100
+    },
+    {
+      "TalentStep": 50,
+      "TalentLevel": 4,
+      "NeedItemID": 31,
+      "NeedNum": 33,
+      "Probability": 3600
+    },
+    {
+      "TalentStep": 50,
+      "TalentLevel": 5,
+      "NeedItemID": 31,
+      "NeedNum": 44,
+      "Probability": 3100
+    },
+    {
+      "TalentStep": 50,
+      "TalentLevel": 6,
+      "NeedItemID": 31,
+      "NeedNum": 44,
+      "Probability": 2600
+    },
+    {
+      "TalentStep": 50,
+      "TalentLevel": 7,
+      "NeedItemID": 31,
+      "NeedNum": 55,
+      "Probability": 2100
+    },
+    {
+      "TalentStep": 50,
+      "TalentLevel": 8,
+      "NeedItemID": 31,
+      "NeedNum": 66,
+      "Probability": 1600
+    }
+  ]
+}
