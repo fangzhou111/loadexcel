@@ -136,6 +136,8 @@ namespace loadexcel
                     FileStream fs = new FileStream(outpath + name + ".bytes", FileMode.Create, FileAccess.ReadWrite);
                     BinaryWriter bw = new BinaryWriter(fs, Encoding.UTF8);
 
+                    bw.Write(si.SheetDataTable.Rows.Count - 1);
+
                     for (int row = 0; row < si.SheetDataTable.Rows.Count; row++)
                     {
                         if (row == 0)
@@ -225,13 +227,13 @@ namespace loadexcel
                     lst.Add("using System.IO;");
                     lst.Add("using System.Collections;");
                     lst.Add("using System.Collections.Generic;");
-                    lst.Add("using UnityEngine;");
+                    //lst.Add("using UnityEngine;");
 
-                    lst.Add("namespace SuperMobs.Config");
+                    lst.Add("namespace IGG.SuperMobs.Config");
                     lst.Add("{");
 
                     //制作DataClass
-                    lst.Add(string.Format("public class {0}Data", name));
+                    lst.Add(string.Format("public class {0}Data : IData", name));
                     lst.Add("{");
 
                     //制作变量
@@ -282,10 +284,11 @@ namespace loadexcel
                     lst.Add("private void Load()");
                     lst.Add("{");
 
-                    lst.Add(string.Format("Stream fs = base.Load(\"{0}.bytes\");", name));
+                    lst.Add(string.Format("Stream fs = base.Load(\"Config/{0}.bytes\");", name));
                     lst.Add("BinaryReader br = new BinaryReader(fs, System.Text.Encoding.UTF8);");
 
-                    lst.Add(string.Format("for(int i = 0;i < {0};i++)", rowCount));
+                    lst.Add(string.Format("int rowcount = br.ReadInt32();"));
+                    lst.Add(string.Format("for(int i = 0;i < rowcount;i++)"));
                     lst.Add("{");
 
                     lst.Add(string.Format("{0}Data data = new {0}Data();", name));
@@ -347,6 +350,86 @@ namespace loadexcel
 
                     lst.Add("}");//end load
 
+                    //制作编辑器接口
+                    //lst.Add("#if UNITY_EDITOR");
+                    lst.Add(string.Format("public static {0} EditorLoad()", dicnames[0]));
+                    lst.Add("{");
+
+                    lst.Add(string.Format("{0} res = new {0}();", dicnames[0]));
+                    lst.Add(string.Format("Stream fs = EditorLoad(\"Config/{0}.bytes\");", name));
+                    lst.Add("BinaryReader br = new BinaryReader(fs, System.Text.Encoding.UTF8);");
+
+                    lst.Add(string.Format("int rowcount = br.ReadInt32();"));
+                    lst.Add(string.Format("for(int i = 0;i < rowcount;i++)"));
+                    lst.Add("{");
+
+                    lst.Add(string.Format("{0}Data data = new {0}Data();", name));
+
+                    for (int col = 0; col < si.ColumnRole.Count; col++)
+                    {
+                        string paramName = si.HeaderEN[col].Replace("!", "");
+
+                        if (si.HeaderEN[col].Contains("#"))
+                        {
+                            continue;
+                        }
+
+                        if (si.ColumnRole[col].Trim() == "int")
+                        {
+                            lst.Add(string.Format("data.{0} = br.ReadInt32();", paramName));
+                        }
+                        else if (si.ColumnRole[col].Trim() == "float" || si.ColumnRole[col].Trim() == "double")
+                        {
+                            lst.Add(string.Format("data.{0} = (float)br.ReadDouble();", paramName));
+                        }
+                        else
+                        //if (si.ColumnRole[col] == "string")
+                        {
+                            lst.Add(string.Format("data.{0} = br.ReadString();", paramName));
+                        }
+                    }
+
+                    //制作保存逻辑
+                    string editorRes = "res";
+
+                    lst.Add("if (res == null)");
+                    lst.Add(string.Format("res = new {0}();", dicnames[0]));
+
+                    for (int i = 1; i < dicnames.Count - 1; i++)
+                    {
+                        string tempname = "_dic";
+
+                        lst.Add(string.Format("if (!{0}.ContainsKey(data.{1}))", editorRes, keys[i - 1].name));
+                        lst.Add("{");
+
+                        lst.Add(string.Format("{0} {1} = new {0}();", dicnames[i], tempname));
+                        lst.Add(string.Format("{0}.Add(data.{1}, {2});", editorRes, keys[i - 1].name, tempname));
+
+
+                        lst.Add("}");//end if 
+
+
+                        editorRes = string.Format("{0}[data.{1}]", editorRes, keys[i - 1].name);
+                    }
+
+                    lst.Add(string.Format("{0}.Add(data.{1},data);", editorRes, keys[keys.Count - 1].name));
+
+                    lst.Add("}");//end for i
+
+                    lst.Add("br.Close();");
+                    lst.Add("fs.Close();");
+
+                    lst.Add("return res;");
+
+                    lst.Add("}");//end editorload
+                    //lst.Add("#endif");
+
+
+
+
+
+
+
                     //制造获取逻辑
                     string ifstr = "";
                     string lastresstr = "";
@@ -384,6 +467,7 @@ namespace loadexcel
                     lst.Add("public override void Dispose()");
                     lst.Add("{");
                     lst.Add("_datas = null;");
+                    lst.Add("_instance = null;");
                     lst.Add("base.Dispose();");
                     lst.Add("}");//end dispose
 

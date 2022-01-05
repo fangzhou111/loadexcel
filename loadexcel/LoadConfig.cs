@@ -6,6 +6,11 @@ using TDGame.Scripts.ResLoad;
 
 namespace SuperMobs.Config
 {
+    public interface IData
+    {
+
+    }
+
     public interface IConfig
     {
         void Dispose();
@@ -35,6 +40,16 @@ namespace SuperMobs.Config
 
             return stream;
         }
+
+#if UNITY_EDITOR
+        protected static Stream EditorLoad(string name)
+        {
+            TextAsset ta = UnityEditor.AssetDatabase.LoadAssetAtPath<TextAsset>("Assets/GameRes/TDGameRes/config/" + name);
+            MemoryStream stream = new MemoryStream(ta.bytes);
+
+            return stream;
+        }
+#endif
 
         private string GetPath(string name)
         {
